@@ -1,6 +1,6 @@
 # ZAPM FRANCE NRO PMZ
 
-Zone arrière du point de mutualisation (ZAPM)
+Zone arrière du point de mutualisation (ZAPM) avec emplacement des NRO et PMZ issus de OpenStreetMap.
 
 ZAPM\_FRANCE\_NRO\_PMZ.zip contient le fichier au format QGIS (ou QField sur Android) des zones arrière du point de mutualisation (ZAPM).
 
@@ -10,7 +10,7 @@ Aperçu:
 
 ![](https://user-images.githubusercontent.com/54479065/90338091-5f727f00-dfe7-11ea-9a2f-c5e7d17cf2ca.png)
 
-**Version:** 
+**Version:**
 
 du 16/08/2020
 
