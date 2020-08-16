@@ -14,9 +14,9 @@ Aperçu:
 
 ![](https://user-images.githubusercontent.com/54479065/90338091-5f727f00-dfe7-11ea-9a2f-c5e7d17cf2ca.png)
 
-Ce projet utilise les fichiers geojson du projet FttH ( [https://github.com/u4y0u/FttH](https://github.com/u4y0u/FttH) ) issus de OpenStreetMap 
+Ce projet utilise les fichiers geojson du projet FttH ( [https://github.com/u4y0u/FttH](https://github.com/u4y0u/FttH) ) issus de OpenStreetMap
 
- ainsi que le fichier ZAPM du projet ZAPM FRANCE ( [https://github.com/u4y0u/ZAPM-FRANCE](https://github.com/u4y0u/ZAPM-FRANCE) ) issus de l'Open Data ARCEP 
+ainsi que le fichier ZAPM du projet ZAPM FRANCE ( [https://github.com/u4y0u/ZAPM-FRANCE](https://github.com/u4y0u/ZAPM-FRANCE) ) issus de l'Open Data ARCEP
 
 **Version:**
 
@@ -24,6 +24,6 @@ du 16/08/2020
 
 **Source:**
 
-voir Licence\_ZAPM\_FRANCE.txt
+voir Licence\_ZAPM\_FRANCE.txt ( [https://github.com/u4y0u/ZAPM_FRANCE_NRO_PMZ/blob/master/Licence_ZAPM_FRANCE.txt](https://github.com/u4y0u/ZAPM_FRANCE_NRO_PMZ/blob/master/Licence_ZAPM_FRANCE.txt) )
 
-[https://twitter.com/u4y0u](https://twitter.com/u4y0u)
+Contact via: [https://twitter.com/u4y0u](https://twitter.com/u4y0u)
