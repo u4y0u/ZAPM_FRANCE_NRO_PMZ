@@ -1,0 +1,14 @@
+ZAPM_FRANCE est un jeu de données extrait et adapté d'un jeu de données provenant d'un service public certifié.
+
+Source:
+
+Le marché du haut et très haut débit fixe (déploiements) 
+https://www.data.gouv.fr/fr/datasets/le-marche-du-haut-et-tres-haut-debit-fixe-deploiements/#_
+
+Producteur:
+
+Autorité de régulation des communications électroniques et des postes (ARCEP) 
+
+https://www.data.gouv.fr/fr/organizations/autorite-de-regulation-des-communications-electroniques-et-des-postes-arcep/#
+
+
