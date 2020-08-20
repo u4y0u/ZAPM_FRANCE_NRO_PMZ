@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-08-19T06:41:02Z",
+  "timestamp": "2020-08-20T12:57:03Z",
   "features": [
     {
       "type": "Feature",
@@ -6887,7 +6887,6 @@
         "name": "NRO",
         "operator": "Axione",
         "owner": "HSN",
-        "power": "substation",
         "ref": "HSN_NRO_N070LUX",
         "source": "survey 2019",
         "telecom": "exchange",
@@ -12554,6 +12553,48 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/838183678",
+        "building": "yes",
+        "building:prefabricated": "yes",
+        "name": "NRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref": "HSN_NRO_N070PSM",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.5664607,
+              47.2802145
+            ],
+            [
+              5.5664734,
+              47.2802241
+            ],
+            [
+              5.5664339,
+              47.28025
+            ],
+            [
+              5.5664198,
+              47.2802391
+            ],
+            [
+              5.5664607,
+              47.2802145
+            ]
+          ]
+        ]
+      },
+      "id": "way/838183678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/838184781",
         "building": "yes",
         "building:prefabricated": "yes",
@@ -13748,24 +13789,24 @@
         "coordinates": [
           [
             [
-              6.8125246,
-              47.3214882
+              6.8125213,
+              47.3214899
             ],
             [
-              6.8125944,
+              6.8125949,
               47.3214445
             ],
             [
-              6.8126346,
-              47.3214736
+              6.8126366,
+              47.3214755
             ],
             [
-              6.8125622,
-              47.3215246
+              6.812563,
+              47.321521
             ],
             [
-              6.8125246,
-              47.3214882
+              6.8125213,
+              47.3214899
             ]
           ]
         ]
@@ -14028,7 +14069,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838304856",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Altitude",
@@ -14070,7 +14111,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838306329",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Altitude",
@@ -14120,7 +14161,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838308666",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Altitude",

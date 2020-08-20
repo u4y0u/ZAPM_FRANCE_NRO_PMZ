@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-08-19T06:36:02Z",
+  "timestamp": "2020-08-20T13:00:02Z",
   "features": [
     {
       "type": "Feature",
@@ -117766,6 +117766,7 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:ARCEP": "FI-44184-002M",
+        "ref:FR:Orange": "PT000285",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -136740,6 +136741,114 @@
         ]
       },
       "id": "node/7822980715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7829152023",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-92012-005T",
+        "ref:FR:Orange": "PT4523",
+        "ref:FR:Orange:NRO": "MOL",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.233221,
+          48.8340206
+        ]
+      },
+      "id": "node/7829152023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7829162370",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-92012-0062",
+        "ref:FR:Orange": "PT4396",
+        "ref:FR:Orange:NRO": "MOL",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2363055,
+          48.8361624
+        ]
+      },
+      "id": "node/7829162370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7829305139",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-92012-0066",
+        "ref:FR:Orange": "PT4400",
+        "ref:FR:Orange:NRO": "MOL",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2384943,
+          48.8346566
+        ]
+      },
+      "id": "node/7829305139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7829320003",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-92012-0065",
+        "ref:FR:Orange": "PT4399",
+        "ref:FR:Orange:NRO": "MOL",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2375001,
+          48.8344952
+        ]
+      },
+      "id": "node/7829320003"
     }
   ]
 }
