@@ -24,13 +24,13 @@ Aperçu:
 
 ![](https://user-images.githubusercontent.com/54479065/90338091-5f727f00-dfe7-11ea-9a2f-c5e7d17cf2ca.png)
 
-Ce projet utilise les fichiers geojson du projet FttH ( [https://github.com/u4y0u/FttH](https://github.com/u4y0u/FttH) ) issus de OpenStreetMap®
+Ce projet utilise 2 fichiers geojson issus de OpenStreetMap®
 
 ainsi que le fichier ZAPM du projet ZAPM FRANCE ( [https://github.com/u4y0u/ZAPM-FRANCE](https://github.com/u4y0u/ZAPM-FRANCE) ) issus de l'Open Data ARCEP
 
 **Version:**
 
-du 19/08/2020 et update .geojson du 20/08/2020
+du 21/08/2020 et update .geojson du 21/08/2020
 
 **Source:**
 
