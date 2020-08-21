@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-08-20T13:00:02Z",
+  "timestamp": "2020-08-21T15:19:02Z",
   "features": [
     {
       "type": "Feature",
@@ -15423,12 +15423,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5871235123",
+        "connection_point": "primary",
+        "location": "pavement",
         "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
         "operator": "Orange",
-        "ref:FR:Orange:NRO": "BGN92",
+        "ref:FR:ARCEP": "FI-92012-005K",
+        "ref:FR:Orange": "PT4340",
+        "ref:FR:Orange:NRO": "MOL",
+        "source": "survey 2020",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -136849,6 +136856,370 @@
         ]
       },
       "id": "node/7829320003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7830722482",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-34172-00UG",
+        "ref:FR:Orange": "PT2215",
+        "ref:FR:Orange:NRO": "CRO",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8678764,
+          43.5995017
+        ]
+      },
+      "id": "node/7830722482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7830766245",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-34172-014X",
+        "ref:FR:Orange": "PT2001",
+        "ref:FR:Orange:NRO": "RON",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8674371,
+          43.6047838
+        ]
+      },
+      "id": "node/7830766245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7830799031",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-34172-00TE",
+        "ref:FR:Orange": "PT1923",
+        "ref:FR:Orange:NRO": "CRO",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8655919,
+          43.5990923
+        ]
+      },
+      "id": "node/7830799031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7831288971",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-34172-00UC",
+        "ref:FR:Orange": "PT2174",
+        "ref:FR:Orange:NRO": "CRO",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8649473,
+          43.5983961
+        ]
+      },
+      "id": "node/7831288971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7831323465",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-34172-00UB",
+        "ref:FR:Orange": "PT2298",
+        "ref:FR:Orange:NRO": "CRO",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8639785,
+          43.597015
+        ]
+      },
+      "id": "node/7831323465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7831359512",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-34172-00TD",
+        "ref:FR:Orange": "PT1924",
+        "ref:FR:Orange:NRO": "CRO",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8654957,
+          43.6005843
+        ]
+      },
+      "id": "node/7831359512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7831417834",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-34172-015U",
+        "ref:FR:Orange": "PT1804",
+        "ref:FR:Orange:NRO": "RON",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8684247,
+          43.6011314
+        ]
+      },
+      "id": "node/7831417834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7831459139",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-34172-0150",
+        "ref:FR:Orange": "PT1809",
+        "ref:FR:Orange:NRO": "RON",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8711907,
+          43.6038815
+        ]
+      },
+      "id": "node/7831459139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7831459601",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-34172-014L",
+        "ref:FR:Orange": "PT2116",
+        "ref:FR:Orange:NRO": "RON",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8724452,
+          43.6034333
+        ]
+      },
+      "id": "node/7831459601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7831464409",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-34172-014W",
+        "ref:FR:Orange": "PT1810",
+        "ref:FR:Orange:NRO": "RON",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.870486,
+          43.6044136
+        ]
+      },
+      "id": "node/7831464409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7831543944",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-34172-00ZW",
+        "ref:FR:Orange": "PT1639",
+        "ref:FR:Orange:NRO": "RON",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8612389,
+          43.6101012
+        ]
+      },
+      "id": "node/7831543944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7831543945",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-34172-00QF",
+        "ref:FR:Orange": "PT1181",
+        "ref:FR:Orange:NRO": "PAI",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8461047,
+          43.6120215
+        ]
+      },
+      "id": "node/7831543945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7831543946",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-34172-00LS",
+        "ref:FR:Orange": "PT1091",
+        "ref:FR:Orange:NRO": "RON",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8531216,
+          43.6100744
+        ]
+      },
+      "id": "node/7831543946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7831543947",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-34172-014G",
+        "ref:FR:Orange": "PT1994",
+        "ref:FR:Orange:NRO": "RON",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.867638,
+          43.6052318
+        ]
+      },
+      "id": "node/7831543947"
     }
   ]
 }

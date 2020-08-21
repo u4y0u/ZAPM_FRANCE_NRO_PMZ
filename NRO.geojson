@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-08-20T12:57:03Z",
+  "timestamp": "2020-08-21T15:22:03Z",
   "features": [
     {
       "type": "Feature",
@@ -7128,7 +7128,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/717859621",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "BFC Fibre",
@@ -9386,7 +9386,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/768483806",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Orange",
@@ -12508,7 +12508,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838182845",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Axione",
@@ -12554,7 +12554,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838183678",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Axione",
@@ -12596,7 +12596,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838184781",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Axione",
@@ -12638,7 +12638,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838186419",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Axione",
@@ -12680,7 +12680,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838189252",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Axione",
@@ -12722,7 +12722,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838189724",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Axione",
@@ -12764,7 +12764,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838190163",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Axione",
@@ -12806,7 +12806,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838199327",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Axione",
@@ -12848,7 +12848,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838220265",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "BFC Fibre",
@@ -12890,7 +12890,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838222798",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "BFC Fibre",
@@ -12932,7 +12932,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838224909",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "BFC Fibre",
@@ -12973,9 +12973,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838227422",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
-        "namee": "NRO",
         "operator": "BFC Fibre",
         "owner": "Jura",
         "ref": "NRO39370MOU",
@@ -13015,7 +13014,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838228058",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "BFC Fibre",
@@ -13057,7 +13056,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838228591",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "BFC Fibre",
@@ -13099,7 +13098,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838229625",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "BFC Fibre",
@@ -13141,7 +13140,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838230482",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "BFC Fibre",
@@ -13183,7 +13182,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838231532",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "BFC Fibre",
@@ -13225,7 +13224,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838234336",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "BFC Fibre",
@@ -13267,7 +13266,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838235041",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "BFC Fibre",
@@ -13309,7 +13308,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838236529",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "BFC Fibre",
@@ -13351,7 +13350,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838237450",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "BFC Fibre",
@@ -13397,7 +13396,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838238531",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "BFC Fibre",
@@ -13439,7 +13438,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838239708",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "BFC Fibre",
@@ -13481,7 +13480,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838243579",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "BFC Fibre",
@@ -13523,7 +13522,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838248911",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "BFC Fibre",
@@ -13565,7 +13564,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838282730",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Altitude",
@@ -13607,7 +13606,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838284192",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Altituide",
@@ -13649,7 +13648,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838285699",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Altitude",
@@ -13691,7 +13690,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838287169",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Altitude",
@@ -13733,7 +13732,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838287995",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Altitude",
@@ -13775,7 +13774,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838290143",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Altitude",
@@ -13817,7 +13816,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838291169",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Altitude",
@@ -13859,7 +13858,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838294732",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Altitude",
@@ -13901,7 +13900,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838295362",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Altitude",
@@ -13943,7 +13942,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838298771",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Altitude",
@@ -13985,7 +13984,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838301431",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Altitude",
@@ -14027,7 +14026,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/838302452",
-        "building": "yes",
+        "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Altitude",
@@ -14198,6 +14197,48 @@
         ]
       },
       "id": "way/838308666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/839372222",
+        "NAME": "NRO",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "25-026",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5404913,
+              47.2137363
+            ],
+            [
+              6.5404634,
+              47.2136958
+            ],
+            [
+              6.5405044,
+              47.2136831
+            ],
+            [
+              6.5405342,
+              47.2137224
+            ],
+            [
+              6.5404913,
+              47.2137363
+            ]
+          ]
+        ]
+      },
+      "id": "way/839372222"
     },
     {
       "type": "Feature",
@@ -20860,6 +20901,66 @@
         ]
       },
       "id": "node/7787351947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7831819511",
+        "name": "MRC44",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:Orange": "44184MRC",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2782752,
+          47.2411378
+        ]
+      },
+      "id": "node/7831819511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7831823636",
+        "name": "HLX44",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:Orange": "44184HLX",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2706397,
+          47.2597625
+        ]
+      },
+      "id": "node/7831823636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7831825851",
+        "name": "IMM44",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:Orange": "44184IMM",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2597744,
+          47.2899988
+        ]
+      },
+      "id": "node/7831825851"
     }
   ]
 }
