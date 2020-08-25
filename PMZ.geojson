@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-08-21T15:19:02Z",
+  "timestamp": "2020-08-25T16:15:02Z",
   "features": [
     {
       "type": "Feature",
@@ -137220,6 +137220,196 @@
         ]
       },
       "id": "node/7831543947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7835868723",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6833186,
+          45.1600117
+        ]
+      },
+      "id": "node/7835868723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7836705725",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9356965,
+          48.2970857
+        ]
+      },
+      "id": "node/7836705725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7836896785",
+        "man_made": "street_cabinet",
+        "note": "FI-33005-000V ou FI-33005-000C d'après la carte ARCEP. Pas de plaque d'identification sur l'armoire en date du 23/08/2020",
+        "operator": "Gironde Numérique",
+        "ref": "FI-33005-000",
+        "ref:FR:ARCEP": "FI-33005-000",
+        "ref:FR:Orange:NRO": "NDE",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.090695,
+          44.7379124
+        ]
+      },
+      "id": "node/7836896785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7837394897",
+        "man_made": "street_cabinet",
+        "manufacturer": "Idealoptical",
+        "ref": "PM009",
+        "ref:FR:ARCEP": "SRO-BPI-6096802",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0739982,
+          43.0931961
+        ]
+      },
+      "id": "node/7837394897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7837460654",
+        "man_made": "street_cabinet",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0764637,
+          43.0908281
+        ]
+      },
+      "id": "node/7837460654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7837525506",
+        "man_made": "street_cabinet",
+        "ref": "PM02",
+        "ref:FR:ARCEP": "SRO-BPI-713",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0861473,
+          43.0901171
+        ]
+      },
+      "id": "node/7837525506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7837626191",
+        "man_made": "street_cabinet",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0808614,
+          43.0909379
+        ]
+      },
+      "id": "node/7837626191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843267966",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-92012-005M",
+        "ref:FR:Orange": "PT4357",
+        "ref:FR:Orange:NRO": "MOL",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2437809,
+          48.8370007
+        ]
+      },
+      "id": "node/7843267966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843612339",
+        "man_made": "street_cabinet",
+        "operator": "Gironde Numérique",
+        "ref": "FI-33005-000E",
+        "ref:FR:ARCEP": "FI-33005-000E",
+        "ref:FR:Orange:NRO": "NDE",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0840712,
+          44.738007
+        ]
+      },
+      "id": "node/7843612339"
     }
   ]
 }

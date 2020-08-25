@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-08-21T15:22:03Z",
+  "timestamp": "2020-08-25T16:13:02Z",
   "features": [
     {
       "type": "Feature",
@@ -226,6 +226,49 @@
         ]
       },
       "id": "way/75739815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/91091753",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "25-031",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.531872,
+              47.136286
+            ],
+            [
+              6.531841,
+              47.136293
+            ],
+            [
+              6.531822,
+              47.136254
+            ],
+            [
+              6.531852,
+              47.136247
+            ],
+            [
+              6.531872,
+              47.136286
+            ]
+          ]
+        ]
+      },
+      "id": "way/91091753"
     },
     {
       "type": "Feature",
@@ -456,6 +499,51 @@
         ]
       },
       "id": "way/113325345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/118734741",
+        "building": "service",
+        "name": "EU141",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:PTT": "EU141",
+        "ref:FR:PTT:NRA": "41018EU1",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "survey:date": "2019-10-30",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.303294,
+              47.588774
+            ],
+            [
+              1.303292,
+              47.588729
+            ],
+            [
+              1.303324,
+              47.588729
+            ],
+            [
+              1.303328,
+              47.588773
+            ],
+            [
+              1.303294,
+              47.588774
+            ]
+          ]
+        ]
+      },
+      "id": "way/118734741"
     },
     {
       "type": "Feature",
@@ -2509,6 +2597,8 @@
         "operator": "Axione",
         "owner": "Haute Saône Numérique",
         "ref": "HSN_NRO_N070LUR",
+        "source": "https://twitter.com/Hades73440/status/1044523540588957696",
+        "start_date": "25/12/18",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -6888,7 +6978,8 @@
         "operator": "Axione",
         "owner": "HSN",
         "ref": "HSN_NRO_N070LUX",
-        "source": "survey 2019",
+        "source": "https://twitter.com/Hades73440/status/1140960935588376587",
+        "start_date": "18/06/19",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -7256,6 +7347,7 @@
         "owner": "HSN",
         "ref": "HSN_NRO_N070HCT",
         "source": "https://twitter.com/Hades73440/status/1150780250659442688",
+        "start_date": "15/07/2019",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -12388,6 +12480,8 @@
         "operator": "Altitude",
         "owner": "Doubs-THD",
         "ref": "25-032",
+        "source": "https://twitter.com/Hades73440/status/1016701326678528000",
+        "start_date": "10/07/18",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -12430,6 +12524,8 @@
         "operator": "Altitude",
         "owner": "Doubs-THD",
         "ref": "25-034",
+        "source": "https://twitter.com/Hades73440/status/1148522423572193280",
+        "start_date": "9/07/19",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -12472,6 +12568,8 @@
         "operator": "Axione",
         "owner": "HSN",
         "ref": "HSN_NRO_N070MNY",
+        "source": "https://twitter.com/Hades73440/status/1123905534007103488",
+        "start_date": "02/05/19",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -12514,6 +12612,8 @@
         "operator": "Axione",
         "owner": "HSN",
         "ref": "HSN_NRO N070RIO",
+        "source": "https://twitter.com/Hades73440/status/1075000201788690432",
+        "start_date": "18/12/18",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -12560,6 +12660,8 @@
         "operator": "Axione",
         "owner": "HSN",
         "ref": "HSN_NRO_N070PSM",
+        "source": "https://twitter.com/Hades73440/status/1131636699791077376",
+        "start_date": "23/05/19",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -12602,6 +12704,8 @@
         "operator": "Axione",
         "owner": "HSN",
         "ref": "HSN_NRO_N070VSX",
+        "source": "https://twitter.com/Hades73440/status/1114173424216236033",
+        "start_date": "5/04/19",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -12644,6 +12748,8 @@
         "operator": "Axione",
         "owner": "HSN",
         "ref": "HSN_NRO_N070LYO",
+        "source": "https://twitter.com/Hades73440/status/1136233454838980609",
+        "start_date": "5/06/19",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -12686,6 +12792,8 @@
         "operator": "Axione",
         "owner": "HSN",
         "ref": "HSN_NRO_N070SLP",
+        "source": "https://twitter.com/Hades73440/status/1120700338510663681",
+        "start_date": "23/05/19",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -12728,6 +12836,8 @@
         "operator": "Axione",
         "owner": "HSN",
         "ref": "HSN_NRO_N070PSS",
+        "source": "https://twitter.com/Hades73440/status/1143837961643057153",
+        "start_date": "26/06/2019",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -12770,6 +12880,8 @@
         "operator": "Axione",
         "owner": "HSN",
         "ref": "HSN_NRO_N070SCE",
+        "source": "https://twitter.com/Hades73440/status/1110586187658321925",
+        "start_date": "26/03/19",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -12812,6 +12924,8 @@
         "operator": "Axione",
         "owner": "HSN",
         "ref": "HSN_NRO_N070GAY",
+        "source": "https://twitter.com/Hades73440/status/1088018993590517763",
+        "start_date": "23/01/19",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -13273,7 +13387,8 @@
         "owner": "Jura",
         "ref": "NRO39475SAO",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Polygon",
@@ -14202,9 +14317,9 @@
       "type": "Feature",
       "properties": {
         "@id": "way/839372222",
-        "NAME": "NRO",
         "building": "service",
         "building:prefabricated": "yes",
+        "name": "NRO",
         "operator": "Altitude",
         "owner": "Doubs-THD",
         "ref": "25-026",
@@ -14753,24 +14868,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/6054647490",
-        "building": "service",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.3422666,
-          46.4343926
-        ]
-      },
-      "id": "node/6054647490"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/6161996572",
         "location": "indoor",
         "operator": "Orange",
@@ -15216,29 +15313,6 @@
         ]
       },
       "id": "node/6910540095"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/6931324685",
-        "building": "service",
-        "name": "EU141",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref:FR:PTT": "EU141",
-        "ref:FR:PTT:NRA": "41018EU1",
-        "survey:date": "2019-10-30",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.303037,
-          47.5888656
-        ]
-      },
-      "id": "node/6931324685"
     },
     {
       "type": "Feature",
