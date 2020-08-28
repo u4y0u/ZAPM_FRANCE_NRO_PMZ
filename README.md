@@ -12,9 +12,7 @@ ZAPM\_FRANCE\_NRO\_PMZ.zip contient le fichier au format QGIS (ou QField sur And
 
 Ce lien permet de charger une archive .ZIP qui contient 4 fichiers :
 
-NRO.geojson (2 fichiers de données NRO et PMZ - dont les mises à jours peuvent être chargées directement via le 'master' GitHub)
-
-PMZ.geojson
+NRO.geojson et PMZ.geojson (2 fichiers de données NRO et PMZ - dont les mises à jours peuvent être chargées directement via le 'master' GitHub)
 
 ZAPM\_AAAA\_Tn\_Vn\_export.gpkg (données de Zones ARCEP)
 
