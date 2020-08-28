@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-08-28T06:50:03Z",
+  "timestamp": "2020-08-28T16:26:02Z",
   "features": [
     {
       "type": "Feature",
@@ -53886,6 +53886,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6505684285",
+        "colour": "green",
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
@@ -53894,7 +53895,8 @@
         "ref:FR:Orange:NRO": "VEL",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -53909,6 +53911,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6505684286",
+        "colour": "green",
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
@@ -53917,7 +53920,8 @@
         "ref:FR:Orange:NRO": "VEL",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -125448,7 +125452,7 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "ref:FR:Orange": "FI-44184-0023",
+        "ref:FR:ARCEP": "FI-44184-0023",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -137672,6 +137676,1021 @@
         ]
       },
       "id": "node/7851011583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7852525302",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-006F",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6782405,
+          47.393448
+        ]
+      },
+      "id": "node/7852525302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7852551562",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-006J",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6777602,
+          47.3943609
+        ]
+      },
+      "id": "node/7852551562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7852594143",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "NC",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.680028,
+          47.3919645
+        ]
+      },
+      "id": "node/7852594143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7852630397",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "NC",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6820291,
+          47.390726
+        ]
+      },
+      "id": "node/7852630397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7852644592",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6809718,
+          47.3933697
+        ]
+      },
+      "id": "node/7852644592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7852716876",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.684025,
+          47.3947082
+        ]
+      },
+      "id": "node/7852716876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7852716877",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6840289,
+          47.3946992
+        ]
+      },
+      "id": "node/7852716877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7852808207",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6859831,
+          47.3917534
+        ]
+      },
+      "id": "node/7852808207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7852835398",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6865867,
+          47.3899822
+        ]
+      },
+      "id": "node/7852835398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853095310",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-00",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6879388,
+          47.3866863
+        ]
+      },
+      "id": "node/7853095310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853095312",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-00",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6877621,
+          47.3867422
+        ]
+      },
+      "id": "node/7853095312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853119021",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6876086,
+          47.3878216
+        ]
+      },
+      "id": "node/7853119021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853151796",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6878507,
+          47.3861131
+        ]
+      },
+      "id": "node/7853151796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853196853",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-00",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6882046,
+          47.3840987
+        ]
+      },
+      "id": "node/7853196853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853227077",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-00",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6885706,
+          47.3826221
+        ]
+      },
+      "id": "node/7853227077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853326671",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6938448,
+          47.3909904
+        ]
+      },
+      "id": "node/7853326671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853380310",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6990449,
+          47.3916859
+        ]
+      },
+      "id": "node/7853380310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853432337",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7026555,
+          47.3935482
+        ]
+      },
+      "id": "node/7853432337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853493814",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7008821,
+          47.3947136
+        ]
+      },
+      "id": "node/7853493814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853499752",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7006147,
+          47.397015
+        ]
+      },
+      "id": "node/7853499752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853505241",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7009592,
+          47.3951888
+        ]
+      },
+      "id": "node/7853505241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853541241",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6771363,
+          47.3886458
+        ]
+      },
+      "id": "node/7853541241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853567758",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6816396,
+          47.3892678
+        ]
+      },
+      "id": "node/7853567758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853593639",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6789019,
+          47.3889044
+        ]
+      },
+      "id": "node/7853593639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853676008",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6799779,
+          47.3866887
+        ]
+      },
+      "id": "node/7853676008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853712891",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6750321,
+          47.3857201
+        ]
+      },
+      "id": "node/7853712891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853717840",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6847551,
+          47.3874726
+        ]
+      },
+      "id": "node/7853717840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853778801",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-00",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6891051,
+          47.3817342
+        ]
+      },
+      "id": "node/7853778801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853814284",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-00",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6917309,
+          47.3875157
+        ]
+      },
+      "id": "node/7853814284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853829535",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-00",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6922061,
+          47.3869141
+        ]
+      },
+      "id": "node/7853829535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853853436",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-00",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6891609,
+          47.3956845
+        ]
+      },
+      "id": "node/7853853436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853862329",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9616603,
+          41.6384765
+        ]
+      },
+      "id": "node/7853862329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7853896726",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-00",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7017705,
+          47.3919229
+        ]
+      },
+      "id": "node/7853896726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7854148828",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-00",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6735896,
+          47.3910333
+        ]
+      },
+      "id": "node/7854148828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7854203918",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref": "PMZ25420",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4804801,
+          48.8060473
+        ]
+      },
+      "id": "node/7854203918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7854203919",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref": "PMZ37736",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4742748,
+          48.807381
+        ]
+      },
+      "id": "node/7854203919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7854203920",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref": "PMZ37760",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4742386,
+          48.8073872
+        ]
+      },
+      "id": "node/7854203920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7854352757",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-00",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6763399,
+          47.3876651
+        ]
+      },
+      "id": "node/7854352757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7854352758",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-00",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6763492,
+          47.3876521
+        ]
+      },
+      "id": "node/7854352758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7854352759",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-00",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6763591,
+          47.3876404
+        ]
+      },
+      "id": "node/7854352759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7854492831",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-00",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6688836,
+          47.3918598
+        ]
+      },
+      "id": "node/7854492831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7854492832",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-00",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6688891,
+          47.3918399
+        ]
+      },
+      "id": "node/7854492832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7854549642",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "ref:FR:ARCEP": "FI-37195-",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6600989,
+          47.3889456
+        ]
+      },
+      "id": "node/7854549642"
     }
   ]
 }
