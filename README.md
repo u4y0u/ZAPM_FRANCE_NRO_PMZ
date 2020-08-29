@@ -8,17 +8,17 @@ ZAPM\_FRANCE\_NRO\_PMZ.zip contient le fichier au format QGIS (ou QField sur And
 
 \-> lien URL de téléchargement de la dernière version en fichier texte: (fichier > 50 Mo)
 
-[https://github.com/u4y0u/ZAPM_FRANCE_NRO_PMZ/blob/master/url_ZAPM_FRANCE_NRO_PMZ.zip.txt](https://github.com/u4y0u/ZAPM_FRANCE_NRO_PMZ/blob/master/url_ZAPM_FRANCE_NRO_PMZ.zip.txt) 
+[https://github.com/u4y0u/ZAPM_FRANCE_NRO_PMZ/blob/master/url_ZAPM_FRANCE_NRO_PMZ.zip.txt](https://github.com/u4y0u/ZAPM_FRANCE_NRO_PMZ/blob/master/url_ZAPM_FRANCE_NRO_PMZ.zip.txt)
 
 ### **ATTENTION:** pour être sûr d'avoir les derniers fichiers, il faut aussi contrôler les dates des fichiers .geojson qui peuvent être plus récents. Dans ce cas il faut les télécharger et écraser ceux plus anciens de l'archive ZIP.
 
-Contenu actuel de l' archive .ZIP;  4 fichiers décrits ci-dessous:
+Contenu actuel de l' archive .ZIP; 4 fichiers décrits ci-dessous:
 
-NRO.geojson et PMZ.geojson (2 fichiers de données NRO et PMZ - dont les mises à jours peuvent être chargées directement via le 'master' GitHub)
+_**NRO.geojson**_ et _**PMZ.geojson**_ (2 fichiers de données NRO et PMZ - dont les mises à jours peuvent être chargées directement via le 'master' GitHub)
 
-ZAPM\_AAAA\_Tn\_Vn\_export.gpkg (données de Zones ARCEP)
+_**ZAPM\_AAAA\_Tn\_Vn\_export.gpkg**_ (données de Zones ARCEP)
 
-ZAPM\_FRANCE\_NRO\_PMZ.qgz le projet, à charger sous QGIS ou QField, qui utilisera tous les autres fichiers de l'archive qui doivent se trouver dans le même dossier.
+_**ZAPM\_FRANCE\_NRO\_PMZ.qgz**_ le projet, à charger sous QGIS ou QField, qui utilisera tous les autres fichiers de l'archive qui doivent se trouver dans le même dossier.
 
 ## **Pour visualiser les données de ces fichiers, vous pouvez utiliser:**
 
