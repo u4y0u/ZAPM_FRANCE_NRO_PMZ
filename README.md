@@ -6,9 +6,11 @@ jeu de données extrait de OpenStreetMap® - ensemble de données ouvertes, disp
 
 ZAPM\_FRANCE\_NRO\_PMZ.zip contient le fichier au format QGIS (ou QField sur Android) des zones arrière du point de mutualisation (ZAPM).
 
-\-> lien URL de téléchargement de la dernière compète version en fichier texte: (fichier > 50 Mo)
+\-> lien URL de téléchargement de la dernière version en fichier texte: (fichier > 50 Mo)
 
 [https://github.com/u4y0u/ZAPM_FRANCE_NRO_PMZ/blob/master/url_ZAPM_FRANCE_NRO_PMZ.zip.txt](https://github.com/u4y0u/ZAPM_FRANCE_NRO_PMZ/blob/master/url_ZAPM_FRANCE_NRO_PMZ.zip.txt)
+ATTENTION: pour être sûr d'avoir les derniers fichiers, il faut aussi contôler les dates des deux fichiers .geojson qui peuvent être plus récents.
+
 
 Ce lien permet de charger une archive .ZIP qui contient 4 fichiers :
 
