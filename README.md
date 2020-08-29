@@ -8,21 +8,23 @@ ZAPM\_FRANCE\_NRO\_PMZ.zip contient le fichier au format QGIS (ou QField sur And
 
 \-> lien URL de téléchargement de la dernière version en fichier texte: (fichier > 50 Mo)
 
-[https://github.com/u4y0u/ZAPM_FRANCE_NRO_PMZ/blob/master/url_ZAPM_FRANCE_NRO_PMZ.zip.txt](https://github.com/u4y0u/ZAPM_FRANCE_NRO_PMZ/blob/master/url_ZAPM_FRANCE_NRO_PMZ.zip.txt)
-ATTENTION: pour être sûr d'avoir les derniers fichiers, il faut aussi contôler les dates des deux fichiers .geojson qui peuvent être plus récents.
+[https://github.com/u4y0u/ZAPM_FRANCE_NRO_PMZ/blob/master/url_ZAPM_FRANCE_NRO_PMZ.zip.txt](https://github.com/u4y0u/ZAPM_FRANCE_NRO_PMZ/blob/master/url_ZAPM_FRANCE_NRO_PMZ.zip.txt) 
 
+### **ATTENTION:** pour être sûr d'avoir les derniers fichiers, il faut aussi contrôler les dates des fichiers .geojson qui peuvent être plus récents. Dans ce cas il faut les télécharger et écraser ceux plus anciens de l'archive ZIP.
 
-Ce lien permet de charger une archive .ZIP qui contient 4 fichiers :
+Contenu actuel de l' archive .ZIP;  4 fichiers décrits ci-dessous:
 
 NRO.geojson et PMZ.geojson (2 fichiers de données NRO et PMZ - dont les mises à jours peuvent être chargées directement via le 'master' GitHub)
 
 ZAPM\_AAAA\_Tn\_Vn\_export.gpkg (données de Zones ARCEP)
 
-ZAPM\_FRANCE\_NRO\_PMZ.qgz (le projet à charger sous QGIS ou QField)
+ZAPM\_FRANCE\_NRO\_PMZ.qgz le projet, à charger sous QGIS ou QField, qui utilisera tous les autres fichiers de l'archive qui doivent se trouver dans le même dossier.
+
+## **Pour visualiser les données de ces fichiers, vous pouvez utiliser:**
 
 Application QField [https://play.google.com/store/apps/details?id=ch.opengis.qfield&hl=fr](https://play.google.com/store/apps/details?id=ch.opengis.qfield&hl=fr)
 
-Projet QGIS [https://www.qgis.org/fr/site/](https://www.qgis.org/fr/site/)  (Système d'Information Géographique Libre et Open Source)
+Projet QGIS [https://www.qgis.org/fr/site/](https://www.qgis.org/fr/site/) (Système d'Information Géographique Libre et Open Source)
 
 Aperçu:
 
