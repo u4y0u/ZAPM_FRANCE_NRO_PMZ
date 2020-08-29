@@ -1,8 +1,8 @@
 # ZAPM FRANCE NRO PMZ - Cartographie du réseau fibre optique.
 
-Zone arrière du point de mutualisation (ZAPM) avec emplacement des NRO ([Nœud de raccordement optique](https://fr.wikipedia.org/wiki/N%C5%93ud_de_raccordement_optique)) et PMZ ([Point de mutualisation](https://fr.wikipedia.org/wiki/Point_de_mutualisation)) issus de OpenStreetMap.
+Zone arrière du point de mutualisation (ZAPM) avec emplacement des NRO ([Nœud de raccordement optique](https://fr.wikipedia.org/wiki/N%C5%93ud_de_raccordement_optique)) et PMZ ([Point de mutualisation](https://fr.wikipedia.org/wiki/Point_de_mutualisation)) issus de [OpenStreetMap](https://fr.wikipedia.org/wiki/OpenStreetMap)®.
 
-jeu de données extrait de OpenStreetMap® - ensemble de données ouvertes, disponibles sous la licence libre Open Data Commons Open Database License (ODbL) accordée par la Fondation OpenStreetMap (OSMF).
+Jeu de données extrait de OpenStreetMap® - ensemble de données ouvertes, disponibles sous la licence libre Open Data Commons Open Database License (ODbL) accordée par la Fondation OpenStreetMap (OSMF).
 
 ZAPM\_FRANCE\_NRO\_PMZ.zip contient le fichier au format QGIS (ou QField sur Android) des zones arrière du point de mutualisation (ZAPM).
 
