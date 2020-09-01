@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-08-28T16:26:02Z",
+  "timestamp": "2020-09-01T06:39:03Z",
   "features": [
     {
       "type": "Feature",
@@ -2271,6 +2271,49 @@
         ]
       },
       "id": "way/808403307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/842155807",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "name": "PMZ",
+        "operator": "Altitude",
+        "ref:FR:ARCEP": "PMU-25-032-GV;PMU-25-032-GM;PMU-25-032-DK",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.8288786,
+              47.2738539
+            ],
+            [
+              5.8288669,
+              47.273788
+            ],
+            [
+              5.8289241,
+              47.2737834
+            ],
+            [
+              5.8289358,
+              47.2738492
+            ],
+            [
+              5.8288786,
+              47.2738539
+            ]
+          ]
+        ]
+      },
+      "id": "way/842155807"
     },
     {
       "type": "Feature",
@@ -4996,11 +5039,13 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref": "ITA PT002233",
-        "ref:FR:Orange": "PT002233",
+        "ref:FR:ARCEP": "FI-73065-000U",
+        "ref:FR:Orange": "PT2233",
         "ref:FR:Orange:NRO": "73065ITA",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -65327,6 +65372,9 @@
         "colour": "white",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "ref:FR:ARCEP": "FI-87085-0061",
+        "ref:FR:Orange": "PT005238",
+        "ref:FR:Orange:NRO": "NOR",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -67348,6 +67396,9 @@
         "colour": "gris",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "ref:FR:ARCEP": "FI-87085-0008",
+        "ref:FR:Orange": "PT000025",
+        "ref:FR:Orange:NRO": "NOR",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -70390,7 +70441,8 @@
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_FI-24322-0004.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -71114,7 +71166,8 @@
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_FI-24138-0000.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -71137,7 +71190,8 @@
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_FI-24138-0002.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -71160,7 +71214,8 @@
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_FI-24138-0001.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -71183,7 +71238,8 @@
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_FI-24138-000B.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -82963,6 +83019,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
+        "ref:FR:ARCEP": "FI-87085-006T",
+        "ref:FR:Orange": "PT006733",
+        "ref:FR:Orange:NRO": "NOR",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -82984,6 +83043,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
+        "ref:FR:ARCEP": "FI-87085-006B",
+        "ref:FR:Orange": "PT005493",
+        "ref:FR:Orange:NRO": "NOR",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -83005,6 +83067,8 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
+        "ref:FR:Orange": "PT005105",
+        "ref:FR:Orange:NRO": "NOR",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -83026,6 +83090,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
+        "ref:FR:ARCEP": "FI-87085-001T",
+        "ref:FR:Orange": "PT005108",
+        "ref:FR:Orange:NRO": "NOR",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -83047,6 +83114,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
+        "ref:FR:ARCEP": "FI-87085-000R",
+        "ref:FR:Orange": "PT000126",
+        "ref:FR:Orange:NRO": "NOR",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -83068,6 +83138,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
+        "ref:FR:ARCEP": "FI-87085-000G",
+        "ref:FR:Orange": "PT000127",
+        "ref:FR:Orange:NRO": "NOR",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -83089,6 +83162,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
+        "ref:FR:ARCEP": "FI-87085-0003",
+        "ref:FR:Orange": "PT000287",
+        "ref:FR:Orange:NRO": "NOR",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -83110,6 +83186,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
+        "ref:FR:ARCEP": "FI-87085-0004",
+        "ref:FR:Orange": "PT000122",
+        "ref:FR:Orange:NRO": "NOR",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -83242,6 +83321,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
+        "ref:FR:ARCEP": "FI-87085-0009",
+        "ref:FR:Orange": "PT000273",
+        "ref:FR:Orange:NRO": "NOR",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -87794,6 +87876,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
+        "ref:FR:ARCEP": "FI-87085-0021",
+        "ref:FR:Orange": "PT004435",
+        "ref:FR:Orange:NRO": "NOR",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -98195,7 +98280,6 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7212075637",
-        "height": "1.6",
         "man_made": "street_cabinet",
         "name": "PMZ",
         "operator": "Orange",
@@ -98203,13 +98287,14 @@
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_FI-24108-0000.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.6124094,
-          45.2309227
+          0.6103723,
+          45.2315146
         ]
       },
       "id": "node/7212075637"
@@ -108529,13 +108614,14 @@
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_FI-24011-0003.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.8390603,
-          45.2208156
+          0.8390682,
+          45.2208208
         ]
       },
       "id": "node/7301724870"
@@ -108544,7 +108630,6 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7301724871",
-        "height": "1.6",
         "man_made": "street_cabinet",
         "name": "PMZ",
         "operator": "Orange",
@@ -108552,7 +108637,8 @@
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_FI-24011-0004.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -121881,6 +121967,7 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:ARCEP": "FI-44184-002P",
+        "ref:FR:Orange": "PT000280",
         "source": "Arcep (zones arrière de PM)",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
@@ -127292,7 +127379,8 @@
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_FI-24312-0001.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -137446,7 +137534,8 @@
         "@id": "node/7844196726",
         "man_made": "street_cabinet",
         "note": "ref quasi illisible. à verifier",
-        "ref": "PM040 SRO-BPI-7051859",
+        "ref": "PM040",
+        "ref:FR:ARCEP": "SRO-BPI-7051859",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -137465,7 +137554,8 @@
       "properties": {
         "@id": "node/7844229235",
         "man_made": "street_cabinet",
-        "ref": "PM019 SRO-BPI-7378136",
+        "ref": "PM019",
+        "ref:FR:ARCEP": "SRO-BPI-7378136",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -137473,8 +137563,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.0800271,
-          43.0908006
+          6.0800097,
+          43.0908603
         ]
       },
       "id": "node/7844229235"
@@ -137530,7 +137620,8 @@
       "properties": {
         "@id": "node/7846913527",
         "man_made": "street_cabinet",
-        "ref": "TVA PT 4029. FI-83137-00L6",
+        "ref:FR:ARCEP": "FI-83137-00L6",
+        "ref:FR:Orange": "TVA PT 4029",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -137549,7 +137640,8 @@
       "properties": {
         "@id": "node/7846914942",
         "man_made": "street_cabinet",
-        "ref": "TCA PT 4032.FI-83137-00LC",
+        "ref:FR:ARCEP": "FI-83137-00LC",
+        "ref:FR:Orange": "TCA PT 4032",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -137557,8 +137649,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.9316682,
-          43.1222976
+          5.9316836,
+          43.1222795
         ]
       },
       "id": "node/7846914942"
@@ -137686,7 +137778,7 @@
         "manufacturer": "Grolleau",
         "operator": "Orange",
         "ref:FR:ARCEP": "FI-37261-006F",
-        "ref:FR:Orange": "NC",
+        "ref:FR:Orange": "BR1-PT004762",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -137710,7 +137802,7 @@
         "manufacturer": "Grolleau",
         "operator": "Orange",
         "ref:FR:ARCEP": "FI-37261-006J",
-        "ref:FR:Orange": "NC",
+        "ref:FR:Orange": "BR1-PT004768",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -137733,8 +137825,8 @@
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
         "operator": "Orange",
-        "ref:FR:ARCEP": "NC",
-        "ref:FR:Orange": "NC",
+        "ref:FR:ARCEP": "FI-37261-006E",
+        "ref:FR:Orange": "BR1-PT004767",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -137757,8 +137849,8 @@
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
         "operator": "Orange",
-        "ref:FR:ARCEP": "NC",
-        "ref:FR:Orange": "NC",
+        "ref:FR:ARCEP": "FI-37261-005G",
+        "ref:FR:Orange": "BR1-PT002001",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -137781,8 +137873,8 @@
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
         "operator": "Orange",
-        "ref:FR:ARCEP": "FI-37261-",
-        "ref:FR:Orange": "NC",
+        "ref:FR:ARCEP": "FI-37261-005O",
+        "ref:FR:Orange": "BR1-PT004095",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -137805,8 +137897,8 @@
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
         "operator": "Orange",
-        "ref:FR:ARCEP": "FI-37261-",
-        "ref:FR:Orange": "NC",
+        "ref:FR:ARCEP": "FI-37261-005B",
+        "ref:FR:Orange": "BR1-PT002006",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -137829,8 +137921,8 @@
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
         "operator": "Orange",
-        "ref:FR:ARCEP": "FI-37261-",
-        "ref:FR:Orange": "NC",
+        "ref:FR:ARCEP": "FI-37261-005A",
+        "ref:FR:Orange": "BR1-PT002007",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -138045,8 +138137,9 @@
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
         "operator": "Orange",
-        "ref:FR:ARCEP": "FI-37261-",
-        "ref:FR:Orange": "NC",
+        "ref:FR:ARCEP": "FI-37261-004Z",
+        "ref:FR:Orange": "PT-001739",
+        "ref:FR:Orange:NRO": "BR1",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -138070,7 +138163,7 @@
         "manufacturer": "Grolleau",
         "operator": "Orange",
         "ref:FR:ARCEP": "FI-37261-",
-        "ref:FR:Orange": "NC",
+        "ref:FR:Orange": "BR1-PT003467",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -138093,8 +138186,8 @@
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
         "operator": "Orange",
-        "ref:FR:ARCEP": "FI-37261-",
-        "ref:FR:Orange": "NC",
+        "ref:FR:ARCEP": "FI-37261-005N",
+        "ref:FR:Orange": "BR1-PT001459",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -138117,8 +138210,8 @@
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
         "operator": "Orange",
-        "ref:FR:ARCEP": "FI-37261-",
-        "ref:FR:Orange": "NC",
+        "ref:FR:ARCEP": "FI-37261-006B",
+        "ref:FR:Orange": "BR1-PT004149",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -138141,8 +138234,8 @@
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
         "operator": "Orange",
-        "ref:FR:ARCEP": "FI-37261-",
-        "ref:FR:Orange": "NC",
+        "ref:FR:ARCEP": "FI-37261-006C",
+        "ref:FR:Orange": "BR1-PT004152",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -138165,8 +138258,8 @@
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
         "operator": "Orange",
-        "ref:FR:ARCEP": "FI-37261-",
-        "ref:FR:Orange": "NC",
+        "ref:FR:ARCEP": "FI-37261-006D",
+        "ref:FR:Orange": "BR1-PT004151",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -138189,8 +138282,8 @@
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
         "operator": "Orange",
-        "ref:FR:ARCEP": "FI-37261-",
-        "ref:FR:Orange": "NC",
+        "ref:FR:ARCEP": "FI-37261-004E",
+        "ref:FR:Orange": "BR1-PT000023",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -138213,8 +138306,8 @@
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
         "operator": "Orange",
-        "ref:FR:ARCEP": "FI-37261-",
-        "ref:FR:Orange": "NC",
+        "ref:FR:ARCEP": "FI-37261-005F",
+        "ref:FR:Orange": "BR1-PT002002",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -138237,8 +138330,8 @@
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
         "operator": "Orange",
-        "ref:FR:ARCEP": "FI-37261-",
-        "ref:FR:Orange": "NC",
+        "ref:FR:ARCEP": "FI-37261-006I",
+        "ref:FR:Orange": "BR1-PT004764",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -138405,8 +138498,8 @@
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
         "operator": "Orange",
-        "ref:FR:ARCEP": "FI-37261-00",
-        "ref:FR:Orange": "NC",
+        "ref:FR:ARCEP": "FI-37261-005Y",
+        "ref:FR:Orange": "BR1-PT004134",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -138449,8 +138542,8 @@
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
         "operator": "Orange",
-        "ref:FR:ARCEP": "FI-37261-00",
-        "ref:FR:Orange": "NC",
+        "ref:FR:ARCEP": "FI-37261-004U",
+        "ref:FR:Orange": "BR1-PT001457",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -138691,6 +138784,254 @@
         ]
       },
       "id": "node/7854549642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7855108644",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-95582-000W",
+        "ref:FR:Orange": "PT409",
+        "ref:FR:Orange:NRO": "ART",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2605805,
+          48.9638858
+        ]
+      },
+      "id": "node/7855108644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7855108645",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "manufacturer": "Idea Optical",
+        "operator": "SFR",
+        "ref:FR:ARCEP": "SRO-BPI-7419526",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.251689,
+          48.9448788
+        ]
+      },
+      "id": "node/7855108645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7856516313",
+        "man_made": "street_cabinet",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9342387,
+          43.122622
+        ]
+      },
+      "id": "node/7856516313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7856543048",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-44184-003E",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2069023,
+          47.2723051
+        ]
+      },
+      "id": "node/7856543048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7857474191",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "ref": "?",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7319999,
+          45.1768689
+        ]
+      },
+      "id": "node/7857474191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7857620964",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-86194-000R",
+        "ref:FR:Orange": "PT000913",
+        "ref:FR:Orange:NRO": "GRA",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.321292,
+          46.5910711
+        ]
+      },
+      "id": "node/7857620964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7858209882",
+        "man_made": "street_cabinet",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8928141,
+          43.9446995
+        ]
+      },
+      "id": "node/7858209882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7859613795",
+        "colour": "black",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0961457,
+          45.7752918
+        ]
+      },
+      "id": "node/7859613795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7862839830",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-0062",
+        "ref:FR:Orange": "BR1-PT004147",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6959092,
+          47.3912342
+        ]
+      },
+      "id": "node/7862839830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7862839831",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-005I",
+        "ref:FR:Orange": "BR1-PT001749",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6894995,
+          47.3946471
+        ]
+      },
+      "id": "node/7862839831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7862839832",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-37261-0057",
+        "ref:FR:Orange": "BR1-PT001750",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6895052,
+          47.3946394
+        ]
+      },
+      "id": "node/7862839832"
     }
   ]
 }

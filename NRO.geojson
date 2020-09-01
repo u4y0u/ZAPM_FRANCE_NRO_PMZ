@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-08-28T06:53:02Z",
+  "timestamp": "2020-09-01T06:44:02Z",
   "features": [
     {
       "type": "Feature",
@@ -93,6 +93,45 @@
         ]
       },
       "id": "way/53987414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/67645695",
+        "building": "service",
+        "operator": "Interoute",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.8049444,
+              45.245162
+            ],
+            [
+              4.8048737,
+              45.2450734
+            ],
+            [
+              4.8052368,
+              45.2449377
+            ],
+            [
+              4.8053077,
+              45.2450262
+            ],
+            [
+              4.8049444,
+              45.245162
+            ]
+          ]
+        ]
+      },
+      "id": "way/67645695"
     },
     {
       "type": "Feature",
@@ -714,6 +753,45 @@
         ]
       },
       "id": "way/134449592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/160112533",
+        "building": "service",
+        "operator": "Interoute",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.3300088,
+              49.0417843
+            ],
+            [
+              3.3299945,
+              49.0417621
+            ],
+            [
+              3.3300973,
+              49.0417321
+            ],
+            [
+              3.3301107,
+              49.041752
+            ],
+            [
+              3.3300088,
+              49.0417843
+            ]
+          ]
+        ]
+      },
+      "id": "way/160112533"
     },
     {
       "type": "Feature",
@@ -1375,6 +1453,45 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/248268552",
+        "building": "service",
+        "operator": "Interoute",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2013",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.686803,
+              43.3938837
+            ],
+            [
+              1.6866744,
+              43.3939219
+            ],
+            [
+              1.6866334,
+              43.3938547
+            ],
+            [
+              1.6867643,
+              43.3938108
+            ],
+            [
+              1.686803,
+              43.3938837
+            ]
+          ]
+        ]
+      },
+      "id": "way/248268552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/258527766",
         "building": "service",
         "name": "NRO de Vendays-Montalivet",
@@ -1413,6 +1530,45 @@
         ]
       },
       "id": "way/258527766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279839063",
+        "building": "service",
+        "operator": "Interoute",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2014",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.0801506,
+              43.569059
+            ],
+            [
+              4.08018,
+              43.5690112
+            ],
+            [
+              4.0802951,
+              43.5690487
+            ],
+            [
+              4.0802657,
+              43.5690964
+            ],
+            [
+              4.0801506,
+              43.569059
+            ]
+          ]
+        ]
+      },
+      "id": "way/279839063"
     },
     {
       "type": "Feature",
@@ -1568,6 +1724,45 @@
         ]
       },
       "id": "way/365330871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/386872603",
+        "building": "service",
+        "operator": "Interoute",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2015",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.947418,
+              44.3309444
+            ],
+            [
+              -0.9474081,
+              44.3308818
+            ],
+            [
+              -0.9473706,
+              44.3308842
+            ],
+            [
+              -0.9473841,
+              44.3309468
+            ],
+            [
+              -0.947418,
+              44.3309444
+            ]
+          ]
+        ]
+      },
+      "id": "way/386872603"
     },
     {
       "type": "Feature",
@@ -6242,24 +6437,24 @@
         "coordinates": [
           [
             [
-              5.818122,
-              45.1300605
+              5.8180999,
+              45.1300759
             ],
             [
-              5.8182376,
-              45.1301073
+              5.8181514,
+              45.1301626
             ],
             [
-              5.8181993,
-              45.1301545
+              5.8180803,
+              45.1301837
             ],
             [
-              5.8180837,
-              45.1301077
+              5.8180289,
+              45.130097
             ],
             [
-              5.818122,
-              45.1300605
+              5.8180999,
+              45.1300759
             ]
           ]
         ]
@@ -14358,6 +14553,387 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/842823054",
+        "building": "service",
+        "name": "Interoute Calais",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.8415619,
+              50.9289334
+            ],
+            [
+              1.8415672,
+              50.9288217
+            ],
+            [
+              1.841607,
+              50.9288225
+            ],
+            [
+              1.8416024,
+              50.9289339
+            ],
+            [
+              1.8415619,
+              50.9289334
+            ]
+          ]
+        ]
+      },
+      "id": "way/842823054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/842863791",
+        "building": "service",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.5598297,
+              48.5931898
+            ],
+            [
+              5.5597975,
+              48.5931737
+            ],
+            [
+              5.559873,
+              48.5931179
+            ],
+            [
+              5.5599019,
+              48.5931333
+            ],
+            [
+              5.5598297,
+              48.5931898
+            ]
+          ]
+        ]
+      },
+      "id": "way/842863791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/842866153",
+        "building": "service",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.8629778,
+              48.7832778
+            ],
+            [
+              4.8629916,
+              48.7832081
+            ],
+            [
+              4.8630265,
+              48.7832127
+            ],
+            [
+              4.8630123,
+              48.7832797
+            ],
+            [
+              4.8629778,
+              48.7832778
+            ]
+          ]
+        ]
+      },
+      "id": "way/842866153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/842874824",
+        "building": "service",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.7477911,
+              44.627436
+            ],
+            [
+              4.7477831,
+              44.6274132
+            ],
+            [
+              4.747882,
+              44.6273942
+            ],
+            [
+              4.74789,
+              44.6274164
+            ],
+            [
+              4.7477911,
+              44.627436
+            ]
+          ]
+        ]
+      },
+      "id": "way/842874824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/842877823",
+        "building": "service",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.2344346,
+              46.0211555
+            ],
+            [
+              0.2344192,
+              46.0211336
+            ],
+            [
+              0.234493,
+              46.0211069
+            ],
+            [
+              0.2345092,
+              46.0211288
+            ],
+            [
+              0.2344346,
+              46.0211555
+            ]
+          ]
+        ]
+      },
+      "id": "way/842877823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/842881751",
+        "building": "service",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.405669,
+              50.666842
+            ],
+            [
+              2.4056568,
+              50.6667822
+            ],
+            [
+              2.4056954,
+              50.6667804
+            ],
+            [
+              2.4057112,
+              50.6668397
+            ],
+            [
+              2.405669,
+              50.666842
+            ]
+          ]
+        ]
+      },
+      "id": "way/842881751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/842883833",
+        "building": "service",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.6796481,
+              47.1544969
+            ],
+            [
+              0.6796259,
+              47.1544757
+            ],
+            [
+              0.6796938,
+              47.1544399
+            ],
+            [
+              0.6797173,
+              47.154463
+            ],
+            [
+              0.6796481,
+              47.1544969
+            ]
+          ]
+        ]
+      },
+      "id": "way/842883833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/842886414",
+        "building": "service",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.5981757,
+              43.6971593
+            ],
+            [
+              4.5981826,
+              43.6972169
+            ],
+            [
+              4.5981484,
+              43.6972187
+            ],
+            [
+              4.5981415,
+              43.6971607
+            ],
+            [
+              4.5981757,
+              43.6971593
+            ]
+          ]
+        ]
+      },
+      "id": "way/842886414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/842886776",
+        "building": "service",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.8395986,
+              47.9684923
+            ],
+            [
+              1.8396223,
+              47.968437
+            ],
+            [
+              1.8396574,
+              47.968444
+            ],
+            [
+              1.8396337,
+              47.9684993
+            ],
+            [
+              1.8395986,
+              47.9684923
+            ]
+          ]
+        ]
+      },
+      "id": "way/842886776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/842891550",
+        "building": "service",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.9994391,
+              50.049961
+            ],
+            [
+              2.9994347,
+              50.0499371
+            ],
+            [
+              2.999528,
+              50.0499261
+            ],
+            [
+              2.9995336,
+              50.0499506
+            ],
+            [
+              2.9994391,
+              50.049961
+            ]
+          ]
+        ]
+      },
+      "id": "way/842891550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/276884854",
         "name": "NRO FREE BER34",
         "operator": "Free",
@@ -20312,7 +20888,8 @@
         "operator": "Orange",
         "ref": "CIX 24",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRA_Coulounieix_CIX_24.jpg"
       },
       "geometry": {
         "type": "Point",
