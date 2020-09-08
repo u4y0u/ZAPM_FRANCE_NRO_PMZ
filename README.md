@@ -16,7 +16,7 @@ Contenu actuel de l' archive .ZIP; 4 fichiers décrits ci-dessous:
 
 _**NRO.geojson**_ et _**PMZ.geojson**_ (2 fichiers de données NRO et PMZ - dont les mises à jours peuvent être chargées directement via le 'master' GitHub)
 
-_**ZAPM\_AAAA\_Tn\_Vn\_export.gpkg**_ (données de Zones ARCEP)
+_**ZAPM\_AAAA\_Tn\_(Vn**_**)\_**_**export.gpkg**_ (données de Zones ARCEP)
 
 _**ZAPM\_FRANCE\_NRO\_PMZ.qgz**_ le projet, à charger sous QGIS ou QField, qui utilisera tous les autres fichiers de l'archive qui doivent se trouver dans le même dossier.
 
@@ -36,7 +36,7 @@ ainsi que le fichier ZAPM du projet ZAPM FRANCE ( [https://github.com/u4y0u/ZAPM
 
 ## Version:
 
-## **du 01/09/2020 et update .geojson du 08/09/2020**
+## **du 08/09/2020 et update .geojson du 08/09/2020**
 
 **Source:**
 
