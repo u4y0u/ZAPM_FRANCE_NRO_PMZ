@@ -16,7 +16,7 @@ Contenu actuel de l' archive .ZIP; 4 fichiers décrits ci-dessous:
 
 _**NRO.geojson**_ et _**PMZ.geojson**_ (2 fichiers de données NRO et PMZ - dont les mises à jours peuvent être chargées directement via le 'master' GitHub)
 
-_**ZAPM\_AAAA\_Tn\_(Vn**_**)\_**_**export.gpkg**_ (données de Zones ARCEP)
+_\*\*ZAPM\_AAAA\_Tn\\_(Vn**\_**)\_**\_**export.gpkg\*\*\_ (données de Zones ARCEP)
 
 _**ZAPM\_FRANCE\_NRO\_PMZ.qgz**_ le projet, à charger sous QGIS ou QField, qui utilisera tous les autres fichiers de l'archive qui doivent se trouver dans le même dossier.
 
@@ -26,9 +26,15 @@ Application QField [https://play.google.com/store/apps/details?id=ch.opengis.qfi
 
 Projet QGIS [https://www.qgis.org/fr/site/](https://www.qgis.org/fr/site/) (Système d'Information Géographique Libre et Open Source)
 
-Aperçu:
+Aperçus:
 
 ![](https://user-images.githubusercontent.com/54479065/90338091-5f727f00-dfe7-11ea-9a2f-c5e7d17cf2ca.png)
+
+![](https://user-images.githubusercontent.com/54479065/92507331-16d56c80-f207-11ea-9ddf-fae7d9975d8f.png)
+
+![](https://user-images.githubusercontent.com/54479065/92507384-31a7e100-f207-11ea-87b3-8ef282117242.png)
+
+![](https://user-images.githubusercontent.com/54479065/92507438-46847480-f207-11ea-9def-00de9307ffa5.png)
 
 Ce projet utilise 2 fichiers geojson issus de OpenStreetMap®
 
