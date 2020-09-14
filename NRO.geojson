@@ -2,8 +2,47 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-09-08T16:46:03Z",
+  "timestamp": "2020-09-14T15:58:03Z",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/50280406",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.0768235,
+              45.6303737
+            ],
+            [
+              0.0770272,
+              45.630147
+            ],
+            [
+              0.0771406,
+              45.6301972
+            ],
+            [
+              0.076937,
+              45.6304239
+            ],
+            [
+              0.0768235,
+              45.6303737
+            ]
+          ]
+        ]
+      },
+      "id": "way/50280406"
+    },
     {
       "type": "Feature",
       "properties": {
@@ -97,9 +136,48 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/63664212",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.7560098,
+              43.3700299
+            ],
+            [
+              1.7559308,
+              43.3699505
+            ],
+            [
+              1.7562331,
+              43.3697906
+            ],
+            [
+              1.7563109,
+              43.3698701
+            ],
+            [
+              1.7560098,
+              43.3700299
+            ]
+          ]
+        ]
+      },
+      "id": "way/63664212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/67645695",
         "building": "service",
-        "operator": "Interoute",
+        "operator": "Zayo",
         "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -109,24 +187,24 @@
         "coordinates": [
           [
             [
-              4.8049444,
-              45.245162
+              4.8049686,
+              45.2451912
             ],
             [
-              4.8048737,
-              45.2450734
+              4.8048979,
+              45.2451026
             ],
             [
-              4.8052368,
-              45.2449377
+              4.805261,
+              45.2449669
             ],
             [
-              4.8053077,
-              45.2450262
+              4.8053319,
+              45.2450554
             ],
             [
-              4.8049444,
-              45.245162
+              4.8049686,
+              45.2451912
             ]
           ]
         ]
@@ -269,6 +347,162 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/75948808",
+        "building": "yes",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.7288091,
+              44.09485
+            ],
+            [
+              4.7286763,
+              44.0951061
+            ],
+            [
+              4.728552,
+              44.095073
+            ],
+            [
+              4.7286848,
+              44.0948164
+            ],
+            [
+              4.7288091,
+              44.09485
+            ]
+          ]
+        ]
+      },
+      "id": "way/75948808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/75949800",
+        "building": "service",
+        "operator": "Interoute",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.7288588,
+              44.0953132
+            ],
+            [
+              4.7288254,
+              44.0953828
+            ],
+            [
+              4.7287971,
+              44.0953758
+            ],
+            [
+              4.7288305,
+              44.0953057
+            ],
+            [
+              4.7288588,
+              44.0953132
+            ]
+          ]
+        ]
+      },
+      "id": "way/75949800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/78573757",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.7765941,
+              44.7203381
+            ],
+            [
+              4.7767317,
+              44.7203664
+            ],
+            [
+              4.7766259,
+              44.7206275
+            ],
+            [
+              4.7764916,
+              44.7206014
+            ],
+            [
+              4.7765941,
+              44.7203381
+            ]
+          ]
+        ]
+      },
+      "id": "way/78573757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/87681737",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.5558461,
+              46.7609614
+            ],
+            [
+              0.5558435,
+              46.7608624
+            ],
+            [
+              0.556233,
+              46.7608532
+            ],
+            [
+              0.5562397,
+              46.760957
+            ],
+            [
+              0.5558461,
+              46.7609614
+            ]
+          ]
+        ]
+      },
+      "id": "way/87681737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/88420664",
         "building": "service",
         "operator": "Interoute",
@@ -304,6 +538,45 @@
         ]
       },
       "id": "way/88420664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/89245784",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.8262894,
+              47.3501503
+            ],
+            [
+              0.8263639,
+              47.3502314
+            ],
+            [
+              0.8260214,
+              47.3503767
+            ],
+            [
+              0.8259469,
+              47.3502953
+            ],
+            [
+              0.8262894,
+              47.3501503
+            ]
+          ]
+        ]
+      },
+      "id": "way/89245784"
     },
     {
       "type": "Feature",
@@ -471,6 +744,45 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/104513200",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.900102,
+              43.474751
+            ],
+            [
+              4.900196,
+              43.474816
+            ],
+            [
+              4.89994,
+              43.475013
+            ],
+            [
+              4.899846,
+              43.474948
+            ],
+            [
+              4.900102,
+              43.474751
+            ]
+          ]
+        ]
+      },
+      "id": "way/104513200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/105930803",
         "addr:city": "Lacanau",
         "addr:housenumber": "12",
@@ -617,6 +929,45 @@
         ]
       },
       "id": "way/113325345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/115292479",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.7243041,
+              48.1797046
+            ],
+            [
+              2.7240381,
+              48.1799126
+            ],
+            [
+              2.7239371,
+              48.1798566
+            ],
+            [
+              2.7242041,
+              48.1796486
+            ],
+            [
+              2.7243041,
+              48.1797046
+            ]
+          ]
+        ]
+      },
+      "id": "way/115292479"
     },
     {
       "type": "Feature",
@@ -833,6 +1184,45 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/133050497",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.9110973,
+              48.5054197
+            ],
+            [
+              1.9109585,
+              48.5054346
+            ],
+            [
+              1.9108944,
+              48.50517
+            ],
+            [
+              1.9110332,
+              48.5051551
+            ],
+            [
+              1.9110973,
+              48.5054197
+            ]
+          ]
+        ]
+      },
+      "id": "way/133050497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/134449592",
         "colour": "white",
         "man_made": "street_cabinet",
@@ -871,6 +1261,88 @@
         ]
       },
       "id": "way/134449592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/135822735",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.707753,
+              43.422675
+            ],
+            [
+              3.707826,
+              43.422525
+            ],
+            [
+              3.70788,
+              43.422417
+            ],
+            [
+              3.708003,
+              43.422449
+            ],
+            [
+              3.707876,
+              43.422707
+            ],
+            [
+              3.707753,
+              43.422675
+            ]
+          ]
+        ]
+      },
+      "id": "way/135822735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152755956",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.877558,
+              48.074249
+            ],
+            [
+              1.8777,
+              48.07424
+            ],
+            [
+              1.877738,
+              48.074513
+            ],
+            [
+              1.877596,
+              48.074522
+            ],
+            [
+              1.877558,
+              48.074249
+            ]
+          ]
+        ]
+      },
+      "id": "way/152755956"
     },
     {
       "type": "Feature",
@@ -1533,6 +2005,45 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/218236573",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.762867,
+              46.0943014
+            ],
+            [
+              4.762972,
+              46.0942384
+            ],
+            [
+              4.763229,
+              46.0944464
+            ],
+            [
+              4.763123,
+              46.0945084
+            ],
+            [
+              4.762867,
+              46.0943014
+            ]
+          ]
+        ]
+      },
+      "id": "way/218236573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/218376782",
         "building": "service",
         "operator": "Interoute",
@@ -1609,9 +2120,48 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/221784903",
+        "@id": "way/221784647",
         "building": "service",
         "operator": "Interoute",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.389511,
+              45.867657
+            ],
+            [
+              5.389555,
+              45.867614
+            ],
+            [
+              5.389659,
+              45.867667
+            ],
+            [
+              5.389615,
+              45.86771
+            ],
+            [
+              5.389511,
+              45.867657
+            ]
+          ]
+        ]
+      },
+      "id": "way/221784647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/221784903",
+        "building": "service",
+        "operator": "Zayo",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -1644,6 +2194,88 @@
         ]
       },
       "id": "way/221784903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227211940",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2013",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.3212702,
+              46.4386183
+            ],
+            [
+              4.3211852,
+              46.4385293
+            ],
+            [
+              4.3215212,
+              46.4383763
+            ],
+            [
+              4.3216062,
+              46.4384653
+            ],
+            [
+              4.3212702,
+              46.4386183
+            ]
+          ]
+        ]
+      },
+      "id": "way/227211940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228270726",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2013",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.7749061,
+              45.8070648
+            ],
+            [
+              5.7751951,
+              45.8068768
+            ],
+            [
+              5.7752871,
+              45.8069468
+            ],
+            [
+              5.7749981,
+              45.8071338
+            ],
+            [
+              5.7749621,
+              45.8071068
+            ],
+            [
+              5.7749061,
+              45.8070648
+            ]
+          ]
+        ]
+      },
+      "id": "way/228270726"
     },
     {
       "type": "Feature",
@@ -1805,6 +2437,45 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/254002364",
+        "building": "yes",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2013",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.029123,
+              44.524618
+            ],
+            [
+              0.029356,
+              44.52483
+            ],
+            [
+              0.029246,
+              44.524889
+            ],
+            [
+              0.029012,
+              44.524676
+            ],
+            [
+              0.029123,
+              44.524618
+            ]
+          ]
+        ]
+      },
+      "id": "way/254002364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/258527766",
         "building": "service",
         "name": "NRO de Vendays-Montalivet",
@@ -1921,6 +2592,84 @@
         ]
       },
       "id": "way/279839063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/282341083",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2014",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.5360854,
+              43.2047692
+            ],
+            [
+              2.5361684,
+              43.2048362
+            ],
+            [
+              2.5358994,
+              43.2050162
+            ],
+            [
+              2.5358164,
+              43.2049502
+            ],
+            [
+              2.5360854,
+              43.2047692
+            ]
+          ]
+        ]
+      },
+      "id": "way/282341083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/287070972",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2014",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.4599752,
+              43.7191078
+            ],
+            [
+              4.4601053,
+              43.7193563
+            ],
+            [
+              4.4599775,
+              43.7193892
+            ],
+            [
+              4.4598463,
+              43.7191467
+            ],
+            [
+              4.4599752,
+              43.7191078
+            ]
+          ]
+        ]
+      },
+      "id": "way/287070972"
     },
     {
       "type": "Feature",
@@ -2045,6 +2794,45 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/352576922",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2015",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.8340852,
+              47.585536
+            ],
+            [
+              2.8340732,
+              47.585269
+            ],
+            [
+              2.8342142,
+              47.585266
+            ],
+            [
+              2.8342262,
+              47.585533
+            ],
+            [
+              2.8340852,
+              47.585536
+            ]
+          ]
+        ]
+      },
+      "id": "way/352576922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/365330871",
         "building": "service",
         "name": "NRO de Saint-Laurent-Médoc",
@@ -2115,6 +2903,78 @@
         ]
       },
       "id": "way/365330871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/382890400",
+        "building": "service",
+        "note": "recalé sur l'image Bing",
+        "operator": "Zayo",
+        "source": "Direction Générale des Finances Publiques - cadastre. Mise à jour : 2015",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.1805559,
+              49.0421551
+            ],
+            [
+              4.1805911,
+              49.042189
+            ],
+            [
+              4.1805412,
+              49.0422113
+            ],
+            [
+              4.1805732,
+              49.0422421
+            ],
+            [
+              4.1807016,
+              49.0421849
+            ],
+            [
+              4.1807459,
+              49.0422277
+            ],
+            [
+              4.1807118,
+              49.0422429
+            ],
+            [
+              4.1807452,
+              49.0422751
+            ],
+            [
+              4.1806533,
+              49.042316
+            ],
+            [
+              4.1806649,
+              49.0423273
+            ],
+            [
+              4.1805459,
+              49.0423802
+            ],
+            [
+              4.1803894,
+              49.0422292
+            ],
+            [
+              4.1805559,
+              49.0421551
+            ]
+          ]
+        ]
+      },
+      "id": "way/382890400"
     },
     {
       "type": "Feature",
@@ -2205,6 +3065,84 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/395258920",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2016",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.0295844,
+              47.0421569
+            ],
+            [
+              3.0298725,
+              47.0423536
+            ],
+            [
+              3.0297679,
+              47.0424248
+            ],
+            [
+              3.0294798,
+              47.0422281
+            ],
+            [
+              3.0295844,
+              47.0421569
+            ]
+          ]
+        ]
+      },
+      "id": "way/395258920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/413441455",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2016",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.2911782,
+              43.8387757
+            ],
+            [
+              1.2912932,
+              43.8388247
+            ],
+            [
+              1.2911002,
+              43.8390607
+            ],
+            [
+              1.2909862,
+              43.8390117
+            ],
+            [
+              1.2911782,
+              43.8387757
+            ]
+          ]
+        ]
+      },
+      "id": "way/413441455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/420063506",
         "building": "service",
         "operator": "Interoute",
@@ -2241,6 +3179,45 @@
         ]
       },
       "id": "way/420063506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/430988972",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2016",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.0018609,
+              45.0969986
+            ],
+            [
+              -0.0018042,
+              45.0970884
+            ],
+            [
+              -0.0021533,
+              45.0972022
+            ],
+            [
+              -0.0022125,
+              45.097113
+            ],
+            [
+              -0.0018609,
+              45.0969986
+            ]
+          ]
+        ]
+      },
+      "id": "way/430988972"
     },
     {
       "type": "Feature",
@@ -2419,6 +3396,100 @@
         ]
       },
       "id": "way/443958554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/460526361",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2016",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.3247678,
+              48.9695141
+            ],
+            [
+              3.3246958,
+              48.9694943
+            ],
+            [
+              3.3247524,
+              48.9694005
+            ],
+            [
+              3.3247133,
+              48.9693875
+            ],
+            [
+              3.3247991,
+              48.9692459
+            ],
+            [
+              3.3249689,
+              48.9692918
+            ],
+            [
+              3.3248379,
+              48.9695013
+            ],
+            [
+              3.3247849,
+              48.9694878
+            ],
+            [
+              3.3247678,
+              48.9695141
+            ]
+          ]
+        ]
+      },
+      "id": "way/460526361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/478824325",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.6367989,
+              46.6639001
+            ],
+            [
+              3.6369219,
+              46.6636488
+            ],
+            [
+              3.637058,
+              46.6636787
+            ],
+            [
+              3.6369364,
+              46.6639304
+            ],
+            [
+              3.6367989,
+              46.6639001
+            ]
+          ]
+        ]
+      },
+      "id": "way/478824325"
     },
     {
       "type": "Feature",
@@ -10233,6 +11304,45 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/776617613",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2020",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.4773499,
+              48.5647017
+            ],
+            [
+              2.4774433,
+              48.5647726
+            ],
+            [
+              2.4771295,
+              48.5649536
+            ],
+            [
+              2.4770361,
+              48.5648828
+            ],
+            [
+              2.4773499,
+              48.5647017
+            ]
+          ]
+        ]
+      },
+      "id": "way/776617613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/777175896",
         "building": "service",
         "operator": "Isère Fibre",
@@ -12341,6 +13451,46 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/828145946",
+        "building": "service",
+        "operator": "Zayo",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2020",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.5827264,
+              48.6078856
+            ],
+            [
+              5.5828754,
+              48.6078669
+            ],
+            [
+              5.5829534,
+              48.6081363
+            ],
+            [
+              5.5827995,
+              48.608155
+            ],
+            [
+              5.5827264,
+              48.6078856
+            ]
+          ]
+        ]
+      },
+      "id": "way/828145946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/828375662",
         "building": "service",
         "building:prefabricated": "yes",
@@ -13211,24 +14361,24 @@
         "coordinates": [
           [
             [
-              5.7711895,
-              47.2878983
+              5.7711917,
+              47.287902
             ],
             [
-              5.771277,
-              47.2879276
+              5.771281,
+              47.2879265
             ],
             [
-              5.7712602,
-              47.2879544
+              5.7712624,
+              47.2879577
             ],
             [
-              5.771168,
-              47.2879347
+              5.771173,
+              47.2879332
             ],
             [
-              5.7711895,
-              47.2878983
+              5.7711917,
+              47.287902
             ]
           ]
         ]
@@ -13479,24 +14629,24 @@
         "coordinates": [
           [
             [
-              6.0409795,
-              47.6906572
+              6.04098,
+              47.6906565
             ],
             [
-              6.0409581,
-              47.6906157
+              6.040956,
+              47.6906151
             ],
             [
-              6.0410546,
-              47.6905868
+              6.0410526,
+              47.6905897
             ],
             [
-              6.0410734,
-              47.6906301
+              6.0410766,
+              47.6906311
             ],
             [
-              6.0409795,
-              47.6906572
+              6.04098,
+              47.6906565
             ]
           ]
         ]
@@ -13567,24 +14717,24 @@
         "coordinates": [
           [
             [
-              5.5834845,
-              47.4492097
+              5.5834834,
+              47.4492106
             ],
             [
-              5.5834791,
-              47.4491535
+              5.5834745,
+              47.449151
             ],
             [
-              5.5836293,
-              47.449139
+              5.5836274,
+              47.4491407
             ],
             [
-              5.5836401,
-              47.4492025
+              5.5836362,
+              47.4492003
             ],
             [
-              5.5834845,
-              47.4492097
+              5.5834834,
+              47.4492106
             ]
           ]
         ]
@@ -15600,6 +16750,196 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/846787794",
+        "building": "service",
+        "operator": "Zayo",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.2576865,
+              46.2035086
+            ],
+            [
+              0.2578603,
+              46.203261
+            ],
+            [
+              0.2579909,
+              46.203305
+            ],
+            [
+              0.2578171,
+              46.2035525
+            ],
+            [
+              0.2576865,
+              46.2035086
+            ]
+          ]
+        ]
+      },
+      "id": "way/846787794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846787846",
+        "building": "service",
+        "operator": "Zayo",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.2051884,
+              43.688239
+            ],
+            [
+              5.2053073,
+              43.6881857
+            ],
+            [
+              5.2055072,
+              43.6884186
+            ],
+            [
+              5.2053884,
+              43.6884719
+            ],
+            [
+              5.2051884,
+              43.688239
+            ]
+          ]
+        ]
+      },
+      "id": "way/846787846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/846791602",
+        "building": "service",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.8067381,
+              45.2446746
+            ],
+            [
+              4.8067319,
+              45.2446506
+            ],
+            [
+              4.8068343,
+              45.2446375
+            ],
+            [
+              4.8068405,
+              45.2446616
+            ],
+            [
+              4.8067381,
+              45.2446746
+            ]
+          ]
+        ]
+      },
+      "id": "way/846791602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/847187571",
+        "building": "service",
+        "operator": "Zayo",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.6520614,
+              44.1918242
+            ],
+            [
+              0.651965,
+              44.1917398
+            ],
+            [
+              0.6519947,
+              44.1917224
+            ],
+            [
+              0.6520911,
+              44.1918068
+            ],
+            [
+              0.6520614,
+              44.1918242
+            ]
+          ]
+        ]
+      },
+      "id": "way/847187571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/847187581",
+        "building": "service",
+        "operator": "Zayo",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.2545194,
+              49.1297543
+            ],
+            [
+              2.254499,
+              49.1296469
+            ],
+            [
+              2.2545334,
+              49.1296442
+            ],
+            [
+              2.2545537,
+              49.1297515
+            ],
+            [
+              2.2545194,
+              49.1297543
+            ]
+          ]
+        ]
+      },
+      "id": "way/847187581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/276884854",
         "name": "NRO FREE BER34",
         "operator": "Free",
@@ -17326,7 +18666,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7149383540",
-        "name": "44REP",
+        "name": "REP44",
         "operator": "Orange",
         "ref:FR:Orange": "44184REP",
         "telecom": "exchange",
@@ -17390,8 +18730,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3584422,
-          48.8628532
+          2.3581027,
+          48.8625273
         ]
       },
       "id": "node/7149976273"
@@ -22274,6 +23614,23 @@
         ]
       },
       "id": "node/7873804882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7894562741",
+        "operator": "Connect 76",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5159436,
+          49.7424993
+        ]
+      },
+      "id": "node/7894562741"
     }
   ]
 }
