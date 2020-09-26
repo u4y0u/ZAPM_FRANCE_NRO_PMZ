@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-09-20T14:42:03Z",
+  "timestamp": "2020-09-26T06:53:02Z",
   "features": [
     {
       "type": "Feature",
@@ -9051,24 +9051,24 @@
         "coordinates": [
           [
             [
-              5.9396566,
-              47.3449602
+              5.9397382,
+              47.3449999
             ],
             [
-              5.9397136,
-              47.3449598
+              5.9397722,
+              47.3449854
             ],
             [
-              5.939715,
-              47.3450407
+              5.9398164,
+              47.3450332
             ],
             [
-              5.939658,
-              47.3450411
+              5.9397824,
+              47.3450477
             ],
             [
-              5.9396566,
-              47.3449602
+              5.9397382,
+              47.3449999
             ]
           ]
         ]
@@ -11564,7 +11564,7 @@
         "name": "NRO de Pargny lès Reims",
         "operator": "Losange Exploitation",
         "owner": "Losange Fibre",
-        "phone": "0276463109",
+        "phone": "+33 2 76 46 31 09",
         "source": "https://twitter.com/CCuilleratNGE/status/1136276676298625024",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -15222,24 +15222,24 @@
         "coordinates": [
           [
             [
-              5.7711917,
-              47.287902
+              5.7713298,
+              47.2878656
             ],
             [
-              5.771281,
-              47.2879265
+              5.7714076,
+              47.2878905
             ],
             [
-              5.7712624,
-              47.2879577
+              5.7713899,
+              47.287916
             ],
             [
-              5.771173,
-              47.2879332
+              5.7713121,
+              47.2878912
             ],
             [
-              5.7711917,
-              47.287902
+              5.7713298,
+              47.2878656
             ]
           ]
         ]
@@ -19898,6 +19898,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7057908595",
+        "operator": "Tarn-et-Garonne Numérique",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -25492,6 +25493,27 @@
         ]
       },
       "id": "node/7894562741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7926354448",
+        "building": "service",
+        "name": "NCB79",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:Orange": "79191NCB",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4792919,
+          46.3186774
+        ]
+      },
+      "id": "node/7926354448"
     }
   ]
 }
