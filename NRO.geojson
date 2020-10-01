@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-09-26T06:53:02Z",
+  "timestamp": "2020-10-01T19:30:03Z",
   "features": [
     {
       "type": "Feature",
@@ -25514,6 +25514,27 @@
         ]
       },
       "id": "node/7926354448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7944576778",
+        "building": "service",
+        "name": "NBO79",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:Orange": "79191NBO",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.457542,
+          46.3250176
+        ]
+      },
+      "id": "node/7944576778"
     }
   ]
 }
