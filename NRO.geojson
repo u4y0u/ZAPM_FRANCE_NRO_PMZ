@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-10-10T07:12:02Z",
+  "timestamp": "2020-10-10T13:44:02Z",
   "features": [
     {
       "type": "Feature",
@@ -20007,6 +20007,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7126541743",
+        "addr:city": "Orléans",
+        "addr:housenumber": "4B",
+        "addr:postcode": "45000",
+        "addr:street": "Rue du Grenier à Sel",
+        "mapillary": "4isgQYvLxPFhHEJ1UULqiU",
         "operator": "Orange",
         "ref:FR:Orange": "45234GAS",
         "telecom": "exchange",
@@ -25535,6 +25540,348 @@
         ]
       },
       "id": "node/7944576778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7994629309",
+        "operator": "Orange",
+        "ref:FR:Orange": "14118GAM",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3640111,
+          49.1803579
+        ]
+      },
+      "id": "node/7994629309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7994635227",
+        "operator": "Orange",
+        "ref:FR:Orange": "14118LYA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3541209,
+          49.1678165
+        ]
+      },
+      "id": "node/7994635227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7994635661",
+        "operator": "Orange",
+        "ref:FR:Orange": "14118VEN",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3930107,
+          49.1808996
+        ]
+      },
+      "id": "node/7994635661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7994691946",
+        "operator": "NC",
+        "ref:FR:Tutor": "GRM14",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.034024,
+          49.3869813
+        ]
+      },
+      "id": "node/7994691946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7994692668",
+        "operator": "Orange",
+        "ref:FR:Orange": "14220DEA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0803177,
+          49.3607617
+        ]
+      },
+      "id": "node/7994692668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7994803504",
+        "operator": "Orange",
+        "ref:FR:Orange": "14047BAY",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7020411,
+          49.2762425
+        ]
+      },
+      "id": "node/7994803504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7994804853",
+        "operator": "Orange",
+        "ref:FR:Orange": "14366LIS",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2253995,
+          49.1471402
+        ]
+      },
+      "id": "node/7994804853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7994818200",
+        "operator": "Orange",
+        "ref:FR:Orange": "14762VIR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.884571,
+          48.8413729
+        ]
+      },
+      "id": "node/7994818200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7994822335",
+        "operator": "Orange",
+        "ref:FR:Orange": "14117CAB",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1171363,
+          49.2880744
+        ]
+      },
+      "id": "node/7994822335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7994840550",
+        "operator": "Orange",
+        "ref:FR:Orange": "14258FAL",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1967289,
+          48.8932982
+        ]
+      },
+      "id": "node/7994840550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7994864258",
+        "operator": "NC",
+        "ref": "VRM14",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5281473,
+          49.3368562
+        ]
+      },
+      "id": "node/7994864258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7994874863",
+        "operator": "Orange",
+        "ref:FR:Orange": "14333HON",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2312577,
+          49.4166799
+        ]
+      },
+      "id": "node/7994874863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7994877738",
+        "operator": "Orange",
+        "ref:FR:Orange": "14118UNI",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3516306,
+          49.19539
+        ]
+      },
+      "id": "node/7994877738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7994878029",
+        "operator": "Orange",
+        "ref:FR:Orange": "14325HRM",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3040317,
+          49.296618
+        ]
+      },
+      "id": "node/7994878029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7994883856",
+        "operator": "Orange",
+        "ref:FR:Orange": "14327HRV",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.352281,
+          49.2112785
+        ]
+      },
+      "id": "node/7994883856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7994894587",
+        "operator": "Orange",
+        "ref:FR:Orange": "14191CSL",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4464632,
+          49.3297585
+        ]
+      },
+      "id": "node/7994894587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7994894629",
+        "operator": "Orange",
+        "ref:FR:Orange": "14228DUV",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3768219,
+          49.2958006
+        ]
+      },
+      "id": "node/7994894629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7994919701",
+        "operator": "Orange",
+        "ref:FR:Orange": "14409MRF",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1999223,
+          49.2789807
+        ]
+      },
+      "id": "node/7994919701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7994925400",
+        "operator": "Orange",
+        "ref:FR:Orange": "14488OUI",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2610052,
+          49.2838438
+        ]
+      },
+      "id": "node/7994925400"
     }
   ]
 }
