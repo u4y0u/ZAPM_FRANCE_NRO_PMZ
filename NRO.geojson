@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-10-10T13:44:02Z",
+  "timestamp": "2020-10-20T14:04:03Z",
   "features": [
     {
       "type": "Feature",
@@ -18797,6 +18797,48 @@
         ]
       },
       "id": "way/848581463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/860324928",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO",
+        "operator": "BFC Fibre",
+        "owner": "Jura",
+        "ref": "NRO39510SEP",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.9144795,
+              46.3699599
+            ],
+            [
+              5.9145018,
+              46.3699237
+            ],
+            [
+              5.9145371,
+              46.369934
+            ],
+            [
+              5.9145148,
+              46.3699702
+            ],
+            [
+              5.9144795,
+              46.3699599
+            ]
+          ]
+        ]
+      },
+      "id": "way/860324928"
     },
     {
       "type": "Feature",
