@@ -42,7 +42,7 @@ ainsi que le fichier ZAPM du projet ZAPM FRANCE ( [https://github.com/u4y0u/ZAPM
 
 ## Version:
 
-## **du 10/10/2020 et update .geojson du 10/10/2020**
+## **du 00/10/2020 et update .geojson du 20/10/2020**
 
 **Source:**
 
