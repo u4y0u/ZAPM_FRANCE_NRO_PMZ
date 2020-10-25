@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-10-20T14:01:03Z",
+  "timestamp": "2020-10-25T09:26:02Z",
   "features": [
     {
       "type": "Feature",
@@ -5575,4582 +5575,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/845975488",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070RIO_S02F",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0700684,
-              47.4262587
-            ],
-            [
-              6.070064,
-              47.4262461
-            ],
-            [
-              6.0700864,
-              47.4262425
-            ],
-            [
-              6.0700908,
-              47.4262551
-            ],
-            [
-              6.0700684,
-              47.4262587
-            ]
-          ]
-        ]
-      },
-      "id": "way/845975488"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845975489",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070RIO_S02D",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0692345,
-              47.4221316
-            ],
-            [
-              6.0692136,
-              47.4221281
-            ],
-            [
-              6.0692155,
-              47.4221229
-            ],
-            [
-              6.0692364,
-              47.4221264
-            ],
-            [
-              6.0692345,
-              47.4221316
-            ]
-          ]
-        ]
-      },
-      "id": "way/845975489"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845975490",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070RIO_S02G",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.073548,
-              47.4236965
-            ],
-            [
-              6.0735544,
-              47.4236878
-            ],
-            [
-              6.0735697,
-              47.423693
-            ],
-            [
-              6.0735633,
-              47.4237017
-            ],
-            [
-              6.073548,
-              47.4236965
-            ]
-          ]
-        ]
-      },
-      "id": "way/845975490"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845975491",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070RIO_S02I",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0496773,
-              47.3982758
-            ],
-            [
-              6.0496833,
-              47.3982607
-            ],
-            [
-              6.0496987,
-              47.3982615
-            ],
-            [
-              6.0496967,
-              47.3982778
-            ],
-            [
-              6.0496773,
-              47.3982758
-            ]
-          ]
-        ]
-      },
-      "id": "way/845975491"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845975492",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070RIO_S02A",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0026709,
-              47.382217
-            ],
-            [
-              6.0026635,
-              47.382212
-            ],
-            [
-              6.0026739,
-              47.3822049
-            ],
-            [
-              6.0026814,
-              47.38221
-            ],
-            [
-              6.0026709,
-              47.382217
-            ]
-          ]
-        ]
-      },
-      "id": "way/845975492"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845975493",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070RIO_S02J",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.9826533,
-              47.3810104
-            ],
-            [
-              5.9826398,
-              47.3810174
-            ],
-            [
-              5.9826218,
-              47.3810014
-            ],
-            [
-              5.9826354,
-              47.3809944
-            ],
-            [
-              5.9826533,
-              47.3810104
-            ]
-          ]
-        ]
-      },
-      "id": "way/845975493"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845975494",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070RIO_S02C",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0499919,
-              47.3613272
-            ],
-            [
-              6.0499905,
-              47.3613069
-            ],
-            [
-              6.0500246,
-              47.3613058
-            ],
-            [
-              6.050026,
-              47.3613261
-            ],
-            [
-              6.0499919,
-              47.3613272
-            ]
-          ]
-        ]
-      },
-      "id": "way/845975494"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845975495",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070RIO_S02B",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0186401,
-              47.3403897
-            ],
-            [
-              6.0186546,
-              47.3403808
-            ],
-            [
-              6.0186705,
-              47.3403927
-            ],
-            [
-              6.018656,
-              47.3404016
-            ],
-            [
-              6.0186401,
-              47.3403897
-            ]
-          ]
-        ]
-      },
-      "id": "way/845975495"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845978776",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070ETZ_S05D",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.9542661,
-              47.3467224
-            ],
-            [
-              5.9542671,
-              47.3467103
-            ],
-            [
-              5.9543029,
-              47.3467117
-            ],
-            [
-              5.9543019,
-              47.3467238
-            ],
-            [
-              5.9542661,
-              47.3467224
-            ]
-          ]
-        ]
-      },
-      "id": "way/845978776"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845978777",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070ETZ_S05C",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.9397855,
-              47.3449966
-            ],
-            [
-              5.9397798,
-              47.3449897
-            ],
-            [
-              5.9397854,
-              47.3449876
-            ],
-            [
-              5.9397911,
-              47.3449945
-            ],
-            [
-              5.9397855,
-              47.3449966
-            ]
-          ]
-        ]
-      },
-      "id": "way/845978777"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845978778",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070ETZ_S05B",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.907685,
-              47.3365815
-            ],
-            [
-              5.9076918,
-              47.3365672
-            ],
-            [
-              5.9077258,
-              47.3365747
-            ],
-            [
-              5.907719,
-              47.3365889
-            ],
-            [
-              5.907685,
-              47.3365815
-            ]
-          ]
-        ]
-      },
-      "id": "way/845978778"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845978779",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070ETZ_S05A",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.8667317,
-              47.3177808
-            ],
-            [
-              5.8667334,
-              47.3177699
-            ],
-            [
-              5.8667415,
-              47.3177705
-            ],
-            [
-              5.8667398,
-              47.3177813
-            ],
-            [
-              5.8667317,
-              47.3177808
-            ]
-          ]
-        ]
-      },
-      "id": "way/845978779"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845982419",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070MNY_S07G",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.8317483,
-              47.3160583
-            ],
-            [
-              5.8317377,
-              47.3160593
-            ],
-            [
-              5.8317347,
-              47.3160458
-            ],
-            [
-              5.8317454,
-              47.3160448
-            ],
-            [
-              5.8317483,
-              47.3160583
-            ]
-          ]
-        ]
-      },
-      "id": "way/845982419"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845982420",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070MNY_S07F",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.7775091,
-              47.3311534
-            ],
-            [
-              5.7774933,
-              47.3311548
-            ],
-            [
-              5.7774887,
-              47.3311317
-            ],
-            [
-              5.7775045,
-              47.3311302
-            ],
-            [
-              5.7775091,
-              47.3311534
-            ]
-          ]
-        ]
-      },
-      "id": "way/845982420"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845982421",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070MNY_S07E",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.7786907,
-              47.2929501
-            ],
-            [
-              5.778667,
-              47.2929416
-            ],
-            [
-              5.778672,
-              47.2929351
-            ],
-            [
-              5.7786957,
-              47.2929436
-            ],
-            [
-              5.7786907,
-              47.2929501
-            ]
-          ]
-        ]
-      },
-      "id": "way/845982421"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845982422",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070MNY_S07D",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.7714021,
-              47.2878831
-            ],
-            [
-              5.7713999,
-              47.287886
-            ],
-            [
-              5.7713864,
-              47.2878813
-            ],
-            [
-              5.7713886,
-              47.2878784
-            ],
-            [
-              5.7714021,
-              47.2878831
-            ]
-          ]
-        ]
-      },
-      "id": "way/845982422"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845982423",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070MNY_S07C",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.6968029,
-              47.2783618
-            ],
-            [
-              5.6967876,
-              47.2783497
-            ],
-            [
-              5.6968105,
-              47.2783364
-            ],
-            [
-              5.6968258,
-              47.2783486
-            ],
-            [
-              5.6968029,
-              47.2783618
-            ]
-          ]
-        ]
-      },
-      "id": "way/845982423"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845982424",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070MNY_S07B",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.6613364,
-              47.2834324
-            ],
-            [
-              5.6613469,
-              47.2834127
-            ],
-            [
-              5.6613678,
-              47.2834179
-            ],
-            [
-              5.6613573,
-              47.2834375
-            ],
-            [
-              5.6613364,
-              47.2834324
-            ]
-          ]
-        ]
-      },
-      "id": "way/845982424"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845982425",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070MNY_S07A",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.660188,
-              47.2868647
-            ],
-            [
-              5.6601961,
-              47.2868721
-            ],
-            [
-              5.6601791,
-              47.2868807
-            ],
-            [
-              5.660171,
-              47.2868733
-            ],
-            [
-              5.660188,
-              47.2868647
-            ]
-          ]
-        ]
-      },
-      "id": "way/845982425"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845983458",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070PSM_S07B",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.5696595,
-              47.2797311
-            ],
-            [
-              5.5696251,
-              47.2797139
-            ],
-            [
-              5.569639,
-              47.2797011
-            ],
-            [
-              5.5696735,
-              47.2797183
-            ],
-            [
-              5.5696595,
-              47.2797311
-            ]
-          ]
-        ]
-      },
-      "id": "way/845983458"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845983459",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070PSM_S07A",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.5664499,
-              47.2802194
-            ],
-            [
-              5.5664481,
-              47.2802178
-            ],
-            [
-              5.5664529,
-              47.2802154
-            ],
-            [
-              5.5664547,
-              47.2802169
-            ],
-            [
-              5.5664499,
-              47.2802194
-            ]
-          ]
-        ]
-      },
-      "id": "way/845983459"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845983460",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070PSM_S07D",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.5664439,
-              47.2802225
-            ],
-            [
-              5.5664417,
-              47.2802206
-            ],
-            [
-              5.5664465,
-              47.2802182
-            ],
-            [
-              5.5664486,
-              47.2802202
-            ],
-            [
-              5.5664439,
-              47.2802225
-            ]
-          ]
-        ]
-      },
-      "id": "way/845983460"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845996495",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070GAY_S06B",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.6133382,
-              47.4412407
-            ],
-            [
-              5.6133354,
-              47.4412281
-            ],
-            [
-              5.6133711,
-              47.4412245
-            ],
-            [
-              5.6133739,
-              47.4412371
-            ],
-            [
-              5.6133382,
-              47.4412407
-            ]
-          ]
-        ]
-      },
-      "id": "way/845996495"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845996496",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070GAY_S06R",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.6047299,
-              47.4404817
-            ],
-            [
-              5.6046898,
-              47.4404845
-            ],
-            [
-              5.6046879,
-              47.4404723
-            ],
-            [
-              5.6047281,
-              47.4404695
-            ],
-            [
-              5.6047299,
-              47.4404817
-            ]
-          ]
-        ]
-      },
-      "id": "way/845996496"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845996497",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070GAY_S03K",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.5952822,
-              47.4478413
-            ],
-            [
-              5.5952782,
-              47.4478385
-            ],
-            [
-              5.5952881,
-              47.4478321
-            ],
-            [
-              5.5952922,
-              47.447835
-            ],
-            [
-              5.5952822,
-              47.4478413
-            ]
-          ]
-        ]
-      },
-      "id": "way/845996497"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845996498",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070GAY_S03J",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.5916124,
-              47.4473129
-            ],
-            [
-              5.5916061,
-              47.4472972
-            ],
-            [
-              5.5916135,
-              47.4472977
-            ],
-            [
-              5.5916192,
-              47.4473116
-            ],
-            [
-              5.5916124,
-              47.4473129
-            ]
-          ]
-        ]
-      },
-      "id": "way/845996498"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845996499",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070GAY_S03I",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.5835545,
-              47.4492138
-            ],
-            [
-              5.5835358,
-              47.4492149
-            ],
-            [
-              5.5835353,
-              47.4492109
-            ],
-            [
-              5.583554,
-              47.4492098
-            ],
-            [
-              5.5835545,
-              47.4492138
-            ]
-          ]
-        ]
-      },
-      "id": "way/845996499"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845996500",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070GAY_S03N",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.5924734,
-              47.444664
-            ],
-            [
-              5.5924713,
-              47.4446539
-            ],
-            [
-              5.5924985,
-              47.4446513
-            ],
-            [
-              5.5925028,
-              47.4446619
-            ],
-            [
-              5.5924734,
-              47.444664
-            ]
-          ]
-        ]
-      },
-      "id": "way/845996500"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845996501",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070GAY_S03L",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.5891096,
-              47.4442912
-            ],
-            [
-              5.5891108,
-              47.4442851
-            ],
-            [
-              5.5891243,
-              47.4442862
-            ],
-            [
-              5.5891232,
-              47.4442924
-            ],
-            [
-              5.5891096,
-              47.4442912
-            ]
-          ]
-        ]
-      },
-      "id": "way/845996501"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845996502",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070GAY_S03M",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.5904197,
-              47.4448259
-            ],
-            [
-              5.5904027,
-              47.444826
-            ],
-            [
-              5.5904026,
-              47.4448188
-            ],
-            [
-              5.5904196,
-              47.4448187
-            ],
-            [
-              5.5904197,
-              47.4448259
-            ]
-          ]
-        ]
-      },
-      "id": "way/845996502"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845996503",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070GAY_S06P",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.5895721,
-              47.4410114
-            ],
-            [
-              5.5895688,
-              47.4410033
-            ],
-            [
-              5.5895854,
-              47.4410002
-            ],
-            [
-              5.5895887,
-              47.4410083
-            ],
-            [
-              5.5895721,
-              47.4410114
-            ]
-          ]
-        ]
-      },
-      "id": "way/845996503"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845996504",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070GAY_S061",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.5895428,
-              47.4318988
-            ],
-            [
-              5.5895368,
-              47.4318985
-            ],
-            [
-              5.5895376,
-              47.431891
-            ],
-            [
-              5.5895435,
-              47.4318913
-            ],
-            [
-              5.5895428,
-              47.4318988
-            ]
-          ]
-        ]
-      },
-      "id": "way/845996504"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845996505",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070GAY_S06Q",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.5895415,
-              47.4319099
-            ],
-            [
-              5.5895336,
-              47.4319088
-            ],
-            [
-              5.5895355,
-              47.4319023
-            ],
-            [
-              5.5895434,
-              47.4319034
-            ],
-            [
-              5.5895415,
-              47.4319099
-            ]
-          ]
-        ]
-      },
-      "id": "way/845996505"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845996506",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070GAY_S06O",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.5733083,
-              47.4393591
-            ],
-            [
-              5.5732957,
-              47.4393454
-            ],
-            [
-              5.5733298,
-              47.4393311
-            ],
-            [
-              5.5733424,
-              47.4393448
-            ],
-            [
-              5.5733083,
-              47.4393591
-            ]
-          ]
-        ]
-      },
-      "id": "way/845996506"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846000851",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070GAY_S01H",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.587484,
-              47.4505288
-            ],
-            [
-              5.5874678,
-              47.4505284
-            ],
-            [
-              5.5874682,
-              47.4505216
-            ],
-            [
-              5.5874845,
-              47.4505221
-            ],
-            [
-              5.587484,
-              47.4505288
-            ]
-          ]
-        ]
-      },
-      "id": "way/846000851"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846000852",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070GAY_S01F",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.5889629,
-              47.4561284
-            ],
-            [
-              5.5889631,
-              47.4561239
-            ],
-            [
-              5.5889753,
-              47.4561241
-            ],
-            [
-              5.5889768,
-              47.4561286
-            ],
-            [
-              5.5889629,
-              47.4561284
-            ]
-          ]
-        ]
-      },
-      "id": "way/846000852"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846000853",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070GAY_S01C",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.581091,
-              47.4555516
-            ],
-            [
-              5.5810831,
-              47.4555469
-            ],
-            [
-              5.5810873,
-              47.4555437
-            ],
-            [
-              5.5810952,
-              47.4555484
-            ],
-            [
-              5.581091,
-              47.4555516
-            ]
-          ]
-        ]
-      },
-      "id": "way/846000853"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846000854",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070GAY_S01D",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.5812587,
-              47.4583109
-            ],
-            [
-              5.581254,
-              47.4583033
-            ],
-            [
-              5.5812685,
-              47.4582992
-            ],
-            [
-              5.5812732,
-              47.4583068
-            ],
-            [
-              5.5812587,
-              47.4583109
-            ]
-          ]
-        ]
-      },
-      "id": "way/846000854"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846000855",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070GAY_S01G",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.6147659,
-              47.4683675
-            ],
-            [
-              5.6147655,
-              47.4683756
-            ],
-            [
-              5.6147406,
-              47.4683751
-            ],
-            [
-              5.614741,
-              47.468367
-            ],
-            [
-              5.6147659,
-              47.4683675
-            ]
-          ]
-        ]
-      },
-      "id": "way/846000855"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846000856",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070GAY_S01A",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.5794232,
-              47.4825308
-            ],
-            [
-              5.5794067,
-              47.4825304
-            ],
-            [
-              5.5794077,
-              47.4825093
-            ],
-            [
-              5.5794241,
-              47.4825096
-            ],
-            [
-              5.5794232,
-              47.4825308
-            ]
-          ]
-        ]
-      },
-      "id": "way/846000856"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846000857",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070GAY_S01B",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.638161,
-              47.5032761
-            ],
-            [
-              5.6381397,
-              47.5032768
-            ],
-            [
-              5.6381392,
-              47.5032694
-            ],
-            [
-              5.638164,
-              47.5032686
-            ],
-            [
-              5.638161,
-              47.5032761
-            ]
-          ]
-        ]
-      },
-      "id": "way/846000857"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846009240",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070SCE_S09D",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.9806282,
-              47.6259988
-            ],
-            [
-              5.9806272,
-              47.6259817
-            ],
-            [
-              5.9806391,
-              47.6259814
-            ],
-            [
-              5.9806401,
-              47.6259985
-            ],
-            [
-              5.9806282,
-              47.6259988
-            ]
-          ]
-        ]
-      },
-      "id": "way/846009240"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846009241",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070SCE_S09C",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.9760061,
-              47.6623036
-            ],
-            [
-              5.9759823,
-              47.6623026
-            ],
-            [
-              5.9759957,
-              47.6622926
-            ],
-            [
-              5.976018,
-              47.6622926
-            ],
-            [
-              5.9760061,
-              47.6623036
-            ]
-          ]
-        ]
-      },
-      "id": "way/846009241"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846009242",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070SCE_S09B",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.9759728,
-              47.6660211
-            ],
-            [
-              5.9759369,
-              47.6660113
-            ],
-            [
-              5.9759452,
-              47.6659975
-            ],
-            [
-              5.9759811,
-              47.6660073
-            ],
-            [
-              5.9759728,
-              47.6660211
-            ]
-          ]
-        ]
-      },
-      "id": "way/846009242"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846009243",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070SCE_S09A",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.9667659,
-              47.6657056
-            ],
-            [
-              5.9667587,
-              47.6656994
-            ],
-            [
-              5.9667629,
-              47.6656972
-            ],
-            [
-              5.9667701,
-              47.6657034
-            ],
-            [
-              5.9667659,
-              47.6657056
-            ]
-          ]
-        ]
-      },
-      "id": "way/846009243"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846012368",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070PSS_S09I",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0470083,
-              47.5998035
-            ],
-            [
-              6.0469823,
-              47.5997826
-            ],
-            [
-              6.0469989,
-              47.5997733
-            ],
-            [
-              6.0470202,
-              47.5997904
-            ],
-            [
-              6.0470083,
-              47.5998035
-            ]
-          ]
-        ]
-      },
-      "id": "way/846012368"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846012369",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070PSS_S09G",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.028589,
-              47.6623641
-            ],
-            [
-              6.0285622,
-              47.6623401
-            ],
-            [
-              6.0285827,
-              47.6623297
-            ],
-            [
-              6.0286054,
-              47.6623501
-            ],
-            [
-              6.028589,
-              47.6623641
-            ]
-          ]
-        ]
-      },
-      "id": "way/846012369"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846012370",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070PSS_S09A",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0330742,
-              47.6850248
-            ],
-            [
-              6.0330614,
-              47.685013
-            ],
-            [
-              6.0330724,
-              47.6850077
-            ],
-            [
-              6.0330851,
-              47.6850195
-            ],
-            [
-              6.0330742,
-              47.6850248
-            ]
-          ]
-        ]
-      },
-      "id": "way/846012370"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846012371",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070PSS_S09B",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0410133,
-              47.6906536
-            ],
-            [
-              6.0409993,
-              47.6906571
-            ],
-            [
-              6.0409971,
-              47.6906533
-            ],
-            [
-              6.0410111,
-              47.6906497
-            ],
-            [
-              6.0410133,
-              47.6906536
-            ]
-          ]
-        ]
-      },
-      "id": "way/846012371"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846012372",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070PSS_S09E",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0432228,
-              47.6839083
-            ],
-            [
-              6.0432266,
-              47.6838904
-            ],
-            [
-              6.0432678,
-              47.6838944
-            ],
-            [
-              6.043264,
-              47.6839123
-            ],
-            [
-              6.0432228,
-              47.6839083
-            ]
-          ]
-        ]
-      },
-      "id": "way/846012372"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846012373",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070PSS_S09D",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0521886,
-              47.6853392
-            ],
-            [
-              6.0521953,
-              47.6853419
-            ],
-            [
-              6.0521792,
-              47.68536
-            ],
-            [
-              6.0521726,
-              47.6853573
-            ],
-            [
-              6.0521886,
-              47.6853392
-            ]
-          ]
-        ]
-      },
-      "id": "way/846012373"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846012374",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070PSS_S09C",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0502748,
-              47.6890091
-            ],
-            [
-              6.0502626,
-              47.6890095
-            ],
-            [
-              6.0502617,
-              47.6889952
-            ],
-            [
-              6.0502739,
-              47.6889948
-            ],
-            [
-              6.0502748,
-              47.6890091
-            ]
-          ]
-        ]
-      },
-      "id": "way/846012374"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846017367",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070VSX_S05C",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.431487,
-              47.5464617
-            ],
-            [
-              6.4314722,
-              47.5464654
-            ],
-            [
-              6.4314597,
-              47.5464429
-            ],
-            [
-              6.4314761,
-              47.5464419
-            ],
-            [
-              6.431487,
-              47.5464617
-            ]
-          ]
-        ]
-      },
-      "id": "way/846017367"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846017368",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070VSX_S05B",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.4385534,
-              47.5508301
-            ],
-            [
-              6.4385534,
-              47.550814
-            ],
-            [
-              6.4385922,
-              47.550814
-            ],
-            [
-              6.4385922,
-              47.5508301
-            ],
-            [
-              6.4385534,
-              47.5508301
-            ]
-          ]
-        ]
-      },
-      "id": "way/846017368"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846017369",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070VSX_S05A",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.4349589,
-              47.5524265
-            ],
-            [
-              6.4349375,
-              47.5524291
-            ],
-            [
-              6.4349351,
-              47.5524203
-            ],
-            [
-              6.4349565,
-              47.5524176
-            ],
-            [
-              6.4349589,
-              47.5524265
-            ]
-          ]
-        ]
-      },
-      "id": "way/846017369"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846028608",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070LYO_S30B",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.5805456,
-              47.6490539
-            ],
-            [
-              6.5805389,
-              47.6490443
-            ],
-            [
-              6.5805473,
-              47.6490416
-            ],
-            [
-              6.5805541,
-              47.6490512
-            ],
-            [
-              6.5805456,
-              47.6490539
-            ]
-          ]
-        ]
-      },
-      "id": "way/846028608"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846028609",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070LYO_S08A",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.5557064,
-              47.6564762
-            ],
-            [
-              6.5556967,
-              47.6564807
-            ],
-            [
-              6.555684,
-              47.6564687
-            ],
-            [
-              6.555694,
-              47.6564641
-            ],
-            [
-              6.5557064,
-              47.6564762
-            ]
-          ]
-        ]
-      },
-      "id": "way/846028609"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846083611",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070LUR_S08I",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.4486119,
-              47.6478487
-            ],
-            [
-              6.448597,
-              47.6478407
-            ],
-            [
-              6.4486023,
-              47.6478362
-            ],
-            [
-              6.4486172,
-              47.6478442
-            ],
-            [
-              6.4486119,
-              47.6478487
-            ]
-          ]
-        ]
-      },
-      "id": "way/846083611"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846083612",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070LUR_S08J",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.4815463,
-              47.6710743
-            ],
-            [
-              6.4815481,
-              47.6710624
-            ],
-            [
-              6.4815736,
-              47.6710642
-            ],
-            [
-              6.4815717,
-              47.6710761
-            ],
-            [
-              6.4815463,
-              47.6710743
-            ]
-          ]
-        ]
-      },
-      "id": "way/846083612"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846083613",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070LUR_S08L",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.4982733,
-              47.6804911
-            ],
-            [
-              6.4982768,
-              47.680484
-            ],
-            [
-              6.4982874,
-              47.6804863
-            ],
-            [
-              6.4982839,
-              47.6804935
-            ],
-            [
-              6.4982733,
-              47.6804911
-            ]
-          ]
-        ]
-      },
-      "id": "way/846083613"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846083614",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070LUR_S08K",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.4958382,
-              47.6817457
-            ],
-            [
-              6.4958413,
-              47.6817366
-            ],
-            [
-              6.4958593,
-              47.6817393
-            ],
-            [
-              6.4958562,
-              47.6817484
-            ],
-            [
-              6.4958382,
-              47.6817457
-            ]
-          ]
-        ]
-      },
-      "id": "way/846083614"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846083615",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070LUR_S04D",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.4982565,
-              47.6828877
-            ],
-            [
-              6.4982639,
-              47.6828807
-            ],
-            [
-              6.4982969,
-              47.6828967
-            ],
-            [
-              6.4982835,
-              47.6829007
-            ],
-            [
-              6.4982565,
-              47.6828877
-            ]
-          ]
-        ]
-      },
-      "id": "way/846083615"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846083616",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070LUR_S04G",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.5077836,
-              47.6875375
-            ],
-            [
-              6.5077961,
-              47.6875139
-            ],
-            [
-              6.5078083,
-              47.6875169
-            ],
-            [
-              6.5077957,
-              47.6875405
-            ],
-            [
-              6.5077836,
-              47.6875375
-            ]
-          ]
-        ]
-      },
-      "id": "way/846083616"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846083617",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070LUR_S04A",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.484194,
-              47.6868218
-            ],
-            [
-              6.4841895,
-              47.6868217
-            ],
-            [
-              6.4841898,
-              47.6868145
-            ],
-            [
-              6.4841944,
-              47.6868147
-            ],
-            [
-              6.484194,
-              47.6868218
-            ]
-          ]
-        ]
-      },
-      "id": "way/846083617"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846106836",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070LUx_S11N",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3787757,
-              47.8008452
-            ],
-            [
-              6.3787579,
-              47.8008397
-            ],
-            [
-              6.3787698,
-              47.8008222
-            ],
-            [
-              6.3787876,
-              47.8008277
-            ],
-            [
-              6.3787757,
-              47.8008452
-            ]
-          ]
-        ]
-      },
-      "id": "way/846106836"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846106837",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070LUx_S11K",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3916057,
-              47.8064451
-            ],
-            [
-              6.391617,
-              47.8064277
-            ],
-            [
-              6.391644,
-              47.8064356
-            ],
-            [
-              6.3916326,
-              47.806453
-            ],
-            [
-              6.3916057,
-              47.8064451
-            ]
-          ]
-        ]
-      },
-      "id": "way/846106837"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846106838",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070LUx_S11J",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.4177935,
-              47.8187874
-            ],
-            [
-              6.4178097,
-              47.8187714
-            ],
-            [
-              6.4178336,
-              47.8187764
-            ],
-            [
-              6.4178133,
-              47.8187964
-            ],
-            [
-              6.4177935,
-              47.8187874
-            ]
-          ]
-        ]
-      },
-      "id": "way/846106838"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846106839",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070LUx_S11I",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.4116512,
-              47.825464
-            ],
-            [
-              6.411649,
-              47.8254568
-            ],
-            [
-              6.4116693,
-              47.8254539
-            ],
-            [
-              6.4116716,
-              47.8254611
-            ],
-            [
-              6.4116512,
-              47.825464
-            ]
-          ]
-        ]
-      },
-      "id": "way/846106839"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846106840",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070LUx_S12G",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3803328,
-              47.8187438
-            ],
-            [
-              6.3803445,
-              47.8187293
-            ],
-            [
-              6.3803653,
-              47.8187369
-            ],
-            [
-              6.3803535,
-              47.8187514
-            ],
-            [
-              6.3803328,
-              47.8187438
-            ]
-          ]
-        ]
-      },
-      "id": "way/846106840"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846106841",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070LUx_S12E",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3725069,
-              47.8241663
-            ],
-            [
-              6.37248,
-              47.8241386
-            ],
-            [
-              6.37254,
-              47.8241123
-            ],
-            [
-              6.372567,
-              47.82414
-            ],
-            [
-              6.3725069,
-              47.8241663
-            ]
-          ]
-        ]
-      },
-      "id": "way/846106841"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846106842",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070LUx_S12F",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3789368,
-              47.8164927
-            ],
-            [
-              6.3789408,
-              47.8164891
-            ],
-            [
-              6.3789559,
-              47.8164966
-            ],
-            [
-              6.3789519,
-              47.8165002
-            ],
-            [
-              6.3789368,
-              47.8164927
-            ]
-          ]
-        ]
-      },
-      "id": "way/846106842"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846106843",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070LUx_S12D",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3711736,
-              47.813641
-            ],
-            [
-              6.3711753,
-              47.813638
-            ],
-            [
-              6.3711996,
-              47.8136442
-            ],
-            [
-              6.3711944,
-              47.8136462
-            ],
-            [
-              6.3711736,
-              47.813641
-            ]
-          ]
-        ]
-      },
-      "id": "way/846106843"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846106844",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070LUx_S12C",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3657041,
-              47.8159275
-            ],
-            [
-              6.3657238,
-              47.815936
-            ],
-            [
-              6.3657164,
-              47.8159437
-            ],
-            [
-              6.3656929,
-              47.8159335
-            ],
-            [
-              6.3657041,
-              47.8159275
-            ]
-          ]
-        ]
-      },
-      "id": "way/846106844"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846106845",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070LUx_S12B",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3606891,
-              47.8162174
-            ],
-            [
-              6.3606767,
-              47.8162194
-            ],
-            [
-              6.3606716,
-              47.8162053
-            ],
-            [
-              6.360684,
-              47.8162033
-            ],
-            [
-              6.3606891,
-              47.8162174
-            ]
-          ]
-        ]
-      },
-      "id": "way/846106845"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846106846",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070LUx_S11M",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3802873,
-              47.8116108
-            ],
-            [
-              6.3802918,
-              47.8115944
-            ],
-            [
-              6.3803075,
-              47.8115964
-            ],
-            [
-              6.380303,
-              47.8116128
-            ],
-            [
-              6.3802873,
-              47.8116108
-            ]
-          ]
-        ]
-      },
-      "id": "way/846106846"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846112060",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070SLP_S10I",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3385897,
-              47.8541063
-            ],
-            [
-              6.3386058,
-              47.8540913
-            ],
-            [
-              6.3386168,
-              47.8540966
-            ],
-            [
-              6.3386007,
-              47.8541116
-            ],
-            [
-              6.3385897,
-              47.8541063
-            ]
-          ]
-        ]
-      },
-      "id": "way/846112060"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846112061",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070SLP_S10H",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3319224,
-              47.8606908
-            ],
-            [
-              6.3319075,
-              47.8606868
-            ],
-            [
-              6.3319299,
-              47.8606692
-            ],
-            [
-              6.3319415,
-              47.8606758
-            ],
-            [
-              6.3319224,
-              47.8606908
-            ]
-          ]
-        ]
-      },
-      "id": "way/846112061"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846112062",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070SLP_S10C",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.2857938,
-              47.8945107
-            ],
-            [
-              6.2857839,
-              47.8945165
-            ],
-            [
-              6.2857527,
-              47.8944926
-            ],
-            [
-              6.2857676,
-              47.8944906
-            ],
-            [
-              6.2857938,
-              47.8945107
-            ]
-          ]
-        ]
-      },
-      "id": "way/846112062"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846112063",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070SLP_S10A",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.2441128,
-              47.894518
-            ],
-            [
-              6.2441048,
-              47.8944989
-            ],
-            [
-              6.2441227,
-              47.8944955
-            ],
-            [
-              6.2441292,
-              47.8945111
-            ],
-            [
-              6.2441128,
-              47.894518
-            ]
-          ]
-        ]
-      },
-      "id": "way/846112063"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846112064",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070SLP_S10B",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.2720455,
-              47.8915287
-            ],
-            [
-              6.2720139,
-              47.8915119
-            ],
-            [
-              6.2720334,
-              47.8914954
-            ],
-            [
-              6.272065,
-              47.8915122
-            ],
-            [
-              6.2720455,
-              47.8915287
-            ]
-          ]
-        ]
-      },
-      "id": "way/846112064"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846112065",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070SLP_S10D",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.2664027,
-              47.889945
-            ],
-            [
-              6.2664029,
-              47.889933
-            ],
-            [
-              6.2664379,
-              47.8899333
-            ],
-            [
-              6.2664377,
-              47.8899453
-            ],
-            [
-              6.2664027,
-              47.889945
-            ]
-          ]
-        ]
-      },
-      "id": "way/846112065"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846112066",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070SLP_S10G",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.2835175,
-              47.8845701
-            ],
-            [
-              6.2835282,
-              47.8845545
-            ],
-            [
-              6.2835467,
-              47.8845603
-            ],
-            [
-              6.283536,
-              47.8845758
-            ],
-            [
-              6.2835175,
-              47.8845701
-            ]
-          ]
-        ]
-      },
-      "id": "way/846112066"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846112067",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070SLP_S10E",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.276895,
-              47.8840887
-            ],
-            [
-              6.2768861,
-              47.8840842
-            ],
-            [
-              6.2768893,
-              47.8840813
-            ],
-            [
-              6.2768969,
-              47.8840852
-            ],
-            [
-              6.276895,
-              47.8840887
-            ]
-          ]
-        ]
-      },
-      "id": "way/846112067"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846123441",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070HCT_S13T",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.7732483,
-              47.6032789
-            ],
-            [
-              6.7732673,
-              47.6032658
-            ],
-            [
-              6.7732818,
-              47.6032754
-            ],
-            [
-              6.7732628,
-              47.6032885
-            ],
-            [
-              6.7732483,
-              47.6032789
-            ]
-          ]
-        ]
-      },
-      "id": "way/846123441"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846123442",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070HCT_S15A",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.7362517,
-              47.6105596
-            ],
-            [
-              6.7362456,
-              47.6105299
-            ],
-            [
-              6.7362657,
-              47.610528
-            ],
-            [
-              6.7362718,
-              47.6105577
-            ],
-            [
-              6.7362517,
-              47.6105596
-            ]
-          ]
-        ]
-      },
-      "id": "way/846123442"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846123443",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070HCT_S15B",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.7400825,
-              47.5967952
-            ],
-            [
-              6.7400699,
-              47.596785
-            ],
-            [
-              6.7400913,
-              47.5967729
-            ],
-            [
-              6.7400988,
-              47.596786
-            ],
-            [
-              6.7400825,
-              47.5967952
-            ]
-          ]
-        ]
-      },
-      "id": "way/846123443"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846123444",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070HCT_S15C",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.7259343,
-              47.5881626
-            ],
-            [
-              6.7259396,
-              47.5881267
-            ],
-            [
-              6.7259755,
-              47.5881291
-            ],
-            [
-              6.7259702,
-              47.588165
-            ],
-            [
-              6.7259343,
-              47.5881626
-            ]
-          ]
-        ]
-      },
-      "id": "way/846123444"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846123445",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070HCT_S15D",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.6828852,
-              47.5862284
-            ],
-            [
-              6.6828471,
-              47.5862148
-            ],
-            [
-              6.6828701,
-              47.5861854
-            ],
-            [
-              6.6829082,
-              47.586199
-            ],
-            [
-              6.6828852,
-              47.5862284
-            ]
-          ]
-        ]
-      },
-      "id": "way/846123445"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846123446",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070HCT_S15I",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.6961652,
-              47.5495237
-            ],
-            [
-              6.6961509,
-              47.5495095
-            ],
-            [
-              6.6961639,
-              47.5495035
-            ],
-            [
-              6.6961782,
-              47.5495178
-            ],
-            [
-              6.6961652,
-              47.5495237
-            ]
-          ]
-        ]
-      },
-      "id": "way/846123446"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846123447",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070HCT_S14N",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.778102,
-              47.5498088
-            ],
-            [
-              6.7781071,
-              47.5497869
-            ],
-            [
-              6.7781215,
-              47.5497885
-            ],
-            [
-              6.7781164,
-              47.5498104
-            ],
-            [
-              6.778102,
-              47.5498088
-            ]
-          ]
-        ]
-      },
-      "id": "way/846123447"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846123448",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070HCT_S13S",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.7917163,
-              47.5813757
-            ],
-            [
-              6.7917158,
-              47.5813708
-            ],
-            [
-              6.7917444,
-              47.5813696
-            ],
-            [
-              6.7917448,
-              47.5813745
-            ],
-            [
-              6.7917163,
-              47.5813757
-            ]
-          ]
-        ]
-      },
-      "id": "way/846123448"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846230722",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070HCT_S13O",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.7669741,
-              47.573908
-            ],
-            [
-              6.7669347,
-              47.5738829
-            ],
-            [
-              6.7669488,
-              47.5738728
-            ],
-            [
-              6.7669882,
-              47.5738979
-            ],
-            [
-              6.7669741,
-              47.573908
-            ]
-          ]
-        ]
-      },
-      "id": "way/846230722"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846230723",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070HCT_S13Q",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.7689601,
-              47.5779389
-            ],
-            [
-              6.768947,
-              47.5779359
-            ],
-            [
-              6.7689487,
-              47.5779325
-            ],
-            [
-              6.7689618,
-              47.5779355
-            ],
-            [
-              6.7689601,
-              47.5779389
-            ]
-          ]
-        ]
-      },
-      "id": "way/846230723"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846230724",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070HCT_S13R",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.7720663,
-              47.5830811
-            ],
-            [
-              6.7720773,
-              47.5830582
-            ],
-            [
-              6.7720978,
-              47.5830627
-            ],
-            [
-              6.7720868,
-              47.5830856
-            ],
-            [
-              6.7720663,
-              47.5830811
-            ]
-          ]
-        ]
-      },
-      "id": "way/846230724"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846230725",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070HCT_S13U",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.7609652,
-              47.5822332
-            ],
-            [
-              6.7609744,
-              47.5822164
-            ],
-            [
-              6.7609877,
-              47.5822197
-            ],
-            [
-              6.7609784,
-              47.5822365
-            ],
-            [
-              6.7609652,
-              47.5822332
-            ]
-          ]
-        ]
-      },
-      "id": "way/846230725"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846230726",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070HCT_S14I",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.7554067,
-              47.577265
-            ],
-            [
-              6.75539,
-              47.5772552
-            ],
-            [
-              6.7554128,
-              47.5772374
-            ],
-            [
-              6.7554295,
-              47.5772471
-            ],
-            [
-              6.7554067,
-              47.577265
-            ]
-          ]
-        ]
-      },
-      "id": "way/846230726"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846230727",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070HCT_S14K",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.7556027,
-              47.5747199
-            ],
-            [
-              6.7556086,
-              47.5747079
-            ],
-            [
-              6.7556186,
-              47.5747101
-            ],
-            [
-              6.7556127,
-              47.5747222
-            ],
-            [
-              6.7556027,
-              47.5747199
-            ]
-          ]
-        ]
-      },
-      "id": "way/846230727"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846230728",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070HCT_S14J",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.7587539,
-              47.5743397
-            ],
-            [
-              6.7587282,
-              47.5743342
-            ],
-            [
-              6.7587282,
-              47.5743261
-            ],
-            [
-              6.7587574,
-              47.5743324
-            ],
-            [
-              6.7587539,
-              47.5743397
-            ]
-          ]
-        ]
-      },
-      "id": "way/846230728"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846230729",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070HCT_S13P",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.7609468,
-              47.57602
-            ],
-            [
-              6.7609366,
-              47.5760269
-            ],
-            [
-              6.7609286,
-              47.5760215
-            ],
-            [
-              6.7609388,
-              47.5760147
-            ],
-            [
-              6.7609468,
-              47.57602
-            ]
-          ]
-        ]
-      },
-      "id": "way/846230729"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846230730",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070HCT_S15H",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.7586637,
-              47.5790803
-            ],
-            [
-              6.7586534,
-              47.579091
-            ],
-            [
-              6.7586184,
-              47.5790756
-            ],
-            [
-              6.7586288,
-              47.5790649
-            ],
-            [
-              6.7586637,
-              47.5790803
-            ]
-          ]
-        ]
-      },
-      "id": "way/846230730"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846230731",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070HCT_S14L",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.7545174,
-              47.5711983
-            ],
-            [
-              6.7544992,
-              47.5711888
-            ],
-            [
-              6.7545169,
-              47.5711735
-            ],
-            [
-              6.754535,
-              47.571183
-            ],
-            [
-              6.7545174,
-              47.5711983
-            ]
-          ]
-        ]
-      },
-      "id": "way/846230731"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846230732",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070HCT_S14M",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.7596122,
-              47.5658421
-            ],
-            [
-              6.7596188,
-              47.5658307
-            ],
-            [
-              6.7596566,
-              47.5658406
-            ],
-            [
-              6.7596447,
-              47.5658507
-            ],
-            [
-              6.7596122,
-              47.5658421
-            ]
-          ]
-        ]
-      },
-      "id": "way/846230732"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846230733",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070HCT_S15F",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.749196,
-              47.5720705
-            ],
-            [
-              6.7491458,
-              47.5720418
-            ],
-            [
-              6.7491695,
-              47.5720229
-            ],
-            [
-              6.7492198,
-              47.5720516
-            ],
-            [
-              6.749196,
-              47.5720705
-            ]
-          ]
-        ]
-      },
-      "id": "way/846230733"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846230734",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070HCT_S15G",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.747381,
-              47.5758253
-            ],
-            [
-              6.7473844,
-              47.5757931
-            ],
-            [
-              6.747412,
-              47.5757944
-            ],
-            [
-              6.7474078,
-              47.5758333
-            ],
-            [
-              6.747381,
-              47.5758253
-            ]
-          ]
-        ]
-      },
-      "id": "way/846230734"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/846243108",
         "man_made": "street_cabinet",
         "manufacturer": "Ideaoptical",
@@ -10453,50 +5877,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/847245209",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070VSX_S05E",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.4331437,
-              47.5587779
-            ],
-            [
-              6.4331289,
-              47.5587591
-            ],
-            [
-              6.4331395,
-              47.5587553
-            ],
-            [
-              6.4331543,
-              47.5587741
-            ],
-            [
-              6.4331437,
-              47.5587779
-            ]
-          ]
-        ]
-      },
-      "id": "way/847245209"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/848574090",
         "man_made": "street_cabinet",
         "manufacturer": "Ideaoptical",
@@ -10625,50 +6005,6 @@
         ]
       },
       "id": "way/848574092"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/849308882",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref:FR:ARCEP": "N070HCT_S15E",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.7199753,
-              47.5710144
-            ],
-            [
-              6.7199811,
-              47.5710025
-            ],
-            [
-              6.719989,
-              47.5710042
-            ],
-            [
-              6.7199832,
-              47.5710161
-            ],
-            [
-              6.7199753,
-              47.5710144
-            ]
-          ]
-        ]
-      },
-      "id": "way/849308882"
     },
     {
       "type": "Feature",
@@ -10923,49 +6259,6 @@
         ]
       },
       "id": "way/856810433"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/857891751",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Orange",
-        "ref:FR:ARCEP": "FI-25056-002S",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.9989196,
-              47.2318669
-            ],
-            [
-              5.9989239,
-              47.2318605
-            ],
-            [
-              5.9989441,
-              47.2318666
-            ],
-            [
-              5.9989398,
-              47.2318731
-            ],
-            [
-              5.9989196,
-              47.2318669
-            ]
-          ]
-        ]
-      },
-      "id": "way/857891751"
     },
     {
       "type": "Feature",
@@ -58715,8 +54008,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.0742834,
-          49.4145525
+          1.0743129,
+          49.4145734
         ]
       },
       "id": "node/6434114459"
@@ -156430,8 +151723,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.9512416,
-          48.7409944
+          1.9535308,
+          48.7405007
         ]
       },
       "id": "node/8004432187"
@@ -158143,8 +153436,8 @@
         "name": "SRO",
         "operator": "Orange",
         "ref:FR:ARCEP": "FI-54395-00*",
-        "ref:Fr:Orange:NRO": "4AA",
-        "ref:Fr:orange": "PT 00*",
+        "ref:FR:Orange": "PT 00*",
+        "ref:FR:Orange:NRO": "4AA",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -158383,6 +153676,2817 @@
         ]
       },
       "id": "node/8023453856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033317395",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070PSM_S07A",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.566452,
+          47.2802167
+        ]
+      },
+      "id": "node/8033317395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033317396",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070PSM_S07D",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5664459,
+          47.280221
+        ]
+      },
+      "id": "node/8033317396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033317397",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070MNY_S07A",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6601937,
+          47.2868774
+        ]
+      },
+      "id": "node/8033317397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033317398",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070MNY_S07B",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6613486,
+          47.2834193
+        ]
+      },
+      "id": "node/8033317398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033317399",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070MNY_S07C",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6968178,
+          47.2783383
+        ]
+      },
+      "id": "node/8033317399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033317400",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070MNY_S07D",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7713959,
+          47.2878813
+        ]
+      },
+      "id": "node/8033317400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033317401",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070MNY_S07E",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7786714,
+          47.2929397
+        ]
+      },
+      "id": "node/8033317401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033317402",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070MNY_S07F",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7775046,
+          47.3311449
+        ]
+      },
+      "id": "node/8033317402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033317403",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070MNY_S07G",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8318357,
+          47.3161364
+        ]
+      },
+      "id": "node/8033317403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033317404",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070ETZ_S05A",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8667387,
+          47.3177747
+        ]
+      },
+      "id": "node/8033317404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033317405",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070ETZ_S05B",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9076186,
+          47.3365529
+        ]
+      },
+      "id": "node/8033317405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033317406",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070ETZ_S05C",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.939788,
+          47.3449912
+        ]
+      },
+      "id": "node/8033317406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033317407",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070ETZ_S05D",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9542942,
+          47.346725
+        ]
+      },
+      "id": "node/8033317407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033317408",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070RIO_S02J",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9826392,
+          47.3810009
+        ]
+      },
+      "id": "node/8033317408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033317409",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070RIO_S02A",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0026738,
+          47.3822117
+        ]
+      },
+      "id": "node/8033317409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033317410",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070RIO_S02B",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0186553,
+          47.3403937
+        ]
+      },
+      "id": "node/8033317410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033317411",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070RIO_S02C",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0500059,
+          47.3613119
+        ]
+      },
+      "id": "node/8033317411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033317412",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070RIO_S02I",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0496855,
+          47.3982628
+        ]
+      },
+      "id": "node/8033317412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033317413",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070RIO_S02D",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0692224,
+          47.4221293
+        ]
+      },
+      "id": "node/8033317413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033317414",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070RIO_S02F",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0700971,
+          47.4262532
+        ]
+      },
+      "id": "node/8033317414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033317415",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070RIO_S02G",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0735631,
+          47.423691
+        ]
+      },
+      "id": "node/8033317415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033508877",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070VSX_S05C",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4314876,
+          47.5464661
+        ]
+      },
+      "id": "node/8033508877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033508878",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070VSX_S05B",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4385954,
+          47.5508292
+        ]
+      },
+      "id": "node/8033508878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033508879",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070VSX_S05A",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4349491,
+          47.5524202
+        ]
+      },
+      "id": "node/8033508879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033508880",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070VSX_S05E",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4331431,
+          47.5587764
+        ]
+      },
+      "id": "node/8033508880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033508881",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070GAY_S01G",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6147608,
+          47.4683698
+        ]
+      },
+      "id": "node/8033508881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033508882",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070GAY_S01A",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5794153,
+          47.4825181
+        ]
+      },
+      "id": "node/8033508882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033508884",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070GAY_S01B",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6381631,
+          47.5032671
+        ]
+      },
+      "id": "node/8033508884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033534585",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070GAY_S06O",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5733118,
+          47.4393471
+        ]
+      },
+      "id": "node/8033534585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033534586",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070GAY_S06B",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6133691,
+          47.4412282
+        ]
+      },
+      "id": "node/8033534586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033534587",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070GAY_S06R",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.604713,
+          47.4404693
+        ]
+      },
+      "id": "node/8033534587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033534588",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070GAY_S03K",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.595282,
+          47.4478417
+        ]
+      },
+      "id": "node/8033534588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033534589",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070GAY_S03J",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5916119,
+          47.4472905
+        ]
+      },
+      "id": "node/8033534589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033534590",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070GAY_S03M",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5904153,
+          47.4448271
+        ]
+      },
+      "id": "node/8033534590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033534591",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070GAY_S03L",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5891115,
+          47.4442879
+        ]
+      },
+      "id": "node/8033534591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033534592",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070GAY_S03I",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.583531,
+          47.4492089
+        ]
+      },
+      "id": "node/8033534592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033534593",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070GAY_S06P",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5895756,
+          47.4409969
+        ]
+      },
+      "id": "node/8033534593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033534594",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070GAY_S06Q",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5895414,
+          47.4319088
+        ]
+      },
+      "id": "node/8033534594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033534595",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070GAY_S061",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.589544,
+          47.4318962
+        ]
+      },
+      "id": "node/8033534595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033534596",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070GAY_S03N",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5924929,
+          47.4446563
+        ]
+      },
+      "id": "node/8033534596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033534597",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070GAY_S01H",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5874802,
+          47.4505267
+        ]
+      },
+      "id": "node/8033534597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033534598",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070GAY_S01F",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5889658,
+          47.456129
+        ]
+      },
+      "id": "node/8033534598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033534599",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070GAY_S01D",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5812641,
+          47.4583024
+        ]
+      },
+      "id": "node/8033534599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033534600",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070GAY_S01C",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5810905,
+          47.4555443
+        ]
+      },
+      "id": "node/8033534600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033564911",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070GAY_S01E",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.583962,
+          47.4622945
+        ]
+      },
+      "id": "node/8033564911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033564912",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070PSS_S09I",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0470171,
+          47.5997923
+        ]
+      },
+      "id": "node/8033564912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033564913",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070SCE_S09D",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9806324,
+          47.6259897
+        ]
+      },
+      "id": "node/8033564913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033564914",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070SCE_S09C",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9759996,
+          47.662293
+        ]
+      },
+      "id": "node/8033564914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033564915",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070SCE_S09B",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9759534,
+          47.6660051
+        ]
+      },
+      "id": "node/8033564915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033564916",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070SCE_S09A",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9667639,
+          47.6657051
+        ]
+      },
+      "id": "node/8033564916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033564918",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070PSS_S09G",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0285888,
+          47.6623517
+        ]
+      },
+      "id": "node/8033564918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033564919",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070PSS_S09A",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.033077,
+          47.6850174
+        ]
+      },
+      "id": "node/8033564919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033564920",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070PSS_S09B",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0410052,
+          47.6906548
+        ]
+      },
+      "id": "node/8033564920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033564921",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070PSS_S09E",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0432374,
+          47.6838951
+        ]
+      },
+      "id": "node/8033564921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033564922",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070PSS_S09D",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.052187,
+          47.6853386
+        ]
+      },
+      "id": "node/8033564922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033564923",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070PSS_S09C",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0502618,
+          47.689
+        ]
+      },
+      "id": "node/8033564923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033564924",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070LYO_S08A",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5557002,
+          47.6564731
+        ]
+      },
+      "id": "node/8033564924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033564925",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070LYO_S30B",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5805445,
+          47.6490526
+        ]
+      },
+      "id": "node/8033564925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033575547",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070SLP_S10A",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2441177,
+          47.8944968
+        ]
+      },
+      "id": "node/8033575547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033575548",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070SLP_S10D",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2664873,
+          47.8899396
+        ]
+      },
+      "id": "node/8033575548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033575549",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070SLP_S10B",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2720261,
+          47.8915263
+        ]
+      },
+      "id": "node/8033575549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033575550",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070SLP_S10C",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2857739,
+          47.8945047
+        ]
+      },
+      "id": "node/8033575550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033575551",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070SLP_S10E",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2768913,
+          47.8840839
+        ]
+      },
+      "id": "node/8033575551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033575552",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070SLP_S10G",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2835283,
+          47.8845671
+        ]
+      },
+      "id": "node/8033575552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033575553",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070SLP_S10H",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3319288,
+          47.8606783
+        ]
+      },
+      "id": "node/8033575553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033575554",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070SLP_S10I",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3386045,
+          47.8540968
+        ]
+      },
+      "id": "node/8033575554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033592536",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070LUx_S12B",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3606746,
+          47.8162203
+        ]
+      },
+      "id": "node/8033592536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033592537",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070LUx_S12C",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3657112,
+          47.8159302
+        ]
+      },
+      "id": "node/8033592537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033592538",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070LUx_S12E",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3725329,
+          47.824135
+        ]
+      },
+      "id": "node/8033592538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033592539",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070LUx_S12G",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3803575,
+          47.8187416
+        ]
+      },
+      "id": "node/8033592539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033592540",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070LUx_S12F",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3789464,
+          47.8164983
+        ]
+      },
+      "id": "node/8033592540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033592541",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070LUx_S12D",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3711903,
+          47.8136424
+        ]
+      },
+      "id": "node/8033592541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033592542",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070LUx_S11M",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3802994,
+          47.8115982
+        ]
+      },
+      "id": "node/8033592542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033592543",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070LUx_S11K",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.391631,
+          47.8064245
+        ]
+      },
+      "id": "node/8033592543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033592544",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070LUx_S11N",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3787951,
+          47.8008221
+        ]
+      },
+      "id": "node/8033592544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033592545",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070LUx_S11I",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4116887,
+          47.8254543
+        ]
+      },
+      "id": "node/8033592545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8033592546",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070LUx_S11J",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4178295,
+          47.8187751
+        ]
+      },
+      "id": "node/8033592546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035141035",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070LUR_S08J",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4815598,
+          47.6710509
+        ]
+      },
+      "id": "node/8035141035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035141036",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070LUR_S08K",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4958277,
+          47.6817396
+        ]
+      },
+      "id": "node/8035141036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035141037",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070LUR_S08L",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4982819,
+          47.68049
+        ]
+      },
+      "id": "node/8035141037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035141038",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070LUR_S04D",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.49827,
+          47.6828877
+        ]
+      },
+      "id": "node/8035141038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035141039",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070LUR_S04G",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5078082,
+          47.6875238
+        ]
+      },
+      "id": "node/8035141039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035141040",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070LUR_S04A",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4841913,
+          47.6868171
+        ]
+      },
+      "id": "node/8035141040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035141041",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070LUR_S08I",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4485984,
+          47.6478441
+        ]
+      },
+      "id": "node/8035141041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035193819",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070HCT_S15I",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6961626,
+          47.5495113
+        ]
+      },
+      "id": "node/8035193819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035193820",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070HCT_S15E",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7201341,
+          47.5711007
+        ]
+      },
+      "id": "node/8035193820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035193821",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070HCT_S15D",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6828827,
+          47.586215
+        ]
+      },
+      "id": "node/8035193821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035193822",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070HCT_S15C",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.725959,
+          47.5881437
+        ]
+      },
+      "id": "node/8035193822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035193823",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070HCT_S15B",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7401076,
+          47.5967771
+        ]
+      },
+      "id": "node/8035193823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035193824",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070HCT_S15A",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7362378,
+          47.6105352
+        ]
+      },
+      "id": "node/8035193824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035193825",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070HCT_S13T",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7732672,
+          47.6032795
+        ]
+      },
+      "id": "node/8035193825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035193826",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070HCT_S13S",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7917379,
+          47.5813674
+        ]
+      },
+      "id": "node/8035193826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035193827",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070HCT_S14N",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7781033,
+          47.5497935
+        ]
+      },
+      "id": "node/8035193827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035193828",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070HCT_S14M",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7596222,
+          47.5658424
+        ]
+      },
+      "id": "node/8035193828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035193829",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070HCT_S14L",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7545215,
+          47.5711855
+        ]
+      },
+      "id": "node/8035193829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035193830",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070HCT_S15F",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7491638,
+          47.5720504
+        ]
+      },
+      "id": "node/8035193830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035193831",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070HCT_S14K",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7556086,
+          47.5747134
+        ]
+      },
+      "id": "node/8035193831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035193832",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070HCT_S15G",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7473839,
+          47.5758024
+        ]
+      },
+      "id": "node/8035193832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035193833",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070HCT_S14J",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7587296,
+          47.5743382
+        ]
+      },
+      "id": "node/8035193833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035193834",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070HCT_S13P",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7609275,
+          47.576014
+        ]
+      },
+      "id": "node/8035193834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035193835",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070HCT_S13O",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7669565,
+          47.5738903
+        ]
+      },
+      "id": "node/8035193835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035193836",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070HCT_S13Q",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7689529,
+          47.5779367
+        ]
+      },
+      "id": "node/8035193836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035193837",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070HCT_S13R",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7720833,
+          47.5830702
+        ]
+      },
+      "id": "node/8035193837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035193838",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070HCT_S13U",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7609685,
+          47.5822274
+        ]
+      },
+      "id": "node/8035193838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035193839",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070HCT_S15H",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.758629,
+          47.5790752
+        ]
+      },
+      "id": "node/8035193839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035193840",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref:FR:ARCEP": "N070HCT_S14I",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7554074,
+          47.5772558
+        ]
+      },
+      "id": "node/8035193840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035206913",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-002S",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9989245,
+          47.2318674
+        ]
+      },
+      "id": "node/8035206913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8037791158",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-79003-0001",
+        "ref:FR:Orange": "PT000003",
+        "ref:FR:Orange:NRO": "AIF",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4135618,
+          46.287432
+        ]
+      },
+      "id": "node/8037791158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8037920182",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-93031-001I",
+        "ref:FR:Orange": "PT434",
+        "ref:FR:Orange:NRO": "STD",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2957649,
+          48.9622629
+        ]
+      },
+      "id": "node/8037920182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8043016889",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:Fr:orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1687262,
+          48.6889663
+        ]
+      },
+      "id": "node/8043016889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8043051728",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:Fr:orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1698497,
+          48.6872296
+        ]
+      },
+      "id": "node/8043051728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8043051729",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:Fr:orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1730605,
+          48.6884227
+        ]
+      },
+      "id": "node/8043051729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8043054575",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:Fr:orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1635077,
+          48.6920133
+        ]
+      },
+      "id": "node/8043054575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8043054576",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:Fr:orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1599922,
+          48.6908465
+        ]
+      },
+      "id": "node/8043054576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8043054577",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:Fr:orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1502074,
+          48.6917398
+        ]
+      },
+      "id": "node/8043054577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8043071408",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:Fr:orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1473414,
+          48.6923188
+        ]
+      },
+      "id": "node/8043071408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8043071409",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:Fr:orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1424374,
+          48.6930877
+        ]
+      },
+      "id": "node/8043071409"
     }
   ]
 }
