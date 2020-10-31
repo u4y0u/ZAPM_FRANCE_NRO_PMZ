@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-10-25T09:25:02Z",
+  "timestamp": "2020-10-31T09:03:02Z",
   "features": [
     {
       "type": "Feature",
@@ -1073,6 +1073,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/109013873",
+        "addr:city": "Le Pian-Médoc",
+        "addr:street": "Chemin de Courmateau",
         "building": "service",
         "name": "NRO de Louens",
         "operator": "Orange",
@@ -16925,6 +16927,7 @@
         "operator": "Altitude",
         "owner": "Doubs-THD",
         "ref": "25-037",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2020",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -16933,24 +16936,24 @@
         "coordinates": [
           [
             [
-              6.2459992,
-              47.1216375
+              6.2460625,
+              47.1216265
             ],
             [
-              6.2461118,
-              47.1215864
+              6.2460453,
+              47.1216076
             ],
             [
-              6.2461601,
-              47.1216229
+              6.2461349,
+              47.1215697
             ],
             [
-              6.2460421,
-              47.121674
+              6.2461523,
+              47.1215884
             ],
             [
-              6.2459992,
-              47.1216375
+              6.2460625,
+              47.1216265
             ]
           ]
         ]
@@ -25924,6 +25927,43 @@
         ]
       },
       "id": "node/7994925400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063372213",
+        "addr:street": "Rue Emery Bulcourt",
+        "operator": "orange",
+        "ref": "PMZ",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8763357,
+          50.4611331
+        ]
+      },
+      "id": "node/8063372213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065179285",
+        "operator": "orange",
+        "ref": "chambre FT PA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5389788,
+          50.2913596
+        ]
+      },
+      "id": "node/8065179285"
     }
   ]
 }

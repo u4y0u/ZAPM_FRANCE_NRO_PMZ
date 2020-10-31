@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-10-25T09:26:02Z",
+  "timestamp": "2020-10-31T09:02:02Z",
   "features": [
     {
       "type": "Feature",
@@ -5571,264 +5571,6 @@
         ]
       },
       "id": "way/845819329"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846243108",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Orange",
-        "ref:FR:ARCEP": "FI-70363-000",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0778775,
-              47.6387595
-            ],
-            [
-              6.0778816,
-              47.6387548
-            ],
-            [
-              6.077897,
-              47.6387611
-            ],
-            [
-              6.0778929,
-              47.6387657
-            ],
-            [
-              6.0778775,
-              47.6387595
-            ]
-          ]
-        ]
-      },
-      "id": "way/846243108"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846243109",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Orange",
-        "ref:FR:ARCEP": "FI-70367-000",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0608017,
-              47.603328
-            ],
-            [
-              6.0607904,
-              47.6033324
-            ],
-            [
-              6.0607675,
-              47.6033059
-            ],
-            [
-              6.0607809,
-              47.6033039
-            ],
-            [
-              6.0608017,
-              47.603328
-            ]
-          ]
-        ]
-      },
-      "id": "way/846243109"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846243110",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Orange",
-        "ref:FR:ARCEP": "FI-70513-0002",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.10313,
-              47.6339844
-            ],
-            [
-              6.1031195,
-              47.6339736
-            ],
-            [
-              6.1031421,
-              47.6339637
-            ],
-            [
-              6.1031526,
-              47.6339744
-            ],
-            [
-              6.10313,
-              47.6339844
-            ]
-          ]
-        ]
-      },
-      "id": "way/846243110"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846243111",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Orange",
-        "ref:FR:ARCEP": "FI-70513-0001",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.1110196,
-              47.6312088
-            ],
-            [
-              6.111024,
-              47.6312098
-            ],
-            [
-              6.1110211,
-              47.6312156
-            ],
-            [
-              6.1110166,
-              47.6312146
-            ],
-            [
-              6.1110196,
-              47.6312088
-            ]
-          ]
-        ]
-      },
-      "id": "way/846243111"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846243112",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Orange",
-        "ref:FR:ARCEP": "FI-70513-0003",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.110372,
-              47.6261711
-            ],
-            [
-              6.1103606,
-              47.6261637
-            ],
-            [
-              6.1103853,
-              47.6261463
-            ],
-            [
-              6.1103968,
-              47.6261537
-            ],
-            [
-              6.110372,
-              47.6261711
-            ]
-          ]
-        ]
-      },
-      "id": "way/846243112"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846243113",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Orange",
-        "ref:FR:ARCEP": "FI-70020-0001",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.103866,
-              47.5805618
-            ],
-            [
-              6.1038694,
-              47.5805551
-            ],
-            [
-              6.1038978,
-              47.5805616
-            ],
-            [
-              6.1038944,
-              47.5805683
-            ],
-            [
-              6.103866,
-              47.5805618
-            ]
-          ]
-        ]
-      },
-      "id": "way/846243113"
     },
     {
       "type": "Feature",
@@ -54329,8 +54071,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.0574871,
-          49.4017943
+          1.0575314,
+          49.4017524
         ]
       },
       "id": "node/6440437883"
@@ -59673,9 +59415,15 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6553168186",
+        "colour": "beige",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
-        "ref:FR:ARCEP": "FI-74012-000L",
+        "manufacturer": "ideaoptical",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-74012-000M",
+        "ref:FR:Orange": "PT000732",
+        "ref:FR:Orange:NRO": "CHA",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -64159,8 +63907,12 @@
         "colour": "beige",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "manufacturer": "ideaoptical",
         "operator": "Orange",
-        "ref:FR:ARCEP": "FI-74012-000L",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-74012-0008",
+        "ref:FR:Orange": "PT000721",
+        "ref:FR:Orange:NRO": "CHA",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -64181,8 +63933,12 @@
         "colour": "beige",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "manufacturer": "ideaoptical",
         "operator": "Orange",
+        "owner": "Orange",
         "ref:FR:ARCEP": "FI-74012-000L",
+        "ref:FR:Orange": "PT000495",
+        "ref:FR:Orange:NRO": "CHA",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -156305,7 +156061,7 @@
         "name": "SRO",
         "operator": "Orange",
         "ref:FR:ARCEP": "FI-54395-00*",
-        "ref:Fr:orange": "PT 00*",
+        "ref:FR:Orange": "PT 00*",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -156329,7 +156085,7 @@
         "name": "SRO",
         "operator": "Orange",
         "ref:FR:ARCEP": "FI-54395-00*",
-        "ref:Fr:orange": "PT 00*",
+        "ref:FR:Orange": "PT 00*",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -156353,7 +156109,7 @@
         "name": "SRO",
         "operator": "Orange",
         "ref:FR:ARCEP": "FI-54395-00*",
-        "ref:Fr:orange": "PT 00*",
+        "ref:FR:Orange": "PT 00*",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -156377,7 +156133,7 @@
         "name": "SRO",
         "operator": "Orange",
         "ref:FR:ARCEP": "FI-54395-00*",
-        "ref:Fr:orange": "PT 00*",
+        "ref:FR:Orange": "PT 00*",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -156401,7 +156157,7 @@
         "name": "SRO",
         "operator": "Orange",
         "ref:FR:ARCEP": "FI-54395-00*",
-        "ref:Fr:orange": "PT 00*",
+        "ref:FR:Orange": "PT 00*",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -156425,7 +156181,7 @@
         "name": "SRO",
         "operator": "Orange",
         "ref:FR:ARCEP": "FI-54395-00*",
-        "ref:Fr:orange": "PT 00*",
+        "ref:FR:Orange": "PT 00*",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -156449,7 +156205,7 @@
         "name": "SRO",
         "operator": "Orange",
         "ref:FR:ARCEP": "FI-54395-00*",
-        "ref:Fr:orange": "PT 00*",
+        "ref:FR:Orange": "PT 00*",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -156473,7 +156229,7 @@
         "name": "SRO",
         "operator": "Orange",
         "ref:FR:ARCEP": "FI-54395-00*",
-        "ref:Fr:orange": "PT 00*",
+        "ref:FR:Orange": "PT 00*",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
@@ -156487,6 +156243,2722 @@
         ]
       },
       "id": "node/8043071409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044656630",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1479047,
+          48.696624
+        ]
+      },
+      "id": "node/8044656630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044656631",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1479256,
+          48.696626
+        ]
+      },
+      "id": "node/8044656631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044656632",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1587751,
+          48.6970664
+        ]
+      },
+      "id": "node/8044656632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044656633",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1588034,
+          48.6970664
+        ]
+      },
+      "id": "node/8044656633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044656634",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1649622,
+          48.6946339
+        ]
+      },
+      "id": "node/8044656634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044656635",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1685618,
+          48.6916579
+        ]
+      },
+      "id": "node/8044656635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044656636",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1691533,
+          48.6905316
+        ]
+      },
+      "id": "node/8044656636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044656637",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1691667,
+          48.6905449
+        ]
+      },
+      "id": "node/8044656637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044656638",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1702917,
+          48.6884751
+        ]
+      },
+      "id": "node/8044656638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044756344",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.17115,
+          48.6870202
+        ]
+      },
+      "id": "node/8044756344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044756345",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1731199,
+          48.6839002
+        ]
+      },
+      "id": "node/8044756345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044756346",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1723102,
+          48.6852931
+        ]
+      },
+      "id": "node/8044756346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044800394",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1743604,
+          48.6822868
+        ]
+      },
+      "id": "node/8044800394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044800395",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1772646,
+          48.678175
+        ]
+      },
+      "id": "node/8044800395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044956418",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1844805,
+          48.6826016
+        ]
+      },
+      "id": "node/8044956418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044956419",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1844894,
+          48.6825977
+        ]
+      },
+      "id": "node/8044956419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044956420",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1799003,
+          48.6847577
+        ]
+      },
+      "id": "node/8044956420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044956421",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1798958,
+          48.6847654
+        ]
+      },
+      "id": "node/8044956421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044956422",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1786775,
+          48.6853357
+        ]
+      },
+      "id": "node/8044956422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044956423",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.174725,
+          48.6848847
+        ]
+      },
+      "id": "node/8044956423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044956424",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1710189,
+          48.6840037
+        ]
+      },
+      "id": "node/8044956424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044956425",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1710115,
+          48.6839993
+        ]
+      },
+      "id": "node/8044956425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044956426",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.170719,
+          48.6847967
+        ]
+      },
+      "id": "node/8044956426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044956427",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1701782,
+          48.686231
+        ]
+      },
+      "id": "node/8044956427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8044956428",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-54395-00*",
+        "ref:FR:Orange": "PT 00*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1718953,
+          48.6868828
+        ]
+      },
+      "id": "node/8044956428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8048527915",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-007V",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9528178,
+          47.2252543
+        ]
+      },
+      "id": "node/8048527915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8048527916",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-007W",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9528377,
+          47.2252613
+        ]
+      },
+      "id": "node/8048527916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8048527917",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-007X",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9533397,
+          47.2217454
+        ]
+      },
+      "id": "node/8048527917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8048704167",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-70020-0001",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1038792,
+          47.5805632
+        ]
+      },
+      "id": "node/8048704167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8048704168",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-70367-000",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0607965,
+          47.6033231
+        ]
+      },
+      "id": "node/8048704168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8048704169",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-70363-000",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0778864,
+          47.6387596
+        ]
+      },
+      "id": "node/8048704169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8048704170",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-70513-0002",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1031249,
+          47.6339694
+        ]
+      },
+      "id": "node/8048704170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8048704171",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-70513-0001",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1110182,
+          47.6312107
+        ]
+      },
+      "id": "node/8048704171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8048704172",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-70513-0003",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1103785,
+          47.6261598
+        ]
+      },
+      "id": "node/8048704172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051206342",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0021",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.998148,
+          47.2462155
+        ]
+      },
+      "id": "node/8051206342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051206343",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-001T",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9994277,
+          47.2470905
+        ]
+      },
+      "id": "node/8051206343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051206344",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-002F",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9966621,
+          47.2486912
+        ]
+      },
+      "id": "node/8051206344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051206345",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-007U",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9966271,
+          47.2487218
+        ]
+      },
+      "id": "node/8051206345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051206346",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-001Z",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0040089,
+          47.2485912
+        ]
+      },
+      "id": "node/8051206346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051206347",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0022",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0071675,
+          47.2471269
+        ]
+      },
+      "id": "node/8051206347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051206348",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0015",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0087447,
+          47.2462125
+        ]
+      },
+      "id": "node/8051206348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051206349",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-001W",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.011687,
+          47.2438766
+        ]
+      },
+      "id": "node/8051206349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051206350",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0034",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0069656,
+          47.2412273
+        ]
+      },
+      "id": "node/8051206350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051206351",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0009",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0150189,
+          47.2420268
+        ]
+      },
+      "id": "node/8051206351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051206352",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0001",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0147686,
+          47.2400474
+        ]
+      },
+      "id": "node/8051206352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051206353",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0003",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0116639,
+          47.2389402
+        ]
+      },
+      "id": "node/8051206353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051206354",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0029",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0123509,
+          47.2455006
+        ]
+      },
+      "id": "node/8051206354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051206355",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0027",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.011074,
+          47.247632
+        ]
+      },
+      "id": "node/8051206355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051206356",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0024",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0094384,
+          47.2508193
+        ]
+      },
+      "id": "node/8051206356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051206357",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0028",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0085863,
+          47.2515827
+        ]
+      },
+      "id": "node/8051206357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051206358",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-001X",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0044211,
+          47.251962
+        ]
+      },
+      "id": "node/8051206358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051206359",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-002D",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0165074,
+          47.2484647
+        ]
+      },
+      "id": "node/8051206359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051206360",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-002E",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0173188,
+          47.2466627
+        ]
+      },
+      "id": "node/8051206360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051702624",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-002B",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0026087,
+          47.2450738
+        ]
+      },
+      "id": "node/8051702624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051702625",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-001U",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0004182,
+          47.2425281
+        ]
+      },
+      "id": "node/8051702625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051702626",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0021",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9966281,
+          47.2466898
+        ]
+      },
+      "id": "node/8051702626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051702627",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-005W",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9939935,
+          47.246964
+        ]
+      },
+      "id": "node/8051702627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051702628",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-005V",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9863287,
+          47.2564532
+        ]
+      },
+      "id": "node/8051702628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051702629",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-005T",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0038063,
+          47.2562725
+        ]
+      },
+      "id": "node/8051702629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051702630",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-001V",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0121673,
+          47.2549215
+        ]
+      },
+      "id": "node/8051702630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8051702631",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0004",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0141306,
+          47.2370989
+        ]
+      },
+      "id": "node/8051702631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8059434441",
+        "colour": "beige",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "THD-5962",
+        "ref:FR:ARCEP": "ADR_59632_FELI",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3891488,
+          50.3725063
+        ]
+      },
+      "id": "node/8059434441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8059463059",
+        "colour": "grey",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "THD-5962",
+        "ref:FR:ARCEP": "ADR_59632_QESO",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3927847,
+          50.3774229
+        ]
+      },
+      "id": "node/8059463059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8060403592",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-003Z",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0118518,
+          47.2648692
+        ]
+      },
+      "id": "node/8060403592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063366475",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:Orange:NRO": "THO",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4973295,
+          46.385037
+        ]
+      },
+      "id": "node/8063366475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063477498",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:Orange:NRO": "THO",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4974039,
+          46.3732482
+        ]
+      },
+      "id": "node/8063477498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063477527",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:Orange:NRO": "THO",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4904865,
+          46.3789696
+        ]
+      },
+      "id": "node/8063477527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063477537",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:Orange:NRO": "THO",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4969144,
+          46.3811558
+        ]
+      },
+      "id": "node/8063477537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063498378",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-95582-000N",
+        "ref:FR:Orange": "PT349",
+        "ref:FR:Orange:NRO": "ART",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2452428,
+          48.9794947
+        ]
+      },
+      "id": "node/8063498378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063498896",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-95582-000M",
+        "ref:FR:Orange": "PT272",
+        "ref:FR:Orange:NRO": "ART",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2430061,
+          48.9781772
+        ]
+      },
+      "id": "node/8063498896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063559064",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-95582-000O",
+        "ref:FR:Orange": "PT340",
+        "ref:FR:Orange:NRO": "ART",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.247142,
+          48.9785593
+        ]
+      },
+      "id": "node/8063559064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063559065",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-95582-000E",
+        "ref:FR:Orange": "PT341",
+        "ref:FR:Orange:NRO": "ART",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2471563,
+          48.9785877
+        ]
+      },
+      "id": "node/8063559065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063674891",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-95582-000P",
+        "ref:FR:Orange": "PT415",
+        "ref:FR:Orange:NRO": "ART",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2657302,
+          48.9746067
+        ]
+      },
+      "id": "node/8063674891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063756990",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0018",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0161978,
+          47.2593014
+        ]
+      },
+      "id": "node/8063756990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063756991",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0017",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0168818,
+          47.2584185
+        ]
+      },
+      "id": "node/8063756991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063756992",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-001G",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0207367,
+          47.2583629
+        ]
+      },
+      "id": "node/8063756992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063756993",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-001F",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.027092,
+          47.2604866
+        ]
+      },
+      "id": "node/8063756993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063756994",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-003N",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.033249,
+          47.2647104
+        ]
+      },
+      "id": "node/8063756994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063756995",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0019",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0306608,
+          47.2611233
+        ]
+      },
+      "id": "node/8063756995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063756996",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-001Q",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0284346,
+          47.2590382
+        ]
+      },
+      "id": "node/8063756996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063756997",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-001I",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0285449,
+          47.2572881
+        ]
+      },
+      "id": "node/8063756997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063756998",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-001M",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.028248,
+          47.2545249
+        ]
+      },
+      "id": "node/8063756998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063756999",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-001P",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0266112,
+          47.2520996
+        ]
+      },
+      "id": "node/8063756999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063757000",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-001E",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.022794,
+          47.2492557
+        ]
+      },
+      "id": "node/8063757000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063757001",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-001C",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0311953,
+          47.2538114
+        ]
+      },
+      "id": "node/8063757001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063757002",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-001D",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0321907,
+          47.2551131
+        ]
+      },
+      "id": "node/8063757002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063757003",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-001H",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.035612,
+          47.2571419
+        ]
+      },
+      "id": "node/8063757003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063757004",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-003U",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0397858,
+          47.2606737
+        ]
+      },
+      "id": "node/8063757004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063757005",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-003T",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0401189,
+          47.2620811
+        ]
+      },
+      "id": "node/8063757005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063757006",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-003L",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0396301,
+          47.2629002
+        ]
+      },
+      "id": "node/8063757006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063757007",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-005L",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.048845,
+          47.2652281
+        ]
+      },
+      "id": "node/8063757007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063757008",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-005K",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0466515,
+          47.2630195
+        ]
+      },
+      "id": "node/8063757008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063757009",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-005M",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0481469,
+          47.2680821
+        ]
+      },
+      "id": "node/8063757009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063757010",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-005N",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0496608,
+          47.2663373
+        ]
+      },
+      "id": "node/8063757010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065165017",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-003V",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0399419,
+          47.2593613
+        ]
+      },
+      "id": "node/8065165017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065165018",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-005I",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0406549,
+          47.2558866
+        ]
+      },
+      "id": "node/8065165018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065165019",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-005G",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0392773,
+          47.2545273
+        ]
+      },
+      "id": "node/8065165019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065165020",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-005B",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0357509,
+          47.25194
+        ]
+      },
+      "id": "node/8065165020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065165021",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-005A",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0365545,
+          47.248865
+        ]
+      },
+      "id": "node/8065165021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065165022",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0059",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0368314,
+          47.2495358
+        ]
+      },
+      "id": "node/8065165022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065224048",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-005C",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0380537,
+          47.2517405
+        ]
+      },
+      "id": "node/8065224048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065224049",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-005D",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0421537,
+          47.2543829
+        ]
+      },
+      "id": "node/8065224049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065224050",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-005F",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0468856,
+          47.2581556
+        ]
+      },
+      "id": "node/8065224050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065496461",
+        "colour": "beige",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:Orange:NRO": "THO",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4872249,
+          46.3705653
+        ]
+      },
+      "id": "node/8065496461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065524792",
+        "colour": "beige",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:Orange:NRO": "THO",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4921461,
+          46.3705241
+        ]
+      },
+      "id": "node/8065524792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065547865",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0054",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0562946,
+          47.250316
+        ]
+      },
+      "id": "node/8065547865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065547866",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0055",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0510613,
+          47.2494633
+        ]
+      },
+      "id": "node/8065547866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065547867",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0056",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0481832,
+          47.2490908
+        ]
+      },
+      "id": "node/8065547867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065547868",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0051",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0517036,
+          47.2458369
+        ]
+      },
+      "id": "node/8065547868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065547869",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0053",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0544439,
+          47.2457462
+        ]
+      },
+      "id": "node/8065547869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065547870",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-0052",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0524516,
+          47.2434567
+        ]
+      },
+      "id": "node/8065547870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065547871",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-003Y",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0388044,
+          47.2417409
+        ]
+      },
+      "id": "node/8065547871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065547872",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-005Q",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0341269,
+          47.2416532
+        ]
+      },
+      "id": "node/8065547872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065547873",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25056-005O",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0331524,
+          47.2412151
+        ]
+      },
+      "id": "node/8065547873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065880083",
+        "colour": "beige",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:Orange:NRO": "THO",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.489482,
+          46.3755009
+        ]
+      },
+      "id": "node/8065880083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8068008677",
+        "addr:city": "Annay",
+        "addr:postcode": "62880",
+        "addr:street": "rue gino valli",
+        "operator": "orange",
+        "ref": "PMZ",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8832272,
+          50.4652347
+        ]
+      },
+      "id": "node/8068008677"
     }
   ]
 }
