@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-10-31T09:03:02Z",
+  "timestamp": "2020-11-06T11:41:02Z",
   "features": [
     {
       "type": "Feature",
@@ -25964,6 +25964,44 @@
         ]
       },
       "id": "node/8065179285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8077723277",
+        "name": "09122FOI",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:Orange": "09122FOI",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6137465,
+          42.9540805
+        ]
+      },
+      "id": "node/8077723277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8081828063",
+        "operator": "orange",
+        "ref": "chambre FT",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0682949,
+          50.6349905
+        ]
+      },
+      "id": "node/8081828063"
     }
   ]
 }
