@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-11-06T11:43:02Z",
+  "timestamp": "2020-11-12T16:47:03Z",
   "features": [
     {
       "type": "Feature",
@@ -109,24 +109,24 @@
         "coordinates": [
           [
             [
-              9.4470672,
-              42.6934236
+              9.4471115,
+              42.6934394
             ],
             [
-              9.4471283,
-              42.6934194
+              9.4471726,
+              42.6934352
             ],
             [
-              9.4471328,
-              42.6934549
+              9.4471771,
+              42.6934707
             ],
             [
-              9.4470717,
-              42.6934591
+              9.447116,
+              42.6934749
             ],
             [
-              9.4470672,
-              42.6934236
+              9.4471115,
+              42.6934394
             ]
           ]
         ]
@@ -4300,49 +4300,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/844757634",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-023-BF",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.9408152,
-              47.3353569
-            ],
-            [
-              5.9408018,
-              47.335351
-            ],
-            [
-              5.9408085,
-              47.3353441
-            ],
-            [
-              5.9408218,
-              47.33535
-            ],
-            [
-              5.9408152,
-              47.3353569
-            ]
-          ]
-        ]
-      },
-      "id": "way/844757634"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/845796876",
         "building": "service",
         "building:prefabricated": "yes",
@@ -4471,1106 +4428,6 @@
         ]
       },
       "id": "way/845797809"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845805584",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-002-AR",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3780041,
-              47.3801681
-            ],
-            [
-              6.3779962,
-              47.3801565
-            ],
-            [
-              6.3780257,
-              47.3801472
-            ],
-            [
-              6.3780337,
-              47.3801589
-            ],
-            [
-              6.3780041,
-              47.3801681
-            ]
-          ]
-        ]
-      },
-      "id": "way/845805584"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845806573",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-008-AU",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.5651051,
-              47.3870935
-            ],
-            [
-              6.565109,
-              47.3870692
-            ],
-            [
-              6.5651831,
-              47.3870746
-            ],
-            [
-              6.5651793,
-              47.3870989
-            ],
-            [
-              6.5651051,
-              47.3870935
-            ]
-          ]
-        ]
-      },
-      "id": "way/845806573"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845807954",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-024-GJ",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.6201774,
-              47.3488857
-            ],
-            [
-              6.6201703,
-              47.3488595
-            ],
-            [
-              6.6201881,
-              47.3488573
-            ],
-            [
-              6.6201953,
-              47.3488835
-            ],
-            [
-              6.6201774,
-              47.3488857
-            ]
-          ]
-        ]
-      },
-      "id": "way/845807954"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845808766",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-024-BS",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.5435807,
-              47.3239651
-            ],
-            [
-              6.543573,
-              47.3239592
-            ],
-            [
-              6.5435851,
-              47.3239519
-            ],
-            [
-              6.5435928,
-              47.3239578
-            ],
-            [
-              6.5435807,
-              47.3239651
-            ]
-          ]
-        ]
-      },
-      "id": "way/845808766"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845809157",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-024-HB",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.5251495,
-              47.3108186
-            ],
-            [
-              6.5251433,
-              47.3108059
-            ],
-            [
-              6.5251602,
-              47.310802
-            ],
-            [
-              6.5251665,
-              47.3108147
-            ],
-            [
-              6.5251495,
-              47.3108186
-            ]
-          ]
-        ]
-      },
-      "id": "way/845809157"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845809741",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-027-CL",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.7072828,
-              47.2590264
-            ],
-            [
-              6.7072947,
-              47.2590053
-            ],
-            [
-              6.7073798,
-              47.2590275
-            ],
-            [
-              6.7073679,
-              47.2590486
-            ],
-            [
-              6.7072828,
-              47.2590264
-            ]
-          ]
-        ]
-      },
-      "id": "way/845809741"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845810414",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-006-CN",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.8102332,
-              47.2466269
-            ],
-            [
-              6.8102308,
-              47.2466168
-            ],
-            [
-              6.8102567,
-              47.2466141
-            ],
-            [
-              6.810259,
-              47.2466242
-            ],
-            [
-              6.8102332,
-              47.2466269
-            ]
-          ]
-        ]
-      },
-      "id": "way/845810414"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845811049",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-014-CQ",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.918508,
-              47.2385576
-            ],
-            [
-              6.9185183,
-              47.2385453
-            ],
-            [
-              6.9185318,
-              47.2385506
-            ],
-            [
-              6.9185203,
-              47.2385629
-            ],
-            [
-              6.918508,
-              47.2385576
-            ]
-          ]
-        ]
-      },
-      "id": "way/845811049"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845811301",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-010-DH",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.8250842,
-              47.1691186
-            ],
-            [
-              6.8250612,
-              47.1691099
-            ],
-            [
-              6.8250737,
-              47.1690947
-            ],
-            [
-              6.8250966,
-              47.1691035
-            ],
-            [
-              6.8250842,
-              47.1691186
-            ]
-          ]
-        ]
-      },
-      "id": "way/845811301"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845811847",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-011-DC",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.7199985,
-              47.1865017
-            ],
-            [
-              6.720005,
-              47.186476
-            ],
-            [
-              6.7200391,
-              47.18648
-            ],
-            [
-              6.7200325,
-              47.1865057
-            ],
-            [
-              6.7199985,
-              47.1865017
-            ]
-          ]
-        ]
-      },
-      "id": "way/845811847"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845812187",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-011-DB",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.6563778,
-              47.1760488
-            ],
-            [
-              6.6563182,
-              47.1760311
-            ],
-            [
-              6.6563346,
-              47.1760056
-            ],
-            [
-              6.6563942,
-              47.1760234
-            ],
-            [
-              6.6563778,
-              47.1760488
-            ]
-          ]
-        ]
-      },
-      "id": "way/845812187"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845812642",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-003-EG",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.6352971,
-              47.0827614
-            ],
-            [
-              6.6352827,
-              47.0827295
-            ],
-            [
-              6.6353118,
-              47.0827235
-            ],
-            [
-              6.6353261,
-              47.0827554
-            ],
-            [
-              6.6352971,
-              47.0827614
-            ]
-          ]
-        ]
-      },
-      "id": "way/845812642"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845813446",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-042-HC",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.4335065,
-              47.0227262
-            ],
-            [
-              6.4334863,
-              47.0227354
-            ],
-            [
-              6.4334724,
-              47.0227212
-            ],
-            [
-              6.4334926,
-              47.022712
-            ],
-            [
-              6.4335065,
-              47.0227262
-            ]
-          ]
-        ]
-      },
-      "id": "way/845813446"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845813737",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-041-FC",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3531386,
-              46.9947218
-            ],
-            [
-              6.3531276,
-              46.9947336
-            ],
-            [
-              6.3530928,
-              46.9947184
-            ],
-            [
-              6.3531038,
-              46.9947066
-            ],
-            [
-              6.3531386,
-              46.9947218
-            ]
-          ]
-        ]
-      },
-      "id": "way/845813737"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845814305",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-041-EQ",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3236114,
-              47.0221659
-            ],
-            [
-              6.323568,
-              47.0221897
-            ],
-            [
-              6.3235544,
-              47.0221781
-            ],
-            [
-              6.3235978,
-              47.0221544
-            ],
-            [
-              6.3236114,
-              47.0221659
-            ]
-          ]
-        ]
-      },
-      "id": "way/845814305"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845815227",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-041-ER",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3787719,
-              47.0520662
-            ],
-            [
-              6.3787902,
-              47.0520504
-            ],
-            [
-              6.3788028,
-              47.0520572
-            ],
-            [
-              6.3787845,
-              47.052073
-            ],
-            [
-              6.3787719,
-              47.0520662
-            ]
-          ]
-        ]
-      },
-      "id": "way/845815227"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845815368",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-004-GG",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.2724497,
-              46.9117272
-            ],
-            [
-              6.2724282,
-              46.9117162
-            ],
-            [
-              6.2724385,
-              46.9117068
-            ],
-            [
-              6.27246,
-              46.9117178
-            ],
-            [
-              6.2724497,
-              46.9117272
-            ]
-          ]
-        ]
-      },
-      "id": "way/845815368"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845815597",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-004-FM",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3255221,
-              46.8848627
-            ],
-            [
-              6.3254975,
-              46.8848507
-            ],
-            [
-              6.3255133,
-              46.8848355
-            ],
-            [
-              6.325538,
-              46.8848476
-            ],
-            [
-              6.3255221,
-              46.8848627
-            ]
-          ]
-        ]
-      },
-      "id": "way/845815597"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845816212",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-001-FQ",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.2505936,
-              46.8109237
-            ],
-            [
-              6.2505377,
-              46.8108974
-            ],
-            [
-              6.2505543,
-              46.8108809
-            ],
-            [
-              6.2506102,
-              46.8109071
-            ],
-            [
-              6.2505936,
-              46.8109237
-            ]
-          ]
-        ]
-      },
-      "id": "way/845816212"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845816746",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-001-FF",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0826515,
-              46.8879009
-            ],
-            [
-              6.0826548,
-              46.8878769
-            ],
-            [
-              6.082681,
-              46.8878785
-            ],
-            [
-              6.0826778,
-              46.8879025
-            ],
-            [
-              6.0826515,
-              46.8879009
-            ]
-          ]
-        ]
-      },
-      "id": "way/845816746"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845817025",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-005-EY",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.011532,
-              46.9563904
-            ],
-            [
-              6.0115321,
-              46.9563769
-            ],
-            [
-              6.0115589,
-              46.956377
-            ],
-            [
-              6.0115587,
-              46.9563905
-            ],
-            [
-              6.011532,
-              46.9563904
-            ]
-          ]
-        ]
-      },
-      "id": "way/845817025"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845817729",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-039-EK",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.001576,
-              47.0323798
-            ],
-            [
-              6.0015725,
-              47.0323541
-            ],
-            [
-              6.0015945,
-              47.0323527
-            ],
-            [
-              6.001598,
-              47.0323784
-            ],
-            [
-              6.001576,
-              47.0323798
-            ]
-          ]
-        ]
-      },
-      "id": "way/845817729"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845818125",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-034-HA",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.9142367,
-              47.1085698
-            ],
-            [
-              5.9142334,
-              47.1085671
-            ],
-            [
-              5.9142423,
-              47.108562
-            ],
-            [
-              5.9142468,
-              47.108564
-            ],
-            [
-              5.9142367,
-              47.1085698
-            ]
-          ]
-        ]
-      },
-      "id": "way/845818125"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845818717",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-034-DV",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.9593531,
-              47.1405591
-            ],
-            [
-              5.9593263,
-              47.1405547
-            ],
-            [
-              5.9593302,
-              47.1405437
-            ],
-            [
-              5.959357,
-              47.1405481
-            ],
-            [
-              5.9593531,
-              47.1405591
-            ]
-          ]
-        ]
-      },
-      "id": "way/845818717"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/845819329",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-009-CF",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.2362641,
-              47.2121192
-            ],
-            [
-              6.2362482,
-              47.2121191
-            ],
-            [
-              6.2362484,
-              47.212111
-            ],
-            [
-              6.2362643,
-              47.2121112
-            ],
-            [
-              6.2362641,
-              47.2121192
-            ]
-          ]
-        ]
-      },
-      "id": "way/845819329"
     },
     {
       "type": "Feature",
@@ -6001,6 +4858,50 @@
         ]
       },
       "id": "way/856810433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/870826810",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "manufacturer": "Grolleau",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.860408,
+              47.1156418
+            ],
+            [
+              5.8603842,
+              47.115622
+            ],
+            [
+              5.8604063,
+              47.1156097
+            ],
+            [
+              5.8604301,
+              47.1156295
+            ],
+            [
+              5.860408,
+              47.1156418
+            ]
+          ]
+        ]
+      },
+      "id": "way/870826810"
     },
     {
       "type": "Feature",
@@ -57222,7 +56123,7 @@
         "colour": "green",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
-        "manufacturer": "ideaoptical",
+        "manufacturer": "Ideaoptical",
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:ARCEP": "FI-74012-000B",
@@ -58238,11 +57139,16 @@
         "colour": "green",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
         "operator": "Orange",
+        "owner": "Orange",
         "ref:FR:ARCEP": "FI-74008-000B",
+        "ref:FR:Orange": "PT001716",
+        "ref:FR:Orange:NRO": "CHA",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -72456,8 +71362,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2833707,
-          48.7241187
+          2.2833881,
+          48.7241266
         ]
       },
       "id": "node/6911557489"
@@ -75501,12 +74407,14 @@
         "@id": "node/6964777221",
         "height": "1.6",
         "man_made": "street_cabinet",
-        "name": "SRO",
+        "name": "PMZ",
         "operator": "NATHD",
-        "ref": "?",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "ADR_24053_PYPA",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -75523,12 +74431,14 @@
         "@id": "node/6964777222",
         "height": "1.6",
         "man_made": "street_cabinet",
-        "name": "SRO",
+        "name": "PMZ",
         "operator": "NATHD",
-        "ref": "?",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "ADR_24053_MITT",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -98093,12 +97003,14 @@
         "@id": "node/7187710253",
         "height": "1.6",
         "man_made": "street_cabinet",
-        "name": "SRO",
+        "name": "PMZ",
         "operator": "NATHD",
-        "ref": "?",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "ADR_24053_COUT",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -98115,12 +97027,14 @@
         "@id": "node/7187710254",
         "height": "1.6",
         "man_made": "street_cabinet",
-        "name": "SRO",
+        "name": "PMZ",
         "operator": "NATHD",
-        "ref": "ADR_24053_PATR",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "ADR_24053_PATR",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
+        "utility": "telecom",
         "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_ADR_24053_PATR.jpg"
       },
       "geometry": {
@@ -106574,11 +105488,15 @@
         "@id": "node/7261530744",
         "height": "1.6",
         "man_made": "street_cabinet",
-        "name": "SRO",
+        "name": "PMZ",
         "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "NA_24484_JUTU",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_NA_24484_JUTU.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -128454,6 +127372,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7598846104",
+        "colour": "beige",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
@@ -131344,12 +130263,14 @@
         "@id": "node/7620189526",
         "height": "1.6",
         "man_made": "street_cabinet",
-        "name": "SRO",
+        "name": "PMZ",
         "operator": "NATHD",
-        "ref": "ADR_24053_BOUV",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "ADR_24053_BOUV",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
+        "utility": "telecom",
         "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_ADR_24053_BOUV.jpg"
       },
       "geometry": {
@@ -139355,11 +138276,12 @@
         "man_made": "street_cabinet",
         "name": "PMZ",
         "operator": "NATHD",
-        "owner": "SMPN",
-        "ref": "NA_24026_DECY",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "NA_24026_DECY",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
+        "utility": "telecom",
         "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_NA_24026_DECY.jpg"
       },
       "geometry": {
@@ -139433,8 +138355,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.2943655,
-          45.1339209
+          1.2943509,
+          45.1339393
         ]
       },
       "id": "node/7794320694"
@@ -142959,10 +141881,12 @@
         "man_made": "street_cabinet",
         "name": "PMZ",
         "operator": "NATHD",
-        "ref": "?",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "ADR_24053_LYON",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -159419,6 +158343,1391 @@
         ]
       },
       "id": "node/8087553407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8088919648",
+        "colour": "black",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-74133-0003",
+        "ref:FR:Orange": "PT001965",
+        "ref:FR:Orange:NRO": "CHA",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2144867,
+          46.1915831
+        ]
+      },
+      "id": "node/8088919648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089420834",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "NA_24439_POHY",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_NA_24439_POHY.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7992398,
+          45.1441429
+        ]
+      },
+      "id": "node/8089420834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089420835",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "ADR_24053_CHAN",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7461352,
+          45.1819344
+        ]
+      },
+      "id": "node/8089420835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089420836",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "NA_24053_SACA",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NA_24053_SACA.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7877323,
+          45.1828435
+        ]
+      },
+      "id": "node/8089420836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089420837",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "NA_24053_PUJU",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7861381,
+          45.1874882
+        ]
+      },
+      "id": "node/8089420837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089420838",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "?",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8114892,
+          45.1911755
+        ]
+      },
+      "id": "node/8089420838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089420839",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "?",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5960809,
+          45.1758069
+        ]
+      },
+      "id": "node/8089420839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089420840",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-24322-001S",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7221261,
+          45.1844496
+        ]
+      },
+      "id": "node/8089420840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089420841",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-24322-001R",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7197625,
+          45.1849352
+        ]
+      },
+      "id": "node/8089420841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8090950221",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4787047,
+          46.368268
+        ]
+      },
+      "id": "node/8090950221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8093122078",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Covage",
+        "ref:FR:ARCEP": "*",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.993386,
+          46.4830326
+        ]
+      },
+      "id": "node/8093122078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8093540911",
+        "colour": "beige",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4673679,
+          46.365893
+        ]
+      },
+      "id": "node/8093540911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8093600242",
+        "colour": "beige",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4690322,
+          46.3667212
+        ]
+      },
+      "id": "node/8093600242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8093600290",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4787721,
+          46.3699809
+        ]
+      },
+      "id": "node/8093600290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8093892221",
+        "colour": "beige",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4641277,
+          46.3643345
+        ]
+      },
+      "id": "node/8093892221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8096245128",
+        "colour": "white",
+        "hinge": "horizontal",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "manufacturer": "grolleau",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-29189-000L",
+        "ref:FR:Orange": "PT000041",
+        "ref:FR:Orange:NRO": "PGT",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3758378,
+          48.3751387
+        ]
+      },
+      "id": "node/8096245128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8096245129",
+        "colour": "grey",
+        "hinge": "horizontal",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "manufacturer": "grolleau",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-29189-0006",
+        "ref:FR:Orange": "PT000029",
+        "ref:FR:Orange:NRO": "PGT",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3701484,
+          48.3694822
+        ]
+      },
+      "id": "node/8096245129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8096245130",
+        "colour": "grey",
+        "hinge": "horizontal",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "manufacturer": "grolleau",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-29189-0000",
+        "ref:FR:Orange": "PT000042",
+        "ref:FR:Orange:NRO": "PGT",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3665969,
+          48.375932
+        ]
+      },
+      "id": "node/8096245130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8096245131",
+        "colour": "grey",
+        "hinge": "horizontal",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "manufacturer": "grolleau",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-29189-000I",
+        "ref:FR:Orange": "PT000043",
+        "ref:FR:Orange:NRO": "PGT",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3665891,
+          48.3759275
+        ]
+      },
+      "id": "node/8096245131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8096245132",
+        "colour": "grey",
+        "hinge": "horizontal",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "manufacturer": "grolleau",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-29189-000E",
+        "ref:FR:Orange": "PT000028",
+        "ref:FR:Orange:NRO": "PGT",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3411941,
+          48.3588251
+        ]
+      },
+      "id": "node/8096245132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8096245133",
+        "colour": "grey",
+        "hinge": "horizontal",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "manufacturer": "grolleau",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-29189-000C",
+        "ref:FR:Orange": "PT000054",
+        "ref:FR:Orange:NRO": "PGT",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4100089,
+          48.3477893
+        ]
+      },
+      "id": "node/8096245133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8096245134",
+        "colour": "grey",
+        "hinge": "horizontal",
+        "location": "green",
+        "man_made": "street_cabinet",
+        "manufacturer": "grolleau",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-29189-000A",
+        "ref:FR:Orange": "PT000053",
+        "ref:FR:Orange:NRO": "PGT",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3908579,
+          48.34996
+        ]
+      },
+      "id": "node/8096245134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8096245135",
+        "colour": "grey",
+        "hinge": "horizontal",
+        "location": "green",
+        "man_made": "street_cabinet",
+        "manufacturer": "grolleau",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-29189-000G",
+        "ref:FR:Orange": "PT000033",
+        "ref:FR:Orange:NRO": "PGT",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3760315,
+          48.3854384
+        ]
+      },
+      "id": "node/8096245135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8096604111",
+        "colour": "beige",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4521457,
+          46.3585603
+        ]
+      },
+      "id": "node/8096604111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8096608821",
+        "colour": "black",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4585119,
+          46.3616321
+        ]
+      },
+      "id": "node/8096608821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8096608837",
+        "colour": "beige",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4617339,
+          46.3631865
+        ]
+      },
+      "id": "node/8096608837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8098390729",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-79191-002I",
+        "ref:FR:Orange": "PT001389",
+        "ref:FR:Orange:NRO": "NBO",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4572478,
+          46.3189422
+        ]
+      },
+      "id": "node/8098390729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8100822887",
+        "colour": "beige",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4600468,
+          46.3676087
+        ]
+      },
+      "id": "node/8100822887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8110815066",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "source": "survey 2020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2563647,
+          48.9694282
+        ]
+      },
+      "id": "node/8110815066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111391677",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-25197-0001",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.200943,
+          47.294429
+        ]
+      },
+      "id": "node/8111391677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111936414",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-023-BF",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9408156,
+          47.3353479
+        ]
+      },
+      "id": "node/8111936414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111936415",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-008-AU",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5651463,
+          47.3870895
+        ]
+      },
+      "id": "node/8111936415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111936416",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-024-GJ",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6201781,
+          47.3488709
+        ]
+      },
+      "id": "node/8111936416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111949217",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-034-HA",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9142389,
+          47.1085655
+        ]
+      },
+      "id": "node/8111949217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111949218",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-034-DV",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9593302,
+          47.1405464
+        ]
+      },
+      "id": "node/8111949218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111949219",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-039-EK",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0015826,
+          47.0323618
+        ]
+      },
+      "id": "node/8111949219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111949220",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-005-EY",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.011547,
+          46.9563786
+        ]
+      },
+      "id": "node/8111949220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111949221",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-001-FF",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0826664,
+          46.8878884
+        ]
+      },
+      "id": "node/8111949221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111949222",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-001-FQ",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2505944,
+          46.8109082
+        ]
+      },
+      "id": "node/8111949222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111949223",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-004-FM",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3255228,
+          46.8848469
+        ]
+      },
+      "id": "node/8111949223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111949224",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-004-GG",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2724417,
+          46.9117152
+        ]
+      },
+      "id": "node/8111949224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111949225",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-041-FC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3531123,
+          46.9947139
+        ]
+      },
+      "id": "node/8111949225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111949226",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-041-EQ",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3235791,
+          47.022173
+        ]
+      },
+      "id": "node/8111949226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111949227",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-041-ER",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.37878,
+          47.0520616
+        ]
+      },
+      "id": "node/8111949227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111949228",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-042-HC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.433486,
+          47.0227194
+        ]
+      },
+      "id": "node/8111949228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111949229",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-003-EG",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6353091,
+          47.0827549
+        ]
+      },
+      "id": "node/8111949229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111949230",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-011-DC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7200073,
+          47.1864938
+        ]
+      },
+      "id": "node/8111949230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111949231",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-011-DB",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6563655,
+          47.176032
+        ]
+      },
+      "id": "node/8111949231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111949232",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-010-DH",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8250893,
+          47.1691105
+        ]
+      },
+      "id": "node/8111949232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111949233",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-014-CQ",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9185187,
+          47.2385559
+        ]
+      },
+      "id": "node/8111949233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111968405",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-006-CN",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8102509,
+          47.2466151
+        ]
+      },
+      "id": "node/8111968405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111968406",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-006-CN",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9944531,
+          47.3440115
+        ]
+      },
+      "id": "node/8111968406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111968407",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-027-CL",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7073224,
+          47.2590297
+        ]
+      },
+      "id": "node/8111968407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111968408",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-024-HB",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5251535,
+          47.3108103
+        ]
+      },
+      "id": "node/8111968408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111968409",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-024-BS",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.54358,
+          47.3239569
+        ]
+      },
+      "id": "node/8111968409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111968410",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-002-AR",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3780169,
+          47.3801476
+        ]
+      },
+      "id": "node/8111968410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111968411",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-009-CF",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2362544,
+          47.2121164
+        ]
+      },
+      "id": "node/8111968411"
     }
   ]
 }

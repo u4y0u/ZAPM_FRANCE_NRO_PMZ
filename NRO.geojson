@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-11-06T11:41:02Z",
+  "timestamp": "2020-11-12T16:49:02Z",
   "features": [
     {
       "type": "Feature",
@@ -9952,6 +9952,8 @@
         "building": "service",
         "name": "NRO Boulazac",
         "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "SHL_24053_BOUL",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Boulazac.jpg"
@@ -9967,6 +9969,10 @@
             [
               0.7877132,
               45.1828381
+            ],
+            [
+              0.7877323,
+              45.1828435
             ],
             [
               0.7877528,
@@ -10009,6 +10015,10 @@
             [
               1.2943393,
               45.1339692
+            ],
+            [
+              1.2943509,
+              45.1339393
             ],
             [
               1.2943533,
@@ -10700,6 +10710,7 @@
         "building": "service",
         "name": "NRO Sarlat",
         "operator": "NATHD",
+        "owner": "Périgord Numérique",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -18846,6 +18857,48 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/870826305",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "25-",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.9943821,
+              47.3440297
+            ],
+            [
+              6.9944068,
+              47.3439952
+            ],
+            [
+              6.9944417,
+              47.3440067
+            ],
+            [
+              6.994417,
+              47.3440411
+            ],
+            [
+              6.9943821,
+              47.3440297
+            ]
+          ]
+        ]
+      },
+      "id": "way/870826305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/276884854",
         "name": "NRO FREE BER34",
         "operator": "Free",
@@ -24766,7 +24819,8 @@
         "operator": "Orange",
         "ref": "TRE 24",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
