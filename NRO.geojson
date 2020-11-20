@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-11-15T11:16:02Z",
+  "timestamp": "2020-11-20T14:06:02Z",
   "features": [
     {
       "type": "Feature",
@@ -8433,45 +8433,6 @@
         ]
       },
       "id": "way/672700571"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/675592423",
-        "man_made": "street_cabinet",
-        "ref": "NRO39154CLO_10",
-        "street_cabinet": "telecom",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.6431206,
-              46.5983637
-            ],
-            [
-              5.6431119,
-              46.598351
-            ],
-            [
-              5.6431178,
-              46.5983491
-            ],
-            [
-              5.6431264,
-              46.5983618
-            ],
-            [
-              5.6431206,
-              46.5983637
-            ]
-          ]
-        ]
-      },
-      "id": "way/675592423"
     },
     {
       "type": "Feature",
@@ -26056,6 +26017,28 @@
         ]
       },
       "id": "node/8081828063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8128775817",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO",
+        "ref": "NC",
+        "ref:FR:Orange": "ref:FR:ADN",
+        "survey:date": "2020-11-17",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4135666,
+          44.9644374
+        ]
+      },
+      "id": "node/8128775817"
     }
   ]
 }
