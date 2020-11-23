@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-11-20T14:06:02Z",
+  "timestamp": "2020-11-23T18:46:02Z",
   "features": [
     {
       "type": "Feature",
@@ -9125,47 +9125,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/676139583",
-        "building": "service",
-        "name": "NRO La Douze",
-        "owner": "Perigord Numérique",
-        "source": "https://twitter.com/PerigordNum/status/1102944560387362818",
-        "start_date": "2019-03-06",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              0.8571227,
-              45.088957
-            ],
-            [
-              0.8571643,
-              45.0889409
-            ],
-            [
-              0.8572058,
-              45.0889943
-            ],
-            [
-              0.8571642,
-              45.0890104
-            ],
-            [
-              0.8571227,
-              45.088957
-            ]
-          ]
-        ]
-      },
-      "id": "way/676139583"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/676139584",
         "building": "service",
         "name": "NRO",
@@ -15189,7 +15148,8 @@
         "source": "https://twitter.com/Hades73440/status/1123905534007103488",
         "start_date": "02/05/19",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Polygon",
@@ -26039,6 +25999,26 @@
         ]
       },
       "id": "node/8128775817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155530327",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_La_Douze.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8571233,
+          45.0889261
+        ]
+      },
+      "id": "node/8155530327"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-11-20T14:04:02Z",
+  "timestamp": "2020-11-23T18:48:02Z",
   "features": [
     {
       "type": "Feature",
@@ -76924,8 +76924,8 @@
       "properties": {
         "@id": "node/7047804396",
         "colour": "green",
-        "description": "Couleur Vert Foncé",
         "man_made": "street_cabinet",
+        "material": "metal",
         "operator": "Orange",
         "owner": "Orange",
         "street_cabinet": "telecom",
@@ -76947,8 +76947,9 @@
       "properties": {
         "@id": "node/7047804397",
         "colour": "green",
-        "description": "Couleur Vert Foncé",
+        "connection_point": "primary",
         "man_made": "street_cabinet",
+        "material": "metal",
         "operator": "Orange",
         "owner": "Orange",
         "street_cabinet": "telecom",
@@ -76972,6 +76973,7 @@
         "colour": "green",
         "description": "Couleur Vert Foncé",
         "man_made": "street_cabinet",
+        "material": "metal",
         "operator": "Orange",
         "owner": "Orange",
         "street_cabinet": "telecom",
@@ -76982,8 +76984,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.1984406,
-          50.61127
+          3.1984222,
+          50.6113013
         ]
       },
       "id": "node/7047804398"
@@ -76993,7 +76995,7 @@
       "properties": {
         "@id": "node/7047804399",
         "colour": "green",
-        "description": "Couleur Vert Foncé",
+        "connection_point": "primary",
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
@@ -161001,6 +161003,623 @@
         ]
       },
       "id": "node/8143201946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8146332925",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-39198-000Q",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4986029,
+          47.1052561
+        ]
+      },
+      "id": "node/8146332925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8146332926",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-39198-0016",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4905367,
+          47.10136
+        ]
+      },
+      "id": "node/8146332926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8146332927",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-39198-000S",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4903057,
+          47.1015867
+        ]
+      },
+      "id": "node/8146332927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8146332928",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-39198-0009",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4775899,
+          47.0962227
+        ]
+      },
+      "id": "node/8146332928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8146332929",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-39198-000D",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4861765,
+          47.0902783
+        ]
+      },
+      "id": "node/8146332929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8146714147",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-39198-000M",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4850302,
+          47.0873783
+        ]
+      },
+      "id": "node/8146714147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8146714170",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-39198-000B",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4810221,
+          47.0847779
+        ]
+      },
+      "id": "node/8146714170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8146714171",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-39198-000L",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.469575,
+          47.0815021
+        ]
+      },
+      "id": "node/8146714171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8148886029",
+        "man_made": "street_cabinet",
+        "operator": "Covage",
+        "ref": "FBC_020",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0825392,
+          48.6429731
+        ]
+      },
+      "id": "node/8148886029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155530328",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "NA_24156_TYNY",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_NA_24156_TYNY.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8571619,
+          45.0889736
+        ]
+      },
+      "id": "node/8155530328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155530329",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "NA_24156_FEDO",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_NA_24156_TYNY.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8571505,
+          45.0889594
+        ]
+      },
+      "id": "node/8155530329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155530330",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "NA_24156_RYPY",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_NA_24156_RYPY.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8670965,
+          45.0590601
+        ]
+      },
+      "id": "node/8155530330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155530331",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "NA_24166_FUBO",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_NA_24166_FUBO.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8547918,
+          45.1611868
+        ]
+      },
+      "id": "node/8155530331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155530332",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "NA_24291_BEDO",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.174991,
+          45.0644119
+        ]
+      },
+      "id": "node/8155530332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155530333",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "NA_24291_MYJO",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1662311,
+          45.070222
+        ]
+      },
+      "id": "node/8155530333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155530334",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "?",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1727865,
+          45.0775734
+        ]
+      },
+      "id": "node/8155530334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155530335",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "NA_24135_VEME",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7849059,
+          45.2504598
+        ]
+      },
+      "id": "node/8155530335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155530336",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "ADR_24520_SELV",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2125557,
+          44.8983488
+        ]
+      },
+      "id": "node/8155530336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155530337",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "ADR_24520_GAMB",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2153677,
+          44.8938802
+        ]
+      },
+      "id": "node/8155530337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155530338",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "ADR_24520_LERO",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2147243,
+          44.8910308
+        ]
+      },
+      "id": "node/8155530338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155530339",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "ADR_24520_GRAS",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2142505,
+          44.8890084
+        ]
+      },
+      "id": "node/8155530339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155530340",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "ADR_24520_GENE",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2168032,
+          44.8871105
+        ]
+      },
+      "id": "node/8155530340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155530341",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "SHL_24520_GIAC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2124289,
+          44.883833
+        ]
+      },
+      "id": "node/8155530341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155530342",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "ADR_24520_LOT1",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2174757,
+          44.8776022
+        ]
+      },
+      "id": "node/8155530342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155530343",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "ADR_24520_LOT2",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2174835,
+          44.87758
+        ]
+      },
+      "id": "node/8155530343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155530344",
+        "height": "1.6",
+        "man_made": "street_cabinet",
+        "name": "PMZ",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref:FR:ARCEP": "NA_24520_VINU",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2305829,
+          44.8752912
+        ]
+      },
+      "id": "node/8155530344"
     }
   ]
 }
