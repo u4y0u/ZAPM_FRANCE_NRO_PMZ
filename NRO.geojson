@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-11-23T18:46:02Z",
+  "timestamp": "2020-11-28T11:43:03Z",
   "features": [
     {
       "type": "Feature",
@@ -873,7 +873,8 @@
         "operator": "Isère Fibre",
         "owner": "Conseil Départemental de l'Isère",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Polygon",
@@ -15664,47 +15665,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/838227422",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "operator": "BFC Fibre",
-        "owner": "Jura",
-        "ref": "NRO39370MOU",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.8097704,
-              46.9773133
-            ],
-            [
-              5.8097369,
-              46.9772794
-            ],
-            [
-              5.809765,
-              46.9772629
-            ],
-            [
-              5.8097986,
-              46.9772968
-            ],
-            [
-              5.8097704,
-              46.9773133
-            ]
-          ]
-        ]
-      },
-      "id": "way/838227422"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/838228058",
         "building": "service",
         "building:prefabricated": "yes",
@@ -18656,7 +18616,7 @@
         "building": "service",
         "building:prefabricated": "yes",
         "name": "NRO",
-        "operator": "BFC-Fibre",
+        "operator": "Corai Fibre",
         "owner": "Departement Cote d'Or",
         "ref": "NRO_21038AXN*",
         "telecom": "exchange",
@@ -20473,7 +20433,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7149291072",
-        "name": "BAR44",
+        "name": "44184BAR",
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:Orange": "44184BAR",
@@ -25449,7 +25409,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7831823636",
-        "name": "HLX44",
+        "name": "44184HLX",
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:Orange": "44184HLX",
@@ -25459,8 +25419,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.2706397,
-          47.2597625
+          -2.2710125,
+          47.260456
         ]
       },
       "id": "node/7831823636"
@@ -26019,6 +25979,96 @@
         ]
       },
       "id": "node/8155530327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8168329421",
+        "operator": "Orange",
+        "ref:FR:Orange:NRO": "38185VIG",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7216185,
+          45.1633473
+        ]
+      },
+      "id": "node/8168329421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8168329430",
+        "operator": "Orange",
+        "ref:FR:Orange:NRO": "38421WMH",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7549289,
+          45.1674208
+        ]
+      },
+      "id": "node/8168329430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8168329432",
+        "operator": "Orange",
+        "ref:FR:Orange:NRO": "38185DRA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7054126,
+          45.1833782
+        ]
+      },
+      "id": "node/8168329432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8168329434",
+        "operator": "Orange",
+        "ref:FR:Orange:NRO": "38185PAS",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7314421,
+          45.1846439
+        ]
+      },
+      "id": "node/8168329434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8168329435",
+        "operator": "Orange",
+        "ref:FR:Orange:NRO": "38185MUT",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7381329,
+          45.1882461
+        ]
+      },
+      "id": "node/8168329435"
     }
   ]
 }
