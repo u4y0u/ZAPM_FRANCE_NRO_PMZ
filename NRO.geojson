@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-11-28T11:43:03Z",
+  "timestamp": "2020-12-04T08:54:03Z",
   "features": [
     {
       "type": "Feature",
@@ -8915,7 +8915,7 @@
         "building:levels": "1",
         "building:prefabricated": "yes",
         "operator": "Axione",
-        "owner": "Dorsal;La Fibre Nouvelle-Aquitaine",
+        "owner": "Dorsal",
         "ref": "SHL-87001-AIXE",
         "source": "https://twitter.com/DORSAL_Syndicat/status/1098243019122323456;survey",
         "start_date": "2019-02-20",
