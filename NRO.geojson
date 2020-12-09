@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-04T08:54:03Z",
+  "timestamp": "2020-12-09T20:25:03Z",
   "features": [
     {
       "type": "Feature",
@@ -8400,7 +8400,8 @@
       "properties": {
         "@id": "way/672700571",
         "building": "service",
-        "operator": "Val de Loire Fibre",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
         "source": "https://twitter.com/Lourine45/status/1099240936591233024",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -8954,46 +8955,6 @@
         ]
       },
       "id": "way/676139578"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/676139579",
-        "building": "service",
-        "operator": "Val-de-Loire FIbre",
-        "source": "https://twitter.com/valdeloirefibre/status/1098877881730695168",
-        "start_date": "2019-02-22",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              0.1854238,
-              47.212779
-            ],
-            [
-              0.1854587,
-              47.212758
-            ],
-            [
-              0.1855219,
-              47.2128066
-            ],
-            [
-              0.185487,
-              47.2128275
-            ],
-            [
-              0.1854238,
-              47.212779
-            ]
-          ]
-        ]
-      },
-      "id": "way/676139579"
     },
     {
       "type": "Feature",
@@ -10329,6 +10290,7 @@
         "description": "Shelter recouvert bois.",
         "note": "dessert 2633 foyers.",
         "operator": "TDF",
+        "owner": "Val de Loire Fibre",
         "source": "https://twitter.com/valdeloirefibre/status/1173992184657391616",
         "start_date": "2019-09-17",
         "telecom": "exchange",
@@ -10417,8 +10379,8 @@
         "addr:street": "Rue du Petit Four",
         "building": "service",
         "colour": "darkgreen",
-        "operator": "Val de Loire Fibre (TDF)",
-        "owner": "SMO Val de Loire Numérique",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
         "start_date": "2019",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -12059,9 +12021,11 @@
         "@id": "way/774862629",
         "building": "service",
         "building:prefabricated": "yes",
-        "operator": "Val de Loire Fibre",
+        "note": "1800 prises éligibles sur les communes de Contres, Gy-en-Sologne, Lassay-sur-Croisne, Mur-de-Sologne, Rougeou, Sassay et Soings-en-Sologne.",
+        "operator": "TDF",
         "owner": "Val de Loire Fibre",
-        "ref": "MUR DE SOLOGNE",
+        "ref": "72 eme NRO Mur-de-Sologne",
+        "source": "https://twitter.com/valdeloirefibre/status/1197545561165045761",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -12072,23 +12036,23 @@
           [
             [
               1.5967528,
-              47.4174902
+              47.4174919
             ],
             [
-              1.5967138,
-              47.4174638
+              1.5967098,
+              47.4174639
             ],
             [
               1.5967496,
-              47.4174352
+              47.4174358
             ],
             [
-              1.5967984,
+              1.5967926,
               47.4174638
             ],
             [
               1.5967528,
-              47.4174902
+              47.4174919
             ]
           ]
         ]
@@ -19894,9 +19858,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7060370540",
-        "operator": "Val de Loire Fibre",
+        "note": "5400 prises sur les communes de \nMer, Avaray, Courbouzon, Coursur-Loire, Lestiou, Mulsans et Suèvres",
+        "operator": "TDF",
         "owner": "Val de Loire Fibre",
-        "ref": "MER",
+        "ref": "74 eme NRO Mer",
+        "source": "https://twitter.com/valdeloirefibre/status/1202609213387747329",
         "start_date": "05/12/2019",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -26069,6 +26035,119 @@
         ]
       },
       "id": "node/8168329435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8210403251",
+        "addr:city": "Saint-Aignan",
+        "addr:postcode": "41110",
+        "addr:street": "Route du Blanc",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
+        "ref": "NRO Saint Aignan-sur-Cher",
+        "source": "https://twitter.com/TDFgroupe/status/1034824178346745857",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3601088,
+          47.2604984
+        ]
+      },
+      "id": "node/8210403251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8210494363",
+        "addr:city": "Preuilly-sur-Claise",
+        "note": "Pour le secteur de Preuilly, il s’agit de 3.800 prises : entreprises, administrations ou habitations.\nhttps://www.lanouvellerepublique.fr/indre-et-loire/commune/preuilly-sur-claise/dernier-raccordement-a-la-fibre",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
+        "ref": "48 eme NRO Preuilly-sur-Claise",
+        "source": "https://twitter.com/valdeloirefibre/status/1325720973933416448",
+        "start_date": "2020-11-05",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9419505,
+          46.8591133
+        ]
+      },
+      "id": "node/8210494363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8210683182",
+        "addr:city": "Luzé",
+        "note": "1 217 prises qui permettront de desservir les communes de Antogny-le-Tillac, Chezelles, Courcoué, La Tour-Saint-Gelin, Luzé, Marigny-Marmande et Verneuil-le-Château.",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
+        "ref": "80 eme NRO Luzé",
+        "source": "https://twitter.com/valdeloirefibre/status/1234423368214028289",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4540084,
+          47.0219435
+        ]
+      },
+      "id": "node/8210683182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8210764766",
+        "addr:city": "Avoine",
+        "note": "alimentera Beaumont en Véron, Chinon, Chouzé, Huismes, La Chapelle sur Loire, St Germain sur Vienne et Savigny en Véron.",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
+        "ref": "NRO Avoine",
+        "source": "https://twitter.com/valdeloirefibre/status/1098877881730695168",
+        "start_date": "2019-02-22",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1854231,
+          47.2127401
+        ]
+      },
+      "id": "node/8210764766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8211019147",
+        "addr:city": "Neuvy-le-Roi",
+        "note": "2300 prises permettront de desservir les foyers de 9 communes:\nBueil-en-Touraine, Louestault, Neuillé-Pont-Pierre, Neuvy-le-Roi, Rouziers-de-Touraine, Semblançay, Sonzay Ville bourg et Neuillé-le-Lierre.",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
+        "ref": "77 eme NRO Neuvy-le-Roi",
+        "source": "https://twitter.com/valdeloirefibre/status/1216712476353581057",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5902333,
+          47.6007279
+        ]
+      },
+      "id": "node/8211019147"
     }
   ]
 }
