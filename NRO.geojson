@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-10T16:39:02Z",
+  "timestamp": "2020-12-10T18:40:03Z",
   "features": [
     {
       "type": "Feature",
@@ -13705,46 +13705,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/803854478",
-        "building": "service",
-        "operator": "Orange",
-        "owner": "Vienne Numérique",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              0.407739,
-              46.6794539
-            ],
-            [
-              0.4077045,
-              46.6794275
-            ],
-            [
-              0.407794,
-              46.6793725
-            ],
-            [
-              0.4078285,
-              46.679399
-            ],
-            [
-              0.407739,
-              46.6794539
-            ]
-          ]
-        ]
-      },
-      "id": "way/803854478"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/805122157",
         "building": "service",
         "operator": "Axione",
@@ -25828,7 +25788,7 @@
         "operator": "TDF",
         "owner": "Val de Loire Fibre",
         "ref": "NRO Saint Aignan-sur-Cher",
-        "source": "https://twitter.com/TDFgroupe/status/1034824178346745857",
+        "source": "https://twitter.com/TDFgroupe/status/1034824178346745857;https://www.lanouvellerepublique.fr/loir-et-cher/commune/saint-aignan/la-fibre-optique-se-deploie-5",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -25850,7 +25810,7 @@
         "operator": "TDF",
         "owner": "Val de Loire Fibre",
         "ref": "48 eme NRO Preuilly-sur-Claise",
-        "source": "https://twitter.com/valdeloirefibre/status/1325720973933416448",
+        "source": "https://twitter.com/valdeloirefibre/status/1325720973933416448;https://www.lanouvellerepublique.fr/indre-et-loire/commune/preuilly-sur-claise/dernier-raccordement-a-la-fibre",
         "start_date": "2020-11-05",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -26196,6 +26156,7 @@
         "addr:street": "Place de la Gare",
         "note": "Ce dernier, desservira plus de 1700 prises dans \n13 communes",
         "operator": "TDF",
+        "owner": "Val de Loire Fibre",
         "ref": "NRO Droué",
         "source": "https://twitter.com/valdeloirefibre/status/1278245744831537158",
         "start_date": "2020-07-01",
@@ -26219,6 +26180,7 @@
         "addr:postcode": "41270",
         "addr:street": "Rue Saint-Gildéric",
         "operator": "TDF",
+        "owner": "Val de Loire Fibre",
         "ref": "96 eme NRO Chauvigny-du-Perche",
         "source": "https://twitter.com/valdeloirefibre/status/1336970187929694210",
         "telecom": "exchange",
@@ -26232,6 +26194,123 @@
         ]
       },
       "id": "node/8214314722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8214441202",
+        "addr:city": "Montmorillon",
+        "addr:postcode": "86500",
+        "addr:street": "Chemin des Volliboeufs",
+        "operator": "Orange",
+        "owner": "Vienne Numérique",
+        "ref": "NRO Montmorillon",
+        "source": "https://www.lanouvellerepublique.fr/montmorillon/montmorillon-la-fibre-optique-arrivera-dans-les-maisons-en-2021",
+        "start_date": "2020-09-29",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8772941,
+          46.4316457
+        ]
+      },
+      "id": "node/8214441202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8214596898",
+        "addr:city": "Mauléon",
+        "addr:postcode": "79700",
+        "addr:street": "Rue de Lattre",
+        "operator": "Orange",
+        "ref": "NRO Mauléon",
+        "source": "https://www.lanouvellerepublique.fr/deux-sevres/commune/mauleon/fibre-optique-mauleon-bientot-a-l-ere-du-tres-haut-debit",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7418508,
+          46.9250883
+        ]
+      },
+      "id": "node/8214596898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8214671485",
+        "addr:city": "La Croix-en-Touraine",
+        "addr:postcode": "37150",
+        "addr:street": "Rue d'Amboise",
+        "note": "\"Pose du 85e NRO du réseau Val de Loire Fibre dans la commune de Croix en Touraine.\nAvec ce NRO, c'est 7962 prises éligibles qui seront desservies à terme par la fibre optique.\"",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
+        "ref": "85 eme NRO La Croix-en-Touraine",
+        "source": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/la-croix-en-touraine/le-tres-haut-debit-continue-a-se-deployer;https://twitter.com/valdeloirefibre/status/1260574478913933314",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9891464,
+          47.3550602
+        ]
+      },
+      "id": "node/8214671485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8214744760",
+        "addr:city": "Saint-Georges-lès-Baillargeaux",
+        "addr:postcode": "86130",
+        "building": "service",
+        "operator": "Orange",
+        "owner": "Vienne Numérique",
+        "ref": "NRO Saint-Georges-lès-Baillargeaux",
+        "source": "https://www.lanouvellerepublique.fr/vienne/commune/saint-georges-les-baillargeaux/installation-d-une-armoire-pour-la-fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4077608,
+          46.6794114
+        ]
+      },
+      "id": "node/8214744760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8214794600",
+        "addr:city": "Manthelan",
+        "addr:postcode": "37240",
+        "note": "\"Ce local technique de 60.000 € va permettre aux communes de Bossée, Bournan, Le Louroux ou Sepmes d’être desservies à terme par la fibre optique avec 1.245 prises éligibles.\"",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
+        "ref": "78 eme NRO Manthelan",
+        "source": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/manthelan/lochois-la-fibre-optique-se-pose-dans-la-campagne;https://twitter.com/valdeloirefibre/status/1227217442881056768",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7875193,
+          47.1420104
+        ]
+      },
+      "id": "node/8214794600"
     }
   ]
 }
