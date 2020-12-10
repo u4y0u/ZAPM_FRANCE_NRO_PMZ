@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-10T12:31:02Z",
+  "timestamp": "2020-12-10T16:39:02Z",
   "features": [
     {
       "type": "Feature",
@@ -26122,6 +26122,116 @@
         ]
       },
       "id": "node/8213587074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8213668881",
+        "addr:city": "Azay-le-Rideau",
+        "addr:postcode": "37190",
+        "note": "\"5000 logements raccordables, à terme, à la fibre @ Avon-les-Roches, Azay-le-Rideau,Cheillé, Lignières-de-Touraine, Saché, Vallères, Villaines-les-Rochers\"",
+        "operator": "TDF",
+        "ref": "NRO Azay-le-Rideau",
+        "source": "https://twitter.com/valdeloirefibre/status/1121802052403752960",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4554035,
+          47.2614523
+        ]
+      },
+      "id": "node/8213668881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8213813093",
+        "operator": "Orange",
+        "ref": "COL17",
+        "ref:FR:Orange": "17380COL",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0783952,
+          45.6511754
+        ]
+      },
+      "id": "node/8213813093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8214009405",
+        "addr:city": "Savigny-sur-Braye",
+        "addr:postcode": "41360",
+        "addr:street": "Avenue de Vendôme",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
+        "ref": "42 eme NRO Savigny-sur-Braye",
+        "source": "https://twitter.com/valdeloirefibre/status/1113719509955829760",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8131702,
+          47.8782491
+        ]
+      },
+      "id": "node/8214009405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8214069932",
+        "addr:city": "Droué",
+        "addr:postcode": "41270",
+        "addr:street": "Place de la Gare",
+        "note": "Ce dernier, desservira plus de 1700 prises dans \n13 communes",
+        "operator": "TDF",
+        "ref": "NRO Droué",
+        "source": "https://twitter.com/valdeloirefibre/status/1278245744831537158",
+        "start_date": "2020-07-01",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0724644,
+          48.0435825
+        ]
+      },
+      "id": "node/8214069932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8214314722",
+        "addr:city": "Chauvigny-du-Perche",
+        "addr:postcode": "41270",
+        "addr:street": "Rue Saint-Gildéric",
+        "operator": "TDF",
+        "ref": "96 eme NRO Chauvigny-du-Perche",
+        "source": "https://twitter.com/valdeloirefibre/status/1336970187929694210",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0823521,
+          47.9597077
+        ]
+      },
+      "id": "node/8214314722"
     }
   ]
 }
