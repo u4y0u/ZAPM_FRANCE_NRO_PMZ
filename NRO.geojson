@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-10T12:09:03Z",
+  "timestamp": "2020-12-10T12:31:02Z",
   "features": [
     {
       "type": "Feature",
@@ -10195,54 +10195,6 @@
         ]
       },
       "id": "way/725199202"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/725465601",
-        "addr:city": "Hommes",
-        "addr:postcode": "37340",
-        "addr:street": "Avenue du Vieux Château",
-        "building": "service",
-        "building:material": "metal",
-        "building:prefabricated": "yes",
-        "description": "Shelter recouvert bois.",
-        "note": "dessert 2633 foyers.",
-        "operator": "TDF",
-        "owner": "Val de Loire Fibre",
-        "source": "https://twitter.com/valdeloirefibre/status/1173992184657391616",
-        "start_date": "2019-09-17",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              0.2907377,
-              47.4270438
-            ],
-            [
-              0.2906297,
-              47.4270561
-            ],
-            [
-              0.2906213,
-              47.4270225
-            ],
-            [
-              0.2907293,
-              47.4270101
-            ],
-            [
-              0.2907377,
-              47.4270438
-            ]
-          ]
-        ]
-      },
-      "id": "way/725465601"
     },
     {
       "type": "Feature",
@@ -26120,6 +26072,56 @@
         ]
       },
       "id": "node/8213327936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8213537672",
+        "addr:city": "Oucques-la-Nouvelle",
+        "addr:postcode": "41290",
+        "addr:street": "Route de Vendôme",
+        "note": "\"Situé sur la commune de Oucques-la-Nouvelle il permettra de desservir plus de 2600 prises dans 17 communes.\"",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
+        "ref": "76 eme NRO Oucques-la-Nouvelle",
+        "source": "https://twitter.com/valdeloirefibre/status/1207597788240007168",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2878584,
+          47.817967
+        ]
+      },
+      "id": "node/8213537672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8213587074",
+        "addr:city": "Hommes",
+        "addr:postcode": "37340",
+        "addr:street": "Avenue du Vieux Château",
+        "building": "service",
+        "note": "dessert 2633 foyers.",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
+        "ref": "NRO Hommes",
+        "source": "https://twitter.com/valdeloirefibre/status/1173992184657391616",
+        "start_date": "2019-09-16",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.290679,
+          47.42703
+        ]
+      },
+      "id": "node/8213587074"
     }
   ]
 }
