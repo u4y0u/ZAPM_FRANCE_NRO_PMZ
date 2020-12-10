@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-09T20:25:03Z",
+  "timestamp": "2020-12-10T09:29:02Z",
   "features": [
     {
       "type": "Feature",
@@ -8398,47 +8398,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/672700571",
-        "building": "service",
-        "operator": "TDF",
-        "owner": "Val de Loire Fibre",
-        "source": "https://twitter.com/Lourine45/status/1099240936591233024",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.0530867,
-              47.4186608
-            ],
-            [
-              2.0530889,
-              47.4185938
-            ],
-            [
-              2.0531372,
-              47.4185945
-            ],
-            [
-              2.053135,
-              47.4186615
-            ],
-            [
-              2.0530867,
-              47.4186608
-            ]
-          ]
-        ]
-      },
-      "id": "way/672700571"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/675653371",
         "building": "service",
         "operator": "Isère Fibre",
@@ -9167,46 +9126,6 @@
         ]
       },
       "id": "way/676139585"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/683763689",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "operator": "TDF",
-        "owner": "Val de Loire Fibre",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              0.9088681,
-              47.2220711
-            ],
-            [
-              0.9088398,
-              47.222034
-            ],
-            [
-              0.9089554,
-              47.2219932
-            ],
-            [
-              0.9089838,
-              47.2220304
-            ],
-            [
-              0.9088681,
-              47.2220711
-            ]
-          ]
-        ]
-      },
-      "id": "way/683763689"
     },
     {
       "type": "Feature",
@@ -12014,50 +11933,6 @@
         ]
       },
       "id": "way/774728881"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/774862629",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "note": "1800 prises éligibles sur les communes de Contres, Gy-en-Sologne, Lassay-sur-Croisne, Mur-de-Sologne, Rougeou, Sassay et Soings-en-Sologne.",
-        "operator": "TDF",
-        "owner": "Val de Loire Fibre",
-        "ref": "72 eme NRO Mur-de-Sologne",
-        "source": "https://twitter.com/valdeloirefibre/status/1197545561165045761",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.5967528,
-              47.4174919
-            ],
-            [
-              1.5967098,
-              47.4174639
-            ],
-            [
-              1.5967496,
-              47.4174358
-            ],
-            [
-              1.5967926,
-              47.4174638
-            ],
-            [
-              1.5967528,
-              47.4174919
-            ]
-          ]
-        ]
-      },
-      "id": "way/774862629"
     },
     {
       "type": "Feature",
@@ -26148,6 +26023,78 @@
         ]
       },
       "id": "node/8211019147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8212611275",
+        "addr:city": "Reignac-sur-Indre",
+        "addr:postcode": "37310",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9089142,
+          47.2220331
+        ]
+      },
+      "id": "node/8212611275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8212616831",
+        "addr:city": "Mur-de-Sologne",
+        "addr:postcode": "41230",
+        "addr:street": "Rue de Blois",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "note": "1800 prises éligibles sur les communes de Contres, Gy-en-Sologne, Lassay-sur-Croisne, Mur-de-Sologne, Rougeou, Sassay et Soings-en-Sologne.",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
+        "ref": "72 eme NRO Mur-de-Sologne",
+        "source": "https://twitter.com/valdeloirefibre/status/1197545561165045761",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5967503,
+          47.4174641
+        ]
+      },
+      "id": "node/8212616831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8212659983",
+        "addr:city": "Salbris",
+        "addr:postcode": "41300",
+        "building": "service",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
+        "source": "https://twitter.com/Lourine45/status/1099240936591233024",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0531106,
+          47.4186285
+        ]
+      },
+      "id": "node/8212659983"
     }
   ]
 }
