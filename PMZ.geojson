@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-10T14:09:02Z",
+  "timestamp": "2020-12-10T18:42:02Z",
   "features": [
     {
       "type": "Feature",
@@ -162757,30 +162757,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8213813094",
-        "colour": "white",
-        "hinge": "horizontal",
-        "man_made": "street_cabinet",
-        "operator": "Orange",
-        "ref:FR:ARCEP": "FI-17380-000F",
-        "ref:FR:Orange": "NC",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0783152,
-          45.6510798
-        ]
-      },
-      "id": "node/8213813094"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8213891306",
         "colour": "white",
         "hinge": "horizontal",
@@ -162796,11 +162772,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.0749866,
-          45.6524921
+          -1.0750121,
+          45.6524796
         ]
       },
       "id": "node/8213891306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8213897412",
+        "connection_point": "primary",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0612816,
+          48.8019258
+        ]
+      },
+      "id": "node/8213897412"
     }
   ]
 }
