@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-10T09:29:02Z",
+  "timestamp": "2020-12-10T12:09:03Z",
   "features": [
     {
       "type": "Feature",
@@ -10287,51 +10287,6 @@
         ]
       },
       "id": "way/726783136"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/728281026",
-        "addr:city": "Saint Laurent Nouan",
-        "addr:housenumber": "14",
-        "addr:postcode": "41220",
-        "addr:street": "Rue du Petit Four",
-        "building": "service",
-        "colour": "darkgreen",
-        "operator": "TDF",
-        "owner": "Val de Loire Fibre",
-        "start_date": "2019",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.6086169,
-              47.7117708
-            ],
-            [
-              1.6085954,
-              47.7118051
-            ],
-            [
-              1.6084881,
-              47.7117672
-            ],
-            [
-              1.6085122,
-              47.7117347
-            ],
-            [
-              1.6086169,
-              47.7117708
-            ]
-          ]
-        ]
-      },
-      "id": "way/728281026"
     },
     {
       "type": "Feature",
@@ -26095,6 +26050,76 @@
         ]
       },
       "id": "node/8212659983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8212733495",
+        "addr:city": "Theillay",
+        "addr:postcode": "41300",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
+        "ref": "65 eme NRO Theillay",
+        "source": "https://twitter.com/valdeloirefibre/status/1184374251790524416",
+        "start_date": "2019-10-16",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0389844,
+          47.3189859
+        ]
+      },
+      "id": "node/8212733495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8213069372",
+        "addr:city": "Chaumont-sur-Tharonne",
+        "addr:postcode": "41600",
+        "note": "\"Pose d’un nouveau NRO ce lundi 23 septembre sur la commune de Chaumont-sur-Tharonne qui permettra de desservir 1940 foyers.\"",
+        "operator": "TDF",
+        "ref": "NRO Chaumont-sur-Tharonne",
+        "source": "https://twitter.com/valdeloirefibre/status/1177159694827307009",
+        "start_date": "2019-09-23",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9130555,
+          47.6094436
+        ]
+      },
+      "id": "node/8213069372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8213327936",
+        "addr:city": "Saint Laurent Nouan",
+        "addr:housenumber": "14",
+        "addr:postcode": "41220",
+        "addr:street": "Rue du Petit Four",
+        "building": "service",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
+        "start_date": "2019",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6085502,
+          47.7117654
+        ]
+      },
+      "id": "node/8213327936"
     }
   ]
 }
