@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-04T18:44:02Z",
+  "timestamp": "2020-12-10T14:09:02Z",
   "features": [
     {
       "type": "Feature",
@@ -4902,6 +4902,50 @@
         ]
       },
       "id": "way/870826810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/881622170",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "manufacturer": "Grolleau",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-023-BJ;PMU-25-023-JN",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.0703051,
+              47.3381904
+            ],
+            [
+              6.0703207,
+              47.3381581
+            ],
+            [
+              6.0703602,
+              47.3381669
+            ],
+            [
+              6.0703445,
+              47.3381992
+            ],
+            [
+              6.0703051,
+              47.3381904
+            ]
+          ]
+        ]
+      },
+      "id": "way/881622170"
     },
     {
       "type": "Feature",
@@ -128300,6 +128344,7 @@
       "properties": {
         "@id": "node/7602764623",
         "colour": "beige",
+        "connection_point": "primary",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
@@ -161127,6 +161172,32 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/8146418368",
+        "colour": "grey",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "ideaoptical",
+        "model": "PM300",
+        "operator": "SFR",
+        "ref:FR:ARCEP": "SRO-BPI-7412719",
+        "ref:FR:SFR": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2220159,
+          47.8624278
+        ]
+      },
+      "id": "node/8146418368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/8146714147",
         "man_made": "street_cabinet",
         "manufacturer": "Ideaoptical",
@@ -162349,6 +162420,7 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:ARCEP": "FI-31069-000Q",
+        "ref:FR:Orange": "BLA PT 001188",
         "source": "survey",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
@@ -162592,6 +162664,143 @@
         ]
       },
       "id": "node/8194760105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8199072174",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-023-BG",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9703864,
+          47.3234908
+        ]
+      },
+      "id": "node/8199072174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8202316839",
+        "location": "green",
+        "man_made": "street_cabinet",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3404998,
+          46.6593599
+        ]
+      },
+      "id": "node/8202316839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8205151516",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-31069-000T",
+        "ref:FR:Orange": "BLA PT 001182",
+        "source": "survey",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.397434,
+          43.637579
+        ]
+      },
+      "id": "node/8205151516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8205180017",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-31069-000B",
+        "ref:FR:Orange": "BLA PT 0839",
+        "source": "survey",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3881435,
+          43.6410364
+        ]
+      },
+      "id": "node/8205180017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8213813094",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-17380-000F",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0783152,
+          45.6510798
+        ]
+      },
+      "id": "node/8213813094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8213891306",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-17380-000F",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0749866,
+          45.6524921
+        ]
+      },
+      "id": "node/8213891306"
     }
   ]
 }
