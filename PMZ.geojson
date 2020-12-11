@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-10T18:42:02Z",
+  "timestamp": "2020-12-11T16:53:02Z",
   "features": [
     {
       "type": "Feature",
@@ -152403,33 +152403,11 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.1212851,
-          45.9124725
+          6.1212858,
+          45.9124723
         ]
       },
       "id": "node/8023453854"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/8023453855",
-        "connection_point": "primary",
-        "location": "pavement",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "operator": "Orange",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.1212596,
-          45.912472
-        ]
-      },
-      "id": "node/8023453855"
     },
     {
       "type": "Feature",
