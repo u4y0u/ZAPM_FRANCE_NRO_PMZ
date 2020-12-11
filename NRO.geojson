@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-10T18:40:03Z",
+  "timestamp": "2020-12-11T16:56:02Z",
   "features": [
     {
       "type": "Feature",
@@ -25994,6 +25994,7 @@
         "addr:postcode": "41600",
         "note": "\"Pose d’un nouveau NRO ce lundi 23 septembre sur la commune de Chaumont-sur-Tharonne qui permettra de desservir 1940 foyers.\"",
         "operator": "TDF",
+        "owner": "Val de Loire Fibre",
         "ref": "NRO Chaumont-sur-Tharonne",
         "source": "https://twitter.com/valdeloirefibre/status/1177159694827307009",
         "start_date": "2019-09-23",
@@ -26311,6 +26312,127 @@
         ]
       },
       "id": "node/8214794600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8218790429",
+        "addr:city": "Sorèze",
+        "addr:postcode": "81540",
+        "note": "\"17ème NRO de TARN Fibre ce 10/12/20 à SOREZE en présence des Elus locaux, des Conseiller(e)s Départementaux, du Président du Département, des équipes TARN Fibre - SFR FTTH et EOS TELECOM. \"",
+        "operator": "SFR",
+        "owner": "Tarn Fibre",
+        "ref": "17 eme NRO Sorèze",
+        "source": "https://twitter.com/bongiovanni_n/status/1337093991490347012",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.071111,
+          43.4535104
+        ]
+      },
+      "id": "node/8218790429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8220011565",
+        "addr:city": "Castelnau-de-Montmiral",
+        "addr:postcode": "81140",
+        "note": "\"14ème NRO de TARN Fibre ce 25/11/20 à CASTELNAU DE MONTMIRAL en présence des Elus locaux, des Conseiller(e)s Départementaux, du Président de l’Intercommunalité, des équipes TARN Fibre - SFR FTTH et EOS TELECOM. \"",
+        "operator": "SFR",
+        "owner": "Tarn Fibre",
+        "ref": "14 eme NRO Castelnau-de-Montmiral",
+        "source": "https://twitter.com/bongiovanni_n/status/1331654251295232000",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8214954,
+          43.965553
+        ]
+      },
+      "id": "node/8220011565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8220124167",
+        "addr:city": "Saint-Sulpice-la-Pointe",
+        "addr:postcode": "81370",
+        "addr:street": "Chemin des Nauzes",
+        "note": "12ème NRO de TARN Fibre ce 12/11/20 à SAINT SULPICE LA POINTE en présence des Elus locaux, des Conseiller(e)s Départementaux, du Président de l’Intercommunalité, des équipes TARN Fibre - SFR FTTH et EOS TELECOM.",
+        "operator": "SFR",
+        "owner": "Tarn Fibre",
+        "ref": "12 eme NRO Saint-Sulpice-la-Pointe",
+        "source": "https://twitter.com/bongiovanni_n/status/1326927256590102528",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6869865,
+          43.7683808
+        ]
+      },
+      "id": "node/8220124167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8220152889",
+        "addr:city": "Gaillac",
+        "addr:postcode": "81600",
+        "addr:street": "Chemin des Balitrands",
+        "fixme": "position exacte à corriger.",
+        "note": "position exacte à corriger\n\"11ème NRO de TARN Fibre ce 04/11/20 à GAILLAC en présence d’Elus locaux, de Madame Le Maire, de Conseillers Départementaux, des équipes TARN Fibre - SFR FTTH et EOS TELECOM. \nLe déploiement de la Fibre continue de progresser su",
+        "operator": "SFR",
+        "owner": "Tarn Fibre",
+        "ref": "11 eme NRO Gaillac",
+        "source": "https://twitter.com/bongiovanni_n/status/1324033530524061699",
+        "start_date": "2020-11-04",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.884128,
+          43.8976175
+        ]
+      },
+      "id": "node/8220152889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8220162204",
+        "addr:city": "Rabastens",
+        "addr:postcode": "81800",
+        "addr:street": "Chemin de la Trémège",
+        "note": "\"9ème NRO de TARN Fibre ce jour à RABASTENS en présence des Elus Locaux, de Monsieur Le Maire, des Conseillers Départementaux, du Président de l’Intercommunalité, du Président du Département, des équipes TARN Fibre - SFR FTTH et EOS TELECOM.\"",
+        "operator": "SFR",
+        "owner": "Tarn Fibre",
+        "ref": "9 eme NRO Rabastens",
+        "source": "https://twitter.com/bongiovanni_n/status/1318942950668324864",
+        "start_date": "2020-10-21",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7274265,
+          43.8284682
+        ]
+      },
+      "id": "node/8220162204"
     }
   ]
 }
