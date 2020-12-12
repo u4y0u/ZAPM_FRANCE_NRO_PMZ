@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-12T12:27:02Z",
+  "timestamp": "2020-12-12T15:30:02Z",
   "features": [
     {
       "type": "Feature",
@@ -13203,90 +13203,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/848574093",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "BFC-Fibre",
-        "owner": "Departement Cote d'Or",
-        "ref": "NRO_21657HGG*",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.1255285,
-              47.3475669
-            ],
-            [
-              5.1255115,
-              47.3475377
-            ],
-            [
-              5.1256084,
-              47.3475119
-            ],
-            [
-              5.1256253,
-              47.3475411
-            ],
-            [
-              5.1255285,
-              47.3475669
-            ]
-          ]
-        ]
-      },
-      "id": "way/848574093"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/848574094",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "Corai Fibre",
-        "owner": "Departement Cote d'Or",
-        "ref": "NRO_21038AXN*",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.3949893,
-              47.1939806
-            ],
-            [
-              5.394958,
-              47.1939813
-            ],
-            [
-              5.3949546,
-              47.1939135
-            ],
-            [
-              5.3949859,
-              47.1939128
-            ],
-            [
-              5.3949893,
-              47.1939806
-            ]
-          ]
-        ]
-      },
-      "id": "way/848574094"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/848581463",
         "building": "service",
         "building:prefabricated": "yes",
@@ -14293,45 +14209,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/6750828751",
-        "man_made": "street_cabinet",
-        "owner": "Régie régionale Auvergne Numérique",
-        "street_cabinet": "telecom",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.4388327,
-          45.6988377
-        ]
-      },
-      "id": "node/6750828751"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/6750828752",
-        "fixme": "position aproximative",
-        "man_made": "street_cabinet",
-        "owner": "Régie régionale Auvergne Numérique",
-        "street_cabinet": "telecom",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.3034314,
-          45.7474872
-        ]
-      },
-      "id": "node/6750828752"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/6783248313",
         "man_made": "street_cabinet",
         "operator": "SFR",
@@ -14517,8 +14394,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.1046392,
-          44.1107595
+          1.1046487,
+          44.1107813
         ]
       },
       "id": "node/7057908595"
@@ -20560,9 +20437,9 @@
         "@id": "node/8128775817",
         "building": "service",
         "building:prefabricated": "yes",
-        "name": "NRO",
+        "operator": "Orange",
         "ref": "NC",
-        "ref:FR:Orange": "ref:FR:ADN",
+        "ref:FR:Orange": "ADN",
         "survey:date": "2020-11-17",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -23745,6 +23622,46 @@
         ]
       },
       "id": "node/8221861306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222104159",
+        "note": "BFC-Fibre",
+        "operator": "Orange",
+        "owner": "Departement Cote d'Or",
+        "ref": "NRO_21657HGG",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1255658,
+          47.3475387
+        ]
+      },
+      "id": "node/8222104159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222291833",
+        "note": "Corai Fibre",
+        "operator": "Altitude",
+        "owner": "Departement Cote d'Or",
+        "ref": "NRO_21038AXN",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3949699,
+          47.1939649
+        ]
+      },
+      "id": "node/8222291833"
     }
   ]
 }
