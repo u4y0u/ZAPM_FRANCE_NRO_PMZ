@@ -2,47 +2,8 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-11T16:56:02Z",
+  "timestamp": "2020-12-12T10:18:02Z",
   "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/50280406",
-        "building": "service",
-        "operator": "SFR",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              0.0768235,
-              45.6303737
-            ],
-            [
-              0.0770272,
-              45.630147
-            ],
-            [
-              0.0771406,
-              45.6301972
-            ],
-            [
-              0.076937,
-              45.6304239
-            ],
-            [
-              0.0768235,
-              45.6303737
-            ]
-          ]
-        ]
-      },
-      "id": "way/50280406"
-    },
     {
       "type": "Feature",
       "properties": {
@@ -499,45 +460,6 @@
         ]
       },
       "id": "way/75949800"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/78573757",
-        "building": "service",
-        "operator": "SFR",
-        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              4.7765941,
-              44.7203381
-            ],
-            [
-              4.7767317,
-              44.7203664
-            ],
-            [
-              4.7766259,
-              44.7206275
-            ],
-            [
-              4.7764916,
-              44.7206014
-            ],
-            [
-              4.7765941,
-              44.7203381
-            ]
-          ]
-        ]
-      },
-      "id": "way/78573757"
     },
     {
       "type": "Feature",
@@ -1179,129 +1101,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/115292479",
-        "building": "service",
-        "operator": "SFR",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.7243041,
-              48.1797046
-            ],
-            [
-              2.7240381,
-              48.1799126
-            ],
-            [
-              2.7239371,
-              48.1798566
-            ],
-            [
-              2.7242041,
-              48.1796486
-            ],
-            [
-              2.7243041,
-              48.1797046
-            ]
-          ]
-        ]
-      },
-      "id": "way/115292479"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/118705611",
-        "building": "service",
-        "operator": "SFR",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.328918,
-              47.615635
-            ],
-            [
-              1.32896,
-              47.615359
-            ],
-            [
-              1.329102,
-              47.61537
-            ],
-            [
-              1.329059,
-              47.615645
-            ],
-            [
-              1.328918,
-              47.615635
-            ]
-          ]
-        ]
-      },
-      "id": "way/118705611"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/118734741",
-        "building": "service",
-        "name": "EU141",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref:FR:PTT": "EU141",
-        "ref:FR:PTT:NRA": "41018EU1",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
-        "survey:date": "2019-10-30",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "wall": "no"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.303294,
-              47.588774
-            ],
-            [
-              1.303292,
-              47.588729
-            ],
-            [
-              1.303324,
-              47.588729
-            ],
-            [
-              1.303328,
-              47.588773
-            ],
-            [
-              1.303294,
-              47.588774
-            ]
-          ]
-        ]
-      },
-      "id": "way/118734741"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/120473535",
         "building": "service",
         "name": "NRO d'Hourtin",
@@ -1469,84 +1268,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/133050447",
-        "building": "service",
-        "operator": "Zayo",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.9113478,
-              48.5051376
-            ],
-            [
-              1.911323,
-              48.5051453
-            ],
-            [
-              1.9112492,
-              48.5050534
-            ],
-            [
-              1.9112762,
-              48.505045
-            ],
-            [
-              1.9113478,
-              48.5051376
-            ]
-          ]
-        ]
-      },
-      "id": "way/133050447"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/133050497",
-        "building": "service",
-        "operator": "SFR",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.9110973,
-              48.5054197
-            ],
-            [
-              1.9109585,
-              48.5054346
-            ],
-            [
-              1.9108944,
-              48.50517
-            ],
-            [
-              1.9110332,
-              48.5051551
-            ],
-            [
-              1.9110973,
-              48.5054197
-            ]
-          ]
-        ]
-      },
-      "id": "way/133050497"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/134449592",
         "colour": "white",
         "man_made": "street_cabinet",
@@ -1679,84 +1400,6 @@
         ]
       },
       "id": "way/147408498"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/152755956",
-        "building": "service",
-        "operator": "SFR",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.877558,
-              48.074249
-            ],
-            [
-              1.8777,
-              48.07424
-            ],
-            [
-              1.877738,
-              48.074513
-            ],
-            [
-              1.877596,
-              48.074522
-            ],
-            [
-              1.877558,
-              48.074249
-            ]
-          ]
-        ]
-      },
-      "id": "way/152755956"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/152756199",
-        "building": "service",
-        "operator": "Zayo",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.877987,
-              48.074318
-            ],
-            [
-              1.878022,
-              48.074316
-            ],
-            [
-              1.878037,
-              48.074425
-            ],
-            [
-              1.878003,
-              48.074427
-            ],
-            [
-              1.877987,
-              48.074318
-            ]
-          ]
-        ]
-      },
-      "id": "way/152756199"
     },
     {
       "type": "Feature",
@@ -3498,84 +3141,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/352576922",
-        "building": "service",
-        "operator": "SFR",
-        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2015",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.8340852,
-              47.585536
-            ],
-            [
-              2.8340732,
-              47.585269
-            ],
-            [
-              2.8342142,
-              47.585266
-            ],
-            [
-              2.8342262,
-              47.585533
-            ],
-            [
-              2.8340852,
-              47.585536
-            ]
-          ]
-        ]
-      },
-      "id": "way/352576922"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/352577772",
-        "building": "service",
-        "operator": "Zayo",
-        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2015",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.8338958,
-              47.5857305
-            ],
-            [
-              2.8338868,
-              47.5857085
-            ],
-            [
-              2.8340438,
-              47.5856785
-            ],
-            [
-              2.8340528,
-              47.5857015
-            ],
-            [
-              2.8338958,
-              47.5857305
-            ]
-          ]
-        ]
-      },
-      "id": "way/352577772"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/365330871",
         "building": "service",
         "name": "NRO de Saint-Laurent-Médoc",
@@ -5102,47 +4667,6 @@
         ]
       },
       "id": "way/614951943"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/629290786",
-        "building": "service",
-        "operator": "Orange",
-        "owner": "CAPS",
-        "ref": "BYV",
-        "source": "Survey",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.1610245,
-              48.6911362
-            ],
-            [
-              2.1610247,
-              48.6911089
-            ],
-            [
-              2.1610497,
-              48.6911089
-            ],
-            [
-              2.1610495,
-              48.6911363
-            ],
-            [
-              2.1610245,
-              48.6911362
-            ]
-          ]
-        ]
-      },
-      "id": "way/629290786"
     },
     {
       "type": "Feature",
@@ -6680,47 +6204,6 @@
         ]
       },
       "id": "way/667543934"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/668082992",
-        "building": "service",
-        "operator": "Orange",
-        "owner": "CAPS",
-        "ref": "SAW",
-        "ref:FR:Orange:NRO": "SAW",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.1781943,
-              48.7291306
-            ],
-            [
-              2.1781502,
-              48.7291669
-            ],
-            [
-              2.1781104,
-              48.7291459
-            ],
-            [
-              2.1781545,
-              48.7291096
-            ],
-            [
-              2.1781943,
-              48.7291306
-            ]
-          ]
-        ]
-      },
-      "id": "way/668082992"
     },
     {
       "type": "Feature",
@@ -8398,45 +7881,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/675653371",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.3436519,
-              45.3902302
-            ],
-            [
-              5.3436596,
-              45.390144
-            ],
-            [
-              5.3437313,
-              45.3901471
-            ],
-            [
-              5.3437237,
-              45.3902333
-            ],
-            [
-              5.3436519,
-              45.3902302
-            ]
-          ]
-        ]
-      },
-      "id": "way/675653371"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/675653372",
         "building": "service",
         "operator": "Isère Fibre",
@@ -8472,84 +7916,6 @@
         ]
       },
       "id": "way/675653372"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/675653373",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.1852634,
-              45.3408953
-            ],
-            [
-              5.1852487,
-              45.3409389
-            ],
-            [
-              5.1851357,
-              45.34092
-            ],
-            [
-              5.1851504,
-              45.3408764
-            ],
-            [
-              5.1852634,
-              45.3408953
-            ]
-          ]
-        ]
-      },
-      "id": "way/675653373"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/675653374",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.4172754,
-              45.3411199
-            ],
-            [
-              5.4172765,
-              45.3410698
-            ],
-            [
-              5.4174204,
-              45.3410713
-            ],
-            [
-              5.4174193,
-              45.3411215
-            ],
-            [
-              5.4172754,
-              45.3411199
-            ]
-          ]
-        ]
-      },
-      "id": "way/675653374"
     },
     {
       "type": "Feature",
@@ -8632,45 +7998,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/675653378",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.2638201,
-              45.3917886
-            ],
-            [
-              5.2639805,
-              45.3917839
-            ],
-            [
-              5.2639838,
-              45.3918394
-            ],
-            [
-              5.2638234,
-              45.3918441
-            ],
-            [
-              5.2638201,
-              45.3917886
-            ]
-          ]
-        ]
-      },
-      "id": "way/675653378"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/675653379",
         "building": "service",
         "operator": "Isère Fibre",
@@ -8706,123 +8033,6 @@
         ]
       },
       "id": "way/675653379"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/675653380",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.8180999,
-              45.1300759
-            ],
-            [
-              5.8181514,
-              45.1301626
-            ],
-            [
-              5.8180803,
-              45.1301837
-            ],
-            [
-              5.8180289,
-              45.130097
-            ],
-            [
-              5.8180999,
-              45.1300759
-            ]
-          ]
-        ]
-      },
-      "id": "way/675653380"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/675653381",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.0532004,
-              45.3347172
-            ],
-            [
-              5.0533528,
-              45.3347365
-            ],
-            [
-              5.0533407,
-              45.3347839
-            ],
-            [
-              5.0531883,
-              45.3347647
-            ],
-            [
-              5.0532004,
-              45.3347172
-            ]
-          ]
-        ]
-      },
-      "id": "way/675653381"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/675653382",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.1922624,
-              45.390108
-            ],
-            [
-              5.1922492,
-              45.3900636
-            ],
-            [
-              5.1923658,
-              45.3900465
-            ],
-            [
-              5.192379,
-              45.3900909
-            ],
-            [
-              5.1922624,
-              45.390108
-            ]
-          ]
-        ]
-      },
-      "id": "way/675653382"
     },
     {
       "type": "Feature",
@@ -9088,48 +8298,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/676139585",
-        "building": "service",
-        "name": "NRO",
-        "owner": "Losange Fibre",
-        "ref": "NRO-51-003",
-        "source": "https://twitter.com/CCuilleratNGE/status/1103339929290067968",
-        "start_date": "2019-03-06",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              3.7871209,
-              48.5549355
-            ],
-            [
-              3.787129,
-              48.55488
-            ],
-            [
-              3.7871706,
-              48.5548827
-            ],
-            [
-              3.7871625,
-              48.5549382
-            ],
-            [
-              3.7871209,
-              48.5549355
-            ]
-          ]
-        ]
-      },
-      "id": "way/676139585"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/697864929",
         "building": "service",
         "operator": "Ardèche Drôme Numérique",
@@ -9164,45 +8332,6 @@
         ]
       },
       "id": "way/697864929"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/697869445",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              4.9548268,
-              45.3559052
-            ],
-            [
-              4.954813,
-              45.3558501
-            ],
-            [
-              4.9549293,
-              45.3558356
-            ],
-            [
-              4.9549432,
-              45.3558907
-            ],
-            [
-              4.9548268,
-              45.3559052
-            ]
-          ]
-        ]
-      },
-      "id": "way/697869445"
     },
     {
       "type": "Feature",
@@ -9924,241 +9053,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/725199196",
-        "building": "yes",
-        "name": "NO34STML",
-        "operator": "Hérault THD",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              3.731615,
-              43.7889168
-            ],
-            [
-              3.7315637,
-              43.7889214
-            ],
-            [
-              3.7315521,
-              43.7888538
-            ],
-            [
-              3.7316034,
-              43.7888493
-            ],
-            [
-              3.731615,
-              43.7889168
-            ]
-          ]
-        ]
-      },
-      "id": "way/725199196"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/725199197",
-        "building": "service",
-        "operator": "Hérault THD",
-        "ref": "NO34VIAS",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              3.3793678,
-              43.3131051
-            ],
-            [
-              3.3793173,
-              43.3130744
-            ],
-            [
-              3.3793409,
-              43.3130538
-            ],
-            [
-              3.3793915,
-              43.3130845
-            ],
-            [
-              3.3793678,
-              43.3131051
-            ]
-          ]
-        ]
-      },
-      "id": "way/725199197"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/725199198",
-        "building": "yes",
-        "operator": "Hérault THD",
-        "ref": "NO34CESO",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              3.0532421,
-              43.450358
-            ],
-            [
-              3.053272,
-              43.4504005
-            ],
-            [
-              3.0532391,
-              43.4504127
-            ],
-            [
-              3.0532093,
-              43.4503701
-            ],
-            [
-              3.0532421,
-              43.450358
-            ]
-          ]
-        ]
-      },
-      "id": "way/725199198"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/725199199",
-        "building": "yes",
-        "operator": "Hérault THD",
-        "ref": "NO34GIGN",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              3.5470401,
-              43.6589903
-            ],
-            [
-              3.5470901,
-              43.6589593
-            ],
-            [
-              3.5471141,
-              43.6589795
-            ],
-            [
-              3.5470641,
-              43.6590106
-            ],
-            [
-              3.5470401,
-              43.6589903
-            ]
-          ]
-        ]
-      },
-      "id": "way/725199199"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/725199200",
-        "building": "yes",
-        "operator": "Hérault THD",
-        "ref": "NO34STGU",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              3.4775856,
-              43.6771364
-            ],
-            [
-              3.4776356,
-              43.6771054
-            ],
-            [
-              3.4776596,
-              43.6771257
-            ],
-            [
-              3.4776097,
-              43.6771567
-            ],
-            [
-              3.4775856,
-              43.6771364
-            ]
-          ]
-        ]
-      },
-      "id": "way/725199200"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/725199201",
-        "building": "yes",
-        "operator": "Hérault Télécom",
-        "ref": "POP JONQUIERES",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              3.4776287,
-              43.677171
-            ],
-            [
-              3.4776787,
-              43.67714
-            ],
-            [
-              3.4777027,
-              43.6771603
-            ],
-            [
-              3.4776527,
-              43.6771913
-            ],
-            [
-              3.4776287,
-              43.677171
-            ]
-          ]
-        ]
-      },
-      "id": "way/725199201"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/725199202",
         "building": "service",
         "name": "NO34PEZE",
@@ -10239,45 +9133,6 @@
         ]
       },
       "id": "way/726783136"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/732168716",
-        "building": "yes",
-        "operator": "Hérault THD",
-        "ref": "NO34ANIA",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              3.5816318,
-              43.6828233
-            ],
-            [
-              3.5816861,
-              43.6828502
-            ],
-            [
-              3.5816654,
-              43.6828722
-            ],
-            [
-              3.5816109,
-              43.6828453
-            ],
-            [
-              3.5816318,
-              43.6828233
-            ]
-          ]
-        ]
-      },
-      "id": "way/732168716"
     },
     {
       "type": "Feature",
@@ -10536,51 +9391,6 @@
         ]
       },
       "id": "way/752271765"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/753534523",
-        "addr:city": "Segonzac",
-        "addr:postcode": "16130",
-        "addr:street": "Route de Gensac",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "name": "NRO de Segonzac",
-        "operator": "Axione",
-        "owner": "Charente Numérique",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -0.2257663,
-              45.623026
-            ],
-            [
-              -0.2258553,
-              45.6229855
-            ],
-            [
-              -0.2258232,
-              45.622951
-            ],
-            [
-              -0.2257342,
-              45.6229915
-            ],
-            [
-              -0.2257663,
-              45.623026
-            ]
-          ]
-        ]
-      },
-      "id": "way/753534523"
     },
     {
       "type": "Feature",
@@ -11130,54 +9940,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/754711525",
-        "addr:city": "Larzicourt",
-        "addr:postcode": "51290",
-        "addr:street": "Rue du Faubourg",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "email": "contact@losange-fibre.fr",
-        "name": "NRO de Larzicourt",
-        "operator": "Losange Exploitation",
-        "owner": "Losange Fibre",
-        "phone": "+33 2 76 46 31 09",
-        "ref": "NRO 51-047",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              4.7107012,
-              48.6345539
-            ],
-            [
-              4.7106739,
-              48.6344989
-            ],
-            [
-              4.7107261,
-              48.6344876
-            ],
-            [
-              4.7107534,
-              48.6345426
-            ],
-            [
-              4.7107012,
-              48.6345539
-            ]
-          ]
-        ]
-      },
-      "id": "way/754711525"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/754712444",
         "addr:city": "Neuville-lès-This",
         "addr:postcode": "08090",
@@ -11551,90 +10313,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/762688186",
-        "building": "service",
-        "description": "NRO de la Zone Industrielle",
-        "man_made": "telephone_office",
-        "operator": "NC",
-        "ref:FR:PTT": "NC",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -0.3821636,
-              43.3682132
-            ],
-            [
-              -0.3821639,
-              43.3681056
-            ],
-            [
-              -0.3821329,
-              43.3681055
-            ],
-            [
-              -0.3821326,
-              43.3682132
-            ],
-            [
-              -0.3821636,
-              43.3682132
-            ]
-          ]
-        ]
-      },
-      "id": "way/762688186"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/762688187",
-        "building": "service",
-        "colour": "white",
-        "description": "NRO La Fibre 64 Serres-Castet",
-        "man_made": "telephone_office",
-        "name": "NRO Serres-Castet",
-        "operator": "SFR",
-        "ref:FR:PTT": "NC",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -0.3821216,
-              43.3682134
-            ],
-            [
-              -0.3821208,
-              43.3681062
-            ],
-            [
-              -0.382087,
-              43.3681063
-            ],
-            [
-              -0.3820878,
-              43.3682135
-            ],
-            [
-              -0.3821216,
-              43.3682134
-            ]
-          ]
-        ]
-      },
-      "id": "way/762688187"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/765907493",
         "building": "service",
         "operator": "SFR",
@@ -11672,92 +10350,6 @@
         ]
       },
       "id": "way/765907493"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/766858523",
-        "building": "service",
-        "building:levels": "0",
-        "height": "3",
-        "name": "nro buros",
-        "operator": "axione",
-        "owner": "la fibre paloise",
-        "ref:FR:ARCEP": "64445BUR",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -0.3523813,
-              43.3058847
-            ],
-            [
-              -0.3522988,
-              43.3058779
-            ],
-            [
-              -0.3522895,
-              43.3059602
-            ],
-            [
-              -0.3523972,
-              43.3059772
-            ],
-            [
-              -0.3523813,
-              43.3058847
-            ]
-          ]
-        ]
-      },
-      "id": "way/766858523"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/766858524",
-        "building": "service",
-        "building:levels": "0",
-        "height": "3",
-        "name": "nro beziou",
-        "operator": "Axione",
-        "owner": "la fibre paloise",
-        "ref": "64445BEZ",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -0.3796834,
-              43.3042993
-            ],
-            [
-              -0.3796834,
-              43.3042545
-            ],
-            [
-              -0.3795958,
-              43.3042786
-            ],
-            [
-              -0.3796076,
-              43.3043234
-            ],
-            [
-              -0.3796834,
-              43.3042993
-            ]
-          ]
-        ]
-      },
-      "id": "way/766858524"
     },
     {
       "type": "Feature",
@@ -11844,84 +10436,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/776617613",
-        "building": "service",
-        "operator": "SFR",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2020",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.4773499,
-              48.5647017
-            ],
-            [
-              2.4774433,
-              48.5647726
-            ],
-            [
-              2.4771295,
-              48.5649536
-            ],
-            [
-              2.4770361,
-              48.5648828
-            ],
-            [
-              2.4773499,
-              48.5647017
-            ]
-          ]
-        ]
-      },
-      "id": "way/776617613"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777175896",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.7952268,
-              44.9055289
-            ],
-            [
-              5.7952043,
-              44.9054288
-            ],
-            [
-              5.7952656,
-              44.9054219
-            ],
-            [
-              5.795288,
-              44.905522
-            ],
-            [
-              5.7952268,
-              44.9055289
-            ]
-          ]
-        ]
-      },
-      "id": "way/777175896"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/777175897",
         "building": "service",
         "operator": "Isère Fibre",
@@ -12000,45 +10514,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/777175899",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.896032,
-              45.2461609
-            ],
-            [
-              5.8961588,
-              45.2460413
-            ],
-            [
-              5.8962108,
-              45.2460686
-            ],
-            [
-              5.896084,
-              45.2461883
-            ],
-            [
-              5.896032,
-              45.2461609
-            ]
-          ]
-        ]
-      },
-      "id": "way/777175899"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/777175900",
         "building": "service",
         "operator": "Isère Fibre",
@@ -12113,45 +10588,6 @@
         ]
       },
       "id": "way/777175901"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777175902",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.3383915,
-              45.3415933
-            ],
-            [
-              5.3383782,
-              45.3414921
-            ],
-            [
-              5.3384516,
-              45.3414874
-            ],
-            [
-              5.3384649,
-              45.3415885
-            ],
-            [
-              5.3383915,
-              45.3415933
-            ]
-          ]
-        ]
-      },
-      "id": "way/777175902"
     },
     {
       "type": "Feature",
@@ -12737,159 +11173,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/777175918",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0244309,
-              45.0627135
-            ],
-            [
-              6.0244583,
-              45.0626695
-            ],
-            [
-              6.0245609,
-              45.0627013
-            ],
-            [
-              6.0245335,
-              45.0627453
-            ],
-            [
-              6.0244309,
-              45.0627135
-            ]
-          ]
-        ]
-      },
-      "id": "way/777175918"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777175919",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.1224004,
-              45.0226255
-            ],
-            [
-              6.1224547,
-              45.0225187
-            ],
-            [
-              6.1225147,
-              45.0225339
-            ],
-            [
-              6.1224605,
-              45.0226408
-            ],
-            [
-              6.1224004,
-              45.0226255
-            ]
-          ]
-        ]
-      },
-      "id": "way/777175919"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777175920",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.1160035,
-              44.9870028
-            ],
-            [
-              6.1160813,
-              44.9869821
-            ],
-            [
-              6.1161053,
-              44.9870271
-            ],
-            [
-              6.1160276,
-              44.9870479
-            ],
-            [
-              6.1160035,
-              44.9870028
-            ]
-          ]
-        ]
-      },
-      "id": "way/777175920"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777181137",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.7437345,
-              44.9622104
-            ],
-            [
-              5.7437898,
-              44.9621791
-            ],
-            [
-              5.7438743,
-              44.9622538
-            ],
-            [
-              5.743819,
-              44.9622851
-            ],
-            [
-              5.7437345,
-              44.9622104
-            ]
-          ]
-        ]
-      },
-      "id": "way/777181137"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/777181138",
         "building": "service",
         "operator": "Isère Fibre",
@@ -12964,45 +11247,6 @@
         ]
       },
       "id": "way/777186812"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777186813",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.7441594,
-              45.0906392
-            ],
-            [
-              5.7441242,
-              45.0906026
-            ],
-            [
-              5.7442648,
-              45.0905351
-            ],
-            [
-              5.7443,
-              45.0905717
-            ],
-            [
-              5.7441594,
-              45.0906392
-            ]
-          ]
-        ]
-      },
-      "id": "way/777186813"
     },
     {
       "type": "Feature",
@@ -13864,50 +12108,6 @@
         ]
       },
       "id": "way/818606059"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/821337752",
-        "building": "service",
-        "operator": "SICTIAM",
-        "ref": "NRO 06 026 ST062600000000",
-        "roof:colour": "red",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              7.2639548,
-              43.9216252
-            ],
-            [
-              7.2639473,
-              43.9215531
-            ],
-            [
-              7.2639969,
-              43.9215504
-            ],
-            [
-              7.2640045,
-              43.9216225
-            ],
-            [
-              7.2639797,
-              43.9216239
-            ],
-            [
-              7.2639548,
-              43.9216252
-            ]
-          ]
-        ]
-      },
-      "id": "way/821337752"
     },
     {
       "type": "Feature",
@@ -14845,51 +13045,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/838179497",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref": "HSN_NRO_N070MNY",
-        "source": "https://twitter.com/Hades73440/status/1123905534007103488",
-        "start_date": "02/05/19",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.7713298,
-              47.2878656
-            ],
-            [
-              5.7714076,
-              47.2878905
-            ],
-            [
-              5.7713899,
-              47.287916
-            ],
-            [
-              5.7713121,
-              47.2878912
-            ],
-            [
-              5.7713298,
-              47.2878656
-            ]
-          ]
-        ]
-      },
-      "id": "way/838179497"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/838182845",
         "building": "service",
         "building:prefabricated": "yes",
@@ -15198,50 +13353,6 @@
         ]
       },
       "id": "way/838190163"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/838199327",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "Axione",
-        "owner": "HSN",
-        "ref": "HSN_NRO_N070GAY",
-        "source": "https://twitter.com/Hades73440/status/1088018993590517763",
-        "start_date": "23/01/19",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.5834834,
-              47.4492106
-            ],
-            [
-              5.5834745,
-              47.449151
-            ],
-            [
-              5.5836274,
-              47.4491407
-            ],
-            [
-              5.5836362,
-              47.4492003
-            ],
-            [
-              5.5834834,
-              47.4492106
-            ]
-          ]
-        ]
-      },
-      "id": "way/838199327"
     },
     {
       "type": "Feature",
@@ -16718,44 +14829,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/842874824",
-        "building": "service",
-        "operator": "Interoute",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              4.7477911,
-              44.627436
-            ],
-            [
-              4.7477831,
-              44.6274132
-            ],
-            [
-              4.747882,
-              44.6273942
-            ],
-            [
-              4.74789,
-              44.6274164
-            ],
-            [
-              4.7477911,
-              44.627436
-            ]
-          ]
-        ]
-      },
-      "id": "way/842874824"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/842877823",
         "building": "service",
         "operator": "Interoute",
@@ -17440,82 +15513,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/846787818",
-        "building": "service",
-        "operator": "Zayo",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.7245101,
-              48.1794732
-            ],
-            [
-              2.7246154,
-              48.1793863
-            ],
-            [
-              2.7246416,
-              48.1794004
-            ],
-            [
-              2.7245362,
-              48.1794873
-            ],
-            [
-              2.7245101,
-              48.1794732
-            ]
-          ]
-        ]
-      },
-      "id": "way/846787818"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846787828",
-        "building": "service",
-        "operator": "Zayo",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              0.0767297,
-              45.6305436
-            ],
-            [
-              0.0767483,
-              45.6305248
-            ],
-            [
-              0.0768754,
-              45.6305864
-            ],
-            [
-              0.0768567,
-              45.6306052
-            ],
-            [
-              0.0767297,
-              45.6305436
-            ]
-          ]
-        ]
-      },
-      "id": "way/846787828"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/846787832",
         "building": "service",
         "operator": "Zayo",
@@ -17668,44 +15665,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/846791587",
-        "building": "service",
-        "operator": "Zayo",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              4.7762745,
-              44.7204071
-            ],
-            [
-              4.7763226,
-              44.7203096
-            ],
-            [
-              4.7763517,
-              44.7203168
-            ],
-            [
-              4.7763036,
-              44.7204143
-            ],
-            [
-              4.7762745,
-              44.7204071
-            ]
-          ]
-        ]
-      },
-      "id": "way/846791587"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/846791594",
         "building": "service",
         "operator": "Zayo",
@@ -17854,44 +15813,6 @@
         ]
       },
       "id": "way/846791641"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/846793608",
-        "building": "service",
-        "operator": "Zayo",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.4777245,
-              48.5647428
-            ],
-            [
-              2.4778431,
-              48.5646743
-            ],
-            [
-              2.4778646,
-              48.5646907
-            ],
-            [
-              2.4777461,
-              48.5647591
-            ],
-            [
-              2.4777245,
-              48.5647428
-            ]
-          ]
-        ]
-      },
-      "id": "way/846793608"
     },
     {
       "type": "Feature",
@@ -18082,44 +16003,6 @@
         ]
       },
       "id": "way/847187581"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/848051769",
-        "building": "service",
-        "operator": "Zayo",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.328732,
-              47.6155477
-            ],
-            [
-              1.3287579,
-              47.6154396
-            ],
-            [
-              1.328791,
-              47.6154432
-            ],
-            [
-              1.3287652,
-              47.6155513
-            ],
-            [
-              1.328732,
-              47.6155477
-            ]
-          ]
-        ]
-      },
-      "id": "way/848051769"
     },
     {
       "type": "Feature",
@@ -25574,25 +23457,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8063372213",
-        "addr:street": "Rue Emery Bulcourt",
-        "operator": "orange",
-        "ref": "PMZ",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.8763357,
-          50.4611331
-        ]
-      },
-      "id": "node/8063372213"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8065179285",
         "operator": "orange",
         "ref": "chambre FT PA",
@@ -26433,6 +24297,1038 @@
         ]
       },
       "id": "node/8220162204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221458566",
+        "addr:city": "Château-Chinon",
+        "addr:postcode": "58120",
+        "note": "\"La mise en place d’un nouvel équipement va permettre à un réseau d’environ 1.100 lignes d’être d éployé dans Château-Chinon Ville. Environ 70 lignes le seront dans Château-Chinon Campagne\"",
+        "owner": "Nièvre Numérique",
+        "ref": "NRO Château-Chinon",
+        "source": "https://www.lejdc.fr/chateau-chinon-ville-58120/actualites/un-sro-shelter-de-reseau-optique-vient-detre-installe-place-jean-sallonnyer_13845210/",
+        "start_date": "2020-09-30",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9362019,
+          47.0629704
+        ]
+      },
+      "id": "node/8221458566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221466313",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9109882,
+          48.5052841
+        ]
+      },
+      "id": "node/8221466313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221519881",
+        "addr:city": "Moret-Loing-et-Orvanne",
+        "addr:postcode": "77250",
+        "ref": "NRO Moret-Loing-et-Orvanne",
+        "source": "https://actu.fr/ile-de-france/moret-loing-et-orvanne_77316/seine-et-marne-le-deploiement-de-la-fibre-debute-a-moret_38021483.html",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8076298,
+          48.3740974
+        ]
+      },
+      "id": "node/8221519881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221520460",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0769781,
+          45.6302793
+        ]
+      },
+      "id": "node/8221520460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221520461",
+        "building": "service",
+        "operator": "Zayo",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.076799,
+          45.6305663
+        ]
+      },
+      "id": "node/8221520461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221524816",
+        "operator": "Orange",
+        "owner": "CAPS",
+        "ref": "SAW",
+        "ref:FR:Orange:NRO": "SAW",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1781489,
+          48.7291365
+        ]
+      },
+      "id": "node/8221524816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221531202",
+        "owner": "Losange Fibre",
+        "ref": "NRO-51-003",
+        "source": "https://twitter.com/CCuilleratNGE/status/1103339929290067968",
+        "start_date": "2019-03-06",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.787145,
+          48.554908
+        ]
+      },
+      "id": "node/8221531202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221537188",
+        "addr:city": "Larzicourt",
+        "addr:postcode": "51290",
+        "addr:street": "Rue du Faubourg",
+        "email": "contact@losange-fibre.fr",
+        "name": "NRO de Larzicourt",
+        "operator": "Losange Exploitation",
+        "owner": "Losange Fibre",
+        "phone": "+33 2 76 46 31 09",
+        "ref": "NRO 51-047",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7107139,
+          48.6345228
+        ]
+      },
+      "id": "node/8221537188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221544068",
+        "operator": "Zayo",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9112876,
+          48.5050837
+        ]
+      },
+      "id": "node/8221544068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221547623",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8341417,
+          47.5853903
+        ]
+      },
+      "id": "node/8221547623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221547624",
+        "operator": "Zayo",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8339626,
+          47.5857035
+        ]
+      },
+      "id": "node/8221547624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221549848",
+        "operator": "Orange",
+        "owner": "CAPS",
+        "ref": "BYV",
+        "source": "Survey",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1610375,
+          48.6911208
+        ]
+      },
+      "id": "node/8221549848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221552102",
+        "description": "NRO de la Zone Industrielle",
+        "man_made": "telephone_office",
+        "operator": "NC",
+        "ref:FR:PTT": "NC",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3821466,
+          43.368156
+        ]
+      },
+      "id": "node/8221552102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221552103",
+        "building": "service",
+        "colour": "white",
+        "description": "NRO La Fibre 64 Serres-Castet",
+        "man_made": "telephone_office",
+        "name": "NRO Serres-Castet",
+        "operator": "SFR",
+        "ref:FR:PTT": "NC",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3821061,
+          43.3681576
+        ]
+      },
+      "id": "node/8221552103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221560954",
+        "name": "NRO beziou",
+        "operator": "Axione",
+        "owner": "La Fibre Paloise",
+        "ref": "64445BEZ",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3796485,
+          43.304281
+        ]
+      },
+      "id": "node/8221560954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221561019",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4772353,
+          48.5648157
+        ]
+      },
+      "id": "node/8221561019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221561020",
+        "operator": "Zayo",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4777907,
+          48.5647204
+        ]
+      },
+      "id": "node/8221561020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221561907",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7766109,
+          44.7204749
+        ]
+      },
+      "id": "node/8221561907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221561908",
+        "operator": "Zayo",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7763165,
+          44.7203519
+        ]
+      },
+      "id": "node/8221561908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221592662",
+        "building": "service",
+        "operator": "Zayo",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.328762,
+          47.6154942
+        ]
+      },
+      "id": "node/8221592662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221592663",
+        "building": "service",
+        "operator": "SFR",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3290054,
+          47.615496
+        ]
+      },
+      "id": "node/8221592663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221599021",
+        "name": "NRO buros",
+        "operator": "Axione",
+        "owner": "La Fibre Paloise",
+        "ref:FR:ARCEP": "64445BUR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3523309,
+          43.305924
+        ]
+      },
+      "id": "node/8221599021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221606668",
+        "addr:city": "Segonzac",
+        "addr:postcode": "16130",
+        "addr:street": "Route de Gensac",
+        "name": "NRO de Segonzac",
+        "operator": "Axione",
+        "owner": "Charente Numérique",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2257894,
+          45.6229895
+        ]
+      },
+      "id": "node/8221606668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221606671",
+        "operator": "Hérault THD",
+        "ref": "NO34STGU",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4776188,
+          43.6771285
+        ]
+      },
+      "id": "node/8221606671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221606672",
+        "operator": "Hérault Télécom",
+        "ref": "POP JONQUIERES",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4776671,
+          43.6771646
+        ]
+      },
+      "id": "node/8221606672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221610023",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8776316,
+          48.0743585
+        ]
+      },
+      "id": "node/8221610023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221610024",
+        "operator": "Zayo",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8780101,
+          48.0743664
+        ]
+      },
+      "id": "node/8221610024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221617052",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7241118,
+          48.1797882
+        ]
+      },
+      "id": "node/8221617052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221617053",
+        "building": "service",
+        "operator": "Zayo",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7245755,
+          48.1794387
+        ]
+      },
+      "id": "node/8221617053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221619623",
+        "name": "EU141",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:PTT": "EU141",
+        "ref:FR:PTT:NRA": "41018EU1",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "survey:date": "2019-10-30",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3033099,
+          47.5887498
+        ]
+      },
+      "id": "node/8221619623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221621798",
+        "building": "service",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1852018,
+          45.340906
+        ]
+      },
+      "id": "node/8221621798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221630311",
+        "building": "service",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7438081,
+          44.9622268
+        ]
+      },
+      "id": "node/8221630311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221639775",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7952461,
+          44.9054684
+        ]
+      },
+      "id": "node/8221639775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221640377",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7478347,
+          44.6274163
+        ]
+      },
+      "id": "node/8221640377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221640610",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8961242,
+          45.2461099
+        ]
+      },
+      "id": "node/8221640610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221641536",
+        "building": "service",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8180855,
+          45.1301238
+        ]
+      },
+      "id": "node/8221641536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221642054",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3384188,
+          45.3415321
+        ]
+      },
+      "id": "node/8221642054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221644803",
+        "operator": "Isère Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1224606,
+          45.0225841
+        ]
+      },
+      "id": "node/8221644803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221646331",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.744211,
+          45.0905863
+        ]
+      },
+      "id": "node/8221646331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221648541",
+        "operator": "SICTIAM",
+        "ref": "NRO 06 026 ST062600000000",
+        "roof:colour": "red",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2639752,
+          43.9215859
+        ]
+      },
+      "id": "node/8221648541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221651248",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4173458,
+          45.3410923
+        ]
+      },
+      "id": "node/8221651248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221661344",
+        "building:prefabricated": "yes",
+        "name": "NRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref": "HSN_NRO_N070GAY",
+        "source": "https://twitter.com/Hades73440/status/1088018993590517763",
+        "start_date": "23/01/19",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5835514,
+          47.4491769
+        ]
+      },
+      "id": "node/8221661344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221661345",
+        "building:prefabricated": "yes",
+        "name": "NRO",
+        "operator": "Axione",
+        "owner": "HSN",
+        "ref": "HSN_NRO_N070MNY",
+        "source": "https://twitter.com/Hades73440/status/1123905534007103488",
+        "start_date": "02/05/19",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7713561,
+          47.2878893
+        ]
+      },
+      "id": "node/8221661345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221661346",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0532727,
+          45.3347525
+        ]
+      },
+      "id": "node/8221661346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221671553",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9548709,
+          45.3558653
+        ]
+      },
+      "id": "node/8221671553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221676193",
+        "operator": "Hérault THD",
+        "ref": "NO34VIAS",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3793555,
+          43.3130783
+        ]
+      },
+      "id": "node/8221676193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221676854",
+        "building": "service",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.263888,
+          45.3918106
+        ]
+      },
+      "id": "node/8221676854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221685292",
+        "operator": "Isère Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1160514,
+          44.9870107
+        ]
+      },
+      "id": "node/8221685292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221687609",
+        "name": "NO34STML",
+        "operator": "Hérault THD",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7315853,
+          43.7888858
+        ]
+      },
+      "id": "node/8221687609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221688981",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3436859,
+          45.3901813
+        ]
+      },
+      "id": "node/8221688981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221691570",
+        "operator": "Hérault THD",
+        "ref": "NO34ANIA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5816459,
+          43.6828463
+        ]
+      },
+      "id": "node/8221691570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221691785",
+        "operator": "Hérault THD",
+        "ref": "NO34GIGN",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5470762,
+          43.6589865
+        ]
+      },
+      "id": "node/8221691785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221695823",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1923148,
+          45.390074
+        ]
+      },
+      "id": "node/8221695823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221702404",
+        "operator": "Isère Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.024492,
+          45.0627039
+        ]
+      },
+      "id": "node/8221702404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221704986",
+        "operator": "Hérault THD",
+        "ref": "NO34CESO",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0532413,
+          43.4503869
+        ]
+      },
+      "id": "node/8221704986"
     }
   ]
 }
