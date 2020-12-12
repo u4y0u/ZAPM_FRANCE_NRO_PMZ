@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-12T17:09:03Z",
+  "timestamp": "2020-12-12T18:00:02Z",
   "features": [
     {
       "type": "Feature",
@@ -5744,49 +5744,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/671111259",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "manufacturer": "Grolleau",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref": "25-001",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.1597158,
-              46.8550325
-            ],
-            [
-              6.1597691,
-              46.8549727
-            ],
-            [
-              6.1597966,
-              46.8549842
-            ],
-            [
-              6.1597433,
-              46.855044
-            ],
-            [
-              6.1597158,
-              46.8550325
-            ]
-          ]
-        ]
-      },
-      "id": "way/671111259"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/671111260",
         "building": "service",
         "building:prefabricated": "yes",
@@ -6049,45 +6006,6 @@
         ]
       },
       "id": "way/675653375"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/675653376",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.1730325,
-              45.6528741
-            ],
-            [
-              5.1730145,
-              45.6528279
-            ],
-            [
-              5.1731362,
-              45.6528048
-            ],
-            [
-              5.1731542,
-              45.652851
-            ],
-            [
-              5.1730325,
-              45.6528741
-            ]
-          ]
-        ]
-      },
-      "id": "way/675653376"
     },
     {
       "type": "Feature",
@@ -6931,99 +6849,6 @@
         ]
       },
       "id": "way/726783136"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/736646889",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref": "25-004",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2019",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.305522,
-              46.9190109
-            ],
-            [
-              6.3055364,
-              46.9190308
-            ],
-            [
-              6.3054559,
-              46.919058
-            ],
-            [
-              6.3054415,
-              46.9190381
-            ],
-            [
-              6.305522,
-              46.9190109
-            ]
-          ]
-        ]
-      },
-      "id": "way/736646889"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/737421174",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref": "25-013",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3745735,
-              46.866856
-            ],
-            [
-              6.3745969,
-              46.8668399
-            ],
-            [
-              6.3746155,
-              46.8668525
-            ],
-            [
-              6.3746522,
-              46.8668774
-            ],
-            [
-              6.3746733,
-              46.8668917
-            ],
-            [
-              6.3746499,
-              46.8669078
-            ],
-            [
-              6.3745735,
-              46.866856
-            ]
-          ]
-        ]
-      },
-      "id": "way/737421174"
     },
     {
       "type": "Feature",
@@ -8598,49 +8423,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/793291042",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref": "25-044",
-        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2020",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.279623,
-              46.7766421
-            ],
-            [
-              6.2797257,
-              46.7766541
-            ],
-            [
-              6.2797202,
-              46.7766759
-            ],
-            [
-              6.2796176,
-              46.7766639
-            ],
-            [
-              6.279623,
-              46.7766421
-            ]
-          ]
-        ]
-      },
-      "id": "way/793291042"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/796571407",
         "building": "service",
         "name": "NRO Agonac",
@@ -9377,48 +9159,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/835572870",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref": "25-003",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.5984941,
-              47.0585158
-            ],
-            [
-              6.5984715,
-              47.0584983
-            ],
-            [
-              6.5985595,
-              47.0584471
-            ],
-            [
-              6.598581,
-              47.0584654
-            ],
-            [
-              6.5984941,
-              47.0585158
-            ]
-          ]
-        ]
-      },
-      "id": "way/835572870"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/835573480",
         "building": "service",
         "building:prefabricated": "yes",
@@ -9503,48 +9243,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/835575673",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref": "25-012",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.6644364,
-              47.0591295
-            ],
-            [
-              6.6644342,
-              47.0591076
-            ],
-            [
-              6.6645415,
-              47.0591017
-            ],
-            [
-              6.6645437,
-              47.0591229
-            ],
-            [
-              6.6644364,
-              47.0591295
-            ]
-          ]
-        ]
-      },
-      "id": "way/835575673"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/835577269",
         "building": "service",
         "building:prefabricated": "yes",
@@ -9583,136 +9281,6 @@
         ]
       },
       "id": "way/835577269"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/835580267",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref": "25-046",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.1892245,
-              46.7087141
-            ],
-            [
-              6.1891751,
-              46.7086582
-            ],
-            [
-              6.189202,
-              46.7086465
-            ],
-            [
-              6.1892502,
-              46.7087031
-            ],
-            [
-              6.1892245,
-              46.7087141
-            ]
-          ]
-        ]
-      },
-      "id": "way/835580267"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/835581055",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref": "25-045",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3719377,
-              46.775489
-            ],
-            [
-              6.3719291,
-              46.7754721
-            ],
-            [
-              6.3720128,
-              46.7754544
-            ],
-            [
-              6.3720203,
-              46.7754699
-            ],
-            [
-              6.3719377,
-              46.775489
-            ]
-          ]
-        ]
-      },
-      "id": "way/835581055"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/835741637",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref": "25-42",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.4772811,
-              47.04743
-            ],
-            [
-              6.4773079,
-              47.0474659
-            ],
-            [
-              6.4772886,
-              47.0474717
-            ],
-            [
-              6.4772752,
-              47.0474545
-            ],
-            [
-              6.4772618,
-              47.0474359
-            ],
-            [
-              6.4772811,
-              47.04743
-            ]
-          ]
-        ]
-      },
-      "id": "way/835741637"
     },
     {
       "type": "Feature",
@@ -9931,90 +9499,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/835749145",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref": "25-039",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0760827,
-              47.0328293
-            ],
-            [
-              6.0761573,
-              47.0328692
-            ],
-            [
-              6.0761379,
-              47.0328864
-            ],
-            [
-              6.0760634,
-              47.0328465
-            ],
-            [
-              6.0760827,
-              47.0328293
-            ]
-          ]
-        ]
-      },
-      "id": "way/835749145"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/835750110",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref": "25-041",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.2963296,
-              47.000164
-            ],
-            [
-              6.2964498,
-              47.0001244
-            ],
-            [
-              6.296468,
-              47.0001515
-            ],
-            [
-              6.2963468,
-              47.000191
-            ],
-            [
-              6.2963296,
-              47.000164
-            ]
-          ]
-        ]
-      },
-      "id": "way/835750110"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/835751212",
         "building": "service",
         "building:prefabricated": "yes",
@@ -10097,50 +9581,6 @@
         ]
       },
       "id": "way/835754283"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/835754897",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref": "25-034",
-        "source": "https://twitter.com/Hades73440/status/1148522423572193280",
-        "start_date": "9/07/19",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.8805823,
-              47.1028143
-            ],
-            [
-              5.8805978,
-              47.1028275
-            ],
-            [
-              5.8805335,
-              47.1028621
-            ],
-            [
-              5.8805184,
-              47.102849
-            ],
-            [
-              5.8805823,
-              47.1028143
-            ]
-          ]
-        ]
-      },
-      "id": "way/835754897"
     },
     {
       "type": "Feature",
@@ -10821,48 +10261,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/838282730",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref": "25-038",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.7837147,
-              47.0392712
-            ],
-            [
-              5.7837348,
-              47.0392456
-            ],
-            [
-              5.7838247,
-              47.0392684
-            ],
-            [
-              5.7838046,
-              47.0392967
-            ],
-            [
-              5.7837147,
-              47.0392712
-            ]
-          ]
-        ]
-      },
-      "id": "way/838282730"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/838284192",
         "building": "service",
         "building:prefabricated": "yes",
@@ -11195,90 +10593,6 @@
         ]
       },
       "id": "way/838295362"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/838298771",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref": "25-040",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.2382919,
-              47.0468127
-            ],
-            [
-              6.2382865,
-              47.0467926
-            ],
-            [
-              6.2383549,
-              47.0467826
-            ],
-            [
-              6.2383629,
-              47.0468027
-            ],
-            [
-              6.2382919,
-              47.0468127
-            ]
-          ]
-        ]
-      },
-      "id": "way/838298771"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/838301431",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref": "25-005",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.1165678,
-              46.9535372
-            ],
-            [
-              6.116474,
-              46.9535308
-            ],
-            [
-              6.116478,
-              46.9535115
-            ],
-            [
-              6.1165772,
-              46.9535179
-            ],
-            [
-              6.1165678,
-              46.9535372
-            ]
-          ]
-        ]
-      },
-      "id": "way/838301431"
     },
     {
       "type": "Feature",
@@ -23041,6 +22355,44 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/8222561857",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1730829,
+          45.6528386
+        ]
+      },
+      "id": "node/8222561857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222564405",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "25-005",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1165217,
+          46.953525
+        ]
+      },
+      "id": "node/8222564405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/8222568355",
         "operator": "Isère Fibre",
         "owner": "Conseil Départemental de l'Isère",
@@ -23055,6 +22407,292 @@
         ]
       },
       "id": "node/8222568355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222575894",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "25-046",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.189211,
+          46.7086803
+        ]
+      },
+      "id": "node/8222575894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222581270",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "25-044",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2020",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.279672,
+          46.7766583
+        ]
+      },
+      "id": "node/8222581270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222582100",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "25-045",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3719746,
+          46.7754711
+        ]
+      },
+      "id": "node/8222582100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222625196",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "25-040",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2383247,
+          47.0467965
+        ]
+      },
+      "id": "node/8222625196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222630893",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "25-004",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2019",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3054894,
+          46.9190348
+        ]
+      },
+      "id": "node/8222630893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222637188",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "25-012",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6644876,
+          47.0591134
+        ]
+      },
+      "id": "node/8222637188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222639833",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "25-001",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1597577,
+          46.8550066
+        ]
+      },
+      "id": "node/8222639833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222649532",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "25-003",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5985222,
+          47.0584817
+        ]
+      },
+      "id": "node/8222649532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222652058",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "25-013",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3746217,
+          46.8668729
+        ]
+      },
+      "id": "node/8222652058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222655345",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "25-041",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2963947,
+          47.0001578
+        ]
+      },
+      "id": "node/8222655345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222655860",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "25-039",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0761079,
+          47.0328576
+        ]
+      },
+      "id": "node/8222655860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222659151",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "25-42",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4772873,
+          47.047451
+        ]
+      },
+      "id": "node/8222659151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222670200",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "25-038",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7837679,
+          47.0392693
+        ]
+      },
+      "id": "node/8222670200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222675366",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "25-034",
+        "source": "https://twitter.com/Hades73440/status/1148522423572193280",
+        "start_date": "9/07/19",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8805555,
+          47.1028411
+        ]
+      },
+      "id": "node/8222675366"
     }
   ]
 }
