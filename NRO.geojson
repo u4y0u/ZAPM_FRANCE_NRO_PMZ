@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-12T21:33:02Z",
+  "timestamp": "2020-12-12T22:37:02Z",
   "features": [
     {
       "type": "Feature",
@@ -1537,49 +1537,6 @@
         ]
       },
       "id": "way/443074328"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/443958554",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "Axione",
-        "owner": "Nièvre Numérique",
-        "source": "https://twitter.com/PBareille/status/1063468972144762880",
-        "start_date": "2018-11-16",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.9259906,
-              47.4018511
-            ],
-            [
-              2.926003,
-              47.4018312
-            ],
-            [
-              2.9260652,
-              47.401849
-            ],
-            [
-              2.926053,
-              47.4018689
-            ],
-            [
-              2.9259906,
-              47.4018511
-            ]
-          ]
-        ]
-      },
-      "id": "way/443958554"
     },
     {
       "type": "Feature",
@@ -4985,147 +4942,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/671111261",
-        "addr:city": "Saint Exupéry les Roches",
-        "addr:postcode": "19200",
-        "addr:street": "Rue du Stade",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "name": "NRO de Saint Exupéry les Roches",
-        "operator": "Axione",
-        "owner": "Dorsal",
-        "source": "https://twitter.com/Syndicat_DIEGE/status/774281276941557760",
-        "start_date": "2016-09",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.3711009,
-              45.5146878
-            ],
-            [
-              2.3711522,
-              45.5146598
-            ],
-            [
-              2.371171,
-              45.5146768
-            ],
-            [
-              2.3711197,
-              45.5147047
-            ],
-            [
-              2.3711009,
-              45.5146878
-            ]
-          ]
-        ]
-      },
-      "id": "way/671111261"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/671111265",
-        "addr:city": "Neuvic",
-        "addr:postcode": "19160",
-        "addr:street": "Rue de l'Artisanat",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "name": "NRO de Neuvic",
-        "operator": "Axione",
-        "owner": "Dorsal",
-        "source": "https://twitter.com/Syndicat_DIEGE/status/1073506077801631744",
-        "start_date": "2018-12",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.2762714,
-              45.3836108
-            ],
-            [
-              2.2762991,
-              45.3835418
-            ],
-            [
-              2.276342,
-              45.3835503
-            ],
-            [
-              2.2763143,
-              45.3836193
-            ],
-            [
-              2.2762714,
-              45.3836108
-            ]
-          ]
-        ]
-      },
-      "id": "way/671111265"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/671111266",
-        "addr:city": "Ussel",
-        "addr:postcode": "19200",
-        "addr:street": "Rue de Grammont",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "name": "NRO de Ussel",
-        "operator": "Axione",
-        "owner": "Dorsal",
-        "source": "https://twitter.com/Syndicat_DIEGE/status/789530016036089856",
-        "start_date": "2016-10",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.3175278,
-              45.5536062
-            ],
-            [
-              2.3175259,
-              45.5535376
-            ],
-            [
-              2.3175608,
-              45.5535372
-            ],
-            [
-              2.3175627,
-              45.5536057
-            ],
-            [
-              2.3175278,
-              45.5536062
-            ]
-          ]
-        ]
-      },
-      "id": "way/671111266"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/671111267",
         "building": "service",
         "building:prefabricated": "yes",
@@ -5207,54 +5023,6 @@
         ]
       },
       "id": "way/676139577"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/676139578",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "operator": "Axione",
-        "owner": "Dorsal",
-        "ref": "SHL-87001-AIXE",
-        "source": "https://twitter.com/DORSAL_Syndicat/status/1098243019122323456;survey",
-        "start_date": "2019-02-20",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.1381055,
-              45.7979264
-            ],
-            [
-              1.1380922,
-              45.7978885
-            ],
-            [
-              1.1380766,
-              45.7978438
-            ],
-            [
-              1.1381316,
-              45.7978344
-            ],
-            [
-              1.1381605,
-              45.7979171
-            ],
-            [
-              1.1381055,
-              45.7979264
-            ]
-          ]
-        ]
-      },
-      "id": "way/676139578"
     },
     {
       "type": "Feature",
@@ -5626,90 +5394,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/711877777",
-        "addr:city": "La Rochefoucauld-en-Angoumois",
-        "addr:postcode": "16110",
-        "addr:street": "Rue du Château d'Eau",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "name": "NRO de La Rochefoucauld en Angoumois",
-        "operator": "Axione",
-        "owner": "Charente Numérique",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              0.3959321,
-              45.7409208
-            ],
-            [
-              0.395979,
-              45.7409218
-            ],
-            [
-              0.3959784,
-              45.7409367
-            ],
-            [
-              0.3959314,
-              45.7409356
-            ],
-            [
-              0.3959321,
-              45.7409208
-            ]
-          ]
-        ]
-      },
-      "id": "way/711877777"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/719463773",
-        "building": "service",
-        "operator": "Axione",
-        "owner": "THD 59-62",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              3.5639288,
-              50.1037856
-            ],
-            [
-              3.5639424,
-              50.1037504
-            ],
-            [
-              3.5640551,
-              50.1037683
-            ],
-            [
-              3.5640415,
-              50.1038035
-            ],
-            [
-              3.5639288,
-              50.1037856
-            ]
-          ]
-        ]
-      },
-      "id": "way/719463773"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/723849308",
         "building": "service",
         "name": "NRO Boulazac",
@@ -5752,56 +5436,6 @@
         ]
       },
       "id": "way/723849308"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/723849309",
-        "addr:city": "Terrasson-Lavilledieu",
-        "addr:postcode": "24120",
-        "addr:street": "Avenue Louis Pasteur",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "name": "NRO de Terrasson-Lavilledieu",
-        "operator": "Axione",
-        "owner": "Périgord Numérique",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_de_Terrasson.jpg"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.2943393,
-              45.1339692
-            ],
-            [
-              1.2943509,
-              45.1339393
-            ],
-            [
-              1.2943533,
-              45.1339332
-            ],
-            [
-              1.2943828,
-              45.1339389
-            ],
-            [
-              1.2943688,
-              45.1339749
-            ],
-            [
-              1.2943393,
-              45.1339692
-            ]
-          ]
-        ]
-      },
-      "id": "way/723849309"
     },
     {
       "type": "Feature",
@@ -6049,51 +5683,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/744175916",
-        "addr:city": "Montpon-Ménestérol",
-        "addr:postcode": "24700",
-        "addr:street": "Rue Henri Laborde",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "name": "NRO de Montpon-Ménestérol",
-        "operator": "Axione",
-        "owner": "Périgord Numérique",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              0.1602862,
-              45.0076612
-            ],
-            [
-              0.1603017,
-              45.0077191
-            ],
-            [
-              0.160262,
-              45.0077244
-            ],
-            [
-              0.1602465,
-              45.0076665
-            ],
-            [
-              0.1602862,
-              45.0076612
-            ]
-          ]
-        ]
-      },
-      "id": "way/744175916"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/752271765",
         "building": "service",
         "name": "POP CAHM",
@@ -6130,458 +5719,6 @@
         ]
       },
       "id": "way/752271765"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/753596607",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "name": "NRO de Thiviers",
-        "operator": "Axione",
-        "owner": "Périgord Numérique",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              0.9223361,
-              45.4183327
-            ],
-            [
-              0.9223327,
-              45.4183188
-            ],
-            [
-              0.9223962,
-              45.4183109
-            ],
-            [
-              0.9223996,
-              45.4183248
-            ],
-            [
-              0.9223361,
-              45.4183327
-            ]
-          ]
-        ]
-      },
-      "id": "way/753596607"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/753600809",
-        "addr:city": "Bellac",
-        "addr:postcode": "87300",
-        "addr:street": "LES ROCHETTES",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "name": "NRO de Bellac",
-        "operator": "Axione",
-        "owner": "DORSAL",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.0531154,
-              46.1294332
-            ],
-            [
-              1.0530584,
-              46.1293697
-            ],
-            [
-              1.0531038,
-              46.1293501
-            ],
-            [
-              1.0531608,
-              46.1294137
-            ],
-            [
-              1.0531154,
-              46.1294332
-            ]
-          ]
-        ]
-      },
-      "id": "way/753600809"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/753602086",
-        "addr:city": "Crocq",
-        "addr:postcode": "23260",
-        "addr:street": "Route de la Bourboule",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "name": "NRO de Crocq",
-        "operator": "Axione",
-        "owner": "DORSAL",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.3675652,
-              45.8616374
-            ],
-            [
-              2.3674903,
-              45.8616524
-            ],
-            [
-              2.3674831,
-              45.8616351
-            ],
-            [
-              2.367558,
-              45.8616201
-            ],
-            [
-              2.3675652,
-              45.8616374
-            ]
-          ]
-        ]
-      },
-      "id": "way/753602086"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/753602746",
-        "addr:city": "Mourioux-Vieilleville",
-        "addr:postcode": "23210",
-        "addr:street": "Avenue de Formigliana",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "name": "NRO de Mourioux-Vieilleville",
-        "operator": "Axione",
-        "owner": "DORSAL",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.6684994,
-              46.0911135
-            ],
-            [
-              1.6685111,
-              46.0910796
-            ],
-            [
-              1.6686494,
-              46.0911025
-            ],
-            [
-              1.6686378,
-              46.0911364
-            ],
-            [
-              1.6684994,
-              46.0911135
-            ]
-          ]
-        ]
-      },
-      "id": "way/753602746"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/753603699",
-        "addr:city": "Peyrelevade",
-        "addr:postcode": "19290",
-        "addr:street": "Rue du Champ de Foire",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "name": "NRO de Peyrelevade",
-        "operator": "Axione",
-        "owner": "DORSAL",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.0494973,
-              45.7049142
-            ],
-            [
-              2.0495334,
-              45.7048906
-            ],
-            [
-              2.0495915,
-              45.7049341
-            ],
-            [
-              2.0495554,
-              45.7049576
-            ],
-            [
-              2.0494973,
-              45.7049142
-            ]
-          ]
-        ]
-      },
-      "id": "way/753603699"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/753604485",
-        "addr:city": "Eygurande",
-        "addr:postcode": "19340",
-        "addr:street": "D22E",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "name": "NRO d'Eygurande",
-        "operator": "Axione",
-        "owner": "DORSAL",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.457434,
-              45.65198
-            ],
-            [
-              2.4574779,
-              45.6520049
-            ],
-            [
-              2.4574116,
-              45.6520621
-            ],
-            [
-              2.4573677,
-              45.6520372
-            ],
-            [
-              2.457434,
-              45.65198
-            ]
-          ]
-        ]
-      },
-      "id": "way/753604485"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/753682327",
-        "addr:city": "Saint-Cernin-de-Larche",
-        "addr:postcode": "19600",
-        "addr:street": "D19",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "name": "NRO de Saint Cernin de Larche",
-        "operator": "Axione",
-        "owner": "DORSAL",
-        "source": "https://twitter.com/Esterle19/status/1083993493759057921",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Saint-Cernin-de-Larche.jpg"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.4172089,
-              45.1085521
-            ],
-            [
-              1.4171712,
-              45.1084844
-            ],
-            [
-              1.4172244,
-              45.1084697
-            ],
-            [
-              1.4172621,
-              45.1085373
-            ],
-            [
-              1.4172089,
-              45.1085521
-            ]
-          ]
-        ]
-      },
-      "id": "way/753682327"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/753683933",
-        "addr:city": "Le Grand-Bourg",
-        "addr:postcode": "23240",
-        "addr:street": "Rue de la Mairie",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "name": "NRO de Le Grand-Bourg",
-        "operator": "Axione",
-        "owner": "DORSAL",
-        "source": "https://twitter.com/DORSAL_Syndicat/status/1109023974825037825/photo/2",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.6497664,
-              46.1609856
-            ],
-            [
-              1.6497605,
-              46.1609459
-            ],
-            [
-              1.6498034,
-              46.1609428
-            ],
-            [
-              1.6498093,
-              46.1609825
-            ],
-            [
-              1.6497664,
-              46.1609856
-            ]
-          ]
-        ]
-      },
-      "id": "way/753683933"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/753686203",
-        "addr:city": "Dun-le-Palestel",
-        "addr:postcode": "23800",
-        "addr:street": "Avenue Benjamin Bord",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "name": "NRO de Dun le Palestel",
-        "operator": "Axione",
-        "owner": "DORSAL",
-        "source": "https://twitter.com/daviddaroussin/status/1109358345838870529",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.6725247,
-              46.3059173
-            ],
-            [
-              1.6725743,
-              46.3058565
-            ],
-            [
-              1.6726118,
-              46.3058712
-            ],
-            [
-              1.6725623,
-              46.3059319
-            ],
-            [
-              1.6725247,
-              46.3059173
-            ]
-          ]
-        ]
-      },
-      "id": "way/753686203"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/753686729",
-        "addr:city": "Maussac",
-        "addr:postcode": "19250",
-        "addr:street": "D165",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "name": "NRO de Maussac",
-        "operator": "Axione",
-        "owner": "DORSAL",
-        "source": "https://twitter.com/Esterle19/status/1118501739685142533/photo/1",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.1230543,
-              45.4894233
-            ],
-            [
-              2.1230521,
-              45.4893883
-            ],
-            [
-              2.1231433,
-              45.4893855
-            ],
-            [
-              2.1231456,
-              45.4894204
-            ],
-            [
-              2.1230543,
-              45.4894233
-            ]
-          ]
-        ]
-      },
-      "id": "way/753686729"
     },
     {
       "type": "Feature",
@@ -6873,52 +6010,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/754719143",
-        "addr:city": "La Meyze",
-        "addr:postcode": "87800",
-        "addr:street": "D17",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "name": "NRO de La Meyze",
-        "operator": "Axione",
-        "owner": "dorsal",
-        "source": "https://twitter.com/DORSAL_Syndicat/status/1204703430654222336?s=20",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.2196464,
-              45.6142175
-            ],
-            [
-              1.2196286,
-              45.6141675
-            ],
-            [
-              1.2196692,
-              45.6141604
-            ],
-            [
-              1.219687,
-              45.6142105
-            ],
-            [
-              1.2196464,
-              45.6142175
-            ]
-          ]
-        ]
-      },
-      "id": "way/754719143"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/754721612",
         "addr:city": "Jouy-le-Châtel",
         "addr:postcode": "77970",
@@ -6960,51 +6051,6 @@
         ]
       },
       "id": "way/754721612"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/759976009",
-        "addr:city": "Bugeat",
-        "addr:postcode": "19170",
-        "addr:street": "Rue Nationale",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "name": "NRO de Bugeat",
-        "operator": "Axione",
-        "owner": "DORSAL",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.9411654,
-              45.5979324
-            ],
-            [
-              1.9412177,
-              45.5979104
-            ],
-            [
-              1.9412918,
-              45.5979963
-            ],
-            [
-              1.9412395,
-              45.5980184
-            ],
-            [
-              1.9411654,
-              45.5979324
-            ]
-          ]
-        ]
-      },
-      "id": "way/759976009"
     },
     {
       "type": "Feature",
@@ -7712,46 +6758,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/802255328",
-        "building": "service",
-        "operator": "Axione",
-        "owner": "THD 59-62",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.5490666,
-              50.7203836
-            ],
-            [
-              2.5491253,
-              50.7203359
-            ],
-            [
-              2.5491724,
-              50.7203592
-            ],
-            [
-              2.5491136,
-              50.7204068
-            ],
-            [
-              2.5490666,
-              50.7203836
-            ]
-          ]
-        ]
-      },
-      "id": "way/802255328"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/802261111",
         "building": "service",
         "operator": "Anjou Fibre",
@@ -7788,46 +6794,6 @@
         ]
       },
       "id": "way/802261111"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/805122157",
-        "building": "service",
-        "operator": "Axione",
-        "owner": "THD 59-62",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.465437,
-              50.8892362
-            ],
-            [
-              2.465454,
-              50.8892071
-            ],
-            [
-              2.4654828,
-              50.8892138
-            ],
-            [
-              2.4654658,
-              50.8892429
-            ],
-            [
-              2.465437,
-              50.8892362
-            ]
-          ]
-        ]
-      },
-      "id": "way/805122157"
     },
     {
       "type": "Feature",
@@ -7992,50 +6958,6 @@
         ]
       },
       "id": "way/828375662"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/834215050",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "name": "NRO de Cubjac",
-        "operator": "Axione",
-        "owner": "Périgord Numérique",
-        "ref": "NA_24147_MUCY",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Cubjac.jpg"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              0.9377392,
-              45.2240453
-            ],
-            [
-              0.9377358,
-              45.2240314
-            ],
-            [
-              0.9377993,
-              45.2240235
-            ],
-            [
-              0.9378027,
-              45.2240374
-            ],
-            [
-              0.9377392,
-              45.2240453
-            ]
-          ]
-        ]
-      },
-      "id": "way/834215050"
     },
     {
       "type": "Feature",
@@ -20707,6 +19629,25 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/8223038582",
+        "operator": "Axione",
+        "owner": "THD 59-62",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4654497,
+          50.8892469
+        ]
+      },
+      "id": "node/8223038582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/8223039048",
         "operator": "Interoute",
         "telecom": "exchange",
@@ -20856,6 +19797,509 @@
         ]
       },
       "id": "node/8223061226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223069702",
+        "addr:city": "Montpon-Ménestérol",
+        "addr:postcode": "24700",
+        "addr:street": "Rue Henri Laborde",
+        "name": "NRO de Montpon-Ménestérol",
+        "operator": "Axione",
+        "owner": "Périgord Numérique",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1602709,
+          45.0076905
+        ]
+      },
+      "id": "node/8223069702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223083443",
+        "addr:city": "Neuvic",
+        "addr:postcode": "19160",
+        "addr:street": "Rue de l'Artisanat",
+        "name": "NRO de Neuvic",
+        "operator": "Axione",
+        "owner": "Dorsal",
+        "source": "https://twitter.com/Syndicat_DIEGE/status/1073506077801631744",
+        "start_date": "2018-12",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2763055,
+          45.3835837
+        ]
+      },
+      "id": "node/8223083443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223084434",
+        "addr:city": "Saint Exupéry les Roches",
+        "addr:postcode": "19200",
+        "addr:street": "Rue du Stade",
+        "name": "NRO de Saint Exupéry les Roches",
+        "operator": "Axione",
+        "owner": "Dorsal",
+        "source": "https://twitter.com/Syndicat_DIEGE/status/774281276941557760",
+        "start_date": "2016-09",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3711362,
+          45.5146811
+        ]
+      },
+      "id": "node/8223084434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223089205",
+        "addr:city": "Saint-Cernin-de-Larche",
+        "addr:postcode": "19600",
+        "addr:street": "D19",
+        "name": "NRO de Saint Cernin de Larche",
+        "operator": "Axione",
+        "owner": "DORSAL",
+        "source": "https://twitter.com/Esterle19/status/1083993493759057921",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Saint-Cernin-de-Larche.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4172176,
+          45.1085142
+        ]
+      },
+      "id": "node/8223089205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223089495",
+        "name": "NRO",
+        "operator": "Axione",
+        "owner": "Nièvre Numérique",
+        "start_date": "2018-11-16",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9260272,
+          47.401843
+        ]
+      },
+      "id": "node/8223089495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223092022",
+        "operator": "Axione",
+        "owner": "THD 59-62",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5639678,
+          50.1037534
+        ]
+      },
+      "id": "node/8223092022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223092180",
+        "operator": "Axione",
+        "owner": "THD 59-62",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5491155,
+          50.7203709
+        ]
+      },
+      "id": "node/8223092180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223095857",
+        "addr:city": "Mourioux-Vieilleville",
+        "addr:postcode": "23210",
+        "addr:street": "Avenue de Formigliana",
+        "name": "NRO de Mourioux-Vieilleville",
+        "operator": "Axione",
+        "owner": "DORSAL",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6685645,
+          46.0911027
+        ]
+      },
+      "id": "node/8223095857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223099335",
+        "addr:city": "Bellac",
+        "addr:postcode": "87300",
+        "addr:street": "LES ROCHETTES",
+        "name": "NRO de Bellac",
+        "operator": "Axione",
+        "owner": "DORSAL",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0531107,
+          46.1293898
+        ]
+      },
+      "id": "node/8223099335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223102515",
+        "addr:city": "Dun-le-Palestel",
+        "addr:postcode": "23800",
+        "addr:street": "Avenue Benjamin Bord",
+        "name": "NRO de Dun le Palestel",
+        "operator": "Axione",
+        "owner": "DORSAL",
+        "source": "https://twitter.com/daviddaroussin/status/1109358345838870529",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6725633,
+          46.3058941
+        ]
+      },
+      "id": "node/8223102515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223103880",
+        "operator": "Axione",
+        "owner": "Dorsal",
+        "ref": "SHL-87001-AIXE",
+        "source": "https://twitter.com/DORSAL_Syndicat/status/1098243019122323456;survey",
+        "start_date": "2019-02-20",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1381196,
+          45.7978801
+        ]
+      },
+      "id": "node/8223103880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223105137",
+        "addr:city": "Le Grand-Bourg",
+        "addr:postcode": "23240",
+        "addr:street": "Rue de la Mairie",
+        "name": "NRO de Le Grand-Bourg",
+        "operator": "Axione",
+        "owner": "DORSAL",
+        "source": "https://twitter.com/DORSAL_Syndicat/status/1109023974825037825/photo/2",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6497832,
+          46.1609636
+        ]
+      },
+      "id": "node/8223105137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223119078",
+        "addr:city": "Crocq",
+        "addr:postcode": "23260",
+        "addr:street": "Route de la Bourboule",
+        "name": "NRO de Crocq",
+        "operator": "Axione",
+        "owner": "DORSAL",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3675212,
+          45.8616358
+        ]
+      },
+      "id": "node/8223119078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223130433",
+        "addr:city": "La Rochefoucauld-en-Angoumois",
+        "addr:postcode": "16110",
+        "addr:street": "Rue du Château d'Eau",
+        "name": "NRO de La Rochefoucauld en Angoumois",
+        "operator": "Axione",
+        "owner": "Charente Numérique",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3959532,
+          45.7409286
+        ]
+      },
+      "id": "node/8223130433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223132188",
+        "addr:city": "La Meyze",
+        "addr:postcode": "87800",
+        "addr:street": "D17",
+        "name": "NRO de La Meyze",
+        "operator": "Axione",
+        "owner": "dorsal",
+        "source": "https://twitter.com/DORSAL_Syndicat/status/1204703430654222336?s=20",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2196564,
+          45.6141893
+        ]
+      },
+      "id": "node/8223132188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223135589",
+        "addr:city": "Peyrelevade",
+        "addr:postcode": "19290",
+        "addr:street": "Rue du Champ de Foire",
+        "name": "NRO de Peyrelevade",
+        "operator": "Axione",
+        "owner": "DORSAL",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0495427,
+          45.7049235
+        ]
+      },
+      "id": "node/8223135589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223138174",
+        "addr:city": "Eygurande",
+        "addr:postcode": "19340",
+        "addr:street": "D22E",
+        "name": "NRO d'Eygurande",
+        "operator": "Axione",
+        "owner": "DORSAL",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.45742,
+          45.6520226
+        ]
+      },
+      "id": "node/8223138174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223138374",
+        "name": "NRO de Thiviers",
+        "operator": "Axione",
+        "owner": "Périgord Numérique",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9223648,
+          45.4183208
+        ]
+      },
+      "id": "node/8223138374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223144382",
+        "name": "NRO de Cubjac",
+        "operator": "Axione",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24147_MUCY",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9377683,
+          45.2240341
+        ]
+      },
+      "id": "node/8223144382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223145724",
+        "addr:city": "Terrasson-Lavilledieu",
+        "addr:postcode": "24120",
+        "addr:street": "Avenue Louis Pasteur",
+        "name": "NRO de Terrasson-Lavilledieu",
+        "operator": "Axione",
+        "owner": "Périgord Numérique",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.294357,
+          45.1339579
+        ]
+      },
+      "id": "node/8223145724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223152565",
+        "addr:city": "Ussel",
+        "addr:postcode": "19200",
+        "addr:street": "Rue de Grammont",
+        "name": "NRO de Ussel",
+        "operator": "Axione",
+        "owner": "Dorsal",
+        "source": "https://twitter.com/Syndicat_DIEGE/status/789530016036089856",
+        "start_date": "2016-10",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3175542,
+          45.5535754
+        ]
+      },
+      "id": "node/8223152565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223158068",
+        "addr:city": "Bugeat",
+        "addr:postcode": "19170",
+        "addr:street": "Rue Nationale",
+        "name": "NRO de Bugeat",
+        "operator": "Axione",
+        "owner": "DORSAL",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9412279,
+          45.5979674
+        ]
+      },
+      "id": "node/8223158068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223161369",
+        "addr:city": "Maussac",
+        "addr:postcode": "19250",
+        "addr:street": "D165",
+        "name": "NRO de Maussac",
+        "operator": "Axione",
+        "owner": "DORSAL",
+        "source": "https://twitter.com/Esterle19/status/1118501739685142533/photo/1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1230952,
+          45.4894031
+        ]
+      },
+      "id": "node/8223161369"
     }
   ]
 }
