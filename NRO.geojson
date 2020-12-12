@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-12T15:30:02Z",
+  "timestamp": "2020-12-12T17:09:03Z",
   "features": [
     {
       "type": "Feature",
@@ -388,46 +388,6 @@
         ]
       },
       "id": "way/98306476"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/104134474",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.7748418,
-              45.0761418
-            ],
-            [
-              5.7747169,
-              45.076187
-            ],
-            [
-              5.774683,
-              45.0761404
-            ],
-            [
-              5.7748079,
-              45.0760951
-            ],
-            [
-              5.7748418,
-              45.0761418
-            ]
-          ]
-        ]
-      },
-      "id": "way/104134474"
     },
     {
       "type": "Feature",
@@ -877,44 +837,6 @@
         ]
       },
       "id": "way/161996509"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/162130897",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.4740729,
-              45.3877795
-            ],
-            [
-              5.4740939,
-              45.3877355
-            ],
-            [
-              5.4742439,
-              45.3877765
-            ],
-            [
-              5.4742199,
-              45.3878185
-            ],
-            [
-              5.4740729,
-              45.3877795
-            ]
-          ]
-        ]
-      },
-      "id": "way/162130897"
     },
     {
       "type": "Feature",
@@ -2834,45 +2756,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/538863183",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.069979,
-              45.39375
-            ],
-            [
-              6.0699311,
-              45.3936548
-            ],
-            [
-              6.069996,
-              45.3936387
-            ],
-            [
-              6.0700439,
-              45.3937339
-            ],
-            [
-              6.069979,
-              45.39375
-            ]
-          ]
-        ]
-      },
-      "id": "way/538863183"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/569121054",
         "building": "service",
         "name": "NRO de Bégadan",
@@ -3044,47 +2927,6 @@
         ]
       },
       "id": "way/607438554"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/614951943",
-        "building": "service",
-        "building:levels": "1",
-        "name": "Local technique - fibre optique",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.8791151,
-              45.2805866
-            ],
-            [
-              5.8791676,
-              45.2806177
-            ],
-            [
-              5.8790777,
-              45.2806929
-            ],
-            [
-              5.8790251,
-              45.2806618
-            ],
-            [
-              5.8791151,
-              45.2805866
-            ]
-          ]
-        ]
-      },
-      "id": "way/614951943"
     },
     {
       "type": "Feature",
@@ -4165,48 +4007,6 @@
         ]
       },
       "id": "way/664484826"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/664881811",
-        "building": "service",
-        "building:levels": "1",
-        "location": "indoor",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "roof:shape": "flat",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.145739,
-              45.6179401
-            ],
-            [
-              5.1456697,
-              45.6177799
-            ],
-            [
-              5.1457429,
-              45.6177644
-            ],
-            [
-              5.1458122,
-              45.6179246
-            ],
-            [
-              5.145739,
-              45.6179401
-            ]
-          ]
-        ]
-      },
-      "id": "way/664881811"
     },
     {
       "type": "Feature",
@@ -6214,84 +6014,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/671330716",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0862803,
-              45.3207187
-            ],
-            [
-              6.0862748,
-              45.3206461
-            ],
-            [
-              6.0863486,
-              45.3206434
-            ],
-            [
-              6.0863541,
-              45.320716
-            ],
-            [
-              6.0862803,
-              45.3207187
-            ]
-          ]
-        ]
-      },
-      "id": "way/671330716"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/675653372",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.2931016,
-              45.671894
-            ],
-            [
-              5.2931408,
-              45.6718358
-            ],
-            [
-              5.2931878,
-              45.6718512
-            ],
-            [
-              5.2931486,
-              45.6719095
-            ],
-            [
-              5.2931016,
-              45.671894
-            ]
-          ]
-        ]
-      },
-      "id": "way/675653372"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/675653375",
         "building": "service",
         "operator": "Isère Fibre",
@@ -6366,45 +6088,6 @@
         ]
       },
       "id": "way/675653376"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/675653379",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.4292619,
-              45.4425912
-            ],
-            [
-              5.4293814,
-              45.4425569
-            ],
-            [
-              5.4294028,
-              45.4425934
-            ],
-            [
-              5.4292833,
-              45.4426278
-            ],
-            [
-              5.4292619,
-              45.4425912
-            ]
-          ]
-        ]
-      },
-      "id": "way/675653379"
     },
     {
       "type": "Feature",
@@ -6709,84 +6392,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/699954462",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.6405466,
-              45.3810832
-            ],
-            [
-              5.6405148,
-              45.3810585
-            ],
-            [
-              5.6405684,
-              45.3810245
-            ],
-            [
-              5.6406002,
-              45.3810491
-            ],
-            [
-              5.6405466,
-              45.3810832
-            ]
-          ]
-        ]
-      },
-      "id": "way/699954462"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/699956352",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.4694217,
-              45.6718749
-            ],
-            [
-              5.4695606,
-              45.6718698
-            ],
-            [
-              5.4695641,
-              45.6719161
-            ],
-            [
-              5.4694252,
-              45.6719211
-            ],
-            [
-              5.4694217,
-              45.6718749
-            ]
-          ]
-        ]
-      },
-      "id": "way/699956352"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/700911071",
         "building": "service",
         "building:prefabricated": "yes",
@@ -7028,46 +6633,6 @@
         ]
       },
       "id": "way/717859621"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/718191841",
-        "building": "service",
-        "name": "Point de raccordement fibre optique",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.5894474,
-              45.1287156
-            ],
-            [
-              5.5894517,
-              45.1286517
-            ],
-            [
-              5.5895747,
-              45.1286558
-            ],
-            [
-              5.5895704,
-              45.1287197
-            ],
-            [
-              5.5894474,
-              45.1287156
-            ]
-          ]
-        ]
-      },
-      "id": "way/718191841"
     },
     {
       "type": "Feature",
@@ -8669,201 +8234,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/777175897",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.647605,
-              44.8015715
-            ],
-            [
-              5.6476305,
-              44.8015532
-            ],
-            [
-              5.6476874,
-              44.8015929
-            ],
-            [
-              5.647662,
-              44.8016113
-            ],
-            [
-              5.647605,
-              44.8015715
-            ]
-          ]
-        ]
-      },
-      "id": "way/777175897"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777175898",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.944864,
-              44.8185383
-            ],
-            [
-              5.9448944,
-              44.8184718
-            ],
-            [
-              5.9449555,
-              44.8184858
-            ],
-            [
-              5.9449251,
-              44.8185524
-            ],
-            [
-              5.944864,
-              44.8185383
-            ]
-          ]
-        ]
-      },
-      "id": "way/777175898"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777175900",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.9368956,
-              45.3291338
-            ],
-            [
-              5.9367934,
-              45.3290427
-            ],
-            [
-              5.9368461,
-              45.3290133
-            ],
-            [
-              5.9369493,
-              45.3291031
-            ],
-            [
-              5.9368956,
-              45.3291338
-            ]
-          ]
-        ]
-      },
-      "id": "way/777175900"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777175903",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.2667247,
-              45.3285985
-            ],
-            [
-              5.2667273,
-              45.3285503
-            ],
-            [
-              5.2668499,
-              45.3285537
-            ],
-            [
-              5.2668473,
-              45.3286018
-            ],
-            [
-              5.2667247,
-              45.3285985
-            ]
-          ]
-        ]
-      },
-      "id": "way/777175903"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777175904",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.3137929,
-              45.6252414
-            ],
-            [
-              5.3137724,
-              45.6251982
-            ],
-            [
-              5.3138937,
-              45.6251699
-            ],
-            [
-              5.3139142,
-              45.6252131
-            ],
-            [
-              5.3137929,
-              45.6252414
-            ]
-          ]
-        ]
-      },
-      "id": "way/777175904"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/777175905",
         "building": "service",
         "operator": "Isère Fibre",
@@ -9055,430 +8425,6 @@
         ]
       },
       "id": "way/777175909"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777175910",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.3024109,
-              45.5702209
-            ],
-            [
-              5.3024284,
-              45.5701193
-            ],
-            [
-              5.302501,
-              45.5701254
-            ],
-            [
-              5.3024836,
-              45.570227
-            ],
-            [
-              5.3024109,
-              45.5702209
-            ]
-          ]
-        ]
-      },
-      "id": "way/777175910"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777175911",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.7781008,
-              45.2583354
-            ],
-            [
-              5.7781459,
-              45.2583015
-            ],
-            [
-              5.7782181,
-              45.2583491
-            ],
-            [
-              5.778173,
-              45.258383
-            ],
-            [
-              5.7781008,
-              45.2583354
-            ]
-          ]
-        ]
-      },
-      "id": "way/777175911"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777175912",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.8279952,
-              45.2408133
-            ],
-            [
-              5.828041,
-              45.2407773
-            ],
-            [
-              5.8281448,
-              45.2408429
-            ],
-            [
-              5.8280991,
-              45.2408788
-            ],
-            [
-              5.8279952,
-              45.2408133
-            ]
-          ]
-        ]
-      },
-      "id": "way/777175912"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777175913",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0195853,
-              45.4328447
-            ],
-            [
-              6.0196493,
-              45.4328153
-            ],
-            [
-              6.0197673,
-              45.4329419
-            ],
-            [
-              6.0197034,
-              45.4329713
-            ],
-            [
-              6.0195853,
-              45.4328447
-            ]
-          ]
-        ]
-      },
-      "id": "way/777175913"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777175914",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.8033949,
-              45.2237184
-            ],
-            [
-              5.8034174,
-              45.2236729
-            ],
-            [
-              5.8035476,
-              45.2237048
-            ],
-            [
-              5.8035251,
-              45.2237503
-            ],
-            [
-              5.8033949,
-              45.2237184
-            ]
-          ]
-        ]
-      },
-      "id": "way/777175914"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777175915",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.8406394,
-              45.1553938
-            ],
-            [
-              5.8406264,
-              45.1553516
-            ],
-            [
-              5.8407845,
-              45.1553273
-            ],
-            [
-              5.8407976,
-              45.1553694
-            ],
-            [
-              5.8406394,
-              45.1553938
-            ]
-          ]
-        ]
-      },
-      "id": "way/777175915"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777175916",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.8230499,
-              45.0516494
-            ],
-            [
-              5.8230359,
-              45.0515841
-            ],
-            [
-              5.823103,
-              45.0515769
-            ],
-            [
-              5.823117,
-              45.0516422
-            ],
-            [
-              5.8230499,
-              45.0516494
-            ]
-          ]
-        ]
-      },
-      "id": "way/777175916"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777175917",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.902489,
-              45.0899202
-            ],
-            [
-              5.9025531,
-              45.0898971
-            ],
-            [
-              5.9025988,
-              45.0899603
-            ],
-            [
-              5.9025347,
-              45.0899834
-            ],
-            [
-              5.902489,
-              45.0899202
-            ]
-          ]
-        ]
-      },
-      "id": "way/777175917"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777181138",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.9891421,
-              45.2745987
-            ],
-            [
-              5.9891656,
-              45.2745571
-            ],
-            [
-              5.9892782,
-              45.2745886
-            ],
-            [
-              5.9892546,
-              45.2746302
-            ],
-            [
-              5.9891421,
-              45.2745987
-            ]
-          ]
-        ]
-      },
-      "id": "way/777181138"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777186812",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.876996,
-              45.1239727
-            ],
-            [
-              5.8769603,
-              45.1238763
-            ],
-            [
-              5.8770252,
-              45.1238644
-            ],
-            [
-              5.8770609,
-              45.1239607
-            ],
-            [
-              5.876996,
-              45.1239727
-            ]
-          ]
-        ]
-      },
-      "id": "way/777186812"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777186814",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.7176166,
-              45.2533759
-            ],
-            [
-              5.7175417,
-              45.2533462
-            ],
-            [
-              5.7175609,
-              45.2533222
-            ],
-            [
-              5.7176357,
-              45.2533519
-            ],
-            [
-              5.7176166,
-              45.2533759
-            ]
-          ]
-        ]
-      },
-      "id": "way/777186814"
     },
     {
       "type": "Feature",
@@ -13526,27 +12472,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/5775623510",
-        "location": "indoor",
-        "man_made": "street_cabinet",
-        "operator": "Anjou Fibre",
-        "owner": "Anjou Numérique",
-        "street_cabinet": "telecom",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.8346083,
-          47.6034473
-        ]
-      },
-      "id": "node/5775623510"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/5793921897",
         "name": "Brest Centre",
         "operator": "Orange",
@@ -13859,7 +12784,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6184518246",
-        "operator": "Sem@for77",
+        "operator": "Covage",
         "owner": "Sem@for77",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -14090,18 +13015,18 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6421821512",
-        "man_made": "street_cabinet",
-        "operator": "Anjou Fibre",
+        "note": "Anjou Fibre",
+        "operator": "TDF",
+        "ref": "NRO Combrée",
         "start_date": "2019-04",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.0310226,
-          47.7003315
+          -1.0310255,
+          47.70033
         ]
       },
       "id": "node/6421821512"
@@ -14192,8 +13117,9 @@
       "properties": {
         "@id": "node/6700896234",
         "building": "service",
-        "name": "Abancourt",
-        "operator": "Oise THD",
+        "note": "Oise THD",
+        "operator": "SFR",
+        "ref": "NRO Abancourt",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -19577,24 +18503,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7685190904",
-        "man_made": "street_cabinet",
-        "street_cabinet": "telecom",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.1583957,
-          49.0951508
-        ]
-      },
-      "id": "node/7685190904"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/7712024347",
         "operator": "Orange",
         "ref:FR:Orange:NRO": "69388BAC",
@@ -21338,6 +20246,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221531202",
+        "operator": "Losange",
         "owner": "Losange Fibre",
         "ref": "NRO-51-003",
         "source": "https://twitter.com/CCuilleratNGE/status/1103339929290067968",
@@ -21348,8 +20257,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.787145,
-          48.554908
+          3.787166,
+          48.554909
         ]
       },
       "id": "node/8221531202"
@@ -23662,6 +22571,490 @@
         ]
       },
       "id": "node/8222291833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222384892",
+        "name": "Local technique - fibre optique",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8790966,
+          45.2806367
+        ]
+      },
+      "id": "node/8222384892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222393922",
+        "operator": "Isère Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.90254,
+          45.0899438
+        ]
+      },
+      "id": "node/8222393922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222406468",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9449059,
+          44.8185094
+        ]
+      },
+      "id": "node/8222406468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222406469",
+        "operator": "Isère Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8230687,
+          45.0516083
+        ]
+      },
+      "id": "node/8222406469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222406854",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7781542,
+          45.2583379
+        ]
+      },
+      "id": "node/8222406854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222408128",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.77476,
+          45.07614
+        ]
+      },
+      "id": "node/8222408128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222415736",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8280698,
+          45.2408204
+        ]
+      },
+      "id": "node/8222415736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222415738",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.936873,
+          45.3290722
+        ]
+      },
+      "id": "node/8222415738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222416374",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6476447,
+          44.8015791
+        ]
+      },
+      "id": "node/8222416374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222418426",
+        "operator": "Isère Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8407113,
+          45.1553614
+        ]
+      },
+      "id": "node/8222418426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222430550",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8770078,
+          45.1239157
+        ]
+      },
+      "id": "node/8222430550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222431782",
+        "operator": "Isère Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8034729,
+          45.2237103
+        ]
+      },
+      "id": "node/8222431782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222432162",
+        "name": "Point de raccordement fibre optique",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5895122,
+          45.1286853
+        ]
+      },
+      "id": "node/8222432162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222434902",
+        "operator": "Isère Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7175872,
+          45.2533478
+        ]
+      },
+      "id": "node/8222434902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222441874",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.989211,
+          45.2745931
+        ]
+      },
+      "id": "node/8222441874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222443482",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.086311,
+          45.3206788
+        ]
+      },
+      "id": "node/8222443482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222488468",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2667843,
+          45.3285729
+        ]
+      },
+      "id": "node/8222488468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222489212",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4293238,
+          45.442608
+        ]
+      },
+      "id": "node/8222489212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222490198",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0699843,
+          45.3936958
+        ]
+      },
+      "id": "node/8222490198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222493048",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4694877,
+          45.6718953
+        ]
+      },
+      "id": "node/8222493048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222494858",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0196765,
+          45.4328949
+        ]
+      },
+      "id": "node/8222494858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222511078",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6405586,
+          45.3810526
+        ]
+      },
+      "id": "node/8222511078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222517367",
+        "location": "indoor",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1457373,
+          45.6178515
+        ]
+      },
+      "id": "node/8222517367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222523663",
+        "operator": "Isère Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4741556,
+          45.3877774
+        ]
+      },
+      "id": "node/8222523663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222526041",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3024547,
+          45.5701696
+        ]
+      },
+      "id": "node/8222526041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222542529",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3138377,
+          45.6252037
+        ]
+      },
+      "id": "node/8222542529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222568355",
+        "operator": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.293145,
+          45.6718681
+        ]
+      },
+      "id": "node/8222568355"
     }
   ]
 }
