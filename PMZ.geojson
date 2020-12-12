@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-11T16:53:02Z",
+  "timestamp": "2020-12-12T19:21:03Z",
   "features": [
     {
       "type": "Feature",
@@ -2325,50 +2325,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/793291043",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "manufacturer": "Grolleau",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-044-HW",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.2796665,
-              46.7766782
-            ],
-            [
-              6.2797181,
-              46.7766843
-            ],
-            [
-              6.2797126,
-              46.7767064
-            ],
-            [
-              6.279661,
-              46.7767004
-            ],
-            [
-              6.2796665,
-              46.7766782
-            ]
-          ]
-        ]
-      },
-      "id": "way/793291043"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/808403307",
         "building": "yes",
         "mapillary": "DGdE-ODTV9Wu8Q_RI1xzow",
@@ -2733,24 +2689,24 @@
         "coordinates": [
           [
             [
-              6.3516792,
-              47.3508947
+              6.3516753,
+              47.3508921
             ],
             [
-              6.3517092,
-              47.3508515
+              6.3517053,
+              47.3508489
             ],
             [
-              6.3517341,
-              47.3508594
+              6.3517302,
+              47.3508568
             ],
             [
-              6.351704,
-              47.3509026
+              6.3517001,
+              47.3509
             ],
             [
-              6.3516792,
-              47.3508947
+              6.3516753,
+              47.3508921
             ]
           ]
         ]
@@ -3218,7 +3174,7 @@
           [
             [
               6.1166111,
-              46.9535403
+              46.9535402
             ],
             [
               6.1165748,
@@ -3234,100 +3190,12 @@
             ],
             [
               6.1166111,
-              46.9535403
+              46.9535402
             ]
           ]
         ]
       },
       "id": "way/844571410"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/844574398",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "manufacturer": "Grolleau",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-046-GE",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.2378997,
-              46.7336185
-            ],
-            [
-              6.2379231,
-              46.7336036
-            ],
-            [
-              6.237942,
-              46.7336175
-            ],
-            [
-              6.2379186,
-              46.7336324
-            ],
-            [
-              6.2378997,
-              46.7336185
-            ]
-          ]
-        ]
-      },
-      "id": "way/844574398"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/844574689",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "manufacturer": "Grolleau",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-046-GC;PMU-25-046-GL",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.1891599,
-              46.7086461
-            ],
-            [
-              6.1891338,
-              46.7086155
-            ],
-            [
-              6.1891666,
-              46.7086023
-            ],
-            [
-              6.1891927,
-              46.7086329
-            ],
-            [
-              6.1891599,
-              46.7086461
-            ]
-          ]
-        ]
-      },
-      "id": "way/844574689"
     },
     {
       "type": "Feature",
@@ -3569,24 +3437,24 @@
         "coordinates": [
           [
             [
-              6.8785853,
-              47.2451073
+              6.878595,
+              47.2450995
             ],
             [
-              6.8785133,
-              47.2450861
+              6.8785344,
+              47.2450808
             ],
             [
-              6.8785363,
-              47.2450503
+              6.8785514,
+              47.2450585
             ],
             [
-              6.8786082,
-              47.2450715
+              6.8786118,
+              47.2450781
             ],
             [
-              6.8785853,
-              47.2451073
+              6.878595,
+              47.2450995
             ]
           ]
         ]
@@ -3613,24 +3481,24 @@
         "coordinates": [
           [
             [
-              6.8242373,
-              47.2122464
+              6.8242313,
+              47.212246
             ],
             [
-              6.8242399,
-              47.2122075
+              6.8242339,
+              47.2122071
             ],
             [
-              6.8242667,
-              47.2122083
+              6.8242607,
+              47.2122079
             ],
             [
-              6.8242642,
-              47.2122472
+              6.8242582,
+              47.2122468
             ],
             [
-              6.8242373,
-              47.2122464
+              6.8242313,
+              47.212246
             ]
           ]
         ]
@@ -4097,161 +3965,29 @@
         "coordinates": [
           [
             [
-              6.3746634,
-              46.8668713
+              6.3746539,
+              46.8668755
             ],
             [
-              6.3746219,
-              46.8668473
+              6.3746151,
+              46.8668494
             ],
             [
-              6.3746427,
-              46.8668305
+              6.3746377,
+              46.8668337
             ],
             [
-              6.3746842,
-              46.8668544
+              6.3746765,
+              46.8668597
             ],
             [
-              6.3746634,
-              46.8668713
+              6.3746539,
+              46.8668755
             ]
           ]
         ]
       },
       "id": "way/844587895"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/844588193",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "manufacturer": "Grolleau",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-045-FW",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3443021,
-              46.7727608
-            ],
-            [
-              6.3442605,
-              46.7727448
-            ],
-            [
-              6.3442759,
-              46.772726
-            ],
-            [
-              6.3443176,
-              46.772742
-            ],
-            [
-              6.3443021,
-              46.7727608
-            ]
-          ]
-        ]
-      },
-      "id": "way/844588193"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/844588233",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "manufacturer": "Grolleau",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-045-FY",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3719573,
-              46.7754588
-            ],
-            [
-              6.3719509,
-              46.7754452
-            ],
-            [
-              6.3719955,
-              46.7754353
-            ],
-            [
-              6.3720019,
-              46.7754489
-            ],
-            [
-              6.3719573,
-              46.7754588
-            ]
-          ]
-        ]
-      },
-      "id": "way/844588233"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/844588435",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "manufacturer": "Grolleau",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-045-FX",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3456327,
-              46.7639966
-            ],
-            [
-              6.3455998,
-              46.763986
-            ],
-            [
-              6.3456119,
-              46.7639683
-            ],
-            [
-              6.3456449,
-              46.7639788
-            ],
-            [
-              6.3456327,
-              46.7639966
-            ]
-          ]
-        ]
-      },
-      "id": "way/844588435"
     },
     {
       "type": "Feature",
@@ -4564,50 +4300,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/848574092",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "BFC Fibre",
-        "owner": "Departement Cote d'Or",
-        "ref:FR:ARCEP": "SRO21657VA1_2",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.1254186,
-              47.347549
-            ],
-            [
-              5.1254107,
-              47.3475346
-            ],
-            [
-              5.1254416,
-              47.3475268
-            ],
-            [
-              5.1254495,
-              47.3475412
-            ],
-            [
-              5.1254186,
-              47.347549
-            ]
-          ]
-        ]
-      },
-      "id": "way/848574092"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/853855894",
         "man_made": "street_cabinet",
         "manufacturer": "Grolleau",
@@ -4814,50 +4506,6 @@
         ]
       },
       "id": "way/854865022"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/856810433",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "name": "SRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref:FR:ARCEP": "PMU-25-023-*",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.8694039,
-              47.3106926
-            ],
-            [
-              5.8693964,
-              47.3106897
-            ],
-            [
-              5.869403,
-              47.3106819
-            ],
-            [
-              5.8694105,
-              47.3106848
-            ],
-            [
-              5.8694039,
-              47.3106926
-            ]
-          ]
-        ]
-      },
-      "id": "way/856810433"
     },
     {
       "type": "Feature",
@@ -28861,7 +28509,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6184518247",
-        "operator": "Sem@for77",
+        "operator": "Covage",
         "owner": "Sem@for77",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -63827,6 +63475,45 @@
         ]
       },
       "id": "node/6750046028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6750828751",
+        "man_made": "street_cabinet",
+        "owner": "Auvergne Numérique",
+        "ref": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4388294,
+          45.6988365
+        ]
+      },
+      "id": "node/6750828751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6750828752",
+        "man_made": "street_cabinet",
+        "owner": "Auvergne Numérique",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3034589,
+          45.74746
+        ]
+      },
+      "id": "node/6750828752"
     },
     {
       "type": "Feature",
@@ -133672,6 +133359,25 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/7685190904",
+        "man_made": "street_cabinet",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1583957,
+          49.0951508
+        ]
+      },
+      "id": "node/7685190904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/7685439469",
         "colour": "gray",
         "man_made": "street_cabinet",
@@ -152555,6 +152261,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8033317400",
+        "hinge": "horizontal",
         "man_made": "street_cabinet",
         "manufacturer": "Ideaoptical",
         "name": "SRO",
@@ -156760,6 +156467,29 @@
         ]
       },
       "id": "node/8063366475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8063372213",
+        "addr:street": "Rue Emery Bulcourt",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "NC",
+        "ref:FR:Orange": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8763479,
+          50.4611316
+        ]
+      },
+      "id": "node/8063372213"
     },
     {
       "type": "Feature",
@@ -162777,6 +162507,145 @@
         ]
       },
       "id": "node/8213897412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222104158",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "operator": "BFC Fibre",
+        "owner": "Departement Cote d'Or",
+        "ref:FR:ARCEP": "SRO21657VA1_2",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.125434,
+          47.3475354
+        ]
+      },
+      "id": "node/8222104158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222314875",
+        "building:prefabricated": "yes",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-032-DJ",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8694035,
+          47.3106876
+        ]
+      },
+      "id": "node/8222314875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222427657",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange/SFR",
+        "ref:FR:ARCEP": "FI",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.352831,
+          46.8997588
+        ]
+      },
+      "id": "node/8222427657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222427658",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange/SFR",
+        "ref:FR:ARCEP": "FI",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3527885,
+          46.8997567
+        ]
+      },
+      "id": "node/8222427658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222427659",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "SFR",
+        "ref:FR:ARCEP": "SRO-BPI-11346514",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3536822,
+          46.9026726
+        ]
+      },
+      "id": "node/8222427659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222593920",
+        "manufacturer": "Grolleau",
+        "name": "SRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-045-FY",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3719747,
+          46.7754477
+        ]
+      },
+      "id": "node/8222593920"
     }
   ]
 }
