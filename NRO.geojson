@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-13T18:49:02Z",
+  "timestamp": "2020-12-13T21:24:02Z",
   "features": [
     {
       "type": "Feature",
@@ -725,90 +725,6 @@
         ]
       },
       "id": "way/191958899"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/192410285",
-        "building": "service",
-        "name": "NRO de Soulac-sur-Mer",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref:FR:Orange": "33514USL",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -1.1178857,
-              45.5126616
-            ],
-            [
-              -1.117906,
-              45.5127827
-            ],
-            [
-              -1.1182186,
-              45.5127569
-            ],
-            [
-              -1.1181983,
-              45.5126358
-            ],
-            [
-              -1.1178857,
-              45.5126616
-            ]
-          ]
-        ]
-      },
-      "id": "way/192410285"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/192422741",
-        "building": "service",
-        "name": "NRO du Verdon-sur-Mer",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref:FR:Orange": "33544VSW",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -1.0658632,
-              45.5461323
-            ],
-            [
-              -1.0659422,
-              45.5461043
-            ],
-            [
-              -1.0658842,
-              45.5460223
-            ],
-            [
-              -1.0658042,
-              45.5460513
-            ],
-            [
-              -1.0658632,
-              45.5461323
-            ]
-          ]
-        ]
-      },
-      "id": "way/192422741"
     },
     {
       "type": "Feature",
@@ -12501,7 +12417,7 @@
         "addr:postcode": "16130",
         "addr:street": "Route de Gensac",
         "name": "NRO de Segonzac",
-        "operator": "Axione",
+        "operator": "NATHD",
         "owner": "Charente Numérique",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -16943,7 +16859,7 @@
         "addr:postcode": "24700",
         "addr:street": "Rue Henri Laborde",
         "name": "NRO de Montpon-Ménestérol",
-        "operator": "Axione",
+        "operator": "NATHD",
         "owner": "Périgord Numérique",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -16965,7 +16881,7 @@
         "addr:postcode": "19160",
         "addr:street": "Rue de l'Artisanat",
         "name": "NRO de Neuvic",
-        "operator": "Axione",
+        "operator": "NATHD",
         "owner": "Dorsal",
         "source": "https://twitter.com/Syndicat_DIEGE/status/1073506077801631744",
         "start_date": "2018-12",
@@ -16989,7 +16905,7 @@
         "addr:postcode": "19200",
         "addr:street": "Rue du Stade",
         "name": "NRO de Saint Exupéry les Roches",
-        "operator": "Axione",
+        "operator": "NATHD",
         "owner": "Dorsal",
         "source": "https://twitter.com/Syndicat_DIEGE/status/774281276941557760",
         "start_date": "2016-09",
@@ -17013,7 +16929,7 @@
         "addr:postcode": "19600",
         "addr:street": "D19",
         "name": "NRO de Saint Cernin de Larche",
-        "operator": "Axione",
+        "operator": "NATHD",
         "owner": "DORSAL",
         "source": "https://twitter.com/Esterle19/status/1083993493759057921",
         "telecom": "exchange",
@@ -17033,6 +16949,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8223089495",
+        "addr:city": "Cosne-Cours-sur-Loire",
+        "addr:postcode": "58200",
         "name": "NRO",
         "operator": "Axione",
         "owner": "Nièvre Numérique",
@@ -17094,7 +17012,7 @@
         "addr:postcode": "23210",
         "addr:street": "Avenue de Formigliana",
         "name": "NRO de Mourioux-Vieilleville",
-        "operator": "Axione",
+        "operator": "NATHD",
         "owner": "DORSAL",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -17116,7 +17034,7 @@
         "addr:postcode": "87300",
         "addr:street": "LES ROCHETTES",
         "name": "NRO de Bellac",
-        "operator": "Axione",
+        "operator": "NATHD",
         "owner": "DORSAL",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -17138,7 +17056,7 @@
         "addr:postcode": "23800",
         "addr:street": "Avenue Benjamin Bord",
         "name": "NRO de Dun le Palestel",
-        "operator": "Axione",
+        "operator": "NATHD",
         "owner": "DORSAL",
         "source": "https://twitter.com/daviddaroussin/status/1109358345838870529",
         "telecom": "exchange",
@@ -17157,7 +17075,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8223103880",
-        "operator": "Axione",
+        "note": "Nouvelle-Aquitaine Très Haut Débit",
+        "operator": "NATHD",
         "owner": "Dorsal",
         "ref": "SHL-87001-AIXE",
         "source": "https://twitter.com/DORSAL_Syndicat/status/1098243019122323456;survey",
@@ -17182,7 +17101,7 @@
         "addr:postcode": "23240",
         "addr:street": "Rue de la Mairie",
         "name": "NRO de Le Grand-Bourg",
-        "operator": "Axione",
+        "operator": "NATHD",
         "owner": "DORSAL",
         "source": "https://twitter.com/DORSAL_Syndicat/status/1109023974825037825/photo/2",
         "telecom": "exchange",
@@ -17205,7 +17124,7 @@
         "addr:postcode": "23260",
         "addr:street": "Route de la Bourboule",
         "name": "NRO de Crocq",
-        "operator": "Axione",
+        "operator": "NATHD",
         "owner": "DORSAL",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -17246,7 +17165,7 @@
         "addr:postcode": "16110",
         "addr:street": "Rue du Château d'Eau",
         "name": "NRO de La Rochefoucauld en Angoumois",
-        "operator": "Axione",
+        "operator": "NATHD",
         "owner": "Charente Numérique",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -17268,7 +17187,7 @@
         "addr:postcode": "87800",
         "addr:street": "D17",
         "name": "NRO de La Meyze",
-        "operator": "Axione",
+        "operator": "NATHD",
         "owner": "dorsal",
         "source": "https://twitter.com/DORSAL_Syndicat/status/1204703430654222336?s=20",
         "telecom": "exchange",
@@ -17291,7 +17210,7 @@
         "addr:postcode": "19290",
         "addr:street": "Rue du Champ de Foire",
         "name": "NRO de Peyrelevade",
-        "operator": "Axione",
+        "operator": "NATHD",
         "owner": "DORSAL",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -17313,7 +17232,7 @@
         "addr:postcode": "19340",
         "addr:street": "D22E",
         "name": "NRO d'Eygurande",
-        "operator": "Axione",
+        "operator": "NATHD",
         "owner": "DORSAL",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -17332,7 +17251,7 @@
       "properties": {
         "@id": "node/8223138374",
         "name": "NRO de Thiviers",
-        "operator": "Axione",
+        "operator": "NATHD",
         "owner": "Périgord Numérique",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -17351,7 +17270,7 @@
       "properties": {
         "@id": "node/8223144382",
         "name": "NRO de Cubjac",
-        "operator": "Axione",
+        "operator": "NATHD",
         "owner": "Périgord Numérique",
         "ref": "NA_24147_MUCY",
         "telecom": "exchange",
@@ -17374,7 +17293,7 @@
         "addr:postcode": "24120",
         "addr:street": "Avenue Louis Pasteur",
         "name": "NRO de Terrasson-Lavilledieu",
-        "operator": "Axione",
+        "operator": "NATHD",
         "owner": "Périgord Numérique",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -17396,7 +17315,7 @@
         "addr:postcode": "19200",
         "addr:street": "Rue de Grammont",
         "name": "NRO de Ussel",
-        "operator": "Axione",
+        "operator": "NATHD",
         "owner": "Dorsal",
         "source": "https://twitter.com/Syndicat_DIEGE/status/789530016036089856",
         "start_date": "2016-10",
@@ -17420,7 +17339,7 @@
         "addr:postcode": "19170",
         "addr:street": "Rue Nationale",
         "name": "NRO de Bugeat",
-        "operator": "Axione",
+        "operator": "NATHD",
         "owner": "DORSAL",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -17442,7 +17361,7 @@
         "addr:postcode": "19250",
         "addr:street": "D165",
         "name": "NRO de Maussac",
-        "operator": "Axione",
+        "operator": "NATHD",
         "owner": "DORSAL",
         "source": "https://twitter.com/Esterle19/status/1118501739685142533/photo/1",
         "telecom": "exchange",
@@ -18882,6 +18801,48 @@
         ]
       },
       "id": "node/8225187435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8225224529",
+        "name": "NRO du Verdon-sur-Mer",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:Orange": "33544VSW",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0658749,
+          45.5460784
+        ]
+      },
+      "id": "node/8225224529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8225226011",
+        "name": "NRO de Soulac-sur-Mer",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:Orange": "33514USL",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1180527,
+          45.5127044
+        ]
+      },
+      "id": "node/8225226011"
     }
   ]
 }
