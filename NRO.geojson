@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-13T21:24:02Z",
+  "timestamp": "2020-12-13T22:06:02Z",
   "features": [
     {
       "type": "Feature",
@@ -437,28 +437,24 @@
         "coordinates": [
           [
             [
-              0.0119833,
-              45.670208
+              0.0119711,
+              45.6702428
             ],
             [
-              0.0119833,
-              45.670215
+              0.0119281,
+              45.6702436
             ],
             [
-              0.0119393,
-              45.670212
+              0.0119261,
+              45.6701894
             ],
             [
-              0.0119383,
-              45.670158
+              0.0119691,
+              45.6701886
             ],
             [
-              0.0119803,
-              45.670157
-            ],
-            [
-              0.0119833,
-              45.670208
+              0.0119711,
+              45.6702428
             ]
           ]
         ]
@@ -2489,92 +2485,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/723849308",
-        "building": "service",
-        "name": "NRO Boulazac",
-        "operator": "NATHD",
-        "owner": "Périgord Numérique",
-        "ref": "SHL_24053_BOUL",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Boulazac.jpg"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              0.7876922,
-              45.1828751
-            ],
-            [
-              0.7877132,
-              45.1828381
-            ],
-            [
-              0.7877323,
-              45.1828435
-            ],
-            [
-              0.7877528,
-              45.1828492
-            ],
-            [
-              0.7877319,
-              45.1828864
-            ],
-            [
-              0.7876922,
-              45.1828751
-            ]
-          ]
-        ]
-      },
-      "id": "way/723849308"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/723849310",
-        "building": "service",
-        "name": "NRO Montignac",
-        "operator": "NATHD",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Montignac_(2).jpg"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.166945,
-              45.0621216
-            ],
-            [
-              1.1669715,
-              45.0620853
-            ],
-            [
-              1.1670053,
-              45.0620976
-            ],
-            [
-              1.1669787,
-              45.0621339
-            ],
-            [
-              1.166945,
-              45.0621216
-            ]
-          ]
-        ]
-      },
-      "id": "way/723849310"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/725199195",
         "building": "yes",
         "name": "NO34GANG",
@@ -2734,46 +2644,6 @@
         ]
       },
       "id": "way/738234839"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/744175915",
-        "building": "service",
-        "name": "NRO Sarlat",
-        "operator": "NATHD",
-        "owner": "Périgord Numérique",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.2124023,
-              44.8838448
-            ],
-            [
-              1.2124054,
-              44.8838048
-            ],
-            [
-              1.212448,
-              44.8838064
-            ],
-            [
-              1.212445,
-              44.8838466
-            ],
-            [
-              1.2124023,
-              44.8838448
-            ]
-          ]
-        ]
-      },
-      "id": "way/744175915"
     },
     {
       "type": "Feature",
@@ -3276,46 +3146,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/774728881",
-        "building": "service",
-        "name": "NRO Mensignac",
-        "operator": "NATHD",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Mensignac.jpg"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              0.5652057,
-              45.2230367
-            ],
-            [
-              0.5652559,
-              45.2230549
-            ],
-            [
-              0.5652365,
-              45.2230816
-            ],
-            [
-              0.5651859,
-              45.2230634
-            ],
-            [
-              0.5652057,
-              45.2230367
-            ]
-          ]
-        ]
-      },
-      "id": "way/774728881"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/788649798",
         "building": "service",
         "name": "NRO de Plautignan",
@@ -3481,85 +3311,6 @@
         ]
       },
       "id": "way/793219275"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/796571407",
-        "building": "service",
-        "name": "NRO Agonac",
-        "operator": "NATHD",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Agonac.jpg"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              0.7541652,
-              45.2949323
-            ],
-            [
-              0.754191,
-              45.2949676
-            ],
-            [
-              0.7541532,
-              45.2949813
-            ],
-            [
-              0.754127,
-              45.294946
-            ],
-            [
-              0.7541652,
-              45.2949323
-            ]
-          ]
-        ]
-      },
-      "id": "way/796571407"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/796571408",
-        "building": "service",
-        "name": "NRO Les Eyzies",
-        "operator": "NATHD",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.0790261,
-              44.9398887
-            ],
-            [
-              1.0790522,
-              44.9398532
-            ],
-            [
-              1.07909,
-              44.9398671
-            ],
-            [
-              1.079064,
-              44.9399028
-            ],
-            [
-              1.0790261,
-              44.9398887
-            ]
-          ]
-        ]
-      },
-      "id": "way/796571408"
     },
     {
       "type": "Feature",
@@ -4156,87 +3907,22 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/1399750498",
-        "owner": "CHARENTE-NUMERIQUE",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0119803,
-          45.670157
-        ]
-      },
-      "id": "node/1399750498"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/1399750500",
-        "owner": "CHARENTE-NUMERIQUE",
+        "addr:city": "Hiersac",
+        "addr:postcode": "16290",
+        "operator": "NATHD",
+        "owner": "Charente Numérique",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0119383,
-          45.670158
+          0.0119455,
+          45.6702143
         ]
       },
       "id": "node/1399750500"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/1399750545",
-        "owner": "CHARENTE-NUMERIQUE",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0119833,
-          45.670208
-        ]
-      },
-      "id": "node/1399750545"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/1399750548",
-        "owner": "CHARENTE-NUMERIQUE",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0119393,
-          45.670212
-        ]
-      },
-      "id": "node/1399750548"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/1399750550",
-        "owner": "CHARENTE-NUMERIQUE",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0119833,
-          45.670215
-        ]
-      },
-      "id": "node/1399750550"
     },
     {
       "type": "Feature",
@@ -18843,6 +18529,123 @@
         ]
       },
       "id": "node/8225226011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8225544704",
+        "addr:city": "Boulazac Isle Manoire",
+        "addr:postcode": "24750",
+        "name": "NRO Boulazac",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "SHL_24053_BOUL",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Boulazac.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7876914,
+          45.1828373
+        ]
+      },
+      "id": "node/8225544704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8225551315",
+        "name": "NRO Agonac",
+        "operator": "NATHD",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Agonac.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7541576,
+          45.2949562
+        ]
+      },
+      "id": "node/8225551315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8225602462",
+        "name": "NRO Mensignac",
+        "operator": "NATHD",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Mensignac.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5652215,
+          45.2230595
+        ]
+      },
+      "id": "node/8225602462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8225677670",
+        "name": "NRO Sarlat",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2124243,
+          44.8838167
+        ]
+      },
+      "id": "node/8225677670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8225720122",
+        "name": "NRO Montignac",
+        "operator": "NATHD",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Montignac_(2).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1669754,
+          45.06211
+        ]
+      },
+      "id": "node/8225720122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8225726214",
+        "name": "NRO Les Eyzies",
+        "operator": "NATHD",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0790594,
+          44.9398783
+        ]
+      },
+      "id": "node/8225726214"
     }
   ]
 }
