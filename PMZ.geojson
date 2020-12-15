@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-12T19:21:03Z",
+  "timestamp": "2020-12-15T16:18:02Z",
   "features": [
     {
       "type": "Feature",
@@ -100845,7 +100845,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7212442731",
+        "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "mapillary": "ffCeRRO920ZkHP4WB_wYHg",
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:ARCEP": "FI-75106-00DH",
@@ -100859,8 +100861,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3298518,
-          48.8420241
+          2.3298597,
+          48.8420132
         ]
       },
       "id": "node/7212442731"
@@ -100894,6 +100896,7 @@
       "properties": {
         "@id": "node/7212442735",
         "man_made": "street_cabinet",
+        "mapillary": "w4siFkTbo67Tw_Ove39oYA",
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:ARCEP": "FI-75114-00DU",
@@ -100907,8 +100910,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3251797,
-          48.8435584
+          2.3251944,
+          48.8435664
         ]
       },
       "id": "node/7212442735"
@@ -138136,27 +138139,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7794320694",
-        "name": "PMZ",
-        "operator": "NATHD",
-        "owner": "SMPN",
-        "ref": "SHL_24547_PAST",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_SHL_24547_PAST.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.2943509,
-          45.1339393
-        ]
-      },
-      "id": "node/7794320694"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/7794320695",
         "height": "1.6",
         "man_made": "street_cabinet",
@@ -158218,10 +158200,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8089420836",
+        "man_made": "street_cabinet",
         "name": "PMZ",
         "operator": "NATHD",
         "owner": "Périgord Numérique",
         "ref:FR:ARCEP": "NA_24053_SACA",
+        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre",
         "utility": "telecom",
@@ -158230,8 +158214,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.7877323,
-          45.1828435
+          0.7877201,
+          45.1828289
         ]
       },
       "id": "node/8089420836"
@@ -161327,8 +161311,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.2124289,
-          44.883833
+          1.2124234,
+          44.8838333
         ]
       },
       "id": "node/8155530341"
@@ -162646,6 +162630,122 @@
         ]
       },
       "id": "node/8222593920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8224661639",
+        "colour": "white",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Nouvelle-Aquitaine Très Haut Débit",
+        "owner": "Dorsal",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1346564,
+          45.7907645
+        ]
+      },
+      "id": "node/8224661639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8224661640",
+        "colour": "white",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Nouvelle-Aquitaine Très Haut Débit",
+        "owner": "Dorsal",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.148151,
+          45.7983075
+        ]
+      },
+      "id": "node/8224661640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8226837580",
+        "Owner": "BFCFibre",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-89152-0000",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4746888,
+          47.9485858
+        ]
+      },
+      "id": "node/8226837580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8228621710",
+        "Owner": "BFCFibre",
+        "man_made": "street_cabinet",
+        "manufacturer": "Grolleau",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-89085-0000",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4906313,
+          47.9410121
+        ]
+      },
+      "id": "node/8228621710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231249322",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7767551,
+          44.0532395
+        ]
+      },
+      "id": "node/8231249322"
     }
   ]
 }
