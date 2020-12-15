@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-15T14:20:02Z",
+  "timestamp": "2020-12-15T17:57:02Z",
   "features": [
     {
       "type": "Feature",
@@ -2439,45 +2439,6 @@
         ]
       },
       "id": "way/711876914"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/725199195",
-        "building": "yes",
-        "name": "NO34GANG",
-        "operator": "Hérault THD",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              3.7152005,
-              43.9391225
-            ],
-            [
-              3.7151521,
-              43.9391355
-            ],
-            [
-              3.7151192,
-              43.9390719
-            ],
-            [
-              3.7151676,
-              43.9390589
-            ],
-            [
-              3.7152005,
-              43.9391225
-            ]
-          ]
-        ]
-      },
-      "id": "way/725199195"
     },
     {
       "type": "Feature",
@@ -18996,6 +18957,142 @@
         ]
       },
       "id": "node/8231293494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231316044",
+        "addr:city": "Ganges",
+        "addr:postcode": "34190",
+        "operator": "Orange",
+        "ref:FR:Orange": "34111GAN",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7165188,
+          43.937102
+        ]
+      },
+      "id": "node/8231316044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231325378",
+        "addr:city": "Ganges",
+        "addr:postcode": "34190",
+        "name": "NO34GANG",
+        "operator": "Hérault THD",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7151572,
+          43.9390966
+        ]
+      },
+      "id": "node/8231325378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231638801",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:Orange": "91661VBO",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2409729,
+          48.7269815
+        ]
+      },
+      "id": "node/8231638801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231681046",
+        "operator": "Orange",
+        "ref:FR:Orange": "91661VBO",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2479875,
+          48.7208018
+        ]
+      },
+      "id": "node/8231681046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231706070",
+        "operator": "Covage",
+        "owner": "Sem@for77",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6020216,
+          48.5620082
+        ]
+      },
+      "id": "node/8231706070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231726716",
+        "operator": "Covage",
+        "owner": "Tutor Calvados",
+        "ref": "TCA-SITE-HOU14",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0677124,
+          49.2946543
+        ]
+      },
+      "id": "node/8231726716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231729179",
+        "building": "service",
+        "name": "Villemandeur",
+        "operator": "SFR",
+        "owner": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7089149,
+          47.986613
+        ]
+      },
+      "id": "node/8231729179"
     }
   ]
 }
