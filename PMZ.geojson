@@ -2,97 +2,8 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-15T16:18:02Z",
+  "timestamp": "2020-12-15T17:26:03Z",
   "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/71354551",
-        "building": "service",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref:FR:ARCEP": "FI-91477-000Y",
-        "ref:FR:Orange:NRO": "91661VBO",
-        "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.2409577,
-              48.7270051
-            ],
-            [
-              2.2409505,
-              48.7269501
-            ],
-            [
-              2.2410404,
-              48.726945
-            ],
-            [
-              2.2410486,
-              48.727
-            ],
-            [
-              2.2409577,
-              48.7270051
-            ]
-          ]
-        ]
-      },
-      "id": "way/71354551"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/71355390",
-        "building": "service",
-        "operator": "Orange",
-        "ref:FR:ARCEP": "FI-91477-0013",
-        "ref:FR:Orange:NRO": "91661VBO",
-        "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.2480687,
-              48.7207762
-            ],
-            [
-              2.248074,
-              48.7208208
-            ],
-            [
-              2.2479651,
-              48.7208249
-            ],
-            [
-              2.2479603,
-              48.72078
-            ],
-            [
-              2.2479713,
-              48.7207796
-            ],
-            [
-              2.2480687,
-              48.7207762
-            ]
-          ]
-        ]
-      },
-      "id": "way/71355390"
-    },
     {
       "type": "Feature",
       "properties": {
@@ -223,92 +134,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/493881000",
-        "location": "outdoor",
-        "man_made": "street_cabinet",
-        "man_made:colour": "beige",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref:FR:ARCEP": "FI-06085-000B",
-        "ref:FR:Orange": "PT00008",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.9718257,
-              43.6153514
-            ],
-            [
-              6.97183,
-              43.6153479
-            ],
-            [
-              6.9718396,
-              43.615354
-            ],
-            [
-              6.9718353,
-              43.6153575
-            ],
-            [
-              6.9718257,
-              43.6153514
-            ]
-          ]
-        ]
-      },
-      "id": "way/493881000"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/579536910",
-        "building": "service",
-        "operator": "Covage",
-        "owner": "Tutor Calvados",
-        "ref:FR:ARCEP": "TCA-SITE-HOU14",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -0.0677287,
-              49.2946854
-            ],
-            [
-              -0.0677447,
-              49.2946136
-            ],
-            [
-              -0.0676977,
-              49.2946092
-            ],
-            [
-              -0.0676818,
-              49.2946809
-            ],
-            [
-              -0.0677287,
-              49.2946854
-            ]
-          ]
-        ]
-      },
-      "id": "way/579536910"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/584826913",
         "building": "service",
         "note": "Il s'agit vraisemblablement de PM1000 (points de mutualisation pour 1000 abonnés fibre)",
@@ -344,249 +169,6 @@
         ]
       },
       "id": "way/584826913"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/655211887",
-        "height": "1.64",
-        "hinge": "horizontal",
-        "length": "1.64",
-        "man_made": "street_cabinet",
-        "manufacturer": "ideaoptical",
-        "name": "RTH_007",
-        "operator": "Orange",
-        "owner": "Gironde Numérique",
-        "ref:FR:ARCEP": "FI-33203-0001",
-        "ref:FR:Orange": "33203/RTH/PMZ/56297",
-        "ref:FR:Orange:NRO": "RTH",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "width": "0.35"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -1.075865,
-              45.1823885
-            ],
-            [
-              -1.0758639,
-              45.182385
-            ],
-            [
-              -1.0758444,
-              45.1823882
-            ],
-            [
-              -1.0758455,
-              45.1823917
-            ],
-            [
-              -1.075865,
-              45.1823885
-            ]
-          ]
-        ]
-      },
-      "id": "way/655211887"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/655213986",
-        "height": "1.64",
-        "hinge": "horizontal",
-        "length": "1.64",
-        "man_made": "street_cabinet",
-        "manufacturer": "Ideaoptical",
-        "operator": "Orange",
-        "ref": "RTH_012",
-        "ref:FR:ARCEP": "FI-33203-0003",
-        "ref:FR:Orange:NRO": "RTH",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom",
-        "width": "0.35"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -1.0608736,
-              45.187123
-            ],
-            [
-              -1.0608687,
-              45.1871207
-            ],
-            [
-              -1.0608575,
-              45.1871325
-            ],
-            [
-              -1.0608624,
-              45.1871348
-            ],
-            [
-              -1.0608736,
-              45.187123
-            ]
-          ]
-        ]
-      },
-      "id": "way/655213986"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/655220710",
-        "height": "1.64",
-        "hinge": "horizontal",
-        "length": "1.64",
-        "man_made": "street_cabinet",
-        "manufacturer": "ideaoptical",
-        "name": "RTH_005",
-        "operator": "Orange",
-        "owner": "Gironde Numérique",
-        "ref:FR:ARCEP": "FI-33203-0000",
-        "ref:FR:Orange": "33203/RTH/PMZ/56283",
-        "ref:FR:Orange:NRO": "RTH",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "width": "0.35"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -1.0580447,
-              45.1841866
-            ],
-            [
-              -1.0580398,
-              45.1841861
-            ],
-            [
-              -1.0580364,
-              45.1842
-            ],
-            [
-              -1.0580409,
-              45.1842006
-            ],
-            [
-              -1.0580447,
-              45.1841866
-            ]
-          ]
-        ]
-      },
-      "id": "way/655220710"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/655223747",
-        "height": "1.64",
-        "hinge": "horizontal",
-        "length": "1.64",
-        "man_made": "street_cabinet",
-        "manufacturer": "ideaoptical",
-        "name": "RTH_002",
-        "operator": "Orange",
-        "ref:FR:ARCEP": "FI-33203-0004",
-        "ref:FR:Orange": "33203/RTH/PMZ/56271",
-        "ref:FR:Orange:NRO": "RTH",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "width": "0.35"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -1.0813893,
-              45.1829214
-            ],
-            [
-              -1.0813838,
-              45.1829079
-            ],
-            [
-              -1.0813781,
-              45.182909
-            ],
-            [
-              -1.0813837,
-              45.1829226
-            ],
-            [
-              -1.0813893,
-              45.1829214
-            ]
-          ]
-        ]
-      },
-      "id": "way/655223747"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/655229814",
-        "height": "1.64",
-        "hinge": "horizontal",
-        "length": "1.64",
-        "man_made": "street_cabinet",
-        "maxspeed": "ideaoptical",
-        "name": "RTH_001",
-        "operator": "Orange",
-        "ref": "33203/RTH/PMZ/55937",
-        "ref:FR:ARCEP": "FI-33203-0002",
-        "ref:FR:Orange": "33203/RTH/PMZ/55937",
-        "ref:FR:Orange:NRO": "RTH",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "width": "0.35"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -1.0606714,
-              45.185145
-            ],
-            [
-              -1.0606696,
-              45.1851412
-            ],
-            [
-              -1.0606496,
-              45.185145
-            ],
-            [
-              -1.0606514,
-              45.1851486
-            ],
-            [
-              -1.0606714,
-              45.185145
-            ]
-          ]
-        ]
-      },
-      "id": "way/655229814"
     },
     {
       "type": "Feature",
@@ -910,210 +492,6 @@
         ]
       },
       "id": "way/660332117"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/660555868",
-        "building": "service",
-        "operator": "Sem@for77",
-        "owner": "Sem@for77",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.619481,
-              48.5703448
-            ],
-            [
-              2.6194889,
-              48.5703121
-            ],
-            [
-              2.6195268,
-              48.5703161
-            ],
-            [
-              2.6195189,
-              48.5703488
-            ],
-            [
-              2.619481,
-              48.5703448
-            ]
-          ]
-        ]
-      },
-      "id": "way/660555868"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/660555869",
-        "building": "service",
-        "operator": "Sem@for77",
-        "owner": "Sem@for77",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.6020022,
-              48.562022
-            ],
-            [
-              2.6020084,
-              48.5619902
-            ],
-            [
-              2.6020418,
-              48.561993
-            ],
-            [
-              2.6020357,
-              48.5620248
-            ],
-            [
-              2.6020022,
-              48.562022
-            ]
-          ]
-        ]
-      },
-      "id": "way/660555869"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/661418877",
-        "colour": "#C7CBC9",
-        "hinge": "horizontal",
-        "man_made": "street_cabinet",
-        "name": "MAC_02",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref": "FI-33281-000M",
-        "ref:FR:ARCEP": "FI-33281-000M",
-        "ref:FR:Orange": "333281/MAC/PMZ/03774",
-        "ref:FR:Orange:NRO": "MAC",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -0.63792,
-              44.8426042
-            ],
-            [
-              -0.6379195,
-              44.8425987
-            ],
-            [
-              -0.6378929,
-              44.8426
-            ],
-            [
-              -0.6378934,
-              44.8426056
-            ],
-            [
-              -0.63792,
-              44.8426042
-            ]
-          ]
-        ]
-      },
-      "id": "way/661418877"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/662897517",
-        "man_made": "street_cabinet",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -0.6165372,
-              44.8384729
-            ],
-            [
-              -0.6165371,
-              44.8384639
-            ],
-            [
-              -0.6165106,
-              44.838464
-            ],
-            [
-              -0.6165107,
-              44.8384731
-            ],
-            [
-              -0.6165372,
-              44.8384729
-            ]
-          ]
-        ]
-      },
-      "id": "way/662897517"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/669327268",
-        "building": "service",
-        "name": "VILLEMANDEUR",
-        "operator": "SFR",
-        "owner": "SFR",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.7088853,
-              47.9866635
-            ],
-            [
-              2.7088673,
-              47.986635
-            ],
-            [
-              2.7089087,
-              47.9866233
-            ],
-            [
-              2.7089267,
-              47.9866518
-            ],
-            [
-              2.7088853,
-              47.9866635
-            ]
-          ]
-        ]
-      },
-      "id": "way/669327268"
     },
     {
       "type": "Feature",
@@ -1678,88 +1056,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/706509627",
-        "man_made": "street_cabinet",
-        "owner": "charente-numerique",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -0.0400201,
-              45.7234112
-            ],
-            [
-              -0.040007,
-              45.7234011
-            ],
-            [
-              -0.039979,
-              45.7234165
-            ],
-            [
-              -0.0399884,
-              45.7234227
-            ],
-            [
-              -0.039992,
-              45.7234256
-            ],
-            [
-              -0.0400201,
-              45.7234112
-            ]
-          ]
-        ]
-      },
-      "id": "way/706509627"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/706569537",
-        "man_made": "street_cabinet",
-        "owner": "CHARENTE-NUMERIQUE",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -0.1726789,
-              45.6784687
-            ],
-            [
-              -0.1726712,
-              45.6784797
-            ],
-            [
-              -0.1726789,
-              45.6784826
-            ],
-            [
-              -0.1726863,
-              45.6784711
-            ],
-            [
-              -0.1726789,
-              45.6784687
-            ]
-          ]
-        ]
-      },
-      "id": "way/706569537"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/720857797",
         "building": "service",
         "name": "PM 22",
@@ -1926,53 +1222,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/734257488",
-        "colour": "#27352a",
-        "height": "1.64",
-        "man_made": "street_cabinet",
-        "manufacturer": "ideaoptical",
-        "name": "WRA_06",
-        "operator": "Orange",
-        "ref": "33097/WRA/PMZ/82911",
-        "ref:FR:ARCEP": "FI-33097-000B",
-        "ref:FR:Orange": "33097/WRA/PMZ/82911",
-        "ref:FR:Orange:NRO": "WRA",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -1.0897272,
-              45.0733768
-            ],
-            [
-              -1.0897308,
-              45.0733886
-            ],
-            [
-              -1.0897387,
-              45.0733879
-            ],
-            [
-              -1.0897352,
-              45.0733756
-            ],
-            [
-              -1.0897272,
-              45.0733768
-            ]
-          ]
-        ]
-      },
-      "id": "way/734257488"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/736510090",
         "man_made": "street_cabinet",
         "operator": "Orange",
@@ -2059,51 +1308,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/753384728",
-        "colour": "white",
-        "height": "1.7",
-        "man_made": "street_cabinet",
-        "manufacturer": "ideaoptical",
-        "operator": "SFR",
-        "photo": "https://imgur.com/a/X4v2L6Y",
-        "ref:FR:ARCEP": "SRO-BPI-11103396",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.2946109,
-              48.6029954
-            ],
-            [
-              2.2946045,
-              48.6029887
-            ],
-            [
-              2.2946284,
-              48.6029788
-            ],
-            [
-              2.2946348,
-              48.6029856
-            ],
-            [
-              2.2946109,
-              48.6029954
-            ]
-          ]
-        ]
-      },
-      "id": "way/753384728"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/760956360",
         "building": "service",
         "connection_point": "primary",
@@ -2142,48 +1346,6 @@
         ]
       },
       "id": "way/760956360"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/762539010",
-        "building": "service",
-        "name": "Vigneux-PM008",
-        "operator": "SFR",
-        "owner": "SFR",
-        "ref:FR:ARCEP": "SRO-BPI-5352122",
-        "ref:FR:SFR": "PM008",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.4192251,
-              48.7025477
-            ],
-            [
-              2.4192053,
-              48.7025387
-            ],
-            [
-              2.4192245,
-              48.7025203
-            ],
-            [
-              2.4192443,
-              48.7025293
-            ],
-            [
-              2.4192251,
-              48.7025477
-            ]
-          ]
-        ]
-      },
-      "id": "way/762539010"
     },
     {
       "type": "Feature",
@@ -2272,55 +1434,6 @@
         ]
       },
       "id": "way/771375476"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/776291312",
-        "addr:city": "Saint-Grégoire",
-        "addr:postcode": "35760",
-        "addr:street": "Boulevard Robert Schuman",
-        "description": "Sous-répartiteur optique",
-        "height": "1.75",
-        "man_made": "street_cabinet",
-        "name": "Armoire SRO fibre optique - Orange",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref": "PAT PT 005938",
-        "ref:FR:ARCEP": "FI-35278-000A",
-        "ref:FR:Orange": "PAT PT 005938",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -1.688787,
-              48.1538474
-            ],
-            [
-              -1.6888064,
-              48.1538501
-            ],
-            [
-              -1.688812,
-              48.1538309
-            ],
-            [
-              -1.6887928,
-              48.1538283
-            ],
-            [
-              -1.688787,
-              48.1538474
-            ]
-          ]
-        ]
-      },
-      "id": "way/776291312"
     },
     {
       "type": "Feature",
@@ -162746,6 +161859,402 @@
         ]
       },
       "id": "node/8231249322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231638800",
+        "man_made": "street_cabinet",
+        "ref:FR:ARCEP": "FI-91477-000Y",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2410189,
+          48.7269746
+        ]
+      },
+      "id": "node/8231638800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231647467",
+        "addr:city": "Saint-Grégoire",
+        "addr:postcode": "35760",
+        "addr:street": "Boulevard Robert Schuman",
+        "description": "Sous-répartiteur optique",
+        "height": "1.75",
+        "man_made": "street_cabinet",
+        "name": "Armoire SRO fibre optique - Orange",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref": "PAT PT 005938",
+        "ref:FR:ARCEP": "FI-35278-000A",
+        "ref:FR:Orange": "PAT PT 005938",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6887998,
+          48.1538381
+        ]
+      },
+      "id": "node/8231647467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231681047",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-91477-0013",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2480521,
+          48.7207986
+        ]
+      },
+      "id": "node/8231681047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231681890",
+        "colour": "white",
+        "height": "1.7",
+        "man_made": "street_cabinet",
+        "manufacturer": "ideaoptical",
+        "operator": "SFR",
+        "photo": "https://imgur.com/a/X4v2L6Y",
+        "ref:FR:ARCEP": "SRO-BPI-11103396",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2946187,
+          48.602987
+        ]
+      },
+      "id": "node/8231681890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231705242",
+        "operator": "Covage",
+        "owner": "Sem@for77",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6195058,
+          48.5703305
+        ]
+      },
+      "id": "node/8231705242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231714584",
+        "colour": "grey",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "SFR",
+        "ref:FR:ARCEP": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6165249,
+          44.8384676
+        ]
+      },
+      "id": "node/8231714584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231733749",
+        "colour": "#27352a",
+        "height": "1.64",
+        "man_made": "street_cabinet",
+        "manufacturer": "ideaoptical",
+        "name": "WRA_06",
+        "operator": "Orange",
+        "ref": "33097/WRA/PMZ/82911",
+        "ref:FR:ARCEP": "FI-33097-000B",
+        "ref:FR:Orange": "33097/WRA/PMZ/82911",
+        "ref:FR:Orange:NRO": "WRA",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.089733,
+          45.0733825
+        ]
+      },
+      "id": "node/8231733749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231736064",
+        "man_made": "street_cabinet",
+        "owner": "charente-numerique",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0400079,
+          45.7234061
+        ]
+      },
+      "id": "node/8231736064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231739300",
+        "height": "1.64",
+        "hinge": "horizontal",
+        "length": "1.64",
+        "man_made": "street_cabinet",
+        "manufacturer": "ideaoptical",
+        "name": "RTH_007",
+        "operator": "Orange",
+        "owner": "Gironde Numérique",
+        "ref:FR:ARCEP": "FI-33203-0001",
+        "ref:FR:Orange": "33203/RTH/PMZ/56297",
+        "ref:FR:Orange:NRO": "RTH",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "width": "0.35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.075855,
+          45.1823882
+        ]
+      },
+      "id": "node/8231739300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231741134",
+        "height": "1.64",
+        "hinge": "horizontal",
+        "length": "1.64",
+        "man_made": "street_cabinet",
+        "manufacturer": "ideaoptical",
+        "name": "RTH_002",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-33203-0004",
+        "ref:FR:Orange": "33203/RTH/PMZ/56271",
+        "ref:FR:Orange:NRO": "RTH",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "width": "0.35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0813836,
+          45.1829147
+        ]
+      },
+      "id": "node/8231741134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231743108",
+        "height": "1.64",
+        "hinge": "horizontal",
+        "length": "1.64",
+        "man_made": "street_cabinet",
+        "manufacturer": "ideaoptical",
+        "name": "RTH_005",
+        "operator": "Orange",
+        "owner": "Gironde Numérique",
+        "ref:FR:ARCEP": "FI-33203-0000",
+        "ref:FR:Orange": "33203/RTH/PMZ/56283",
+        "ref:FR:Orange:NRO": "RTH",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "width": "0.35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0580407,
+          45.1841935
+        ]
+      },
+      "id": "node/8231743108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231743353",
+        "height": "1.64",
+        "hinge": "horizontal",
+        "length": "1.64",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "operator": "Orange",
+        "ref": "RTH_012",
+        "ref:FR:ARCEP": "FI-33203-0003",
+        "ref:FR:Orange:NRO": "RTH",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "width": "0.35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0608662,
+          45.1871278
+        ]
+      },
+      "id": "node/8231743353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231744605",
+        "colour": "#C7CBC9",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "name": "MAC_02",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref": "FI-33281-000M",
+        "ref:FR:ARCEP": "FI-33281-000M",
+        "ref:FR:Orange": "333281/MAC/PMZ/03774",
+        "ref:FR:Orange:NRO": "MAC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6379062,
+          44.8426022
+        ]
+      },
+      "id": "node/8231744605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231753645",
+        "height": "1.64",
+        "hinge": "horizontal",
+        "length": "1.64",
+        "man_made": "street_cabinet",
+        "manufacturer": "ideaoptical",
+        "name": "RTH_001",
+        "operator": "Orange",
+        "ref": "33203/RTH/PMZ/55937",
+        "ref:FR:ARCEP": "FI-33203-0002",
+        "ref:FR:Orange": "33203/RTH/PMZ/55937",
+        "ref:FR:Orange:NRO": "RTH",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "width": "0.35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0606603,
+          45.185145
+        ]
+      },
+      "id": "node/8231753645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231762802",
+        "man_made": "street_cabinet",
+        "owner": "CHARENTE-NUMERIQUE",
+        "ref:FR:ARCEP": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1726793,
+          45.6784752
+        ]
+      },
+      "id": "node/8231762802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231778188",
+        "man_made": "street_cabinet",
+        "man_made:colour": "beige",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-06085-000B",
+        "ref:FR:Orange": "PT00008",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9718328,
+          43.6153528
+        ]
+      },
+      "id": "node/8231778188"
     }
   ]
 }
