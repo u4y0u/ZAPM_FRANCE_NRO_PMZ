@@ -26,15 +26,19 @@ Application QField [https://play.google.com/store/apps/details?id=ch.opengis.qfi
 
 Projet QGIS [https://www.qgis.org/fr/site/](https://www.qgis.org/fr/site/) (Système d'Information Géographique Libre et Open Source)
 
-Aperçus:
+Aperçus des données:
 
-![](https://user-images.githubusercontent.com/54479065/90338091-5f727f00-dfe7-11ea-9a2f-c5e7d17cf2ca.png)
+Dans QGIS:
 
-![](https://user-images.githubusercontent.com/54479065/92507331-16d56c80-f207-11ea-9ddf-fae7d9975d8f.png)
+![](https://user-images.githubusercontent.com/54479065/102237384-e7648900-3ef4-11eb-99ab-68d1b134e0e8.png)
 
-![](https://user-images.githubusercontent.com/54479065/92507384-31a7e100-f207-11ea-87b3-8ef282117242.png)
+Sur framacarte: (avec photo quand elle est disponible sur mapillary)
 
-![](https://user-images.githubusercontent.com/54479065/92507438-46847480-f207-11ea-9def-00de9307ffa5.png)
+https://framacarte.org/m/89374/
+
+![](https://user-images.githubusercontent.com/54479065/102236094-5ccf5a00-3ef3-11eb-8509-c5b804cec68d.png)
+
+![](https://user-images.githubusercontent.com/54479065/102237039-7e7d1100-3ef4-11eb-9fe6-2ba761e8130f.png)
 
 Ce projet utilise 2 fichiers geojson issus de OpenStreetMap®
 
