@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-13T22:06:02Z",
+  "timestamp": "2020-12-15T14:20:02Z",
   "features": [
     {
       "type": "Feature",
@@ -184,48 +184,6 @@
         ]
       },
       "id": "way/75341178"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/75739815",
-        "building": "service",
-        "name": "NRO 46251IEE",
-        "operator": "Orange",
-        "ref": "46251IEE",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-        "street_cabinet": "telecom",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.8801305,
-              44.8570113
-            ],
-            [
-              1.8798254,
-              44.8571464
-            ],
-            [
-              1.879746,
-              44.8570614
-            ],
-            [
-              1.8800532,
-              44.8569224
-            ],
-            [
-              1.8801305,
-              44.8570113
-            ]
-          ]
-        ]
-      },
-      "id": "way/75739815"
     },
     {
       "type": "Feature",
@@ -3059,47 +3017,6 @@
         ]
       },
       "id": "way/762664357"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/765907493",
-        "building": "service",
-        "operator": "SFR",
-        "owner": "Gard Fibre",
-        "source": "survey",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              4.0005332,
-              43.9102532
-            ],
-            [
-              4.0005358,
-              43.9102177
-            ],
-            [
-              4.000568,
-              43.910219
-            ],
-            [
-              4.0005654,
-              43.9102545
-            ],
-            [
-              4.0005332,
-              43.9102532
-            ]
-          ]
-        ]
-      },
-      "id": "way/765907493"
     },
     {
       "type": "Feature",
@@ -18646,6 +18563,439 @@
         ]
       },
       "id": "node/8225726214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8225799235",
+        "building": "service",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1991033,
+          45.4709196
+        ]
+      },
+      "id": "node/8225799235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8225802487",
+        "building": "service",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.219393,
+          44.9654727
+        ]
+      },
+      "id": "node/8225802487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8230701693",
+        "addr:city": "Carmaux",
+        "addr:postcode": "81400",
+        "operator": "SFR",
+        "owner": "Tarn Fibre",
+        "source": "https://twitter.com/BELFORTEric1/status/1296465880193302528",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1593332,
+          44.0459864
+        ]
+      },
+      "id": "node/8230701693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8230724691",
+        "addr:city": "Saint-Céré",
+        "addr:postcode": "46400",
+        "name": "NRO 46251IEE",
+        "operator": "Orange",
+        "ref": "46251IEE",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8799457,
+          44.8570065
+        ]
+      },
+      "id": "node/8230724691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231004193",
+        "addr:city": "Génolhac",
+        "addr:postcode": "30450",
+        "operator": "Orange",
+        "ref:FR:Orange": "30130GHC",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.950875,
+          44.3464854
+        ]
+      },
+      "id": "node/8231004193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231046422",
+        "operator": "Orange",
+        "ref:FR:Orange": "30132GRA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0264287,
+          44.2080871
+        ]
+      },
+      "id": "node/8231046422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231063367",
+        "addr:city": "Bessèges",
+        "addr:postcode": "30160",
+        "operator": "Orange",
+        "ref:FR:Orange": "30037BES",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.099533,
+          44.2903186
+        ]
+      },
+      "id": "node/8231063367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231095479",
+        "addr:city": "Saint-Ambroix",
+        "addr:postcode": "30500",
+        "operator": "Orange",
+        "ref:FR:Orange": "30227SXG",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1900582,
+          44.2582526
+        ]
+      },
+      "id": "node/8231095479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231100852",
+        "operator": "SFR",
+        "owner": "Gard Fibre",
+        "source": "survey",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0005506,
+          43.9102353
+        ]
+      },
+      "id": "node/8231100852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231142773",
+        "addr:city": "Anduze",
+        "addr:postcode": "30140",
+        "operator": "Orange",
+        "ref:FR:Orange": "30010AND",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9831711,
+          44.0535635
+        ]
+      },
+      "id": "node/8231142773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231162706",
+        "addr:city": "Quissac",
+        "addr:postcode": "30260",
+        "operator": "Orange",
+        "ref:FR:Orange": "30210QSC",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9929713,
+          43.9016769
+        ]
+      },
+      "id": "node/8231162706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231171083",
+        "addr:city": "Saint-Hippolyte-du-Fort",
+        "addr:postcode": "30170",
+        "operator": "Orange",
+        "ref:FR:Orange": "30263SHI",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8571431,
+          43.9619486
+        ]
+      },
+      "id": "node/8231171083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231209969",
+        "addr:city": "Le Vigan",
+        "addr:postcode": "30120",
+        "ref:FR:Orange": "30350VIG",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6014663,
+          43.9887451
+        ]
+      },
+      "id": "node/8231209969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231215134",
+        "addr:city": "Sommières",
+        "operator": "Orange",
+        "ref:FR:Orange": "30321SOM",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.089415,
+          43.7869244
+        ]
+      },
+      "id": "node/8231215134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231234432",
+        "addr:city": "Uzès",
+        "addr:postcode": "30700",
+        "operator": "Orange",
+        "ref:FR:Orange": "30334UZE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4159922,
+          44.011881
+        ]
+      },
+      "id": "node/8231234432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231239216",
+        "addr:city": "Saint-Geniès-de-Comolas",
+        "fixme": "?",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7179534,
+          44.0662797
+        ]
+      },
+      "id": "node/8231239216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231244398",
+        "addr:city": "Vergèze",
+        "addr:postcode": "30310",
+        "operator": "Orange",
+        "ref:FR:Orange": "30344VEG",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2224439,
+          43.7373903
+        ]
+      },
+      "id": "node/8231244398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231249323",
+        "addr:city": "Roquemaure",
+        "addr:postcode": "30150",
+        "operator": "Orange",
+        "ref:FR:Orange": "30221ROQ",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7767543,
+          44.0532961
+        ]
+      },
+      "id": "node/8231249323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231257512",
+        "addr:city": "Vauvert",
+        "addr:postcode": "30600",
+        "operator": "Orange",
+        "ref:FR:Orange": "30341VOV",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.265888,
+          43.6909793
+        ]
+      },
+      "id": "node/8231257512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231280044",
+        "addr:city": "Port Camargue",
+        "addr:postcode": "30240",
+        "operator": "Orange",
+        "ref:FR:Orange": "30133PCA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.142118,
+          43.520261
+        ]
+      },
+      "id": "node/8231280044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231280049",
+        "addr:city": "Port Camargue",
+        "addr:postcode": "30240",
+        "ref": "PCA",
+        "start_date": "2019",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1420153,
+          43.5202826
+        ]
+      },
+      "id": "node/8231280049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8231293494",
+        "addr:city": "Le Grau-du-Roi",
+        "addr:postcode": "30240",
+        "operator": "Orange",
+        "ref:FR:Orange": "30133GRO",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1393484,
+          43.5363226
+        ]
+      },
+      "id": "node/8231293494"
     }
   ]
 }
