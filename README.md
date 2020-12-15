@@ -34,7 +34,7 @@ Dans QGIS avec les zones arrière des PM:
 
 Sur framacarte: (avec photo quand elle est disponible sur mapillary)
 
-https://framacarte.org/m/89374/
+https://framacarte.org/m/89586/
 
 ![](https://user-images.githubusercontent.com/54479065/102236094-5ccf5a00-3ef3-11eb-8509-c5b804cec68d.png)
 
