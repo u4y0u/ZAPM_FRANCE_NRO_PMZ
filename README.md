@@ -28,7 +28,7 @@ Projet QGIS [https://www.qgis.org/fr/site/](https://www.qgis.org/fr/site/) (Syst
 
 Aperçus des données:
 
-Dans QGIS:
+Dans QGIS avec les zones arrière des PM:
 
 ![](https://user-images.githubusercontent.com/54479065/102237384-e7648900-3ef4-11eb-99ab-68d1b134e0e8.png)
 
