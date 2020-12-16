@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-15T17:57:02Z",
+  "timestamp": "2020-12-16T11:30:02Z",
   "features": [
     {
       "type": "Feature",
@@ -19093,6 +19093,52 @@
         ]
       },
       "id": "node/8231729179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8233951681",
+        "addr:city": "Tercis-les-Bains",
+        "addr:housenumber": "240",
+        "addr:postcode": "40180",
+        "addr:street": "Rue du Lavoir",
+        "note": "Grand Dax Très Haut Débit",
+        "ref": "40OD6 NRO Tercis-les-Bains",
+        "source": "local knowledge",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1064163,
+          43.6693674
+        ]
+      },
+      "id": "node/8233951681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8233979962",
+        "addr:city": "Saint-Vincent-de-Paul",
+        "addr:housenumber": "120",
+        "addr:postcode": "40990",
+        "addr:street": "Rue de la Chine",
+        "note": "Grand Dax Très Haut Débit",
+        "ref": "40OD7 NRO Saint-Vincent-de-Paul",
+        "source": "local knowledge",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0032857,
+          43.7442344
+        ]
+      },
+      "id": "node/8233979962"
     }
   ]
 }
