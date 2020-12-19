@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-19T11:28:02Z",
+  "timestamp": "2020-12-19T16:04:03Z",
   "features": [
     {
       "type": "Feature",
@@ -20962,6 +20962,29 @@
         ]
       },
       "id": "node/8242501698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8242938516",
+        "addr:city": "Saint-Paterne-Racan",
+        "addr:postcode": "37370",
+        "note": "\"Situé sur la commune de St Patern Racan celui-ci permettra de desservir plus de 1800 prises dans 6 communes.\"",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
+        "ref": "NRO Saint-Paterne-Racan",
+        "source": "https://twitter.com/valdeloirefibre/status/1306982152073076737",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4736666,
+          47.6055986
+        ]
+      },
+      "id": "node/8242938516"
     }
   ]
 }
