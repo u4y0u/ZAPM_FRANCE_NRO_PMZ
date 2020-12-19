@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-18T11:01:02Z",
+  "timestamp": "2020-12-19T11:28:02Z",
   "features": [
     {
       "type": "Feature",
@@ -20876,28 +20876,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8239842605",
-        "location": "pavement",
-        "man_made": "street_cabinet",
-        "operator": "Liain01",
-        "owner": "SIEA",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom",
-        "wikimedia_commons": "File:Armoire télécom, avenue de Saint-Maurice (Miribel) en décembre 2020.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9659581,
-          45.8289684
-        ]
-      },
-      "id": "node/8239842605"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8239883011",
         "addr:city": "Saint-Paul-Cap-de-Joux",
         "addr:postcode": "81220",
@@ -20960,6 +20938,30 @@
         ]
       },
       "id": "node/8240093165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8242501698",
+        "addr:city": "Le Liège",
+        "addr:postcode": "37460",
+        "note": "\"...environ 1 867 prises éligibles sur les communes Céré-la-Ronde, Épeigné-les-Bois, Genillé, Le Liège, Saint-Quentin-sur-Indrois qui seront desservies à terme par la fibre optique\"",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
+        "ref": "NRO Le Liège",
+        "source": "https://www.valdeloirefibre.fr/actualites/un-nouveau-nro-dans-le-val-de-loire/",
+        "start_date": "20200430",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1068558,
+          47.2326712
+        ]
+      },
+      "id": "node/8242501698"
     }
   ]
 }
