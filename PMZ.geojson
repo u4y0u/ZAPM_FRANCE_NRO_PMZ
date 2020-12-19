@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-17T11:46:02Z",
+  "timestamp": "2020-12-19T15:41:02Z",
   "features": [
     {
       "type": "Feature",
@@ -79693,6 +79693,7 @@
         "model": "PM300",
         "operator": "NC",
         "ref:FR:ARCEP": "VDLF-NOISA02",
+        "source": "https://lafibre.info/indre-et-loire/deploiement-ftth-sur-val-damboise/msg653402/#msg653402",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "fibre"
@@ -159598,13 +159599,16 @@
         "@id": "node/8224661639",
         "colour": "white",
         "connection_point": "primary",
+        "description": "612 lignes",
         "location": "pavement",
         "man_made": "street_cabinet",
         "operator": "Nouvelle-Aquitaine Très Haut Débit",
         "owner": "Dorsal",
+        "ref:FR:ARCEP": "NA_87001_RIGI",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -159625,15 +159629,17 @@
         "man_made": "street_cabinet",
         "operator": "Nouvelle-Aquitaine Très Haut Débit",
         "owner": "Dorsal",
+        "ref:FR:ARCEP": "NA_87001_TIZY",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.148151,
-          45.7983075
+          1.1481004,
+          45.7982832
         ]
       },
       "id": "node/8224661640"
@@ -162227,6 +162233,287 @@
         ]
       },
       "id": "node/8237293925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8238301685",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-90043-0000",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0354237,
+          47.5207597
+        ]
+      },
+      "id": "node/8238301685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8238301686",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-90101-0000",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0142517,
+          47.5723789
+        ]
+      },
+      "id": "node/8238301686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8238301687",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-90055-0000",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9997894,
+          47.5749526
+        ]
+      },
+      "id": "node/8238301687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8238301688",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-90014-0000",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0122886,
+          47.5600831
+        ]
+      },
+      "id": "node/8238301688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8238301689",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-90018-0000",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.974913,
+          47.578676
+        ]
+      },
+      "id": "node/8238301689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8238343229",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-90051-0000",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9446153,
+          47.565574
+        ]
+      },
+      "id": "node/8238343229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8238343230",
+        "man_made": "street_cabinet",
+        "manufacturer": "Ideaoptical",
+        "name": "SRO",
+        "operator": "Orange",
+        "ref:FR:ARCEP": "FI-90021-0000",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9389639,
+          47.5726872
+        ]
+      },
+      "id": "node/8238343230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8238582465",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-72181-001N",
+        "ref:FR:Orange": "PT1587",
+        "ref:FR:Orange:NRO": "PAS",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1921767,
+          48.0011835
+        ]
+      },
+      "id": "node/8238582465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8238611900",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-72181-000O",
+        "ref:FR:Orange": "PT0066",
+        "ref:FR:Orange:NRO": "PAS",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1922029,
+          48.001109
+        ]
+      },
+      "id": "node/8238611900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8239842605",
+        "colour": "green",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Liain01",
+        "owner": "SIEA",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:Armoire télécom, avenue de Saint-Maurice (Miribel) en décembre 2020.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9659581,
+          45.8289684
+        ]
+      },
+      "id": "node/8239842605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8241330635",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:ARCEP": "FI-72181-001D",
+        "ref:FR:Orange": "PT0023",
+        "ref:FR:Orange:NRO": "PAS",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2069103,
+          47.9996572
+        ]
+      },
+      "id": "node/8241330635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8242107903",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Liain01",
+        "owner": "SIEA",
+        "telecom": "connection_point",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:Armoire télécom, avenue de Saint-Maurice (Miribel) en décembre 2020.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9695898,
+          45.8307749
+        ]
+      },
+      "id": "node/8242107903"
     }
   ]
 }
