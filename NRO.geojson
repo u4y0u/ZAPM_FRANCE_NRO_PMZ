@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-24T15:27:03Z",
+  "timestamp": "2020-12-27T10:57:02Z",
   "features": [
     {
       "type": "Feature",
@@ -189,6 +189,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/98306476",
+        "addr:city": "Cranves-Sales",
         "building": "service",
         "building:prefabricated": "yes",
         "colour": "white",
@@ -5445,6 +5446,48 @@
         ]
       },
       "id": "way/711876914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/725199195",
+        "addr:city": "Ganges",
+        "addr:postcode": "34190",
+        "building": "yes",
+        "name": "Central Optique",
+        "operator": "Hérault THD",
+        "ref:FR:HeraultTHD": "NO34GANG",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.7152005,
+              43.9391225
+            ],
+            [
+              3.7151521,
+              43.9391355
+            ],
+            [
+              3.7151192,
+              43.9390719
+            ],
+            [
+              3.7151676,
+              43.9390589
+            ],
+            [
+              3.7152005,
+              43.9391225
+            ]
+          ]
+        ]
+      },
+      "id": "way/725199195"
     },
     {
       "type": "Feature",
@@ -20687,26 +20730,6 @@
         ]
       },
       "id": "node/8231316044"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/8231325378",
-        "addr:city": "Ganges",
-        "addr:postcode": "34190",
-        "name": "NO34GANG",
-        "operator": "Hérault THD",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.7151572,
-          43.9390966
-        ]
-      },
-      "id": "node/8231325378"
     },
     {
       "type": "Feature",
