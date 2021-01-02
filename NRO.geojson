@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2020-12-27T10:57:02Z",
+  "timestamp": "2021-01-02T09:19:02Z",
   "features": [
     {
       "type": "Feature",
@@ -1084,6 +1084,47 @@
         ]
       },
       "id": "way/258527766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/308302993",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "operator": "Covage",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2014",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.591816,
+              47.158034
+            ],
+            [
+              -1.591734,
+              47.157989
+            ],
+            [
+              -1.591714,
+              47.158006
+            ],
+            [
+              -1.591795,
+              47.158051
+            ],
+            [
+              -1.591816,
+              47.158034
+            ]
+          ]
+        ]
+      },
+      "id": "way/308302993"
     },
     {
       "type": "Feature",
@@ -5083,6 +5124,54 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/676139578",
+        "building": "service",
+        "building:levels": "1",
+        "building:prefabricated": "yes",
+        "operator": "Nouvelle-Aquitaine Très Haut Débit",
+        "owner": "Dorsal",
+        "ref": "SHL-87001-AIXE",
+        "source": "https://twitter.com/DORSAL_Syndicat/status/1098243019122323456;survey",
+        "start_date": "2019-02-20",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.1381055,
+              45.7979264
+            ],
+            [
+              1.1380935,
+              45.7978922
+            ],
+            [
+              1.1380766,
+              45.7978438
+            ],
+            [
+              1.1381316,
+              45.7978344
+            ],
+            [
+              1.1381605,
+              45.7979171
+            ],
+            [
+              1.1381055,
+              45.7979264
+            ]
+          ]
+        ]
+      },
+      "id": "way/676139578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/676139581",
         "building": "service",
         "name": "NRO",
@@ -5612,6 +5701,86 @@
         ]
       },
       "id": "way/738234839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/740017069",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "operator": "Covage",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.550939,
+              47.2801244
+            ],
+            [
+              -1.5509347,
+              47.2801011
+            ],
+            [
+              -1.5508619,
+              47.2801074
+            ],
+            [
+              -1.5508663,
+              47.2801307
+            ],
+            [
+              -1.550939,
+              47.2801244
+            ]
+          ]
+        ]
+      },
+      "id": "way/740017069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/740017070",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "operator": "Covage",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.6507256,
+              47.2323148
+            ],
+            [
+              -1.6507375,
+              47.2322901
+            ],
+            [
+              -1.6506743,
+              47.2322723
+            ],
+            [
+              -1.6506584,
+              47.2322962
+            ],
+            [
+              -1.6507256,
+              47.2323148
+            ]
+          ]
+        ]
+      },
+      "id": "way/740017070"
     },
     {
       "type": "Feature",
@@ -6731,48 +6900,6 @@
         ]
       },
       "id": "way/828375662"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/838243579",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "BFC Fibre",
-        "owner": "Jura",
-        "ref": "NRO39434P00",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.6979384,
-              46.8382778
-            ],
-            [
-              5.6980323,
-              46.8382411
-            ],
-            [
-              5.6980591,
-              46.838265
-            ],
-            [
-              5.6979679,
-              46.8383054
-            ],
-            [
-              5.6979384,
-              46.8382778
-            ]
-          ]
-        ]
-      },
-      "id": "way/838243579"
     },
     {
       "type": "Feature",
@@ -19770,28 +19897,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8223103880",
-        "note": "Nouvelle-Aquitaine Très Haut Débit",
-        "operator": "NATHD",
-        "owner": "Dorsal",
-        "ref": "SHL-87001-AIXE",
-        "source": "https://twitter.com/DORSAL_Syndicat/status/1098243019122323456;survey",
-        "start_date": "2019-02-20",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.1381196,
-          45.7978801
-        ]
-      },
-      "id": "node/8223103880"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8223105137",
         "addr:city": "Le Grand-Bourg",
         "addr:postcode": "23240",
@@ -21278,6 +21383,64 @@
         ]
       },
       "id": "node/8252981845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8267565875",
+        "operator": "Orange",
+        "ref:FR:Orange:NRO": "10362SSV",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0479898,
+          48.2923369
+        ]
+      },
+      "id": "node/8267565875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8270002987",
+        "name": "NRO",
+        "operator": "BFC Fibre",
+        "owner": "Jura",
+        "ref": "NRO39434P00",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6979934,
+          46.8382747
+        ]
+      },
+      "id": "node/8270002987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8270003424",
+        "name": "NRO",
+        "operator": "BFC Fibre",
+        "owner": "CD Jura",
+        "ref": "NRO39478SAI",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8656391,
+          46.3952847
+        ]
+      },
+      "id": "node/8270003424"
     }
   ]
 }
