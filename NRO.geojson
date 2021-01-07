@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-01-02T09:19:02Z",
+  "timestamp": "2021-01-07T08:38:03Z",
   "features": [
     {
       "type": "Feature",
@@ -1125,45 +1125,6 @@
         ]
       },
       "id": "way/308302993"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/330723974",
-        "building": "service",
-        "operator": "SFR",
-        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2015",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.9980451,
-              48.6943217
-            ],
-            [
-              6.9981881,
-              48.6943397
-            ],
-            [
-              6.9981051,
-              48.6946127
-            ],
-            [
-              6.9979631,
-              48.6945937
-            ],
-            [
-              6.9980451,
-              48.6943217
-            ]
-          ]
-        ]
-      },
-      "id": "way/330723974"
     },
     {
       "type": "Feature",
@@ -2943,7 +2904,8 @@
         "roof:shape": "gabled",
         "start_date": "2017-01",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Polygon",
@@ -5172,48 +5134,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/676139581",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Anjou Fibre",
-        "owner": "Anjou Numérique",
-        "source": "https://twitter.com/anjou_fibre/status/1100790668476207104",
-        "start_date": "2019-02-27",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              0.0451308,
-              47.2200199
-            ],
-            [
-              0.04503,
-              47.2200493
-            ],
-            [
-              0.0450099,
-              47.2200174
-            ],
-            [
-              0.0451107,
-              47.219988
-            ],
-            [
-              0.0451308,
-              47.2200199
-            ]
-          ]
-        ]
-      },
-      "id": "way/676139581"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/676139582",
         "building": "service",
         "name": "NRO",
@@ -5252,48 +5172,6 @@
         ]
       },
       "id": "way/676139582"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/676139584",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Anjou Fibre",
-        "owner": "Anjou Numérique",
-        "source": "https://twitter.com/anjou_fibre/status/1103617370118078465",
-        "start_date": "2019-03-07",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -0.0679883,
-              47.2109766
-            ],
-            [
-              -0.0679678,
-              47.2109522
-            ],
-            [
-              -0.0679006,
-              47.2109782
-            ],
-            [
-              -0.0679211,
-              47.2110027
-            ],
-            [
-              -0.0679883,
-              47.2109766
-            ]
-          ]
-        ]
-      },
-      "id": "way/676139584"
     },
     {
       "type": "Feature",
@@ -6328,49 +6206,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/791790628",
-        "building": "service",
-        "building:levels": "1",
-        "name": "NRO",
-        "operator": "Anjou Fibre",
-        "owner": "Anjou Fibre",
-        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2020",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -0.2786395,
-              47.2013912
-            ],
-            [
-              -0.2785758,
-              47.2013505
-            ],
-            [
-              -0.2785519,
-              47.2013679
-            ],
-            [
-              -0.2786156,
-              47.2014086
-            ],
-            [
-              -0.2786395,
-              47.2013912
-            ]
-          ]
-        ]
-      },
-      "id": "way/791790628"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/793219275",
         "building": "service",
         "building:levels": "1",
@@ -6700,46 +6535,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/802261111",
-        "building": "service",
-        "operator": "Anjou Fibre",
-        "owner": "Anjou Numérique",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -0.1046352,
-              47.3739271
-            ],
-            [
-              -0.1046751,
-              47.373914
-            ],
-            [
-              -0.1046411,
-              47.3738664
-            ],
-            [
-              -0.1046012,
-              47.3738795
-            ],
-            [
-              -0.1046352,
-              47.3739271
-            ]
-          ]
-        ]
-      },
-      "id": "way/802261111"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/806362886",
         "building": "service",
         "operator": "Losange",
@@ -6900,44 +6695,6 @@
         ]
       },
       "id": "way/828375662"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/848066028",
-        "building": "service",
-        "operator": "SFR",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.8543516,
-              48.9144098
-            ],
-            [
-              2.8544934,
-              48.9143803
-            ],
-            [
-              2.8546191,
-              48.9146418
-            ],
-            [
-              2.8544773,
-              48.9146712
-            ],
-            [
-              2.8543516,
-              48.9144098
-            ]
-          ]
-        ]
-      },
-      "id": "way/848066028"
     },
     {
       "type": "Feature",
@@ -7697,12 +7454,13 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6421821512",
-        "note": "Anjou Fibre",
-        "operator": "TDF",
-        "ref": "NRO Combrée",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
         "start_date": "2019-04",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12997,11 +12755,13 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7620261156",
-        "operator": "SMN76",
-        "operator:type": "public",
+        "operator": "SFR",
+        "owner": "Seine-Maritime Numérique",
+        "owner:type": "public",
         "ref": "NO76AUM",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -15353,8 +15113,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.7245755,
-          48.1794387
+          2.7245675,
+          48.179441
         ]
       },
       "id": "node/8221617053"
@@ -17101,23 +16861,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8221835193",
-        "operator": "SFR",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.963366,
-          48.8095529
-        ]
-      },
-      "id": "node/8221835193"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8221835206",
         "operator": "Zayo",
         "telecom": "exchange",
@@ -17153,7 +16896,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221847424",
-        "operator": "Zayo",
+        "operator": "SFR",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -19245,7 +18988,6 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222990080",
-        "name": "Interoute Calais",
         "operator": "Interoute",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -20839,44 +20581,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8231638801",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref:FR:Orange": "91661VBO",
-        "street_cabinet": "telecom",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2409729,
-          48.7269815
-        ]
-      },
-      "id": "node/8231638801"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/8231681046",
-        "operator": "Orange",
-        "ref:FR:Orange": "91661VBO",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2479875,
-          48.7208018
-        ]
-      },
-      "id": "node/8231681046"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8231706070",
         "operator": "Covage",
         "owner": "Sem@for77",
@@ -21441,6 +21145,1421 @@
         ]
       },
       "id": "node/8270003424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8285328948",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9115004,
+          48.5053656
+        ]
+      },
+      "id": "node/8285328948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8285328949",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9980661,
+          48.6944695
+        ]
+      },
+      "id": "node/8285328949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8285328950",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4776186,
+          48.5646201
+        ]
+      },
+      "id": "node/8285328950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8285328951",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763005,
+          46.0940573
+        ]
+      },
+      "id": "node/8285328951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8285328956",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0299981,
+          47.0422407
+        ]
+      },
+      "id": "node/8285328956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8285328957",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9641275,
+          48.8111638
+        ]
+      },
+      "id": "node/8285328957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8285328958",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5829017,
+          48.6083863
+        ]
+      },
+      "id": "node/8285328958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8285328960",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3285699,
+          47.6155046
+        ]
+      },
+      "id": "node/8285328960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8285328961",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7755073,
+          45.8069269
+        ]
+      },
+      "id": "node/8285328961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8286266677",
+        "operator": "Axione",
+        "owner": "Bretagne Très Haut Débit",
+        "ref:FR:Megalis": "LDN",
+        "ref:FR:Orange": "KLA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2480699,
+          48.4508838
+        ]
+      },
+      "id": "node/8286266677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8287266438",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3495052,
+          44.228625
+        ]
+      },
+      "id": "node/8287266438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8287266453",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1708339,
+          48.7102679
+        ]
+      },
+      "id": "node/8287266453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8287266465",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9808112,
+          49.5923445
+        ]
+      },
+      "id": "node/8287266465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8287399653",
+        "operator": "A75 Networks",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3109078,
+          43.8626851
+        ]
+      },
+      "id": "node/8287399653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8287399654",
+        "operator": "A75 Networks",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0815248,
+          44.3313286
+        ]
+      },
+      "id": "node/8287399654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8287399655",
+        "operator": "A75 Networks",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.251489,
+          44.868051
+        ]
+      },
+      "id": "node/8287399655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8287399656",
+        "operator": "A75 Networks",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2734365,
+          45.3352064
+        ]
+      },
+      "id": "node/8287399656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8287978339",
+        "operator": "Zayo",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9416946,
+          50.4683337
+        ]
+      },
+      "id": "node/8287978339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8287986060",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.963327,
+          48.8096243
+        ]
+      },
+      "id": "node/8287986060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8288002590",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3721946,
+          43.2378761
+        ]
+      },
+      "id": "node/8288002590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8288066369",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1612095,
+          43.7587168
+        ]
+      },
+      "id": "node/8288066369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8290593045",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4876645,
+          49.2677243
+        ]
+      },
+      "id": "node/8290593045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8290740873",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3901026,
+          45.8674213
+        ]
+      },
+      "id": "node/8290740873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8290740878",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7244816,
+          48.1796507
+        ]
+      },
+      "id": "node/8290740878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8290740883",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2055594,
+          43.6887374
+        ]
+      },
+      "id": "node/8290740883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8290740888",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.637465,
+          46.6638656
+        ]
+      },
+      "id": "node/8290740888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8290740893",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8047981,
+          45.2449274
+        ]
+      },
+      "id": "node/8290740893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8290740898",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.32452,
+          48.9694312
+        ]
+      },
+      "id": "node/8290740898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8291556005",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9964879,
+          48.6951395
+        ]
+      },
+      "id": "node/8291556005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8291556010",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8780817,
+          48.0743752
+        ]
+      },
+      "id": "node/8291556010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8291556015",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8338345,
+          47.5854452
+        ]
+      },
+      "id": "node/8291556015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8291565320",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1804527,
+          49.0421197
+        ]
+      },
+      "id": "node/8291565320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8291565321",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.963369,
+          48.8095586
+        ]
+      },
+      "id": "node/8291565321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8291565322",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2542155,
+          49.1296257
+        ]
+      },
+      "id": "node/8291565322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8294768707",
+        "operator": "Fibre31",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6847124,
+          43.3905499
+        ]
+      },
+      "id": "node/8294768707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8296100276",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2415928,
+          47.4433579
+        ]
+      },
+      "id": "node/8296100276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8296147946",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3650617,
+          47.1170399
+        ]
+      },
+      "id": "node/8296147946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8296177252",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0146316,
+          47.3549347
+        ]
+      },
+      "id": "node/8296177252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8296190277",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5015216,
+          47.2647606
+        ]
+      },
+      "id": "node/8296190277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297607751",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4363221,
+          47.3517782
+        ]
+      },
+      "id": "node/8297607751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297608351",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9742755,
+          47.1989547
+        ]
+      },
+      "id": "node/8297608351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297624377",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8845446,
+          47.6866593
+        ]
+      },
+      "id": "node/8297624377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297635207",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7747775,
+          47.3462833
+        ]
+      },
+      "id": "node/8297635207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297638379",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1533233,
+          47.1303252
+        ]
+      },
+      "id": "node/8297638379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297638513",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7100268,
+          47.6225002
+        ]
+      },
+      "id": "node/8297638513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297644174",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5428296,
+          47.141584
+        ]
+      },
+      "id": "node/8297644174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297644179",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5608741,
+          47.6633697
+        ]
+      },
+      "id": "node/8297644179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297645683",
+        "name": "NRO",
+        "operator": "Anjou Fibre",
+        "owner": "Anjou Numérique",
+        "source": "https://twitter.com/anjou_fibre/status/1103617370118078465",
+        "start_date": "2019-03-07",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0679516,
+          47.2109765
+        ]
+      },
+      "id": "node/8297645683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297678318",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5204432,
+          47.728709
+        ]
+      },
+      "id": "node/8297678318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297685807",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3462106,
+          47.5833343
+        ]
+      },
+      "id": "node/8297685807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297685867",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7806262,
+          47.2520709
+        ]
+      },
+      "id": "node/8297685867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297728558",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1046395,
+          47.3738964
+        ]
+      },
+      "id": "node/8297728558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297751897",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2353449,
+          47.6757764
+        ]
+      },
+      "id": "node/8297751897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297756011",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1059563,
+          47.5486253
+        ]
+      },
+      "id": "node/8297756011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297764279",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6640752,
+          47.353974
+        ]
+      },
+      "id": "node/8297764279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297764284",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1179725,
+          47.1873106
+        ]
+      },
+      "id": "node/8297764284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297764289",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3603552,
+          47.6991456
+        ]
+      },
+      "id": "node/8297764289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297772159",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3753341,
+          47.3997606
+        ]
+      },
+      "id": "node/8297772159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297961995",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0392196,
+          47.2622614
+        ]
+      },
+      "id": "node/8297961995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297987756",
+        "name": "NRO",
+        "operator": "TDF Fibre",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2785904,
+          47.2013745
+        ]
+      },
+      "id": "node/8297987756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297993964",
+        "name": "NRO",
+        "operator": "Anjou Fibre",
+        "owner": "Anjou Numérique",
+        "source": "https://twitter.com/anjou_fibre/status/1100790668476207104",
+        "start_date": "2019-02-27",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0450685,
+          47.2200229
+        ]
+      },
+      "id": "node/8297993964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297997017",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7613852,
+          47.2120948
+        ]
+      },
+      "id": "node/8297997017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8298007862",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1138929,
+          47.2352315
+        ]
+      },
+      "id": "node/8298007862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8298029420",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8687506,
+          47.1892272
+        ]
+      },
+      "id": "node/8298029420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8298030375",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1865615,
+          47.2854834
+        ]
+      },
+      "id": "node/8298030375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8298032270",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0285006,
+          47.5624913
+        ]
+      },
+      "id": "node/8298032270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8298032800",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1255784,
+          47.1182778
+        ]
+      },
+      "id": "node/8298032800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8298035069",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.226282,
+          47.3384903
+        ]
+      },
+      "id": "node/8298035069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8298036383",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.346404,
+          47.4737371
+        ]
+      },
+      "id": "node/8298036383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8298039572",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0451662,
+          47.3857512
+        ]
+      },
+      "id": "node/8298039572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8298039959",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1236332,
+          47.5142846
+        ]
+      },
+      "id": "node/8298039959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8298051144",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2287896,
+          47.5548879
+        ]
+      },
+      "id": "node/8298051144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8298058360",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1646461,
+          47.7389463
+        ]
+      },
+      "id": "node/8298058360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8298062030",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2019548,
+          47.3385051
+        ]
+      },
+      "id": "node/8298062030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8298259175",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.854479,
+          48.9145315
+        ]
+      },
+      "id": "node/8298259175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8298342779",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8543919,
+          48.9142545
+        ]
+      },
+      "id": "node/8298342779"
     }
   ]
 }
