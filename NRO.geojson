@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-01-07T08:38:03Z",
+  "timestamp": "2021-01-09T15:06:03Z",
   "features": [
     {
       "type": "Feature",
@@ -13442,7 +13442,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7994691946",
-        "operator": "NC",
+        "operator": "Covage",
         "ref:FR:Tutor": "GRM14",
         "telecom": "exchange",
         "telecom:medium": "fibre"
