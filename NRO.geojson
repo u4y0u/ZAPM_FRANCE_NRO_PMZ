@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-01-09T15:06:03Z",
+  "timestamp": "2021-01-14T11:53:03Z",
   "features": [
     {
       "type": "Feature",
@@ -6246,6 +6246,48 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/793291042",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "25-044",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.279623,
+              46.7766421
+            ],
+            [
+              6.2797257,
+              46.7766541
+            ],
+            [
+              6.2797202,
+              46.7766759
+            ],
+            [
+              6.2796176,
+              46.7766639
+            ],
+            [
+              6.279623,
+              46.7766421
+            ]
+          ]
+        ]
+      },
+      "id": "way/793291042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/798139868",
         "building": "service",
         "operator": "Orange",
@@ -6695,6 +6737,48 @@
         ]
       },
       "id": "way/828375662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/835580267",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "25-046",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1892245,
+              46.7087141
+            ],
+            [
+              6.1891751,
+              46.7086582
+            ],
+            [
+              6.189202,
+              46.7086465
+            ],
+            [
+              6.1892502,
+              46.7087031
+            ],
+            [
+              6.1892245,
+              46.7087141
+            ]
+          ]
+        ]
+      },
+      "id": "way/835580267"
     },
     {
       "type": "Feature",
@@ -14526,8 +14610,7 @@
         "addr:city": "Gaillac",
         "addr:postcode": "81600",
         "addr:street": "Chemin des Balitrands",
-        "fixme": "position exacte à corriger.",
-        "note": "position exacte à corriger\n\"11ème NRO de TARN Fibre ce 04/11/20 à GAILLAC en présence d’Elus locaux, de Madame Le Maire, de Conseillers Départementaux, des équipes TARN Fibre - SFR FTTH et EOS TELECOM. \nLe déploiement de la Fibre continue de progresser su",
+        "note": "\"11ème NRO de TARN Fibre ce 04/11/20 à GAILLAC en présence d’Elus locaux, de Madame Le Maire, de Conseillers Départementaux, des équipes TARN Fibre - SFR FTTH et EOS TELECOM. \nLe déploiement de la Fibre continue de progresser su",
         "operator": "SFR",
         "owner": "Tarn Fibre",
         "ref": "11 eme NRO Gaillac",
@@ -14539,8 +14622,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.884128,
-          43.8976175
+          1.8829291,
+          43.8977877
         ]
       },
       "id": "node/8220152889"
@@ -17521,49 +17604,6 @@
         ]
       },
       "id": "node/8222568355"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/8222575894",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref": "25-046",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.189211,
-          46.7086803
-        ]
-      },
-      "id": "node/8222575894"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/8222581270",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref": "25-044",
-        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2020",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.279672,
-          46.7766583
-        ]
-      },
-      "id": "node/8222581270"
     },
     {
       "type": "Feature",
@@ -22560,6 +22600,66 @@
         ]
       },
       "id": "node/8298342779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8320790184",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
+        "ref": "NRO Couddes",
+        "source": "local knowledge",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3987571,
+          47.3644294
+        ]
+      },
+      "id": "node/8320790184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8320841078",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
+        "ref": "NRO Epuisay",
+        "source": "local knowledge",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9357241,
+          47.8961436
+        ]
+      },
+      "id": "node/8320841078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8320954320",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
+        "ref": "NRO Couëtron-au-Perche",
+        "source": "local knowledge",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9216663,
+          48.0640683
+        ]
+      },
+      "id": "node/8320954320"
     }
   ]
 }
