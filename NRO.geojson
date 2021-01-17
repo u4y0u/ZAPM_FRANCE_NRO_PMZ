@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-01-14T11:53:03Z",
+  "timestamp": "2021-01-17T17:20:03Z",
   "features": [
     {
       "type": "Feature",
@@ -3108,44 +3108,6 @@
         ]
       },
       "id": "way/662491115"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/664484826",
-        "building": "service",
-        "source:telecom": "https://www.lessor38.fr/la-fibre-arrive-a-l-isle-d-abeau-23517.html",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.2266769,
-              45.6154985
-            ],
-            [
-              5.2265961,
-              45.615597
-            ],
-            [
-              5.2265373,
-              45.6155734
-            ],
-            [
-              5.2266181,
-              45.6154749
-            ],
-            [
-              5.2266769,
-              45.6154985
-            ]
-          ]
-        ]
-      },
-      "id": "way/664484826"
     },
     {
       "type": "Feature",
@@ -14329,25 +14291,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8213813093",
-        "operator": "Orange",
-        "ref": "COL17",
-        "ref:FR:Orange": "17380COL",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0783952,
-          45.6511754
-        ]
-      },
-      "id": "node/8213813093"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8214009405",
         "addr:city": "Savigny-sur-Braye",
         "addr:postcode": "41360",
@@ -21929,8 +21872,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297635207",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22070,8 +22013,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297685807",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22150,8 +22093,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297756011",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22170,8 +22113,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297764279",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22230,8 +22173,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297772159",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22491,8 +22434,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8298039959",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22511,8 +22454,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8298051144",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22551,8 +22494,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8298062030",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22660,6 +22603,208 @@
         ]
       },
       "id": "node/8320954320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8324798456",
+        "operator": "Axione",
+        "owner": "Berry fibre optique",
+        "ref": "NRO Gracay",
+        "source": "https://www.leberry.fr/gracay-18310/actualites/une-armoire-de-pres-de-trente-tonnes-pour-la-fibre-optique-installee-a-gracay_13719395/#refresh",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8467222,
+          47.1417775
+        ]
+      },
+      "id": "node/8324798456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8325004632",
+        "addr:city": "Saint-Martin-d'Auxigny",
+        "addr:postcode": "18300",
+        "operator": "Axione",
+        "owner": "Berry fibre optique",
+        "ref": "NRO Saint Martin d'Auxginy",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4171999,
+          47.2049428
+        ]
+      },
+      "id": "node/8325004632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330185096",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4053231,
+          47.4518586
+        ]
+      },
+      "id": "node/8330185096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330217768",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.045125,
+          47.2885807
+        ]
+      },
+      "id": "node/8330217768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330230344",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7345172,
+          47.0116416
+        ]
+      },
+      "id": "node/8330230344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330243563",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5895438,
+          47.2153354
+        ]
+      },
+      "id": "node/8330243563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330245796",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8970039,
+          47.5208126
+        ]
+      },
+      "id": "node/8330245796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330249039",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9966096,
+          47.1276998
+        ]
+      },
+      "id": "node/8330249039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330981110",
+        "Operator": "Isere THD",
+        "name": "NRO",
+        "owner": "Isere Fibre",
+        "source:telecom": "https://www.lessor38.fr/la-fibre-arrive-a-l-isle-d-abeau-23517.html",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2265998,
+          45.6155445
+        ]
+      },
+      "id": "node/8330981110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8331036180",
+        "Operator": "Isere Fibre",
+        "name": "NRO",
+        "owner": "Isere THD",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1550984,
+          45.7305652
+        ]
+      },
+      "id": "node/8331036180"
     }
   ]
 }
