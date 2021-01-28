@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-01-19T09:58:03Z",
+  "timestamp": "2021-01-28T07:06:02Z",
   "features": [
     {
       "type": "Feature",
@@ -6824,6 +6824,88 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/897670465",
+        "building": "yes",
+        "description": "Posé en juillet 2020",
+        "operator": "Moselle Numerique",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.2016559,
+              49.003735
+            ],
+            [
+              6.2016821,
+              49.0037729
+            ],
+            [
+              6.2016361,
+              49.0037895
+            ],
+            [
+              6.2016018,
+              49.003751
+            ],
+            [
+              6.2016559,
+              49.003735
+            ]
+          ]
+        ]
+      },
+      "id": "way/897670465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/899982926",
+        "addr:city": "Lansargues",
+        "addr:postcode": "34130",
+        "addr:street": "Rue Paul Cézanne",
+        "building": "yes",
+        "operator": "Hérault THD",
+        "ref": "NO34LANS",
+        "ref:arcep": "HT-TEC-00009",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.0774756,
+              43.6543023
+            ],
+            [
+              4.0774844,
+              43.6542846
+            ],
+            [
+              4.0775265,
+              43.6542966
+            ],
+            [
+              4.0775168,
+              43.6543144
+            ],
+            [
+              4.0774756,
+              43.6543023
+            ]
+          ]
+        ]
+      },
+      "id": "way/899982926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/276884854",
         "name": "NRO FREE BER34",
         "operator": "Free",
@@ -9093,25 +9175,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7151297223",
-        "name": "AMP80",
-        "operator": "Orange",
-        "ref:FR:Orange": "80021AMP",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2968111,
-          49.8947743
-        ]
-      },
-      "id": "node/7151297223"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/7151298061",
         "name": "COP60",
         "operator": "Orange",
@@ -10698,10 +10761,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7154072455",
-        "name": "ROR17",
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:Orange": "17306ROR",
+        "ref:FR:PTT": "ROR17",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -17983,7 +18046,7 @@
         "name": "NRO",
         "operator": "Altitude",
         "owner": "Doubs-THD",
-        "ref": "25-",
+        "ref": "25-047",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -22815,10 +22878,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8333030191",
-        "name": "COL17",
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:Orange": "17380IPA",
+        "ref:FR:PTT": "COL17",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -22854,6 +22917,516 @@
         ]
       },
       "id": "node/8335629684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8340156108",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8709599,
+          48.9385105
+        ]
+      },
+      "id": "node/8340156108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8340204621",
+        "operator": "Covage",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2926389,
+          43.8614933
+        ]
+      },
+      "id": "node/8340204621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8340204622",
+        "operator": "Covage",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5969419,
+          48.9666063
+        ]
+      },
+      "id": "node/8340204622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8340204647",
+        "operator": "Covage",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4249651,
+          49.1400164
+        ]
+      },
+      "id": "node/8340204647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8340204648",
+        "operator": "Covage",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7544396,
+          48.8373884
+        ]
+      },
+      "id": "node/8340204648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8340204660",
+        "operator": "Covage",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3271329,
+          48.5619836
+        ]
+      },
+      "id": "node/8340204660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8340204661",
+        "operator": "Covage",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3790266,
+          47.628132
+        ]
+      },
+      "id": "node/8340204661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8340204678",
+        "operator": "Covage",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3382954,
+          46.8534336
+        ]
+      },
+      "id": "node/8340204678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8340204679",
+        "operator": "Covage",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4871853,
+          45.4218669
+        ]
+      },
+      "id": "node/8340204679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8340204680",
+        "operator": "Covage",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9713932,
+          46.4637004
+        ]
+      },
+      "id": "node/8340204680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8340217059",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5879183,
+          48.1608739
+        ]
+      },
+      "id": "node/8340217059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8340222670",
+        "operator": "Interoute",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4827424,
+          43.3276128
+        ]
+      },
+      "id": "node/8340222670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8342162397",
+        "operator": "CapFibre",
+        "ref": "ADR_62458_ETA1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1768537,
+          50.7981352
+        ]
+      },
+      "id": "node/8342162397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8342162401",
+        "operator": "CapFibre",
+        "ref": "ADR_62595_HOU4",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1762089,
+          50.7901495
+        ]
+      },
+      "id": "node/8342162401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8342162402",
+        "operator": "CapFibre",
+        "ref": "ADR_62595_NAI3",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1759609,
+          50.7873426
+        ]
+      },
+      "id": "node/8342162402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8342162405",
+        "operator": "CapFibre",
+        "ref": "ADR_62297_CLU1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1749856,
+          50.8111599
+        ]
+      },
+      "id": "node/8342162405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8342887455",
+        "operator": "Moselle Fibre",
+        "ref": "FI-57708-0001",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.205378,
+          49.0100366
+        ]
+      },
+      "id": "node/8342887455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8342887457",
+        "operator": "Moselle Numerique",
+        "ref": "FI-57547-0000",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.195056,
+          49.004681
+        ]
+      },
+      "id": "node/8342887457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8342887462",
+        "operator": "Moselle Numerique",
+        "ref": "FI-57552-0001",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1888018,
+          49.0485723
+        ]
+      },
+      "id": "node/8342887462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8342887464",
+        "operator": "Orange",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2169494,
+          49.1200293
+        ]
+      },
+      "id": "node/8342887464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8342887465",
+        "operator": "Orange",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2169426,
+          49.1200292
+        ]
+      },
+      "id": "node/8342887465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8342887467",
+        "operator": "Orange",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2085872,
+          49.1200892
+        ]
+      },
+      "id": "node/8342887467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8343501708",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.081839,
+          43.3060076
+        ]
+      },
+      "id": "node/8343501708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8343506335",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7780883,
+          42.6438653
+        ]
+      },
+      "id": "node/8343506335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8345600674",
+        "fixme": "A compléter",
+        "ref": "NRO Les Villards-sur-Thônes",
+        "source": "https://twitter.com/CovageSUD_EST/status/1352261195441598467",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3662644,
+          45.9075567
+        ]
+      },
+      "id": "node/8345600674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8346431211",
+        "Operator": "TDF Fibre",
+        "name": "NRO",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6051865,
+          47.0316428
+        ]
+      },
+      "id": "node/8346431211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8354947424",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Manche Numerique",
+        "ref": "NRO-50-051",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3264012,
+          49.1695047
+        ]
+      },
+      "id": "node/8354947424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8355460006",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Manche Fibre",
+        "ref": "NRO-50-039",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5670625,
+          48.8401265
+        ]
+      },
+      "id": "node/8355460006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8360172832",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1992728,
+          47.8644956
+        ]
+      },
+      "id": "node/8360172832"
     }
   ]
 }
