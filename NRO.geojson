@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-01-28T07:06:02Z",
+  "timestamp": "2021-02-28T17:30:42Z",
   "features": [
     {
       "type": "Feature",
@@ -2200,11 +2200,12 @@
         "building:prefabricated": "yes",
         "colour": "white",
         "height": "3",
-        "name": "NRO",
+        "name": "NRO Taninges",
         "operator": "Covage",
         "owner": "Syane",
         "roof:material": "wood",
         "roof:shape": "gabled",
+        "source": "https://twitter.com/CovageSUD_EST/status/1305529993032802309/photo/1",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -2337,10 +2338,11 @@
         "building:prefabricated": "yes",
         "colour": "white",
         "height": "2.5",
-        "name": "NRO",
+        "name": "NRO Marnaz",
         "operator": "Covage",
         "owner": "Syane",
         "roof:shape": "flat",
+        "source": "https://twitter.com/CovageSUD_EST/status/1328613557676740608/photo/1",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -5460,46 +5462,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/738234839",
-        "building": "service",
-        "description": "NRO Gesté",
-        "operator": "Anjou Fibre",
-        "owner": "Anjou Numérique",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -1.1179684,
-              47.1872887
-            ],
-            [
-              -1.1179135,
-              47.1872329
-            ],
-            [
-              -1.1178489,
-              47.1872611
-            ],
-            [
-              -1.1178998,
-              47.1873187
-            ],
-            [
-              -1.1179684,
-              47.1872887
-            ]
-          ]
-        ]
-      },
-      "id": "way/738234839"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/740017069",
         "building": "service",
         "building:prefabricated": "yes",
@@ -5672,6 +5634,7 @@
         "building": "service",
         "building:levels": "1",
         "building:prefabricated": "yes",
+        "colour": "ivoire",
         "email": "contact@losange-fibre.fr",
         "name": "NRO de Clavy Warby",
         "operator": "Losange Exploitation",
@@ -6537,6 +6500,9 @@
       "properties": {
         "@id": "way/818606059",
         "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "green",
+        "name": "NRO Amagne",
         "operator": "Losange Fibre",
         "ref": "NRO-08-016",
         "source": "https://twitter.com/CCuilleratNGE/status/1201893675015520256",
@@ -6824,6 +6790,50 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/892797812",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "ivoire",
+        "name": "NRO Gesté",
+        "operator": "ANJOU FIBRE",
+        "owner": "TDF",
+        "ref": "NC",
+        "source": "https://twitter.com/AnjouFibre/status/1186975127130517505/photo/3",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.1179499,
+              47.1873344
+            ],
+            [
+              -1.1180096,
+              47.1873082
+            ],
+            [
+              -1.1179925,
+              47.1872902
+            ],
+            [
+              -1.1179328,
+              47.1873164
+            ],
+            [
+              -1.1179499,
+              47.1873344
+            ]
+          ]
+        ]
+      },
+      "id": "way/892797812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/897670465",
         "building": "yes",
         "description": "Posé en juillet 2020",
@@ -6870,7 +6880,7 @@
         "building": "yes",
         "operator": "Hérault THD",
         "ref": "NO34LANS",
-        "ref:arcep": "HT-TEC-00009",
+        "ref:FR:ARCEP": "HT-TEC-00009",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -6902,6 +6912,1001 @@
         ]
       },
       "id": "way/899982926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903411948",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO Esquiule",
+        "operator": "SFR",
+        "source": "https://twitter.com/lafibre64/status/1356901593891930116/photo/1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.7072436,
+              43.1939457
+            ],
+            [
+              -0.7072503,
+              43.19393
+            ],
+            [
+              -0.7071933,
+              43.1939168
+            ],
+            [
+              -0.7071859,
+              43.193933
+            ],
+            [
+              -0.7072436,
+              43.1939457
+            ]
+          ]
+        ]
+      },
+      "id": "way/903411948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903414994",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO Arzacq-Arraziguet",
+        "operator": "SFR",
+        "source": "https://twitter.com/lafibre64/status/1329512150621184000/photo/3",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.4055394,
+              43.5348729
+            ],
+            [
+              -0.4056031,
+              43.534878
+            ],
+            [
+              -0.4056164,
+              43.5348075
+            ],
+            [
+              -0.4055491,
+              43.5348024
+            ],
+            [
+              -0.4055394,
+              43.5348729
+            ]
+          ]
+        ]
+      },
+      "id": "way/903414994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903416606",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO La Roche-sur-Foron",
+        "operator": "COVAGE",
+        "owner": "Syane",
+        "source": "https://twitter.com/CovageSUD_EST/status/1354425455739359238/photo/1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.3118598,
+              46.0690458
+            ],
+            [
+              6.3118017,
+              46.069026
+            ],
+            [
+              6.3118218,
+              46.0690014
+            ],
+            [
+              6.3118796,
+              46.0690218
+            ],
+            [
+              6.3118598,
+              46.0690458
+            ]
+          ]
+        ]
+      },
+      "id": "way/903416606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903420936",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO Mieussy",
+        "operator": "COVAGE",
+        "owner": "Syane",
+        "source": "https://twitter.com/CovageSUD_EST/status/1333777962127273984/photo/1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5220371,
+              46.1334135
+            ],
+            [
+              6.5219915,
+              46.133419
+            ],
+            [
+              6.5219795,
+              46.1333651
+            ],
+            [
+              6.5220264,
+              46.1333605
+            ],
+            [
+              6.5220371,
+              46.1334135
+            ]
+          ]
+        ]
+      },
+      "id": "way/903420936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903425025",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO Ville-sur-Tourbe",
+        "operator": "LosangeFibre",
+        "owner": "GRANDEST",
+        "ref": "51-025",
+        "source": "https://twitter.com/CCuilleratNGE/status/1311290881769603074/photo/1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.7851545,
+              49.185778
+            ],
+            [
+              4.7852361,
+              49.1856965
+            ],
+            [
+              4.7852962,
+              49.1857247
+            ],
+            [
+              4.7852253,
+              49.1858052
+            ],
+            [
+              4.7851545,
+              49.185778
+            ]
+          ]
+        ]
+      },
+      "id": "way/903425025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903426301",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO Givry-en-Argonne",
+        "operator": "LosangeFibre",
+        "owner": "GrandEst",
+        "ref": "51-023",
+        "source": "https://twitter.com/CCuilleratNGE/status/1319205060774121473/photo/1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.8882937,
+              48.9505048
+            ],
+            [
+              4.888306,
+              48.9504461
+            ],
+            [
+              4.8883461,
+              48.9504482
+            ],
+            [
+              4.8883291,
+              48.9505078
+            ],
+            [
+              4.8882937,
+              48.9505048
+            ]
+          ]
+        ]
+      },
+      "id": "way/903426301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903429492",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO Bogny-sur-meuse",
+        "operator": "LosangeFibre",
+        "owner": "GrandEst",
+        "ref": "08-027",
+        "source": "https://twitter.com/CCuilleratNGE/status/1323896029159280642/photo/1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.7630823,
+              49.8584494
+            ],
+            [
+              4.7629899,
+              49.8585169
+            ],
+            [
+              4.7629313,
+              49.8584881
+            ],
+            [
+              4.7630299,
+              49.8584186
+            ],
+            [
+              4.7630823,
+              49.8584494
+            ]
+          ]
+        ]
+      },
+      "id": "way/903429492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903430975",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO Vanault-les-Dames",
+        "operator": "LosangeFibre",
+        "owner": "GrandEst",
+        "ref": "51_022",
+        "source": "https://twitter.com/CCuilleratNGE/status/1322080484780888064/photo/1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.7743198,
+              48.8457081
+            ],
+            [
+              4.7742719,
+              48.8456728
+            ],
+            [
+              4.7743116,
+              48.8456474
+            ],
+            [
+              4.7743571,
+              48.845682
+            ],
+            [
+              4.7743198,
+              48.8457081
+            ]
+          ]
+        ]
+      },
+      "id": "way/903430975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903433602",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO Tourteron",
+        "operator": "LosangeFibre",
+        "owner": "GrandEst",
+        "ref": "08-013",
+        "source": "https://twitter.com/CCuilleratNGE/status/1321365675248680963/photo/1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.6365015,
+              49.5356661
+            ],
+            [
+              4.6364723,
+              49.5356555
+            ],
+            [
+              4.6365155,
+              49.5356161
+            ],
+            [
+              4.6365388,
+              49.5356282
+            ],
+            [
+              4.6365015,
+              49.5356661
+            ]
+          ]
+        ]
+      },
+      "id": "way/903433602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903438401",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "ivoire",
+        "name": "NRO Vitry-le-François",
+        "operator": "LosangeFibre",
+        "owner": "GrandEst",
+        "ref": "51-044",
+        "source": "https://twitter.com/CCuilleratNGE/status/1285955654579032065/photo/2",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.5918392,
+              48.7275286
+            ],
+            [
+              4.5918018,
+              48.7274747
+            ],
+            [
+              4.5918439,
+              48.7274639
+            ],
+            [
+              4.5918777,
+              48.7275186
+            ],
+            [
+              4.5918392,
+              48.7275286
+            ]
+          ]
+        ]
+      },
+      "id": "way/903438401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903439458",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "IVOIRE",
+        "name": "NRO Thilay",
+        "operator": "LosangeFibre",
+        "owner": "GrandEst",
+        "ref": "08-035",
+        "source": "https://twitter.com/CCuilleratNGE/status/1280500300781158403/photo/3",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.8071068,
+              49.8705935
+            ],
+            [
+              4.8070113,
+              49.8706092
+            ],
+            [
+              4.8070022,
+              49.8705824
+            ],
+            [
+              4.8070987,
+              49.8705666
+            ],
+            [
+              4.8071068,
+              49.8705935
+            ]
+          ]
+        ]
+      },
+      "id": "way/903439458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903440492",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "green",
+        "name": "NRO Isles-sur-Suippe",
+        "operator": "LosangeFibre",
+        "owner": "GrandEst",
+        "ref": "51-030",
+        "source": "https://twitter.com/CCuilleratNGE/status/1169239952380612609/photo/3",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.2055452,
+              49.3579843
+            ],
+            [
+              4.2057276,
+              49.3578987
+            ],
+            [
+              4.2057839,
+              49.3579476
+            ],
+            [
+              4.2055935,
+              49.3580314
+            ],
+            [
+              4.2055452,
+              49.3579843
+            ]
+          ]
+        ]
+      },
+      "id": "way/903440492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903442678",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "ivoire",
+        "name": "NRO Verzy",
+        "operator": "LosangeFibre",
+        "owner": "GrandEst",
+        "ref": "NC",
+        "source": "https://twitter.com/CCuilleratNGE/status/1192119939374764035/photo/2",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.1687307,
+              49.1454441
+            ],
+            [
+              4.1687246,
+              49.1454278
+            ],
+            [
+              4.1687871,
+              49.1454158
+            ],
+            [
+              4.1687932,
+              49.1454328
+            ],
+            [
+              4.1687307,
+              49.1454441
+            ]
+          ]
+        ]
+      },
+      "id": "way/903442678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903444105",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "green",
+        "name": "NRO Sillery",
+        "operator": "LosangeFibre",
+        "owner": "GrandEst",
+        "ref": "51-012",
+        "source": "https://twitter.com/CCuilleratNGE/status/1194614412860100611/photo/1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.1288719,
+              49.1951272
+            ],
+            [
+              4.1286976,
+              49.1951903
+            ],
+            [
+              4.1286144,
+              49.1951061
+            ],
+            [
+              4.1287915,
+              49.1950378
+            ],
+            [
+              4.1288719,
+              49.1951272
+            ]
+          ]
+        ]
+      },
+      "id": "way/903444105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903447110",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "black",
+        "name": "NRO Revin",
+        "operator": "LosangeFibre",
+        "owner": "GrandEst",
+        "ref": "08-036",
+        "source": "https://twitter.com/CCuilleratNGE/status/1197074103297040384/photo/1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.6274349,
+              49.9386533
+            ],
+            [
+              4.6274859,
+              49.9386257
+            ],
+            [
+              4.6275824,
+              49.9386948
+            ],
+            [
+              4.6275315,
+              49.9387224
+            ],
+            [
+              4.6274349,
+              49.9386533
+            ]
+          ]
+        ]
+      },
+      "id": "way/903447110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903451239",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "ivoire",
+        "name": "NRO Rethel",
+        "operator": "LosangeFibre",
+        "owner": "GrandEst",
+        "ref": "08-017",
+        "source": "https://twitter.com/CCuilleratNGE/status/1232314744511565824/photo/2",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.3695665,
+              49.5059626
+            ],
+            [
+              4.3696089,
+              49.5060407
+            ],
+            [
+              4.3695665,
+              49.5060511
+            ],
+            [
+              4.369536,
+              49.5060064
+            ],
+            [
+              4.3695187,
+              49.505981
+            ],
+            [
+              4.3695665,
+              49.5059626
+            ]
+          ]
+        ]
+      },
+      "id": "way/903451239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903452716",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "ivoire",
+        "name": "NRO Pargny-sur-Saulx",
+        "operator": "LosangeFibre",
+        "owner": "GrandEst",
+        "ref": "51-021",
+        "source": "https://twitter.com/CCuilleratNGE/status/1235227029450215426/photo/1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.829935,
+              48.7677934
+            ],
+            [
+              4.8299614,
+              48.7677432
+            ],
+            [
+              4.8299929,
+              48.7677505
+            ],
+            [
+              4.8299675,
+              48.7677974
+            ],
+            [
+              4.829935,
+              48.7677934
+            ]
+          ]
+        ]
+      },
+      "id": "way/903452716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903454532",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "ivoire",
+        "name": "NRO Givet",
+        "operator": "LosangeFibre",
+        "owner": "GrandEst",
+        "ref": "08-033",
+        "source": "https://twitter.com/CCuilleratNGE/status/1272936936504791040/photo/3",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.8265975,
+              50.1380699
+            ],
+            [
+              4.8265727,
+              50.1380402
+            ],
+            [
+              4.8266075,
+              50.1380295
+            ],
+            [
+              4.8266297,
+              50.1380587
+            ],
+            [
+              4.8265975,
+              50.1380699
+            ]
+          ]
+        ]
+      },
+      "id": "way/903454532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903455895",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "green",
+        "name": "NRO Wasigny",
+        "operator": "LosangeFibre",
+        "owner": "GrandEst",
+        "ref": "08-021",
+        "source": "https://twitter.com/CCuilleratNGE/status/1199340366907887617/photo/1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.3517118,
+              49.6297338
+            ],
+            [
+              4.3517026,
+              49.6297078
+            ],
+            [
+              4.351792,
+              49.6296939
+            ],
+            [
+              4.351795,
+              49.6297198
+            ],
+            [
+              4.3517118,
+              49.6297338
+            ]
+          ]
+        ]
+      },
+      "id": "way/903455895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903457289",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "green",
+        "name": "NRO Bourgogne-Fresne",
+        "operator": "LosangeFibre",
+        "owner": "GrandEst",
+        "ref": "51-031",
+        "source": "https://twitter.com/CCuilleratNGE/status/1199719381615497216/photo/1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.0630727,
+              49.348744
+            ],
+            [
+              4.0630296,
+              49.3487395
+            ],
+            [
+              4.0630542,
+              49.3486712
+            ],
+            [
+              4.0631004,
+              49.3486777
+            ],
+            [
+              4.0630727,
+              49.348744
+            ]
+          ]
+        ]
+      },
+      "id": "way/903457289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903459910",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "maroon",
+        "name": "NRO Saint-Imoges",
+        "operator": "LosangeFibre",
+        "owner": "GrandEst",
+        "ref": "51-001",
+        "source": "https://twitter.com/CCuilleratNGE/status/1199719381615497216/photo/1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.9788086,
+              49.1134429
+            ],
+            [
+              3.9788663,
+              49.1134166
+            ],
+            [
+              3.9788904,
+              49.1134403
+            ],
+            [
+              3.9788301,
+              49.1134631
+            ],
+            [
+              3.9788086,
+              49.1134429
+            ]
+          ]
+        ]
+      },
+      "id": "way/903459910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903476609",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "ivoire",
+        "name": "NRO Bellegarde sur Valserine",
+        "operator": "AXIONE",
+        "owner": "NC",
+        "ref": "NC",
+        "source": "https://twitter.com/nverdun73/status/1275385965415194625/photo/3",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.82737,
+              46.1071853
+            ],
+            [
+              5.8274036,
+              46.1071399
+            ],
+            [
+              5.8275381,
+              46.107184
+            ],
+            [
+              5.8275045,
+              46.1072245
+            ],
+            [
+              5.82737,
+              46.1071853
+            ]
+          ]
+        ]
+      },
+      "id": "way/903476609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903374274",
+        "fixme": "Emplacement exacte à corriger",
+        "name": "NRO Lembeye",
+        "operator": "SFR",
+        "source": "https://twitter.com/lafibre64/status/1332306223912394759/photo/2",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.116351,
+            43.4489483
+          ],
+          [
+            -0.116321,
+            43.4489591
+          ],
+          [
+            -0.1162926,
+            43.4489176
+          ],
+          [
+            -0.1163227,
+            43.4489067
+          ],
+          [
+            -0.116351,
+            43.4489483
+          ]
+        ]
+      },
+      "id": "way/903374274"
     },
     {
       "type": "Feature",
@@ -7581,8 +8586,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6421821512",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "start_date": "2019-04",
         "telecom": "exchange",
@@ -9236,27 +10241,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7151304242",
-        "name": "AMM80",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref:FR:Orange": "80021AMM",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2902352,
-          49.9041506
-        ]
-      },
-      "id": "node/7151304242"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/7151312480",
         "name": "AMS80",
         "operator": "Orange",
@@ -10764,7 +11748,7 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:Orange": "17306ROR",
-        "ref:FR:PTT": "ROR17",
+        "ref:FR:Orange:NRO": "ROR17",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -12629,6 +13613,7 @@
         "name": "NRO Périgueux",
         "operator": "Orange",
         "ref": "PER 24",
+        "ref:FR:Orange:NRO": "PER 24",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
@@ -12650,6 +13635,7 @@
         "name": "NRO Chancelade",
         "operator": "Orange",
         "ref": "CHD 24",
+        "ref:FR:Orange:NRO": "CHD 24",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Chancelade_(CHD24).jpg"
@@ -12670,6 +13656,7 @@
         "name": "NRO Château l'Evèque",
         "operator": "Orange",
         "ref": "CLQ 24",
+        "ref:FR:Orange:NRO": "CLQ 24",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Ch%C3%A2teau-l%27%C3%89v%C3%AAque_CLQ24.jpg"
@@ -12690,6 +13677,7 @@
         "name": "NRO Trélissac",
         "operator": "Orange",
         "ref": "TRE 24",
+        "ref:FR:Orange:NRO": "TRE 24",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -12710,8 +13698,10 @@
         "name": "NRO Coulounieix",
         "operator": "Orange",
         "ref": "CIX 24",
+        "ref:FR:Orange:NRO": "CIX 24",
         "telecom": "exchange",
         "telecom:medium": "fibre",
+        "utility": "telecom",
         "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRA_Coulounieix_CIX_24.jpg"
       },
       "geometry": {
@@ -12730,9 +13720,10 @@
         "name": "NRO Coursac",
         "operator": "Orange",
         "ref": "COU 24",
+        "ref:FR:Orange:NRO": "COU 24",
         "telecom": "exchange",
         "telecom:medium": "fibre",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_FI-24139-0001.jpg"
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRA_Coursac_Font_de_Meaux_FON_24.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -12750,6 +13741,7 @@
         "name": "NRO Razac-sur-l'Isle",
         "operator": "Orange",
         "ref": "RAZ 24",
+        "ref:FR:Orange:NRO": "RAZ 24",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_FI-24350-0000.jpg"
@@ -12788,6 +13780,7 @@
         "name": "NRO Bergerac",
         "operator": "Orange",
         "ref": "BER 24",
+        "ref:FR:Orange:NRO": "BER 24",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
@@ -12851,6 +13844,7 @@
         "name": "NRO Notre-Dame-de-Sanilhac",
         "operator": "Orange",
         "ref": "NDS 24",
+        "ref:FR:Orange:NRO": "NDS 24",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -13003,6 +13997,7 @@
         "ref": "AYE 19",
         "telecom": "exchange",
         "telecom:medium": "fibre",
+        "utility": "telecom",
         "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Ayen.jpg"
       },
       "geometry": {
@@ -13045,6 +14040,7 @@
         "ref": "VIG 19",
         "telecom": "exchange",
         "telecom:medium": "fibre",
+        "utility": "telecom",
         "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Vigeois.jpg"
       },
       "geometry": {
@@ -18349,6 +19345,7 @@
         "name": "NRO",
         "operator": "Altitude",
         "owner": "Departement Cote d'Or",
+        "ref": "NRO 21_019",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -21800,8 +22797,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8296100276",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -21820,8 +22817,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8296147946",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -21830,8 +22827,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.3650617,
-          47.1170399
+          -0.3650523,
+          47.1170195
         ]
       },
       "id": "node/8296147946"
@@ -21840,8 +22837,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8296177252",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -21860,8 +22857,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8296190277",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -21880,8 +22877,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297607751",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -21900,8 +22897,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297608351",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -21920,8 +22917,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297624377",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -21960,8 +22957,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297638379",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -21970,8 +22967,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1533233,
-          47.1303252
+          -0.1533642,
+          47.130317
         ]
       },
       "id": "node/8297638379"
@@ -21980,8 +22977,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297638513",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22000,8 +22997,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297644174",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22020,8 +23017,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297644179",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22061,8 +23058,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297678318",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22101,8 +23098,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297685867",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22121,8 +23118,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297728558",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22141,8 +23138,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297751897",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22200,29 +23197,9 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8297764284",
-        "Operator": "TDF Fibre",
-        "name": "NRO",
-        "owner": "Anjou Fibre",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1179725,
-          47.1873106
-        ]
-      },
-      "id": "node/8297764284"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8297764289",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22261,8 +23238,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297961995",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22291,8 +23268,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.2785904,
-          47.2013745
+          -0.278598,
+          47.2013773
         ]
       },
       "id": "node/8297987756"
@@ -22322,8 +23299,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297997017",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22342,8 +23319,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8298007862",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22362,8 +23339,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8298029420",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22382,8 +23359,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8298030375",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22402,8 +23379,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8298032270",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22422,8 +23399,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8298032800",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22442,8 +23419,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8298035069",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22462,8 +23439,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8298036383",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22482,8 +23459,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8298039572",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22542,8 +23519,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8298058360",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22717,8 +23694,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8330185096",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22737,8 +23714,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8330217768",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22757,8 +23734,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8330230344",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22777,8 +23754,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8330243563",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22797,8 +23774,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8330245796",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22817,8 +23794,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8330249039",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22837,9 +23814,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8330981110",
-        "Operator": "Isere THD",
         "name": "NRO",
-        "owner": "Isere Fibre",
+        "operator": "Isère THD",
+        "owner": "Isère Fibre",
         "source:telecom": "https://www.lessor38.fr/la-fibre-arrive-a-l-isle-d-abeau-23517.html",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -22858,9 +23835,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8331036180",
-        "Operator": "Isere Fibre",
         "name": "NRO",
-        "owner": "Isere THD",
+        "operator": "Isère Fibre",
+        "owner": "Isère THD",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -22881,7 +23858,7 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:Orange": "17380IPA",
-        "ref:FR:PTT": "COL17",
+        "ref:FR:Orange:NRO": "COL17",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -23336,7 +24313,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8345600674",
-        "fixme": "A compléter",
+        "owner": "Syane",
         "ref": "NRO Les Villards-sur-Thônes",
         "source": "https://twitter.com/CovageSUD_EST/status/1352261195441598467",
         "telecom": "exchange",
@@ -23355,8 +24332,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8346431211",
-        "Operator": "TDF Fibre",
         "name": "NRO",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -23427,6 +24404,342 @@
         ]
       },
       "id": "node/8360172832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8371767874",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "NRO-25-033",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8105418,
+          47.1851682
+        ]
+      },
+      "id": "node/8371767874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8380845966",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Rosace",
+        "ref": "NRO 68-037 RIBEAUVILLE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3349186,
+          48.1949821
+        ]
+      },
+      "id": "node/8380845966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8380975718",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Rosace",
+        "ref": "NRO-68-036",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2642235,
+          48.1362055
+        ]
+      },
+      "id": "node/8380975718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8385011527",
+        "name": "NRO Champcevinel",
+        "operator": "Orange",
+        "ref": "CHM 24",
+        "ref:FR:Orange:NRO": "CHM 24",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRA_Champcevinel_CHM_24.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7495217,
+          45.2178725
+        ]
+      },
+      "id": "node/8385011527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8385011528",
+        "name": "NRO Marsac sur l'Isle",
+        "operator": "Orange",
+        "ref": "MAS 24",
+        "ref:FR:Orange:NRO": "MAS 24",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRA_Marsac-sur-l%27Isle_MAS_24.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6367464,
+          45.1833238
+        ]
+      },
+      "id": "node/8385011528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8390762510",
+        "fixme": "a verifier emplacement",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Corai Fibre",
+        "source": "https://twitter.com/CoraiFibre/status/1356918393610375171",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2265397,
+          47.2810762
+        ]
+      },
+      "id": "node/8390762510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8402046496",
+        "man_made": "street_cabinet",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1222712,
+          47.0353179
+        ]
+      },
+      "id": "node/8402046496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8415737272",
+        "note": "Corai Fibre",
+        "operator": "Altitude",
+        "owner": "Corai fibre",
+        "ref": "NRO 21_004",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4112677,
+          47.3079975
+        ]
+      },
+      "id": "node/8415737272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8415782510",
+        "note": "Corai Fibre",
+        "operator": "Altitude",
+        "owner": "Corai fibre",
+        "ref": "NRO 21_003",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3142003,
+          47.3973764
+        ]
+      },
+      "id": "node/8415782510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8417774010",
+        "addr:city": "Cestas",
+        "addr:housenumber": "17B",
+        "addr:postcode": "33610",
+        "addr:street": "Chemin du Canaulet",
+        "name": "NRO Cestas",
+        "operator": "Orange",
+        "ref": "EAW",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRA_Cestas_CES_33.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6602747,
+          44.735018
+        ]
+      },
+      "id": "node/8417774010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8417774012",
+        "addr:city": "Portets",
+        "addr:housenumber": "4",
+        "addr:postcode": "33640",
+        "addr:street": "Chemin de Hiqueyrots",
+        "name": "NRO Portets",
+        "operator": "Orange",
+        "ref": "RTV",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRA_Portets_POT_33.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4150889,
+          44.6937055
+        ]
+      },
+      "id": "node/8417774012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8418858191",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Corai fibre",
+        "ref": "NRO 21_006",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1326706,
+          47.2187645
+        ]
+      },
+      "id": "node/8418858191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8418900421",
+        "fixme": "Identification à trouver",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Corai fibre",
+        "ref": "NRO 21_*",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.225668,
+          47.2438756
+        ]
+      },
+      "id": "node/8418900421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8423132736",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:Orange": "SJY",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9951033,
+          45.5862641
+        ]
+      },
+      "id": "node/8423132736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8425364307",
+        "name": "NRO",
+        "operator": "TDF Fibre",
+        "owner": "Anjou Fibre",
+        "ref:FR:ARCEP": "ANFI-VALDL",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6269765,
+          47.3033762
+        ]
+      },
+      "id": "node/8425364307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8425380946",
+        "name": "NRO",
+        "operator": "TDF Fibre",
+        "owner": "Anjou Fibre",
+        "ref:FR:ARCEP": "ANFI-TIECE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4595787,
+          47.6162988
+        ]
+      },
+      "id": "node/8425380946"
     }
   ]
 }
