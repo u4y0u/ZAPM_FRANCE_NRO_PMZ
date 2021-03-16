@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-02-28T17:30:42Z",
+  "timestamp": "2021-03-16T08:30:25Z",
   "features": [
     {
       "type": "Feature",
@@ -146,7 +146,7 @@
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
         "telecom": "exchange",
         "telecom:medium": "fibre",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Free_P%C3%A9rigueux.jpg"
+        "wikimedia_commons": "File:NRO Free Périgueux.jpg"
       },
       "geometry": {
         "type": "Polygon",
@@ -6790,6 +6790,48 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/892783643",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO",
+        "operator": "TDF Fibre",
+        "owner": "Anjou Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.542858,
+              47.1415974
+            ],
+            [
+              -0.5428656,
+              47.1415788
+            ],
+            [
+              -0.5427965,
+              47.1415657
+            ],
+            [
+              -0.5427889,
+              47.1415843
+            ],
+            [
+              -0.542858,
+              47.1415974
+            ]
+          ]
+        ]
+      },
+      "id": "way/892783643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/892797812",
         "building": "service",
         "building:prefabricated": "yes",
@@ -10108,8 +10150,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.9148476,
-          47.4908196
+          3.9148425,
+          47.4907979
         ]
       },
       "id": "node/7151236942"
@@ -13617,7 +13659,7 @@
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRA_P%C3%A9rigueux_PER_24.jpg"
+        "wikimedia_commons": "File:NRA Périgueux PER 24.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -13638,7 +13680,7 @@
         "ref:FR:Orange:NRO": "CHD 24",
         "telecom": "exchange",
         "telecom:medium": "fibre",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Chancelade_(CHD24).jpg"
+        "wikimedia_commons": "File:NRO Chancelade (CHD24).jpg"
       },
       "geometry": {
         "type": "Point",
@@ -13659,7 +13701,7 @@
         "ref:FR:Orange:NRO": "CLQ 24",
         "telecom": "exchange",
         "telecom:medium": "fibre",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Ch%C3%A2teau-l%27%C3%89v%C3%AAque_CLQ24.jpg"
+        "wikimedia_commons": "File:NRO Château-l'Évêque CLQ24.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -13702,7 +13744,7 @@
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRA_Coulounieix_CIX_24.jpg"
+        "wikimedia_commons": "File:NRA Coulounieix CIX 24.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -13723,7 +13765,7 @@
         "ref:FR:Orange:NRO": "COU 24",
         "telecom": "exchange",
         "telecom:medium": "fibre",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRA_Coursac_Font_de_Meaux_FON_24.jpg"
+        "wikimedia_commons": "File:NRA Coursac Font de Meaux FON 24.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -13744,7 +13786,7 @@
         "ref:FR:Orange:NRO": "RAZ 24",
         "telecom": "exchange",
         "telecom:medium": "fibre",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_FI-24350-0000.jpg"
+        "wikimedia_commons": "File:PMZ FI-24350-0000.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -13784,7 +13826,7 @@
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRA_Bergerac_BER_24.jpg"
+        "wikimedia_commons": "File:NRA Bergerac BER 24.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -13890,7 +13932,7 @@
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Arnac-Pompadour.jpg"
+        "wikimedia_commons": "File:NRO Arnac-Pompadour.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -13912,7 +13954,7 @@
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Saint-Julien-le-Vend%C3%B4mois.jpg"
+        "wikimedia_commons": "File:NRO Saint-Julien-le-Vendômois.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -13934,7 +13976,7 @@
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Juillac.jpg"
+        "wikimedia_commons": "File:NRO Juillac.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -13998,7 +14040,7 @@
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Ayen.jpg"
+        "wikimedia_commons": "File:NRO Ayen.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -14019,7 +14061,7 @@
         "ref": "PLN 19",
         "telecom": "exchange",
         "telecom:medium": "fibre",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Perpezac-le-Noir.jpg"
+        "wikimedia_commons": "File:NRO Perpezac-le-Noir.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -14041,7 +14083,7 @@
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Vigeois.jpg"
+        "wikimedia_commons": "File:NRO Vigeois.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -14152,7 +14194,7 @@
         "ref": "LUB 19",
         "telecom": "exchange",
         "telecom:medium": "fibre",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Lubersac.jpg"
+        "wikimedia_commons": "File:NRO Lubersac.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -14214,7 +14256,7 @@
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Salon-la-Tour.jpg"
+        "wikimedia_commons": "File:NRO Salon-la-Tour.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -14236,7 +14278,7 @@
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Donzenac.jpg"
+        "wikimedia_commons": "File:NRO Donzenac.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -14258,7 +14300,7 @@
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Uzerche.jpg"
+        "wikimedia_commons": "File:NRO Uzerche.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -14280,7 +14322,7 @@
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Nespouls.jpg"
+        "wikimedia_commons": "File:NRO Nespouls.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -14302,7 +14344,7 @@
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_de_Brignac-la-Plaine.jpg"
+        "wikimedia_commons": "File:NRO de Brignac-la-Plaine.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -14324,7 +14366,7 @@
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Objat.jpg"
+        "wikimedia_commons": "File:NRO Objat.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -14346,7 +14388,7 @@
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Saint-Solve.jpg"
+        "wikimedia_commons": "File:NRO Saint-Solve.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -14922,7 +14964,7 @@
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_La_Douze.jpg"
+        "wikimedia_commons": "File:NRO La Douze.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -19722,8 +19764,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.0677168,
-          46.4890301
+          6.0680163,
+          46.489165
         ]
       },
       "id": "node/8222887922"
@@ -20547,7 +20589,7 @@
         "source": "https://twitter.com/Esterle19/status/1083993493759057921",
         "telecom": "exchange",
         "telecom:medium": "fibre",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Saint-Cernin-de-Larche.jpg"
+        "wikimedia_commons": "File:NRO Saint-Cernin-de-Larche.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -21068,7 +21110,7 @@
         "ref": "SHL_24053_BOUL",
         "telecom": "exchange",
         "telecom:medium": "fibre",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Boulazac.jpg"
+        "wikimedia_commons": "File:NRO Boulazac.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -21087,7 +21129,7 @@
         "operator": "NATHD",
         "telecom": "exchange",
         "telecom:medium": "fibre",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Agonac.jpg"
+        "wikimedia_commons": "File:NRO Agonac.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -21106,7 +21148,7 @@
         "operator": "NATHD",
         "telecom": "exchange",
         "telecom:medium": "fibre",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Mensignac.jpg"
+        "wikimedia_commons": "File:NRO Mensignac.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -21144,7 +21186,7 @@
         "operator": "NATHD",
         "telecom": "exchange",
         "telecom:medium": "fibre",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRO_Montignac_(2).jpg"
+        "wikimedia_commons": "File:NRO Montignac (2).jpg"
       },
       "geometry": {
         "type": "Point",
@@ -21334,7 +21376,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8231100852",
-        "operator": "SFR",
+        "operator": "SFR FFTH",
         "owner": "Gard Fibre",
         "source": "survey",
         "telecom": "exchange",
@@ -22996,26 +23038,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8297644174",
-        "name": "NRO",
-        "operator": "TDF Fibre",
-        "owner": "Anjou Fibre",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.5428296,
-          47.141584
-        ]
-      },
-      "id": "node/8297644174"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8297644179",
         "name": "NRO",
         "operator": "TDF Fibre",
@@ -24476,7 +24498,7 @@
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRA_Champcevinel_CHM_24.jpg"
+        "wikimedia_commons": "File:NRA Champcevinel CHM 24.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -24498,7 +24520,7 @@
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRA_Marsac-sur-l%27Isle_MAS_24.jpg"
+        "wikimedia_commons": "File:NRA Marsac-sur-l'Isle MAS 24.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -24602,7 +24624,7 @@
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRA_Cestas_CES_33.jpg"
+        "wikimedia_commons": "File:NRA Cestas CES 33.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -24627,7 +24649,7 @@
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRA_Portets_POT_33.jpg"
+        "wikimedia_commons": "File:NRA Portets POT 33.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -24740,6 +24762,109 @@
         ]
       },
       "id": "node/8425380946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8489098070",
+        "name": "NRO Morcenx",
+        "operator": "NATHD",
+        "owner": "SYDEC",
+        "ref": "SHL_40197_MORC",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO Morcenx.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9101859,
+          44.0285836
+        ]
+      },
+      "id": "node/8489098070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8489098071",
+        "name": "NRO Moustey",
+        "operator": "NATHD",
+        "owner": "SYDEC",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO Moustey.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7623663,
+          44.3587032
+        ]
+      },
+      "id": "node/8489098071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8510605174",
+        "addr:city": "Nérondes",
+        "addr:postcode": "18350",
+        "operator": "Axione",
+        "owner": "Berry fibre optique",
+        "ref": "NRO de Nérondes",
+        "source": "https://twitter.com/BFO_BERRY/status/1364951503505612806/photo/1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8101063,
+          46.9985728
+        ]
+      },
+      "id": "node/8510605174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8518562482",
+        "Fixme": "NRO a identifier",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Corai Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9105775,
+          47.3198182
+        ]
+      },
+      "id": "node/8518562482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8521887796",
+        "name": "NRO Villebois-Lavalette",
+        "operator": "NATHD",
+        "owner": "Charente Numérique",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_Villebois-Lavalette.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2734152,
+          45.4901747
+        ]
+      },
+      "id": "node/8521887796"
     }
   ]
 }
