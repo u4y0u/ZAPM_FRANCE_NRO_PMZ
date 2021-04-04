@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-03-16T08:30:25Z",
+  "timestamp": "2021-04-04T07:56:12Z",
   "features": [
     {
       "type": "Feature",
@@ -2728,24 +2728,24 @@
         "coordinates": [
           [
             [
-              6.3286637,
-              46.1682606
+              6.328661,
+              46.1682522
             ],
             [
-              6.3287088,
-              46.1681941
+              6.3287061,
+              46.1681857
             ],
             [
-              6.3287581,
-              46.1682101
+              6.3287554,
+              46.1682017
             ],
             [
-              6.328713,
-              46.1682767
+              6.3287103,
+              46.1682683
             ],
             [
-              6.3286637,
-              46.1682606
+              6.328661,
+              46.1682522
             ]
           ]
         ]
@@ -7911,6 +7911,564 @@
         ]
       },
       "id": "way/903476609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/917788449",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO d'Egletons",
+        "operator": "NATHD",
+        "owner": "Dorsal",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.043342,
+              45.4017825
+            ],
+            [
+              2.043334,
+              45.4017523
+            ],
+            [
+              2.0433943,
+              45.4017462
+            ],
+            [
+              2.043401,
+              45.4017768
+            ],
+            [
+              2.043342,
+              45.4017825
+            ]
+          ]
+        ]
+      },
+      "id": "way/917788449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918262911",
+        "addr:city": "Meymac",
+        "addr:postcode": "19250",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO de Meymac",
+        "operator": "NATHD",
+        "owner": "Dorsal",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.1537483,
+              45.5399308
+            ],
+            [
+              2.1537403,
+              45.5399008
+            ],
+            [
+              2.1538476,
+              45.5398895
+            ],
+            [
+              2.1538529,
+              45.5399196
+            ],
+            [
+              2.1537483,
+              45.5399308
+            ]
+          ]
+        ]
+      },
+      "id": "way/918262911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918394653",
+        "addr:city": "Lapleau",
+        "addr:postcode": "19550",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO de Lapleau",
+        "operator": "NATHD",
+        "owner": "Dorsal",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.1651514,
+              45.2958677
+            ],
+            [
+              2.1651849,
+              45.2958404
+            ],
+            [
+              2.1652037,
+              45.2958517
+            ],
+            [
+              2.1651715,
+              45.2958791
+            ],
+            [
+              2.1651514,
+              45.2958677
+            ]
+          ]
+        ]
+      },
+      "id": "way/918394653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918402077",
+        "addr:city": "Marcillac-la-Croisille",
+        "addr:postcode": "19320",
+        "addr:street": "Place de la Bascule",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO de Marcillac-la-Croisille",
+        "operator": "NATHD",
+        "owner": "Dorsal",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.0295198,
+              45.2725253
+            ],
+            [
+              2.0295641,
+              45.2724715
+            ],
+            [
+              2.029603,
+              45.2724866
+            ],
+            [
+              2.0295614,
+              45.2725404
+            ],
+            [
+              2.0295198,
+              45.2725253
+            ]
+          ]
+        ]
+      },
+      "id": "way/918402077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918414379",
+        "addr:city": "Treignac",
+        "addr:postcode": "19260",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO de Treignac",
+        "operator": "NATHD",
+        "owner": "Dorsal",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.8013518,
+              45.532293
+            ],
+            [
+              1.8013478,
+              45.5322747
+            ],
+            [
+              1.8014195,
+              45.5322644
+            ],
+            [
+              1.8014235,
+              45.5322832
+            ],
+            [
+              1.8013518,
+              45.532293
+            ]
+          ]
+        ]
+      },
+      "id": "way/918414379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918447093",
+        "addr:city": "Sarroux",
+        "addr:postcode": "19110",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO de Sarroux",
+        "operator": "NATHD",
+        "owner": "Dorsal",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.4525994,
+              45.419773
+            ],
+            [
+              2.4526021,
+              45.4197118
+            ],
+            [
+              2.4526383,
+              45.4197118
+            ],
+            [
+              2.4526356,
+              45.4197739
+            ],
+            [
+              2.4525994,
+              45.419773
+            ]
+          ]
+        ]
+      },
+      "id": "way/918447093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918575855",
+        "addr:city": "Sexcles",
+        "addr:postcode": "19430",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO de Sexcles",
+        "operator": "NATHD",
+        "owner": "Dorsal",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.024313,
+              45.0295487
+            ],
+            [
+              2.0243264,
+              45.0295292
+            ],
+            [
+              2.0243492,
+              45.0295354
+            ],
+            [
+              2.0243358,
+              45.0295572
+            ],
+            [
+              2.024313,
+              45.0295487
+            ]
+          ]
+        ]
+      },
+      "id": "way/918575855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918633236",
+        "addr:city": "Saint-Privat",
+        "addr:postcode": "19220",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO de Saint-Privat",
+        "operator": "NATHD",
+        "owner": "Dorsal",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.0990053,
+              45.1372666
+            ],
+            [
+              2.0990174,
+              45.1372268
+            ],
+            [
+              2.0990496,
+              45.1372325
+            ],
+            [
+              2.0990375,
+              45.1372713
+            ],
+            [
+              2.0990053,
+              45.1372666
+            ]
+          ]
+        ]
+      },
+      "id": "way/918633236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918695572",
+        "addr:city": "Le Lonzac",
+        "addr:postcode": "19470",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO du Lonzac",
+        "operator": "NATHD",
+        "owner": "Dorsal",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.7311533,
+              45.4655642
+            ],
+            [
+              1.7311627,
+              45.4655454
+            ],
+            [
+              1.7312311,
+              45.4655633
+            ],
+            [
+              1.7312217,
+              45.465583
+            ],
+            [
+              1.7311533,
+              45.4655642
+            ]
+          ]
+        ]
+      },
+      "id": "way/918695572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918702395",
+        "addr:city": "Chamberet",
+        "addr:postcode": "19370",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO de Chamberet",
+        "operator": "NATHD",
+        "owner": "Dorsal",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.7189811,
+              45.585245
+            ],
+            [
+              1.7189785,
+              45.5852192
+            ],
+            [
+              1.7190542,
+              45.5852141
+            ],
+            [
+              1.7190569,
+              45.5852399
+            ],
+            [
+              1.7189811,
+              45.585245
+            ]
+          ]
+        ]
+      },
+      "id": "way/918702395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918793063",
+        "addr:city": "Beynat",
+        "addr:postcode": "19190",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO de Beynat",
+        "operator": "NATHD",
+        "owner": "Dorsal",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.7043779,
+              45.1200249
+            ],
+            [
+              1.7043786,
+              45.1200008
+            ],
+            [
+              1.7044409,
+              45.1199989
+            ],
+            [
+              1.7044403,
+              45.120023
+            ],
+            [
+              1.7043779,
+              45.1200249
+            ]
+          ]
+        ]
+      },
+      "id": "way/918793063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918811746",
+        "addr:city": "La Roche-Canillac",
+        "addr:postcode": "19320",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO de La Roche-Canillac",
+        "operator": "NATHD",
+        "owner": "Dorsal",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.959567,
+              45.2015391
+            ],
+            [
+              1.9596153,
+              45.2014786
+            ],
+            [
+              1.9596508,
+              45.2014905
+            ],
+            [
+              1.9596025,
+              45.2015519
+            ],
+            [
+              1.959567,
+              45.2015391
+            ]
+          ]
+        ]
+      },
+      "id": "way/918811746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/920930033",
+        "Operator": "Orange",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "name": "NRO",
+        "owner": "Deux Sevres Numrique",
+        "ref": "NRO 793297D4",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.214014,
+              46.9882002
+            ],
+            [
+              -0.2140248,
+              46.9881869
+            ],
+            [
+              -0.213979,
+              46.9881697
+            ],
+            [
+              -0.2139682,
+              46.9881831
+            ],
+            [
+              -0.214014,
+              46.9882002
+            ]
+          ]
+        ]
+      },
+      "id": "way/920930033"
     },
     {
       "type": "Feature",
@@ -15496,10 +16054,12 @@
         "addr:postcode": "79700",
         "addr:street": "Rue de Lattre",
         "operator": "Orange",
+        "owner": "Deux Sevres Numrique",
         "ref": "NRO Mauléon",
         "source": "https://www.lanouvellerepublique.fr/deux-sevres/commune/mauleon/fibre-optique-mauleon-bientot-a-l-ere-du-tres-haut-debit",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19910,7 +20470,8 @@
         "owner": "Jura",
         "ref": "NRO39487SLG",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -24830,7 +25391,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8518562482",
-        "Fixme": "NRO a identifier",
+        "fixme": "NRO a identifier",
         "name": "NRO",
         "operator": "Altitude",
         "owner": "Corai Fibre",
@@ -24865,6 +25426,123 @@
         ]
       },
       "id": "node/8521887796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8531965873",
+        "fixme": "Operateur a ajouter et identification",
+        "name": "NRO",
+        "owner": "Perigord Numerique",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3168054,
+          45.1465718
+        ]
+      },
+      "id": "node/8531965873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8532588140",
+        "addr:city": "Meyssac",
+        "addr:postcode": "19500",
+        "name": "NRO de Meyssac",
+        "note": "Bâtiment à matérialiser dès qu'il apparaîtra sur les vues satellite ou que quelqu’un aura reconnu les lieux.",
+        "operator": "NATHD",
+        "owner": "Dorsal",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6722178,
+          45.0530999
+        ]
+      },
+      "id": "node/8532588140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8565623277",
+        "name": "NRO Ychoux",
+        "operator": "NATHD",
+        "owner": "SYDEC",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_Ychoux.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9506745,
+          44.3268223
+        ]
+      },
+      "id": "node/8565623277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8566866789",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3720941,
+          44.513637
+        ]
+      },
+      "id": "node/8566866789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8568640432",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2836485,
+          44.5422642
+        ]
+      },
+      "id": "node/8568640432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8574790172",
+        "addr:city": "Decize",
+        "addr:housenumber": "6",
+        "addr:postcode": "58300",
+        "addr:street": "Boulevard du Docteur Galvaing",
+        "name": "NRO",
+        "operator": "BFC Fibre",
+        "owner": "Nièvre Numérique",
+        "source": "https://www.facebook.com/Nievrenumerique/posts/3722219744543910",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4585316,
+          46.8302964
+        ]
+      },
+      "id": "node/8574790172"
     }
   ]
 }
