@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-04-04T07:56:12Z",
+  "timestamp": "2021-04-18T17:39:27Z",
   "features": [
     {
       "type": "Feature",
@@ -4543,46 +4543,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/670070587",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.4422812,
-              46.3489744
-            ],
-            [
-              6.4423415,
-              46.3489689
-            ],
-            [
-              6.4423567,
-              46.3490474
-            ],
-            [
-              6.4422963,
-              46.3490529
-            ],
-            [
-              6.4422812,
-              46.3489744
-            ]
-          ]
-        ]
-      },
-      "id": "way/670070587"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/670070588",
         "building": "service",
         "name": "NRO",
@@ -8430,45 +8390,45 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/920930033",
-        "Operator": "Orange",
+        "@id": "way/925971348",
         "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "owner": "Deux Sevres Numrique",
-        "ref": "NRO 793297D4",
+        "building:prefabricated": "no",
+        "operator": "Orange",
+        "ref": "NC",
+        "ref:FR:Orange": "ADN",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2021",
+        "survey:date": "2020-11-17",
         "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
+        "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -0.214014,
-              46.9882002
+              5.4136332,
+              44.96446
             ],
             [
-              -0.2140248,
-              46.9881869
+              5.4136109,
+              44.9644121
             ],
             [
-              -0.213979,
-              46.9881697
+              5.4137034,
+              44.9643902
             ],
             [
-              -0.2139682,
-              46.9881831
+              5.4137258,
+              44.9644379
             ],
             [
-              -0.214014,
-              46.9882002
+              5.4136332,
+              44.96446
             ]
           ]
         ]
       },
-      "id": "way/920930033"
+      "id": "way/925971348"
     },
     {
       "type": "Feature",
@@ -14280,7 +14240,8 @@
         "ref:FR:Orange:NRO": "TRE 24",
         "telecom": "exchange",
         "telecom:medium": "fibre",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRA_Tr%C3%A9lissac_TRE_24.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -15494,28 +15455,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8128775817",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "operator": "Orange",
-        "ref": "NC",
-        "ref:FR:Orange": "ADN",
-        "survey:date": "2020-11-17",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.4135666,
-          44.9644374
-        ]
-      },
-      "id": "node/8128775817"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8155530327",
         "operator": "NATHD",
         "owner": "Périgord Numérique",
@@ -15708,8 +15647,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.1854231,
-          47.2127401
+          0.1854613,
+          47.2127633
         ]
       },
       "id": "node/8210764766"
@@ -21707,6 +21646,7 @@
         "@id": "node/8225602462",
         "name": "NRO Mensignac",
         "operator": "NATHD",
+        "owner": "Périgord Numérique",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "wikimedia_commons": "File:NRO Mensignac.jpg"
@@ -25339,8 +25279,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.9101859,
-          44.0285836
+          -0.910254,
+          44.0285239
         ]
       },
       "id": "node/8489098070"
@@ -25543,6 +25483,167 @@
         ]
       },
       "id": "node/8574790172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8592130497",
+        "Operator": "Orange",
+        "name": "NRO",
+        "owner": "Deux Sevres Numrique",
+        "ref": "NRO 793297D4",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2139996,
+          46.9881876
+        ]
+      },
+      "id": "node/8592130497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8592282217",
+        "Operator": "Altitude Infrastructure",
+        "name": "NRO",
+        "owner": "PIXL",
+        "ref:FR:ARCEP": "NRO-40-014",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4299278,
+          43.6492945
+        ]
+      },
+      "id": "node/8592282217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8595917533",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "PIXL Fibre",
+        "ref:FR:ARCEP": "SHL_40248_SMDS",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3429396,
+          43.5458648
+        ]
+      },
+      "id": "node/8595917533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8596103237",
+        "name": "NRO",
+        "operator": "Altittude",
+        "owner": "Pixel Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2707666,
+          43.5818357
+        ]
+      },
+      "id": "node/8596103237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8617767573",
+        "name": "NRO Lisle",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_Lisle.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5425082,
+          45.283916
+        ]
+      },
+      "id": "node/8617767573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8632250757",
+        "Operator": "Altittude",
+        "name": "NRO",
+        "owner": "PIXL",
+        "ref:FR:ARCEP": "NRO-40-016",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4353048,
+          43.5786411
+        ]
+      },
+      "id": "node/8632250757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8636342135",
+        "Operator": "Altitude",
+        "name": "NRO",
+        "owner": "PIXL",
+        "ref:FR:ARCEP": "NRO-40-017",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0654615,
+          43.5459399
+        ]
+      },
+      "id": "node/8636342135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8639654063",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4508038,
+          46.8192338
+        ]
+      },
+      "id": "node/8639654063"
     }
   ]
 }
