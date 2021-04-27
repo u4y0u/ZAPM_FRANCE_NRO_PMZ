@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-04-18T17:39:27Z",
+  "timestamp": "2021-04-27T17:21:43Z",
   "features": [
     {
       "type": "Feature",
@@ -3029,10 +3029,13 @@
       "type": "Feature",
       "properties": {
         "@id": "way/662491115",
+        "addr:housenumber": "18",
+        "addr:street": "Rue du Jeu de Paume",
         "building": "service",
         "description": "Nœud de Raccordement Optique de la communauté de communes de Limours (CCPL) - shelter Essonne numérique",
         "operator": "Covage",
         "owner": "Essonne Numérique Très Haut Débit",
+        "ref": "FBC",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -10085,7 +10088,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7149383540",
-        "name": "REP44",
+        "name": "44184REP",
         "operator": "Orange",
         "ref:FR:Orange": "44184REP",
         "telecom": "exchange",
@@ -14932,8 +14935,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.2782752,
-          47.2411378
+          -2.277953,
+          47.2401422
         ]
       },
       "id": "node/7831819511"
@@ -25644,6 +25647,24 @@
         ]
       },
       "id": "node/8639654063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8664620413",
+        "man_made": "street_cabinet",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0276965,
+          46.9983693
+        ]
+      },
+      "id": "node/8664620413"
     }
   ]
 }
