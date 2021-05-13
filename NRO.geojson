@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-04-27T17:21:43Z",
+  "timestamp": "2021-05-13T17:29:59Z",
   "features": [
     {
       "type": "Feature",
@@ -8436,6 +8436,178 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/942155047",
+        "building": "service",
+        "building:levels": "1",
+        "building:prefabricated": "yes",
+        "name": "NRO de Felletin",
+        "operator": "Axione",
+        "owner": "DORSAL",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.1749994,
+              45.8885626
+            ],
+            [
+              2.1749732,
+              45.888552
+            ],
+            [
+              2.1750163,
+              45.8885006
+            ],
+            [
+              2.1750424,
+              45.8885113
+            ],
+            [
+              2.1749994,
+              45.8885626
+            ]
+          ]
+        ]
+      },
+      "id": "way/942155047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/942158811",
+        "building": "service",
+        "building:levels": "1",
+        "building:prefabricated": "yes",
+        "name": "NRO d'Aubusson",
+        "operator": "Axione",
+        "owner": "DORSAL",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.1609812,
+              45.953052
+            ],
+            [
+              2.1609391,
+              45.9529824
+            ],
+            [
+              2.1609824,
+              45.9529697
+            ],
+            [
+              2.1610246,
+              45.9530393
+            ],
+            [
+              2.1609812,
+              45.953052
+            ]
+          ]
+        ]
+      },
+      "id": "way/942158811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/942160620",
+        "building": "service",
+        "building:levels": "1",
+        "building:prefabricated": "yes",
+        "name": "NRO de Végennes",
+        "operator": "Axione",
+        "owner": "DORSAL",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.7458285,
+              44.9817655
+            ],
+            [
+              1.7458405,
+              44.9817416
+            ],
+            [
+              1.7458959,
+              44.9817555
+            ],
+            [
+              1.7458839,
+              44.9817793
+            ],
+            [
+              1.7458285,
+              44.9817655
+            ]
+          ]
+        ]
+      },
+      "id": "way/942160620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/942164751",
+        "building": "service",
+        "building:levels": "1",
+        "building:prefabricated": "yes",
+        "name": "NRO de La Souterraine",
+        "operator": "Axione",
+        "owner": "DORSAL",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.4793481,
+              46.2419934
+            ],
+            [
+              1.4793429,
+              46.2418984
+            ],
+            [
+              1.4793946,
+              46.241897
+            ],
+            [
+              1.4793998,
+              46.2419921
+            ],
+            [
+              1.4793481,
+              46.2419934
+            ]
+          ]
+        ]
+      },
+      "id": "way/942164751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/903374274",
         "fixme": "Emplacement exacte à corriger",
         "name": "NRO Lembeye",
@@ -10806,6 +10978,7 @@
       "properties": {
         "@id": "node/7151312480",
         "name": "AMS80",
+        "office": "telecommunication",
         "operator": "Orange",
         "ref:FR:Orange": "80021AMS",
         "telecom": "exchange",
@@ -15707,7 +15880,6 @@
         "addr:city": "Mur-de-Sologne",
         "addr:postcode": "41230",
         "addr:street": "Rue de Blois",
-        "building": "service",
         "building:prefabricated": "yes",
         "note": "1800 prises éligibles sur les communes de Contres, Gy-en-Sologne, Lassay-sur-Croisne, Mur-de-Sologne, Rougeou, Sassay et Soings-en-Sologne.",
         "operator": "TDF",
@@ -23845,6 +24017,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8298007862",
+        "building": "service",
         "name": "NRO",
         "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
@@ -25302,8 +25475,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.7623663,
-          44.3587032
+          -0.7623372,
+          44.3586931
         ]
       },
       "id": "node/8489098071"
@@ -25665,6 +25838,26 @@
         ]
       },
       "id": "node/8664620413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8691425383",
+        "building": "service",
+        "operator": "Manche fibre",
+        "owner": "Manche fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6781123,
+          49.3094694
+        ]
+      },
+      "id": "node/8691425383"
     }
   ]
 }
