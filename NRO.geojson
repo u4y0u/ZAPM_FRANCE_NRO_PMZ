@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-05-13T17:29:59Z",
+  "timestamp": "2021-05-22T16:39:26Z",
   "features": [
     {
       "type": "Feature",
@@ -14481,7 +14481,7 @@
         "ref:FR:Orange:NRO": "RAZ 24",
         "telecom": "exchange",
         "telecom:medium": "fibre",
-        "wikimedia_commons": "File:PMZ FI-24350-0000.jpg"
+        "wikimedia_commons": "File:NRA_Razac-sur-l%27Isle_RAZ_24.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -24513,7 +24513,6 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8330981110",
-        "name": "NRO",
         "operator": "Isère THD",
         "owner": "Isère Fibre",
         "source:telecom": "https://www.lessor38.fr/la-fibre-arrive-a-l-isle-d-abeau-23517.html",
@@ -25443,6 +25442,27 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/8431045351",
+        "name": "NRO IS-SUR-TILLE",
+        "operator": "Orange",
+        "owner": "BFC fibre",
+        "ref": "NRO IS-SUR-TILLE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1169945,
+          47.5230842
+        ]
+      },
+      "id": "node/8431045351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/8489098070",
         "name": "NRO Morcenx",
         "operator": "NATHD",
@@ -25858,6 +25878,128 @@
         ]
       },
       "id": "node/8691425383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8728772584",
+        "building": "service",
+        "name": "NRO",
+        "operator": "Manche fibre",
+        "owner": "Manche fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5471985,
+          49.2952653
+        ]
+      },
+      "id": "node/8728772584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8732068616",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72058_CHAN",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2718695,
+          47.9664455
+        ]
+      },
+      "id": "node/8732068616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8734617657",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72054_CHAP",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3305397,
+          48.0236924
+        ]
+      },
+      "id": "node/8734617657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8736961505",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72335_SILP",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.348443,
+          48.1042185
+        ]
+      },
+      "id": "node/8736961505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8739885407",
+        "Fixme": "Travaux en cours",
+        "name": "NRO",
+        "operator": "Orange",
+        "owner": "Haute Saone Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.344213,
+          47.7751341
+        ]
+      },
+      "id": "node/8739885407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8745025582",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "PIXL Fibre",
+        "ref:FR:ARCEP": "SHL 40243 RION",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9234306,
+          43.9325795
+        ]
+      },
+      "id": "node/8745025582"
     }
   ]
 }
