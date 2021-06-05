@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-05-22T16:39:26Z",
+  "timestamp": "2021-06-05T15:42:43Z",
   "features": [
     {
       "type": "Feature",
@@ -26000,6 +26000,71 @@
         ]
       },
       "id": "node/8745025582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8756187803",
+        "building": "service",
+        "name": "NRO",
+        "operator": "Manche fibre",
+        "owner": "Manche fibre",
+        "ref": "NRO-50-038",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5380464,
+          48.8327284
+        ]
+      },
+      "id": "node/8756187803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8756187804",
+        "building": "service",
+        "name": "NRO",
+        "operator": "Manche fibre",
+        "owner": "Manche fibre",
+        "ref": "NRO-50-050",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4526884,
+          49.0236769
+        ]
+      },
+      "id": "node/8756187804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8763953791",
+        "Operator": "Altitude",
+        "name": "NRO",
+        "owner": "Pixl Fibre",
+        "ref:FR:ARCEP": "NRO 40 018",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9289223,
+          43.5741912
+        ]
+      },
+      "id": "node/8763953791"
     }
   ]
 }
