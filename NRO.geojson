@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-06-05T15:42:43Z",
+  "timestamp": "2021-06-13T09:37:57Z",
   "features": [
     {
       "type": "Feature",
@@ -1709,24 +1709,24 @@
         "coordinates": [
           [
             [
-              6.1979301,
-              45.8619465
+              6.197933,
+              45.8619197
             ],
             [
-              6.1978576,
-              45.8618734
+              6.1978891,
+              45.8618661
             ],
             [
-              6.1979136,
-              45.8618464
+              6.1979229,
+              45.8618509
             ],
             [
-              6.1979861,
-              45.8619195
+              6.1979698,
+              45.8619049
             ],
             [
-              6.1979301,
-              45.8619465
+              6.197933,
+              45.8619197
             ]
           ]
         ]
@@ -8604,6 +8604,49 @@
         ]
       },
       "id": "way/942164751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/953533556",
+        "building": "service",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72230_SSAT",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.163777,
+              48.0728168
+            ],
+            [
+              0.1637971,
+              48.0727643
+            ],
+            [
+              0.1638297,
+              48.07277
+            ],
+            [
+              0.1638093,
+              48.0728222
+            ],
+            [
+              0.163777,
+              48.0728168
+            ]
+          ]
+        ]
+      },
+      "id": "way/953533556"
     },
     {
       "type": "Feature",
@@ -26065,6 +26108,44 @@
         ]
       },
       "id": "node/8763953791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8807520871",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4669738,
+          47.931435
+        ]
+      },
+      "id": "node/8807520871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8822600105",
+        "note": "Installations au sous-sol",
+        "operator": "Orange",
+        "ref:FR:Orange:NRO": "75114BNE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3158997,
+          48.8264996
+        ]
+      },
+      "id": "node/8822600105"
     }
   ]
 }
