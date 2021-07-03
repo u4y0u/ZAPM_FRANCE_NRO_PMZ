@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-06-13T09:37:57Z",
+  "timestamp": "2021-07-03T06:23:13Z",
   "features": [
     {
       "type": "Feature",
@@ -26112,6 +26112,25 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/8769297626",
+        "name": "NRO",
+        "operator": "Orange",
+        "ref": "39198DOL",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4919024,
+          47.0944814
+        ]
+      },
+      "id": "node/8769297626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/8807520871",
         "location": "indoor",
         "operator": "Sarthe Numérique",
@@ -26146,6 +26165,25 @@
         ]
       },
       "id": "node/8822600105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8865162589",
+        "operator": "XPFibre",
+        "owner": "THD64",
+        "start_date": "24/06/2021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3572062,
+          43.4874681
+        ]
+      },
+      "id": "node/8865162589"
     }
   ]
 }
