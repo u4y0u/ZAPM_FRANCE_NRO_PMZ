@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-07-03T06:23:13Z",
+  "timestamp": "2021-07-23T06:31:58Z",
   "features": [
     {
       "type": "Feature",
@@ -8647,6 +8647,124 @@
         ]
       },
       "id": "way/953533556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/962174238",
+        "building": "yes",
+        "operator": "Megalis Bretagne",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.6818243,
+              47.8449788
+            ],
+            [
+              -1.6817318,
+              47.8448957
+            ],
+            [
+              -1.6816874,
+              47.8449093
+            ],
+            [
+              -1.6817836,
+              47.8449962
+            ],
+            [
+              -1.6818243,
+              47.8449788
+            ]
+          ]
+        ]
+      },
+      "id": "way/962174238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/965436456",
+        "building": "yes",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72089_CONL",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.0066077,
+              48.1261235
+            ],
+            [
+              -0.0066097,
+              48.1260789
+            ],
+            [
+              -0.0065764,
+              48.1260775
+            ],
+            [
+              -0.0065746,
+              48.1261223
+            ],
+            [
+              -0.0066077,
+              48.1261235
+            ]
+          ]
+        ]
+      },
+      "id": "way/965436456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/965448002",
+        "building": "yes",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72096_COUL",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.0098112,
+              48.0173934
+            ],
+            [
+              0.0098799,
+              48.0173716
+            ],
+            [
+              0.0098943,
+              48.0173918
+            ],
+            [
+              0.0098255,
+              48.0174136
+            ],
+            [
+              0.0098112,
+              48.0173934
+            ]
+          ]
+        ]
+      },
+      "id": "way/965448002"
     },
     {
       "type": "Feature",
@@ -24091,8 +24209,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.8687506,
-          47.1892272
+          -0.8687023,
+          47.1892559
         ]
       },
       "id": "node/8298029420"
@@ -26113,7 +26231,6 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8769297626",
-        "name": "NRO",
         "operator": "Orange",
         "ref": "39198DOL",
         "telecom": "exchange",
@@ -26184,6 +26301,45 @@
         ]
       },
       "id": "node/8865162589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8893388315",
+        "Fixme": "Reference a trouver",
+        "name": "NRO",
+        "operator": "BFC FIBRE",
+        "owner": "Departement Cote d'Or",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9589297,
+          47.1358913
+        ]
+      },
+      "id": "node/8893388315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8931271168",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72219_NEUV",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0432181,
+          48.0799464
+        ]
+      },
+      "id": "node/8931271168"
     }
   ]
 }
