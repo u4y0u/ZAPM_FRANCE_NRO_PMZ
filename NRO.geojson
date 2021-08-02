@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-07-23T06:31:58Z",
+  "timestamp": "2021-08-02T08:33:27Z",
   "features": [
     {
       "type": "Feature",
@@ -26340,6 +26340,25 @@
         ]
       },
       "id": "node/8931271168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8952380518",
+        "exploitant": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "survey:date": "2021-07-26",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5473854,
+          45.1722177
+        ]
+      },
+      "id": "node/8952380518"
     }
   ]
 }
