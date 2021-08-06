@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-08-02T08:33:27Z",
+  "timestamp": "2021-08-06T09:06:28Z",
   "features": [
     {
       "type": "Feature",
@@ -6800,8 +6800,8 @@
         "building:prefabricated": "yes",
         "colour": "ivoire",
         "name": "NRO Gesté",
-        "operator": "ANJOU FIBRE",
-        "owner": "TDF",
+        "operator": "TDF Fibre",
+        "owner": "Anjou Fibre",
         "ref": "NC",
         "source": "https://twitter.com/AnjouFibre/status/1186975127130517505/photo/3",
         "telecom": "exchange",
@@ -8765,6 +8765,51 @@
         ]
       },
       "id": "way/965448002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/970118591",
+        "addr:city": "Saint-Bauzille-de-Putois",
+        "addr:postcode": "34190",
+        "addr:street": "Chemin du Campas",
+        "building": "yes",
+        "fr:FR:HeraultTHD": "NO34STBP",
+        "height": "3",
+        "name": "Central Optique",
+        "operator": "Hérault THD",
+        "ref": "NO34STBP",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.7406173,
+              43.8878808
+            ],
+            [
+              3.7406322,
+              43.887845
+            ],
+            [
+              3.7406567,
+              43.88785
+            ],
+            [
+              3.7406407,
+              43.8878873
+            ],
+            [
+              3.7406173,
+              43.8878808
+            ]
+          ]
+        ]
+      },
+      "id": "way/970118591"
     },
     {
       "type": "Feature",
@@ -23817,7 +23862,7 @@
       "properties": {
         "@id": "node/8297635207",
         "name": "NRO",
-        "operator": "TDF",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -23897,8 +23942,8 @@
       "properties": {
         "@id": "node/8297645683",
         "name": "NRO",
-        "operator": "Anjou Fibre",
-        "owner": "Anjou Numérique",
+        "operator": "TDF Fibre",
+        "owner": "Anjou Fibre",
         "source": "https://twitter.com/anjou_fibre/status/1103617370118078465",
         "start_date": "2019-03-07",
         "telecom": "exchange",
@@ -23938,7 +23983,7 @@
       "properties": {
         "@id": "node/8297685807",
         "name": "NRO",
-        "operator": "TDF",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -24018,7 +24063,7 @@
       "properties": {
         "@id": "node/8297756011",
         "name": "NRO",
-        "operator": "TDF",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -24038,7 +24083,7 @@
       "properties": {
         "@id": "node/8297764279",
         "name": "NRO",
-        "operator": "TDF",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -24078,7 +24123,7 @@
       "properties": {
         "@id": "node/8297772159",
         "name": "NRO",
-        "operator": "TDF",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -24138,8 +24183,8 @@
       "properties": {
         "@id": "node/8297993964",
         "name": "NRO",
-        "operator": "Anjou Fibre",
-        "owner": "Anjou Numérique",
+        "operator": "TDF Fibre",
+        "owner": "Anjou Fibre",
         "source": "https://twitter.com/anjou_fibre/status/1100790668476207104",
         "start_date": "2019-02-27",
         "telecom": "exchange",
@@ -24340,7 +24385,7 @@
       "properties": {
         "@id": "node/8298039959",
         "name": "NRO",
-        "operator": "TDF",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -24360,7 +24405,7 @@
       "properties": {
         "@id": "node/8298051144",
         "name": "NRO",
-        "operator": "TDF",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -24400,7 +24445,7 @@
       "properties": {
         "@id": "node/8298062030",
         "name": "NRO",
-        "operator": "TDF",
+        "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -24597,6 +24642,7 @@
         "name": "NRO",
         "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
+        "ref:FR:ARCEP": "ANFI-MAULE",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
