@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-08-06T09:06:28Z",
+  "timestamp": "2021-08-15T05:29:44Z",
   "features": [
     {
       "type": "Feature",
@@ -8436,6 +8436,47 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/928945539",
+        "building": "yes",
+        "operator": "Val de Loire Fibre",
+        "owner": "Val de Loire Fibre",
+        "ref": "RIGNY USSE",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.3028133,
+              47.2537773
+            ],
+            [
+              0.3027386,
+              47.2537592
+            ],
+            [
+              0.3027494,
+              47.2537385
+            ],
+            [
+              0.3028242,
+              47.2537566
+            ],
+            [
+              0.3028133,
+              47.2537773
+            ]
+          ]
+        ]
+      },
+      "id": "way/928945539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/942155047",
         "building": "service",
         "building:levels": "1",
@@ -8651,44 +8692,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/962174238",
-        "building": "yes",
-        "operator": "Megalis Bretagne",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -1.6818243,
-              47.8449788
-            ],
-            [
-              -1.6817318,
-              47.8448957
-            ],
-            [
-              -1.6816874,
-              47.8449093
-            ],
-            [
-              -1.6817836,
-              47.8449962
-            ],
-            [
-              -1.6818243,
-              47.8449788
-            ]
-          ]
-        ]
-      },
-      "id": "way/962174238"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/965436456",
         "building": "yes",
         "operator": "Sarthe Numérique",
@@ -8774,11 +8777,11 @@
         "addr:postcode": "34190",
         "addr:street": "Chemin du Campas",
         "building": "yes",
-        "fr:FR:HeraultTHD": "NO34STBP",
         "height": "3",
         "name": "Central Optique",
         "operator": "Hérault THD",
         "ref": "NO34STBP",
+        "ref:FR:HeraultTHD": "NO34STBP",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -8810,6 +8813,47 @@
         ]
       },
       "id": "way/970118591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/972644690",
+        "building": "yes",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72073_CHAU",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.0752343,
+              48.0248837
+            ],
+            [
+              0.0752111,
+              48.0249354
+            ],
+            [
+              0.0751787,
+              48.0249293
+            ],
+            [
+              0.0752022,
+              48.0248772
+            ],
+            [
+              0.0752343,
+              48.0248837
+            ]
+          ]
+        ]
+      },
+      "id": "way/972644690"
     },
     {
       "type": "Feature",
