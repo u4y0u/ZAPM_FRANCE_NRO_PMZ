@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-08-15T05:29:44Z",
+  "timestamp": "2021-08-21T05:26:14Z",
   "features": [
     {
       "type": "Feature",
@@ -8858,6 +8858,47 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/974845900",
+        "building": "service",
+        "location": "indoor",
+        "operator": "Altitude",
+        "owner": "Tarn-et-Garonne Numérique",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.7522008,
+              44.1494763
+            ],
+            [
+              1.7522007,
+              44.1494526
+            ],
+            [
+              1.7522811,
+              44.1494524
+            ],
+            [
+              1.7522811,
+              44.1494763
+            ],
+            [
+              1.7522008,
+              44.1494763
+            ]
+          ]
+        ]
+      },
+      "id": "way/974845900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/903374274",
         "fixme": "Emplacement exacte à corriger",
         "name": "NRO Lembeye",
@@ -9358,8 +9399,6 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6230920663",
-        "building": "service",
-        "fixme": "Building not yet on cadastre",
         "name": "NRO",
         "operator": "Covage",
         "owner": "Syane",
@@ -9369,8 +9408,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.7187499,
-          46.2790544
+          6.7187754,
+          46.2790868
         ]
       },
       "id": "node/6230920663"
