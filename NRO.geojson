@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-08-21T05:26:14Z",
+  "timestamp": "2021-08-27T17:09:46Z",
   "features": [
     {
       "type": "Feature",
@@ -22557,7 +22557,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8231280044",
-        "addr:city": "Port Camargue",
+        "addr:city": "Le Grau-du-Roi",
         "addr:postcode": "30240",
         "operator": "Orange",
         "ref:FR:Orange": "30133PCA",
@@ -22577,7 +22577,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8231280049",
-        "addr:city": "Port Camargue",
+        "addr:city": "Le Grau-du-Roi",
         "addr:postcode": "30240",
         "ref": "PCA",
         "start_date": "2019",
@@ -25901,6 +25901,7 @@
         "name": "NRO Ychoux",
         "operator": "NATHD",
         "owner": "SYDEC",
+        "ref": "SHL_40332_YCHO",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "wikimedia_commons": "File:NRO_Ychoux.jpg"
@@ -26488,6 +26489,48 @@
         ]
       },
       "id": "node/8952380518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9041248709",
+        "name": "NRO Parentis-en-Born",
+        "operator": "NATHD",
+        "owner": "SYDEC",
+        "ref": "SHL_40217_PARE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_Parentis-en-Born.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0736034,
+          44.3486335
+        ]
+      },
+      "id": "node/9041248709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9041248710",
+        "name": "NRO Biscarrosse",
+        "operator": "NATHD",
+        "owner": "SYDEC",
+        "ref": "SHL_40046_BISC",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_Biscarrosse.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1571396,
+          44.4131011
+        ]
+      },
+      "id": "node/9041248710"
     }
   ]
 }
