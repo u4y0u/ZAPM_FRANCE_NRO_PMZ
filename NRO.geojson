@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-08-27T17:09:46Z",
+  "timestamp": "2021-09-07T06:13:47Z",
   "features": [
     {
       "type": "Feature",
@@ -4215,24 +4215,24 @@
         "coordinates": [
           [
             [
-              6.1464792,
-              45.9654871
+              6.1465404,
+              45.9654816
             ],
             [
-              6.1464526,
-              45.9654599
+              6.1465144,
+              45.965453
             ],
             [
-              6.1465195,
-              45.9654278
+              6.1465948,
+              45.9654177
             ],
             [
-              6.1465463,
-              45.9654548
+              6.1466208,
+              45.9654463
             ],
             [
-              6.1464792,
-              45.9654871
+              6.1465404,
+              45.9654816
             ]
           ]
         ]
@@ -8863,6 +8863,7 @@
         "location": "indoor",
         "operator": "Altitude",
         "owner": "Tarn-et-Garonne Numérique",
+        "ref": "82-020",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -8895,6 +8896,86 @@
         ]
       },
       "id": "way/974845900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/977371009",
+        "building": "yes",
+        "exploitant": "Isère Fibre",
+        "owner": "Conseil Départemental de l'Isère",
+        "survey:date": "2021-07-26",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.5473432,
+              45.1721519
+            ],
+            [
+              5.5474853,
+              45.1721477
+            ],
+            [
+              5.5474882,
+              45.1721955
+            ],
+            [
+              5.5473461,
+              45.1721998
+            ],
+            [
+              5.5473432,
+              45.1721519
+            ]
+          ]
+        ]
+      },
+      "id": "way/977371009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/979716243",
+        "building": "service",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.0034543,
+              45.8175833
+            ],
+            [
+              6.0034717,
+              45.8175575
+            ],
+            [
+              6.0035589,
+              45.817586
+            ],
+            [
+              6.0035415,
+              45.8176118
+            ],
+            [
+              6.0034543,
+              45.8175833
+            ]
+          ]
+        ]
+      },
+      "id": "way/979716243"
     },
     {
       "type": "Feature",
@@ -26254,26 +26335,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8739885407",
-        "Fixme": "Travaux en cours",
-        "name": "NRO",
-        "operator": "Orange",
-        "owner": "Haute Saone Fibre",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.344213,
-          47.7751341
-        ]
-      },
-      "id": "node/8739885407"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8745025582",
         "name": "NRO",
         "operator": "Altitude",
@@ -26474,25 +26535,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8952380518",
-        "exploitant": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "survey:date": "2021-07-26",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.5473854,
-          45.1722177
-        ]
-      },
-      "id": "node/8952380518"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/9041248709",
         "name": "NRO Parentis-en-Born",
         "operator": "NATHD",
@@ -26531,6 +26573,90 @@
         ]
       },
       "id": "node/9041248710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9044781912",
+        "operator": "Orange",
+        "owner": "Haute Saone Fibre",
+        "ref": "HSN_NRO_N070BDT",
+        "source": "https://twitter.com/Hades73440/status/1431616677318467594",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3442153,
+          47.7751323
+        ]
+      },
+      "id": "node/9044781912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9054609910",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "HSN_NRO_N070CHE",
+        "start_date": "01/09/2021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7259526,
+          47.6408546
+        ]
+      },
+      "id": "node/9054609910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9056737214",
+        "addr:city": "Latresne",
+        "addr:postcode": "33360",
+        "addr:street": "Chemin du Maucoulet",
+        "name": "NRO Latresne",
+        "operator": "Orange",
+        "ref": "XLT",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRA Latresne LAT 33.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5009535,
+          44.7839578
+        ]
+      },
+      "id": "node/9056737214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9062858266",
+        "operator": "Orange",
+        "owner": "HSF",
+        "ref": "N070GDV",
+        "start_date": "16/09/2021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9973576,
+          47.5114315
+        ]
+      },
+      "id": "node/9062858266"
     }
   ]
 }
