@@ -26,7 +26,7 @@ Projet QGIS [https://www.qgis.org/fr/site/](https://www.qgis.org/fr/site/) (Syst
 
 ## Version:
 
-## **du 27/08/2021 et update .geojson du 27/08/2021**
+## **du 25/09/2021 et update .geojson du 25/09/2021**
 
 Aperçu sur framacarte : https://framacarte.org/m/89374/
 
