@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-09-09T18:52:00Z",
+  "timestamp": "2021-09-25T07:39:55Z",
   "features": [
     {
       "type": "Feature",
@@ -8323,24 +8323,24 @@
         "coordinates": [
           [
             [
-              1.7043779,
-              45.1200249
-            ],
-            [
-              1.7043786,
-              45.1200008
-            ],
-            [
-              1.7044409,
-              45.1199989
-            ],
-            [
-              1.7044403,
+              1.7043967,
               45.120023
             ],
             [
-              1.7043779,
-              45.1200249
+              1.7043974,
+              45.1199989
+            ],
+            [
+              1.7044597,
+              45.119997
+            ],
+            [
+              1.7044591,
+              45.1200211
+            ],
+            [
+              1.7043967,
+              45.120023
             ]
           ]
         ]
@@ -8366,24 +8366,24 @@
         "coordinates": [
           [
             [
-              1.959567,
-              45.2015391
+              1.9595616,
+              45.2014852
             ],
             [
-              1.9596153,
-              45.2014786
+              1.9596099,
+              45.2014247
             ],
             [
-              1.9596508,
-              45.2014905
+              1.9596454,
+              45.2014366
             ],
             [
-              1.9596025,
-              45.2015519
+              1.9595971,
+              45.201498
             ],
             [
-              1.959567,
-              45.2015391
+              1.9595616,
+              45.2014852
             ]
           ]
         ]
@@ -25665,9 +25665,9 @@
         "addr:housenumber": "17B",
         "addr:postcode": "33610",
         "addr:street": "Chemin du Canaulet",
-        "name": "NRO Cestas",
+        "name": "NRO EAW",
         "operator": "Orange",
-        "ref": "EAW",
+        "ref:FR:Orange:NRO": "EAW",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
@@ -25692,7 +25692,7 @@
         "addr:street": "Chemin de Hiqueyrots",
         "name": "NRO Portets",
         "operator": "Orange",
-        "ref": "RTV",
+        "ref:FR:Orange:NRO": "RTV",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
@@ -26623,7 +26623,7 @@
         "addr:street": "Chemin du Maucoulet",
         "name": "NRO Latresne",
         "operator": "Orange",
-        "ref": "XLT",
+        "ref:FR:Orange:NRO": "XLT",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
@@ -26657,6 +26657,69 @@
         ]
       },
       "id": "node/9062858266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9120575774",
+        "name": "POP",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6902912,
+          45.1440806
+        ]
+      },
+      "id": "node/9120575774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9120575776",
+        "addr:city": "Cadaujac",
+        "addr:housenumber": "966",
+        "addr:postcode": "33140",
+        "addr:street": "Rue Truchon",
+        "name": "NRO XCA",
+        "operator": "Orange",
+        "ref:FR:Orange:NRO": "XCA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRA Cadaujac CAD 33.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5434081,
+          44.7455736
+        ]
+      },
+      "id": "node/9120575776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9121210510",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72241_MOGE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4187415,
+          48.0536939
+        ]
+      },
+      "id": "node/9121210510"
     }
   ]
 }
