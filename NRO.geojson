@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-09-25T07:39:55Z",
+  "timestamp": "2021-10-03T07:26:28Z",
   "features": [
     {
       "type": "Feature",
@@ -11350,7 +11350,6 @@
         "name": "AMS80",
         "office": "telecommunication",
         "operator": "Orange",
-        "ref:FR:Orange": "80021AMS",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -26579,9 +26578,10 @@
       "properties": {
         "@id": "node/9044781912",
         "operator": "Orange",
-        "owner": "Haute Saone Fibre",
+        "owner": "HASF",
         "ref": "HSN_NRO_N070BDT",
-        "source": "https://twitter.com/Hades73440/status/1431616677318467594",
+        "source": "https://twitter.com/Hades73440/status/1433854788584759301",
+        "start_date": "01/09/2021",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -26600,7 +26600,8 @@
         "@id": "node/9054609910",
         "operator": "Orange",
         "owner": "HASF",
-        "ref": "HSN_NRO_N070CHE",
+        "ref": "HSN_NRO_N070CH8",
+        "source": "https://twitter.com/Hades73440/status/1433854788584759301",
         "start_date": "01/09/2021",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -26643,8 +26644,9 @@
       "properties": {
         "@id": "node/9062858266",
         "operator": "Orange",
-        "owner": "HSF",
-        "ref": "N070GDV",
+        "owner": "HASF",
+        "ref": "HSN_NRO_N070GDV",
+        "source": "https://twitter.com/Hades73440/status/1438502551519830021",
         "start_date": "16/09/2021",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -26720,6 +26722,29 @@
         ]
       },
       "id": "node/9121210510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9138420579",
+        "addr:city": "Saucats",
+        "addr:postcode": "33650",
+        "name": "NRO Saucats",
+        "operator": "Orange",
+        "ref:FR:Orange:NRO": "?",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRA Saucats 3SA 33.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5978719,
+          44.6519111
+        ]
+      },
+      "id": "node/9138420579"
     }
   ]
 }
