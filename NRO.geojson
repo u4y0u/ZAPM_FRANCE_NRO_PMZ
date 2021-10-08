@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-10-03T07:26:28Z",
+  "timestamp": "2021-10-08T06:11:06Z",
   "features": [
     {
       "type": "Feature",
@@ -22171,6 +22171,7 @@
         "@id": "node/8225551315",
         "name": "NRO Agonac",
         "operator": "NATHD",
+        "owner": "Périgord Numérique",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "wikimedia_commons": "File:NRO Agonac.jpg"
