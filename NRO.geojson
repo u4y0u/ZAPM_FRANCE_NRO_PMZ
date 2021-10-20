@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-10-08T06:11:06Z",
+  "timestamp": "2021-10-20T06:15:43Z",
   "features": [
     {
       "type": "Feature",
@@ -6629,6 +6629,49 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/839372222",
+        "addr:city": "Pierrefontaine-les-Varans",
+        "addr:postcode": "25510",
+        "addr:street": "Rue du Repos",
+        "building": "yes",
+        "building:prefabricated": "yes",
+        "name": "NRO",
+        "ref": "25-026",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5404468,
+              47.2135988
+            ],
+            [
+              6.5404004,
+              47.2135271
+            ],
+            [
+              6.5404406,
+              47.2135151
+            ],
+            [
+              6.5404871,
+              47.2135868
+            ],
+            [
+              6.5404468,
+              47.2135988
+            ]
+          ]
+        ]
+      },
+      "id": "way/839372222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/851765649",
         "alt_name": "HT-TEC-0263G",
         "building": "service",
@@ -8976,6 +9019,47 @@
         ]
       },
       "id": "way/979716243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/993159385",
+        "building": "service",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72155_TELO",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.2438597,
+              47.8939449
+            ],
+            [
+              0.2438767,
+              47.8939258
+            ],
+            [
+              0.2439457,
+              47.8939535
+            ],
+            [
+              0.2439286,
+              47.8939726
+            ],
+            [
+              0.2438597,
+              47.8939449
+            ]
+          ]
+        ]
+      },
+      "id": "way/993159385"
     },
     {
       "type": "Feature",
@@ -20344,26 +20428,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8222727231",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref": "25-026",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.5404956,
-          47.2137069
-        ]
-      },
-      "id": "node/8222727231"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8222740136",
         "name": "NRO",
         "operator": "Altitude",
@@ -24045,9 +24109,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297638379",
-        "name": "NRO",
+        "name": "NRO Montreuil-Bellay",
         "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
+        "ref": "ANFI-MONTB",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -24105,9 +24170,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297645683",
-        "name": "NRO",
+        "name": "NRO Chacé",
         "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
+        "ref": "ANFI-CHACE",
         "source": "https://twitter.com/anjou_fibre/status/1103617370118078465",
         "start_date": "2019-03-07",
         "telecom": "exchange",
@@ -24176,8 +24242,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.7806262,
-          47.2520709
+          -0.7806309,
+          47.2520356
         ]
       },
       "id": "node/8297685867"
@@ -24186,9 +24252,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297728558",
-        "name": "NRO",
+        "name": "NRO Longué-Jumelles",
         "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
+        "ref": "ANFI-LONGJ",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -24196,8 +24263,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1046395,
-          47.3738964
+          -0.1044906,
+          47.3739273
         ]
       },
       "id": "node/8297728558"
@@ -24326,9 +24393,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297987756",
-        "name": "NRO",
+        "name": "NRO Doué En Anjou",
         "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
+        "ref": "ANFI-DOULF",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -24346,9 +24414,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8297993964",
-        "name": "NRO",
+        "name": "NRO Montsoreau",
         "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
+        "ref": "ANFI-MONSO",
         "source": "https://twitter.com/anjou_fibre/status/1100790668476207104",
         "start_date": "2019-02-27",
         "telecom": "exchange",
@@ -24357,8 +24426,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0450685,
-          47.2200229
+          0.0450446,
+          47.219977
         ]
       },
       "id": "node/8297993964"
@@ -24388,9 +24457,10 @@
       "properties": {
         "@id": "node/8298007862",
         "building": "service",
-        "name": "NRO",
+        "name": "NRO Distré",
         "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
+        "ref": "ANFI-DISTR",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -24398,8 +24468,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1138929,
-          47.2352315
+          -0.1138419,
+          47.2351901
         ]
       },
       "id": "node/8298007862"
@@ -26746,6 +26816,71 @@
         ]
       },
       "id": "node/9138420579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9160236690",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72046_BSME",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4769464,
+          48.0103481
+        ]
+      },
+      "id": "node/9160236690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175498434",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72191_MAYE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2738287,
+          47.7612586
+        ]
+      },
+      "id": "node/9175498434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9176039969",
+        "addr:city": "Le Barp",
+        "addr:housenumber": "19",
+        "addr:postcode": "33114",
+        "addr:street": "Avenue des Pyrénées",
+        "name": "NRO RPP",
+        "operator": "Orange",
+        "ref:FR:Orange:NRO": "RPP",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRA Le Barp BAR 33.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7715352,
+          44.6045887
+        ]
+      },
+      "id": "node/9176039969"
     }
   ]
 }
