@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-10-20T06:15:43Z",
+  "timestamp": "2021-10-24T20:31:05Z",
   "features": [
     {
       "type": "Feature",
@@ -4519,24 +4519,24 @@
         "coordinates": [
           [
             [
-              6.6757111,
-              46.35793
+              6.6755999,
+              46.357921
             ],
             [
-              6.6756006,
-              46.3579714
+              6.6755549,
+              46.3579965
             ],
             [
-              6.6755751,
-              46.357939
+              6.6754979,
+              46.3579803
             ],
             [
-              6.6756856,
-              46.3578976
+              6.6755429,
+              46.3579048
             ],
             [
-              6.6757111,
-              46.35793
+              6.6755999,
+              46.357921
             ]
           ]
         ]
@@ -9060,6 +9060,47 @@
         ]
       },
       "id": "way/993159385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/995263311",
+        "building": "service",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:Orange:NRO": "86297VUN",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.3045724,
+              46.6008128
+            ],
+            [
+              0.3045366,
+              46.6008212
+            ],
+            [
+              0.304523,
+              46.600794
+            ],
+            [
+              0.3045589,
+              46.6007856
+            ],
+            [
+              0.3045724,
+              46.6008128
+            ]
+          ]
+        ]
+      },
+      "id": "way/995263311"
     },
     {
       "type": "Feature",
@@ -26622,27 +26663,6 @@
         ]
       },
       "id": "node/9041248709"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/9041248710",
-        "name": "NRO Biscarrosse",
-        "operator": "NATHD",
-        "owner": "SYDEC",
-        "ref": "SHL_40046_BISC",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "wikimedia_commons": "File:NRO_Biscarrosse.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1571396,
-          44.4131011
-        ]
-      },
-      "id": "node/9041248710"
     },
     {
       "type": "Feature",
