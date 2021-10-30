@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-10-24T20:31:05Z",
+  "timestamp": "2021-10-30T09:53:59Z",
   "features": [
     {
       "type": "Feature",
@@ -1002,6 +1002,46 @@
         ]
       },
       "id": "way/221194004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/231430802",
+        "building": "yes",
+        "operator": "Orange",
+        "ref": "EPE62",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2013",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.1545065,
+              50.8057681
+            ],
+            [
+              2.1545591,
+              50.8057143
+            ],
+            [
+              2.1546605,
+              50.8057539
+            ],
+            [
+              2.1546079,
+              50.8058077
+            ],
+            [
+              2.1545065,
+              50.8057681
+            ]
+          ]
+        ]
+      },
+      "id": "way/231430802"
     },
     {
       "type": "Feature",
@@ -9105,6 +9145,82 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/997143768",
+        "building": "yes",
+        "operator": "Axione",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.1544695,
+              50.8060432
+            ],
+            [
+              2.1544416,
+              50.8060324
+            ],
+            [
+              2.1545049,
+              50.8059714
+            ],
+            [
+              2.1545306,
+              50.8059822
+            ],
+            [
+              2.1544695,
+              50.8060432
+            ]
+          ]
+        ]
+      },
+      "id": "way/997143768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/997143769",
+        "building": "yes",
+        "operator": "Axione",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.15314,
+              50.8047031
+            ],
+            [
+              2.1531551,
+              50.8046868
+            ],
+            [
+              2.1532409,
+              50.8047167
+            ],
+            [
+              2.1532216,
+              50.804735
+            ],
+            [
+              2.15314,
+              50.8047031
+            ]
+          ]
+        ]
+      },
+      "id": "way/997143769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/903374274",
         "fixme": "Emplacement exacte à corriger",
         "name": "NRO Lembeye",
@@ -13121,6 +13237,7 @@
         "name": "CBR40",
         "operator": "Orange",
         "owner": "Orange",
+        "ref": "40065CBR",
         "ref:FR:Orange": "40065CBR",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -25946,6 +26063,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8489098070",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PMZ_NA_40217_VUPA.jpg/800px-PMZ_NA_40217_VUPA.jpg",
         "name": "NRO Morcenx",
         "operator": "NATHD",
         "owner": "SYDEC",
@@ -25967,9 +26085,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8489098071",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/NRO_Morcenx.jpg/800px-NRO_Morcenx.jpg",
         "name": "NRO Moustey",
         "operator": "NATHD",
         "owner": "SYDEC",
+        "ref": "NRO Moustey",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "wikimedia_commons": "File:NRO Moustey.jpg"
@@ -26090,6 +26210,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8565623277",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/NRO_Ychoux.jpg/800px-NRO_Ychoux.jpg",
         "name": "NRO Ychoux",
         "operator": "NATHD",
         "owner": "SYDEC",
@@ -26191,6 +26312,7 @@
         "Operator": "Altitude Infrastructure",
         "name": "NRO",
         "owner": "PIXL",
+        "ref": "NRO-40-014",
         "ref:FR:ARCEP": "NRO-40-014",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -26212,6 +26334,7 @@
         "name": "NRO",
         "operator": "Altitude",
         "owner": "PIXL Fibre",
+        "ref": "SHL_40248",
         "ref:FR:ARCEP": "SHL_40248_SMDS",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -26229,10 +26352,36 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/8595935970",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/NRO_PMZ_SHL_40150_GARE_L%C3%A9on.jpg/800px-NRO_PMZ_SHL_40150_GARE_L%C3%A9on.jpg",
+        "manufacturer": "Grolleau",
+        "name": "SRO Léon",
+        "operator": "Altitude",
+        "owner": "PIXL Fibre",
+        "ref": "SHL_40150",
+        "ref:FR:ARCEP": "SHL_40150_GARE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3013166,
+          43.8718975
+        ]
+      },
+      "id": "node/8595935970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/8596103237",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/NRO_Saint-Martin-de-Hinx.jpg/337px-NRO_Saint-Martin-de-Hinx.jpg",
         "name": "NRO",
         "operator": "Altittude",
         "owner": "Pixel Fibre",
+        "ref": "NRO Saint-Martin-de-Hinx",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -26271,8 +26420,12 @@
       "properties": {
         "@id": "node/8632250757",
         "Operator": "Altittude",
+        "colour": "green",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/NRO_Labenne_40_016.png",
+        "manufacturer": "Grolleau",
         "name": "NRO",
         "owner": "PIXL",
+        "ref": "NRO-40-016",
         "ref:FR:ARCEP": "NRO-40-016",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -26292,8 +26445,10 @@
       "properties": {
         "@id": "node/8636342135",
         "Operator": "Altitude",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Cauneille_NRO-40-017.jpg",
         "name": "NRO",
         "owner": "PIXL",
+        "ref": "NRO-40-017",
         "ref:FR:ARCEP": "NRO-40-017",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -26447,9 +26602,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8745025582",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/SHL_40243_RION.jpg/1280px-SHL_40243_RION.jpg",
         "name": "NRO",
         "operator": "Altitude",
         "owner": "PIXL Fibre",
+        "ref": "SHL 40243",
         "ref:FR:ARCEP": "SHL 40243 RION",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -26513,8 +26670,10 @@
       "properties": {
         "@id": "node/8763953791",
         "Operator": "Altitude",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/NRO_40_018.jpg/576px-NRO_40_018.jpg",
         "name": "NRO",
         "owner": "Pixl Fibre",
+        "ref": "NRO 40 018",
         "ref:FR:ARCEP": "NRO 40 018",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -26663,6 +26822,27 @@
         ]
       },
       "id": "node/9041248709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9041248710",
+        "name": "NRO Biscarrosse",
+        "operator": "NATHD",
+        "owner": "SYDEC",
+        "ref": "SHL_40046_BISC",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_Biscarrosse.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1570733,
+          44.4131512
+        ]
+      },
+      "id": "node/9041248710"
     },
     {
       "type": "Feature",
@@ -26901,6 +27081,252 @@
         ]
       },
       "id": "node/9176039969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9199179990",
+        "name": "NRO",
+        "ref": "NRO-40-005",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2317865,
+          44.2170825
+        ]
+      },
+      "id": "node/9199179990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9199202446",
+        "name": "NRO",
+        "ref": "NRO-40-007",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1719677,
+          44.0009977
+        ]
+      },
+      "id": "node/9199202446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9199219958",
+        "name": "NRO",
+        "ref": "NRO-40-010",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0704823,
+          44.0598063
+        ]
+      },
+      "id": "node/9199219958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9199220522",
+        "name": "NRO",
+        "ref": "NRO-40-006",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2255376,
+          44.0606121
+        ]
+      },
+      "id": "node/9199220522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9199235323",
+        "name": "NRO",
+        "ref": "SHL_40187_ZUCY",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3592452,
+          43.8492506
+        ]
+      },
+      "id": "node/9199235323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9199332716",
+        "name": "NRO",
+        "ref": "NRO-40-033",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0074442,
+          43.9861778
+        ]
+      },
+      "id": "node/9199332716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9199390662",
+        "name": "NRO",
+        "ref": "NRO-40-032",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1702731,
+          43.9786407
+        ]
+      },
+      "id": "node/9199390662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9199499744",
+        "colour": "green",
+        "name": "NRO",
+        "ref": "NRO-40-025",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4252494,
+          43.7779477
+        ]
+      },
+      "id": "node/9199499744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9199504363",
+        "colour": "green",
+        "manufacturer": "Grolleau",
+        "name": "NRO",
+        "ref": "NRO-40-026",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5710368,
+          43.7711106
+        ]
+      },
+      "id": "node/9199504363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9199725771",
+        "fixme": "emplacement exacte à vérifier",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/SHL_40284_SVDT--NA_40284_CAME.jpg/1280px-SHL_40284_SVDT--NA_40284_CAME.jpg",
+        "name": "NRO",
+        "ref": "SHL_40284_SVDT",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3068772,
+          43.6623856
+        ]
+      },
+      "id": "node/9199725771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9200913771",
+        "colour": "green",
+        "man_made": "street_cabinet",
+        "ref:FR:AEFEP": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0730622,
+          47.7889806
+        ]
+      },
+      "id": "node/9200913771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9201033318",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72023_BALL",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2397692,
+          48.1748763
+        ]
+      },
+      "id": "node/9201033318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9208772987",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72303_STMC",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5848556,
+          48.0132959
+        ]
+      },
+      "id": "node/9208772987"
     }
   ]
 }
