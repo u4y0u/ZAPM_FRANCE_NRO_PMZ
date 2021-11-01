@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-10-30T09:53:59Z",
+  "timestamp": "2021-11-01T11:04:45Z",
   "features": [
     {
       "type": "Feature",
@@ -27327,6 +27327,28 @@
         ]
       },
       "id": "node/9208772987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9214662762",
+        "addr:city": "Mouleydier",
+        "name": "NRO Mouleydier",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24296_RAMI",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO Mouleydier.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6139912,
+          44.85084
+        ]
+      },
+      "id": "node/9214662762"
     }
   ]
 }
