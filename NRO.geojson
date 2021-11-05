@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-11-01T11:04:45Z",
+  "timestamp": "2021-11-05T17:17:15Z",
   "features": [
     {
       "type": "Feature",
@@ -27349,6 +27349,46 @@
         ]
       },
       "id": "node/9214662762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9217182562",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72331_SCEH",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5868297,
+          48.105833
+        ]
+      },
+      "id": "node/9217182562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9217182568",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72363_TUFF",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5203358,
+          48.1118941
+        ]
+      },
+      "id": "node/9217182568"
     }
   ]
 }
