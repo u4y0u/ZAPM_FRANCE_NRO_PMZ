@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-11-05T17:17:15Z",
+  "timestamp": "2021-11-13T14:47:02Z",
   "features": [
     {
       "type": "Feature",
@@ -9221,6 +9221,94 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/999706650",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "location": "indoor",
+        "manufacturer": "Smitt Technology",
+        "operator": "Orange",
+        "owner": "Régie Auvergne Numérique",
+        "ref": "V01",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2021; survey",
+        "start_date": "2014-09-10",
+        "survey:date": "2021-05-28",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.0902338,
+              46.147962
+            ],
+            [
+              3.0902474,
+              46.147952
+            ],
+            [
+              3.0902781,
+              46.1479707
+            ],
+            [
+              3.0902656,
+              46.1479811
+            ],
+            [
+              3.0902338,
+              46.147962
+            ]
+          ]
+        ]
+      },
+      "id": "way/999706650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1001833805",
+        "building": "service",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72289_JASA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.1771598,
+              48.1436057
+            ],
+            [
+              0.1771761,
+              48.1435865
+            ],
+            [
+              0.177246,
+              48.143613
+            ],
+            [
+              0.1772295,
+              48.1436322
+            ],
+            [
+              0.1771598,
+              48.1436057
+            ]
+          ]
+        ]
+      },
+      "id": "way/1001833805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/903374274",
         "fixme": "Emplacement exacte à corriger",
         "name": "NRO Lembeye",
@@ -17271,6 +17359,7 @@
         "operator": "Axione",
         "owner": "La Fibre Paloise",
         "ref": "64445BEZ",
+        "ref:FR:Free": "SHL_64445_ROUS",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -27389,6 +27478,66 @@
         ]
       },
       "id": "node/9217182568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9231301611",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72334_SILG",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1202148,
+          48.1946888
+        ]
+      },
+      "id": "node/9231301611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9238213559",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "NRO-25-016",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6598033,
+          47.5237632
+        ]
+      },
+      "id": "node/9238213559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9238219626",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "NRO-25-021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7669903,
+          47.3900809
+        ]
+      },
+      "id": "node/9238219626"
     }
   ]
 }
