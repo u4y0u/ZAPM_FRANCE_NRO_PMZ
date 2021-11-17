@@ -14,6 +14,7 @@ ZAPM\_FRANCE\_NRO\_PMZ.zip contient le fichier au format QGIS (ou QField sur And
 Contenu actuel de l' archive .ZIP; 4 fichiers décrits ci-dessous:
 
 _**NRO.geojson**_ et _**PMZ.geojson**_ (2 fichiers de données NRO et PMZ - dont les mises à jours peuvent être chargées directement via le 'master' GitHub)
+_**COPPER.geojson**_ ajout d'une couche PM cuivre.
 
 ZAPM_FRANCE_NRO_PMZ.qgz + *.shx, *.shp, *.dbf *.prj
 
