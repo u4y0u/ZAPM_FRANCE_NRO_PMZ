@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-11-13T14:47:02Z",
+  "timestamp": "2021-11-20T14:50:45Z",
   "features": [
     {
       "type": "Feature",
@@ -2631,10 +2631,15 @@
       "type": "Feature",
       "properties": {
         "@id": "way/660332090",
+        "addr:housenumber": "1802",
+        "addr:street": "Route de la Cheterie",
         "building": "service",
+        "building:levels": "1",
         "name": "NRO",
         "operator": "Covage",
         "owner": "Syane",
+        "roof:orientation": "along",
+        "roof:shape": "gabled",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -26388,8 +26393,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.2139996,
-          46.9881876
+          -0.2138412,
+          46.9881423
         ]
       },
       "id": "node/8592130497"
@@ -27538,6 +27543,68 @@
         ]
       },
       "id": "node/9238219626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9248779930",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72143_GLUC",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4600611,
+          47.8644955
+        ]
+      },
+      "id": "node/9248779930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9264289621",
+        "operator": "Orange",
+        "owner": "HSF",
+        "ref": "HSN_NRO_N070OIS",
+        "source": "https://twitter.com/Hades73440/status/1460958147988713472",
+        "start_date": "17/11/2021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.936838,
+          47.4229554
+        ]
+      },
+      "id": "node/9264289621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9264289626",
+        "operator": "Orange",
+        "owner": "HSF",
+        "ref": "HSN_NRO_N070NRR",
+        "source": "https://twitter.com/Hades73440/status/1461022457301774336",
+        "start_date": "17/11/2021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3007186,
+          47.6171314
+        ]
+      },
+      "id": "node/9264289626"
     }
   ]
 }
