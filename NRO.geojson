@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-11-20T14:50:45Z",
+  "timestamp": "2021-11-27T13:11:29Z",
   "features": [
     {
       "type": "Feature",
@@ -7962,6 +7962,49 @@
         ]
       },
       "id": "way/903476609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/917526415",
+        "building": "yes",
+        "height": "3",
+        "name": "Central Optique",
+        "operator": "Hérault THD",
+        "ref": "34STGF",
+        "ref:FR:HeraultTHD": "34STGF",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.8125186,
+              43.6898284
+            ],
+            [
+              3.8125847,
+              43.6897875
+            ],
+            [
+              3.8126217,
+              43.689819
+            ],
+            [
+              3.8125556,
+              43.6898599
+            ],
+            [
+              3.8125186,
+              43.6898284
+            ]
+          ]
+        ]
+      },
+      "id": "way/917526415"
     },
     {
       "type": "Feature",
@@ -25989,6 +26032,7 @@
         "addr:street": "Chemin du Canaulet",
         "name": "NRO EAW",
         "operator": "Orange",
+        "ref": "EAW",
         "ref:FR:Orange:NRO": "EAW",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -26012,8 +26056,9 @@
         "addr:housenumber": "4",
         "addr:postcode": "33640",
         "addr:street": "Chemin de Hiqueyrots",
-        "name": "NRO Portets",
+        "name": "NRO RTV",
         "operator": "Orange",
+        "ref": "RTV",
         "ref:FR:Orange:NRO": "RTV",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -26382,8 +26427,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8592130497",
-        "Operator": "Orange",
         "name": "NRO",
+        "operator": "Orange",
         "owner": "Deux Sevres Numrique",
         "ref": "NRO 793297D4",
         "telecom": "exchange",
@@ -26403,8 +26448,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8592282217",
-        "Operator": "Altitude Infrastructure",
         "name": "NRO",
+        "operator": "Altitude Infrastructure",
         "owner": "PIXL",
         "ref": "NRO-40-014",
         "ref:FR:ARCEP": "NRO-40-014",
@@ -26513,11 +26558,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8632250757",
-        "Operator": "Altittude",
         "colour": "green",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/NRO_Labenne_40_016.png",
         "manufacturer": "Grolleau",
         "name": "NRO",
+        "operator": "Altittude",
         "owner": "PIXL",
         "ref": "NRO-40-016",
         "ref:FR:ARCEP": "NRO-40-016",
@@ -26538,9 +26583,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8636342135",
-        "Operator": "Altitude",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Cauneille_NRO-40-017.jpg",
         "name": "NRO",
+        "operator": "Altitude",
         "owner": "PIXL",
         "ref": "NRO-40-017",
         "ref:FR:ARCEP": "NRO-40-017",
@@ -26763,9 +26808,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8763953791",
-        "Operator": "Altitude",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/NRO_40_018.jpg/576px-NRO_40_018.jpg",
         "name": "NRO",
+        "operator": "Altitude",
         "owner": "Pixl Fibre",
         "ref": "NRO 40 018",
         "ref:FR:ARCEP": "NRO 40 018",
@@ -26987,8 +27032,9 @@
         "addr:city": "Latresne",
         "addr:postcode": "33360",
         "addr:street": "Chemin du Maucoulet",
-        "name": "NRO Latresne",
+        "name": "NRO XLT",
         "operator": "Orange",
+        "ref": "XLT",
         "ref:FR:Orange:NRO": "XLT",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -27053,6 +27099,7 @@
         "addr:street": "Rue Truchon",
         "name": "NRO XCA",
         "operator": "Orange",
+        "ref": "XCA",
         "ref:FR:Orange:NRO": "XCA",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -27161,6 +27208,7 @@
         "addr:street": "Avenue des Pyrénées",
         "name": "NRO RPP",
         "operator": "Orange",
+        "ref": "RPP",
         "ref:FR:Orange:NRO": "RPP",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -27605,6 +27653,96 @@
         ]
       },
       "id": "node/9264289626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9270449711",
+        "addr:city": "Créon",
+        "addr:housenumber": "11",
+        "addr:postcode": "33670",
+        "addr:street": "Rue Bauduc",
+        "name": "NRO QCR",
+        "operator": "Orange",
+        "ref": "QCR",
+        "ref:FR:Orange:NRO": "QCR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRA Créon CRE 33.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.344808,
+          44.7705481
+        ]
+      },
+      "id": "node/9270449711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9272791980",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72039_BONN",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4260178,
+          48.182346
+        ]
+      },
+      "id": "node/9272791980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9282737794",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Prisme Fibre",
+        "ref": "NRO-39-173 Montmirey Le chateau",
+        "source": "https://twitter.com/PrismeFibre/status/1463812427158536193",
+        "start_date": "25/11/2021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5287343,
+          47.2178894
+        ]
+      },
+      "id": "node/9282737794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9283484042",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Prisme Fibre",
+        "ref": "NRO-39-174 Mont-Sous-Vaudrey",
+        "source": "https://twitter.com/Hades73440/status/1463893040809009153",
+        "start_date": "25/11/2021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6047191,
+          46.9817059
+        ]
+      },
+      "id": "node/9283484042"
     }
   ]
 }
