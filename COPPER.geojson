@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-11-27T13:17:29Z",
+  "timestamp": "2021-12-03T12:52:38Z",
   "features": [
     {
       "type": "Feature",
@@ -18659,12 +18659,15 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7051865531",
+        "colour": "grey",
         "man_made": "street_cabinet",
         "operator": "Orange",
-        "ref:FR:PTT": "NC",
+        "ref:FR:Orange": "NJR/CSL/007",
+        "ref:FR:PTT": "007",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -20620,6 +20623,7 @@
       "properties": {
         "@id": "node/7194200640",
         "man_made": "street_cabinet",
+        "material": "metal",
         "operator": "Orange",
         "owner": "Orange",
         "source": "survey 2020",
@@ -20631,8 +20635,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5689078,
-          44.3564736
+          2.56891,
+          44.356472
         ]
       },
       "id": "node/7194200640"
@@ -46482,9 +46486,11 @@
       "properties": {
         "@id": "node/8711390444",
         "colour": "grey",
+        "hinge": "horizontal",
         "man_made": "street_cabinet",
-        "mapillary": "RqRhTPp1xFlsVqf6e5PrMn",
+        "mapillary": "307773864410909",
         "operator": "Orange",
+        "ref:FR:Orange": "NJR/CCY/004",
         "ref:FR:PTT": "CCY004",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
@@ -49763,6 +49769,239 @@
         ]
       },
       "id": "node/9274736837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288167164",
+        "colour": "grey",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/CCY/008",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0257361,
+          47.8936148
+        ]
+      },
+      "id": "node/9288167164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288267703",
+        "colour": "grey",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/CSL/002",
+        "ref:FR:PTT": "002",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2271978,
+          47.8623476
+        ]
+      },
+      "id": "node/9288267703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288275617",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/CSL/008",
+        "ref:FR:PTT": "CSL/008",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.220611,
+          47.8621743
+        ]
+      },
+      "id": "node/9288275617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288283524",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/CSL/008/0JS",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2200678,
+          47.8613675
+        ]
+      },
+      "id": "node/9288283524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288307189",
+        "colour": "grey",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/CSL/004",
+        "ref:FR:PTT": "004",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2166696,
+          47.8677794
+        ]
+      },
+      "id": "node/9288307189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288313600",
+        "colour": "grey",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/CSL/005",
+        "ref:FR:PTT": "005",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2348932,
+          47.864648
+        ]
+      },
+      "id": "node/9288313600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288336376",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/CSL/013",
+        "ref:FR:PTT": "013",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2222944,
+          47.8687514
+        ]
+      },
+      "id": "node/9288336376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288361876",
+        "colour": "grey",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/CSL/012",
+        "ref:FR:PTT": "012",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2104124,
+          47.8664687
+        ]
+      },
+      "id": "node/9288361876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9288452655",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/CSL/006",
+        "ref:FR:PTT": "006",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2024288,
+          47.8618672
+        ]
+      },
+      "id": "node/9288452655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9293279046",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "mapillary": "423625436067885",
+        "operator": "Orange",
+        "ref:FR:PTT": "A20",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8944002,
+          47.9039072
+        ]
+      },
+      "id": "node/9293279046"
     }
   ]
 }

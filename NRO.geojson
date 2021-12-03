@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-11-27T13:11:29Z",
+  "timestamp": "2021-12-03T12:50:38Z",
   "features": [
     {
       "type": "Feature",
@@ -6674,6 +6674,50 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/835744654",
+        "addr:city": "Valdahon",
+        "addr:postcode": "25800",
+        "addr:street": "Rue de l'Hôtel de Ville",
+        "building": "yes",
+        "building:prefabricated": "yes",
+        "name": "NRO",
+        "operator": "Altitude",
+        "ref": "25-029",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.3471949,
+              47.1485287
+            ],
+            [
+              6.347275,
+              47.148579
+            ],
+            [
+              6.3472528,
+              47.1485953
+            ],
+            [
+              6.3471727,
+              47.1485451
+            ],
+            [
+              6.3471949,
+              47.1485287
+            ]
+          ]
+        ]
+      },
+      "id": "way/835744654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/839372222",
         "addr:city": "Pierrefontaine-les-Varans",
         "addr:postcode": "25510",
@@ -9353,6 +9397,125 @@
         ]
       },
       "id": "way/1001833805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1007062715",
+        "building": "yes",
+        "height": "3",
+        "name": "Central Optique",
+        "operator": "Hérault THD",
+        "ref:FR:HeraultTHD": "NO34CAPE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.0383998,
+              43.3266031
+            ],
+            [
+              3.03843,
+              43.3265885
+            ],
+            [
+              3.038479,
+              43.3266335
+            ],
+            [
+              3.0384473,
+              43.3266482
+            ],
+            [
+              3.0383998,
+              43.3266031
+            ]
+          ]
+        ]
+      },
+      "id": "way/1007062715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1007065065",
+        "building": "yes",
+        "height": "3",
+        "operator": "Hérault THD",
+        "ref:FR:HeraultTHD": "NO34MON1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.134026,
+              43.3336717
+            ],
+            [
+              3.1340287,
+              43.3336463
+            ],
+            [
+              3.1340904,
+              43.3336444
+            ],
+            [
+              3.1340877,
+              43.3336717
+            ],
+            [
+              3.134026,
+              43.3336717
+            ]
+          ]
+        ]
+      },
+      "id": "way/1007065065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1008154308",
+        "building": "service",
+        "location": "indoor",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.4981617,
+              43.4755584
+            ],
+            [
+              2.4981589,
+              43.4755308
+            ],
+            [
+              2.4982254,
+              43.4755272
+            ],
+            [
+              2.4982282,
+              43.4755549
+            ],
+            [
+              2.4981617,
+              43.4755584
+            ]
+          ]
+        ]
+      },
+      "id": "way/1008154308"
     },
     {
       "type": "Feature",
@@ -20401,26 +20564,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8222693257",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref": "25-029",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.3471306,
-          47.1485215
-        ]
-      },
-      "id": "node/8222693257"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8222694375",
         "name": "NRO",
         "operator": "Altitude",
@@ -27743,6 +27886,26 @@
         ]
       },
       "id": "node/9283484042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9289168910",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72195_MEZE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0226124,
+          47.8239074
+        ]
+      },
+      "id": "node/9289168910"
     }
   ]
 }
