@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-12-03T12:50:38Z",
+  "timestamp": "2021-12-18T07:34:06Z",
   "features": [
     {
       "type": "Feature",
@@ -16542,8 +16542,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8155530327",
+        "name": "NRO La Douze",
         "operator": "NATHD",
         "owner": "Périgord Numérique",
+        "ref": "SHL_24156_DOUZ",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
@@ -22429,12 +22431,13 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8223144382",
-        "name": "NRO de Cubjac",
+        "name": "NRO Cubjac",
         "operator": "NATHD",
         "owner": "Périgord Numérique",
         "ref": "NA_24147_MUCY",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -22455,8 +22458,11 @@
         "name": "NRO de Terrasson-Lavilledieu",
         "operator": "NATHD",
         "owner": "Périgord Numérique",
+        "ref": "SHL_24547_TERR",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_de_Terrasson.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -22694,8 +22700,10 @@
         "name": "NRO Mensignac",
         "operator": "NATHD",
         "owner": "Périgord Numérique",
+        "ref": "SHL_24266_PAKU",
         "telecom": "exchange",
         "telecom:medium": "fibre",
+        "utility": "telecom",
         "wikimedia_commons": "File:NRO Mensignac.jpg"
       },
       "geometry": {
@@ -22714,8 +22722,11 @@
         "name": "NRO Sarlat",
         "operator": "NATHD",
         "owner": "Périgord Numérique",
+        "ref": "SHL_24520_SARL",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Sarlat.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -22732,8 +22743,11 @@
         "@id": "node/8225720122",
         "name": "NRO Montignac",
         "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "SHL_24291_HYFO",
         "telecom": "exchange",
         "telecom:medium": "fibre",
+        "utility": "telecom",
         "wikimedia_commons": "File:NRO Montignac (2).jpg"
       },
       "geometry": {
@@ -22751,8 +22765,11 @@
         "@id": "node/8225726214",
         "name": "NRO Les Eyzies",
         "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "SHL_24172_EYZI",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -27173,6 +27190,7 @@
       "properties": {
         "@id": "node/9056737214",
         "addr:city": "Latresne",
+        "addr:housenumber": "21",
         "addr:postcode": "33360",
         "addr:street": "Chemin du Maucoulet",
         "name": "NRO XLT",
@@ -27802,7 +27820,7 @@
       "properties": {
         "@id": "node/9270449711",
         "addr:city": "Créon",
-        "addr:housenumber": "11",
+        "addr:housenumber": "51",
         "addr:postcode": "33670",
         "addr:street": "Rue Bauduc",
         "name": "NRO QCR",
@@ -27906,6 +27924,309 @@
         ]
       },
       "id": "node/9289168910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9309221849",
+        "addr:city": "Léognan",
+        "addr:housenumber": "16",
+        "addr:postcode": "33850",
+        "addr:street": "Avenue de Gradignan",
+        "name": "NRO LEK",
+        "operator": "Orange",
+        "ref": "LEK",
+        "ref:FR:Orange:NRO": "LEK",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.602894,
+          44.7307945
+        ]
+      },
+      "id": "node/9309221849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9309221850",
+        "addr:city": "La Brède",
+        "addr:postcode": "33650",
+        "addr:street": "Avenue Charles de Gaulle",
+        "name": "NRO EDZ",
+        "operator": "Orange",
+        "ref": "EDZ",
+        "ref:FR:Orange:NRO": "EDZ",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5261902,
+          44.6820241
+        ]
+      },
+      "id": "node/9309221850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9309221855",
+        "addr:city": "Fargues-Saint-Hilaire",
+        "addr:postcode": "33370",
+        "name": "NRO FHI",
+        "operator": "Orange",
+        "ref": "FHI",
+        "ref:FR:Orange:NRO": "FHI",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4462707,
+          44.8245654
+        ]
+      },
+      "id": "node/9309221855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9309221856",
+        "addr:city": "Cadillac",
+        "addr:housenumber": "50",
+        "addr:postcode": "33410",
+        "addr:street": "Rue Cazeaux-Cazalet",
+        "name": "NRO ICD",
+        "operator": "Orange",
+        "ref": "ICD",
+        "ref:FR:Orange:NRO": "ICD",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3193807,
+          44.636157
+        ]
+      },
+      "id": "node/9309221856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9310072480",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "PIXL",
+        "ref": "NRO-40-020",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3773241,
+          43.61829
+        ]
+      },
+      "id": "node/9310072480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9311353806",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72128_EVAI",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6325048,
+          47.9005563
+        ]
+      },
+      "id": "node/9311353806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9330596785",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72168_LOUE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1542387,
+          47.9988979
+        ]
+      },
+      "id": "node/9330596785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9332475874",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Losange",
+        "ref": "NRO-88-039",
+        "start_date": "31/08/2019",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5974087,
+          48.2503081
+        ]
+      },
+      "id": "node/9332475874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9332528789",
+        "operator": "Altitude",
+        "owner": "Losange",
+        "ref": "NRO-88-008",
+        "source": "https://twitter.com/JulienLosange/status/1055132993340227586",
+        "start_date": "24/10/2018",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5981778,
+          48.0217028
+        ]
+      },
+      "id": "node/9332528789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9332544400",
+        "operator": "Altitude",
+        "owner": "Losange",
+        "ref": "NRO-88-026",
+        "source": "https://twitter.com/LosangeFibre/status/1423665919444750341",
+        "start_date": "06/08/2021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9555733,
+          48.4598751
+        ]
+      },
+      "id": "node/9332544400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9332593583",
+        "operator": "Altitude",
+        "owner": "Losange",
+        "ref": "NRO-88-033",
+        "source": "https://twitter.com/LosangeFibre/status/1230450497041072131",
+        "start_date": "20/02/2020",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3109078,
+          48.16136
+        ]
+      },
+      "id": "node/9332593583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9341649132",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "NRO_N070GYY",
+        "source": "https://twitter.com/Hades73440/status/1471153559727218699",
+        "start_date": "15/12/2021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8060488,
+          47.4059495
+        ]
+      },
+      "id": "node/9341649132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9341660073",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "NRO_N070FGL",
+        "source": "https://twitter.com/Hades73440/status/1471153276817227779",
+        "start_date": "15/12/2021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.413723,
+          47.8899232
+        ]
+      },
+      "id": "node/9341660073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9343632990",
+        "image": "https://ibb.co/S6fG0cp",
+        "name": "NRO Tigy",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2067064,
+          47.7966384
+        ]
+      },
+      "id": "node/9343632990"
     }
   ]
 }
