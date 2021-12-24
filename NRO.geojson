@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-12-18T07:34:06Z",
+  "timestamp": "2021-12-24T22:07:43Z",
   "features": [
     {
       "type": "Feature",
@@ -208,24 +208,28 @@
         "coordinates": [
           [
             [
-              6.2880656,
-              46.1895813
+              6.2880423,
+              46.1895816
             ],
             [
-              6.2880669,
-              46.189552
+              6.2880436,
+              46.1895523
             ],
             [
-              6.2881602,
-              46.1895539
+              6.2880936,
+              46.1895533
             ],
             [
-              6.288159,
-              46.1895832
+              6.2881369,
+              46.1895542
             ],
             [
-              6.2880656,
-              46.1895813
+              6.2881357,
+              46.1895835
+            ],
+            [
+              6.2880423,
+              46.1895816
             ]
           ]
         ]
@@ -6008,6 +6012,45 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/777175917",
+        "building": "service",
+        "operator": "Isère Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.902489,
+              45.0899202
+            ],
+            [
+              5.9025531,
+              45.0898971
+            ],
+            [
+              5.9025988,
+              45.0899603
+            ],
+            [
+              5.9025347,
+              45.0899834
+            ],
+            [
+              5.902489,
+              45.0899202
+            ]
+          ]
+        ]
+      },
+      "id": "way/777175917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/788649798",
         "building": "service",
         "name": "NRO de Plautignan",
@@ -9516,6 +9559,48 @@
         ]
       },
       "id": "way/1008154308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1013685844",
+        "addr:city": "Flangebouche",
+        "addr:postcode": "25390",
+        "addr:street": "Rue Gustave Morel",
+        "building": "yes",
+        "name": "SRO",
+        "ref": "PMU-25-031-LC / PMU-25-031-CX",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.4740295,
+              47.1421522
+            ],
+            [
+              6.4740263,
+              47.1421171
+            ],
+            [
+              6.474097,
+              47.1421141
+            ],
+            [
+              6.4741002,
+              47.1421492
+            ],
+            [
+              6.4740295,
+              47.1421522
+            ]
+          ]
+        ]
+      },
+      "id": "way/1013685844"
     },
     {
       "type": "Feature",
@@ -15671,8 +15756,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.5705997,
-          45.325026
+          1.5706154,
+          45.325041
         ]
       },
       "id": "node/7678040026"
@@ -15910,8 +15995,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.5623782,
-          45.4141947
+          1.5623787,
+          45.4141642
         ]
       },
       "id": "node/7787351943"
@@ -19740,23 +19825,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8222393922",
-        "operator": "Isère Fibre",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.90254,
-          45.0899438
-        ]
-      },
-      "id": "node/8222393922"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8222406468",
         "operator": "Isère Fibre",
         "owner": "Conseil Départemental de l'Isère",
@@ -22411,25 +22479,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8223138374",
-        "name": "NRO de Thiviers",
-        "operator": "NATHD",
-        "owner": "Périgord Numérique",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.9223648,
-          45.4183208
-        ]
-      },
-      "id": "node/8223138374"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8223144382",
         "name": "NRO Cubjac",
         "operator": "NATHD",
@@ -22769,7 +22818,8 @@
         "ref": "SHL_24172_EYZI",
         "telecom": "exchange",
         "telecom:medium": "fibre",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Les_Eyzies.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -28227,6 +28277,173 @@
         ]
       },
       "id": "node/9343632990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9350405061",
+        "addr:city": "Sully-sur-Loire",
+        "mapillary": "1185087518634195",
+        "name": "NRO",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3687399,
+          47.7585125
+        ]
+      },
+      "id": "node/9350405061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9353931188",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72385_YVRE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1400814,
+          47.8182304
+        ]
+      },
+      "id": "node/9353931188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9355423889",
+        "name": "NRO Hautefort",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "SHL_24555_FISO",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Hautefort.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1211243,
+          45.2696786
+        ]
+      },
+      "id": "node/9355423889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9355423898",
+        "name": "NRO Excideuil",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24164_GEMY",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Excideuil.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.045645,
+          45.3362721
+        ]
+      },
+      "id": "node/9355423898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9355423908",
+        "name": "NRO Thiviers",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24551_XAMA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Thiviers.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9222758,
+          45.4183195
+        ]
+      },
+      "id": "node/9355423908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9356470104",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72228_PASS",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.192408,
+          47.8446264
+        ]
+      },
+      "id": "node/9356470104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9359278071",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72169_LOUP",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0433456,
+          47.9454999
+        ]
+      },
+      "id": "node/9359278071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9362273873",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72124_ECOM",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2777748,
+          47.8259891
+        ]
+      },
+      "id": "node/9362273873"
     }
   ]
 }
