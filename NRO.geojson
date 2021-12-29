@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-12-28T22:50:50Z",
+  "timestamp": "2021-12-29T14:17:12Z",
   "features": [
     {
       "type": "Feature",
@@ -9601,300 +9601,6 @@
         ]
       },
       "id": "way/1013685844"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1016381603",
-        "building": "yes",
-        "colour": "green",
-        "name": "NRO Blécourt",
-        "operator": "Axione",
-        "source": "https://www.lavoixdunord.fr/310576/article/2018-02-03/le-cambresis-franchit-une-nouvelle-etape-dans-le-deploiement-de-la-fibre-optique?referer=%2Farchives%2Frecherche%3Fdatefilter%3Danytime%26sort%3Dweight%26word%3DNRO",
-        "street_cabinet": "telecom",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              3.2202605,
-              50.2207192
-            ],
-            [
-              3.2202063,
-              50.2207498
-            ],
-            [
-              3.220182,
-              50.2207323
-            ],
-            [
-              3.2202362,
-              50.2207016
-            ],
-            [
-              3.2202605,
-              50.2207192
-            ]
-          ]
-        ]
-      },
-      "id": "way/1016381603"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1016384860",
-        "building": "yes",
-        "colour": "green",
-        "name": "NRO Frévent",
-        "operator": "Axione",
-        "source": "https://www.lavoixdunord.fr/364373/article/2018-04-24/pour-l-arrivee-du-tres-haut-debit-ca-se-precise?referer=%2Farchives%2Frecherche%3Fdatefilter%3Danytime%26sort%3Dweight%26word%3DNRO",
-        "street_cabinet": "telecom",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.2938138,
-              50.2817153
-            ],
-            [
-              2.2938136,
-              50.2816934
-            ],
-            [
-              2.2939005,
-              50.281693
-            ],
-            [
-              2.2939007,
-              50.2817149
-            ],
-            [
-              2.2938138,
-              50.2817153
-            ]
-          ]
-        ]
-      },
-      "id": "way/1016384860"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1016389312",
-        "building": "yes",
-        "colour": "white",
-        "name": "NRO Boiry-Sainte-Rictrude",
-        "operator": "Axione",
-        "source": "https://www.lavoixdunord.fr/431717/article/2018-08-14/la-fibre-optique-reconnecte-les-espaces-ruraux?referer=%2Farchives%2Frecherche%3Fdatefilter%3Danytime%26sort%3Dweight%26word%3DNRO",
-        "street_cabinet": "telecom",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.7540852,
-              50.2028826
-            ],
-            [
-              2.7540585,
-              50.2028978
-            ],
-            [
-              2.7540015,
-              50.2028568
-            ],
-            [
-              2.7540282,
-              50.2028416
-            ],
-            [
-              2.7540852,
-              50.2028826
-            ]
-          ]
-        ]
-      },
-      "id": "way/1016389312"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1016397108",
-        "building": "yes",
-        "colour": "green",
-        "name": "NRO Halluin",
-        "operator": "Covage",
-        "source": "https://www.lavoixdunord.fr/234835/article/2017-10-05/un-premier-pas-vers-la-fibre-pour-la-commune?referer=%2Farchives%2Frecherche%3Fdatefilter%3Danytime%26sort%3Dweight%26start%3D10%26word%3DNRO",
-        "street_cabinet": "telecom",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              3.1240269,
-              50.7758115
-            ],
-            [
-              3.124011,
-              50.775749
-            ],
-            [
-              3.1240478,
-              50.7757453
-            ],
-            [
-              3.1240636,
-              50.7758078
-            ],
-            [
-              3.1240269,
-              50.7758115
-            ]
-          ]
-        ]
-      },
-      "id": "way/1016397108"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1016398533",
-        "colour": "green",
-        "man_made": "street_cabinet",
-        "name": "NRO Templeuve-en-Pévèle",
-        "source": "https://www.lavoixdunord.fr/205520/article/2017-08-17/la-route-de-lille-fermee-ce-jeudi-matin-pour-l-arrivee-de-la-fibre-optique?referer=%2Farchives%2Frecherche%3Fdatefilter%3Danytime%26sort%3Dweight%26start%3D10%26word%3DNRO",
-        "street_cabinet": "telecom",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              3.1352598,
-              50.5179842
-            ],
-            [
-              3.1352634,
-              50.5179465
-            ],
-            [
-              3.1354276,
-              50.5179529
-            ],
-            [
-              3.135424,
-              50.5179905
-            ],
-            [
-              3.1352598,
-              50.5179842
-            ]
-          ]
-        ]
-      },
-      "id": "way/1016398533"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1016404021",
-        "building": "yes",
-        "colour": "green",
-        "name": "NRO Stella-Plage",
-        "source": "https://www.lavoixdunord.fr/534703/article/2019-02-08/une-nouvelle-super-armoire-installee-en-vue-du-deploiement-du-tres-haut-debit?referer=%2Farchives%2Frecherche%3Fdatefilter%3Danytime%26sort%3Dweight%26start%3D30%26word%3DNRO",
-        "street_cabinet": "telecom",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.6052803,
-              50.4827806
-            ],
-            [
-              1.6052627,
-              50.4827274
-            ],
-            [
-              1.6052959,
-              50.4827229
-            ],
-            [
-              1.6053135,
-              50.4827761
-            ],
-            [
-              1.6052803,
-              50.4827806
-            ]
-          ]
-        ]
-      },
-      "id": "way/1016404021"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/903374274",
-        "fixme": "Emplacement exacte à corriger",
-        "name": "NRO Lembeye",
-        "operator": "SFR",
-        "source": "https://twitter.com/lafibre64/status/1332306223912394759/photo/2",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.116351,
-            43.4489483
-          ],
-          [
-            -0.116321,
-            43.4489591
-          ],
-          [
-            -0.1162926,
-            43.4489176
-          ],
-          [
-            -0.1163227,
-            43.4489067
-          ],
-          [
-            -0.116351,
-            43.4489483
-          ]
-        ]
-      },
-      "id": "way/903374274"
     },
     {
       "type": "Feature",
@@ -22515,8 +22221,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8223092180",
+        "name": "NRO Hazebrouck",
         "operator": "Axione",
         "owner": "THD 59-62",
+        "source": "https://www.lavoixdunord.fr/570301/article/2019-04-18/l-armoire-fibre-optique-ete-installee-mais-pas-de-connexion-avant-2021",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -22524,8 +22232,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5491155,
-          50.7203709
+          2.5491073,
+          50.7203667
         ]
       },
       "id": "node/8223092180"
@@ -28719,6 +28427,163 @@
         ]
       },
       "id": "node/9374557116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9375613494",
+        "name": "NRO Stella-Plage",
+        "source": "https://www.lavoixdunord.fr/534703/article/2019-02-08/une-nouvelle-super-armoire-installee-en-vue-du-deploiement-du-tres-haut-debit",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6052817,
+          50.4827519
+        ]
+      },
+      "id": "node/9375613494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9375632541",
+        "name": "NRO Boiry-Sainte-Rictrude",
+        "operator": "Axione",
+        "source": "https://www.lavoixdunord.fr/431717/article/2018-08-14/la-fibre-optique-reconnecte-les-espaces-ruraux",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7540418,
+          50.2028681
+        ]
+      },
+      "id": "node/9375632541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9375641213",
+        "name": "NRO Blécourt",
+        "operator": "Axione",
+        "source": "https://www.lavoixdunord.fr/310576/article/2018-02-03/le-cambresis-franchit-une-nouvelle-etape-dans-le-deploiement-de-la-fibre-optique",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2202165,
+          50.2207248
+        ]
+      },
+      "id": "node/9375641213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9375643888",
+        "name": "NRO Frévent",
+        "operator": "Axione",
+        "source": "https://www.lavoixdunord.fr/364373/article/2018-04-24/pour-l-arrivee-du-tres-haut-debit-ca-se-precise",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2938531,
+          50.2817026
+        ]
+      },
+      "id": "node/9375643888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9375653096",
+        "name": "NRO Halluin",
+        "operator": "Covage",
+        "source": "https://www.lavoixdunord.fr/234835/article/2017-10-05/un-premier-pas-vers-la-fibre-pour-la-commune",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1240403,
+          50.7757752
+        ]
+      },
+      "id": "node/9375653096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9375654342",
+        "name": "NRO Templeuve-en-Pévèle",
+        "source": "https://www.lavoixdunord.fr/205520/article/2017-08-17/la-route-de-lille-fermee-ce-jeudi-matin-pour-l-arrivee-de-la-fibre-optique",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.135348,
+          50.5179676
+        ]
+      },
+      "id": "node/9375654342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9375661373",
+        "name": "NRO Lembeye",
+        "operator": "SFR",
+        "source": "https://twitter.com/lafibre64/status/1332306223912394759/photo/2",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1164936,
+          43.4486455
+        ]
+      },
+      "id": "node/9375661373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9376148144",
+        "name": "NRO La Gorgue",
+        "operator": "Axione",
+        "source": "https://www.lavoixdunord.fr/254512/article/2017-10-27/le-chantier-du-tres-haut-debit-est-lance-la-fibre-c-est-pour-dans-deux-ans",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7353362,
+          50.6428801
+        ]
+      },
+      "id": "node/9376148144"
     }
   ]
 }
