@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-12-29T14:17:12Z",
+  "timestamp": "2021-12-30T19:31:25Z",
   "features": [
     {
       "type": "Feature",
@@ -28531,6 +28531,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9375654342",
+        "addr:city": "Mérignies",
+        "addr:street": "Avenue du Général de Gaulle",
+        "image": "https://pbs.twimg.com/media/FHxGvpLWYAA88aG?format=jpg&name=large",
         "name": "NRO Templeuve-en-Pévèle",
         "source": "https://www.lavoixdunord.fr/205520/article/2017-08-17/la-route-de-lille-fermee-ce-jeudi-matin-pour-l-arrivee-de-la-fibre-optique",
         "telecom": "exchange",
@@ -28584,6 +28587,45 @@
         ]
       },
       "id": "node/9376148144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9376401842",
+        "name": "NRO La Couture",
+        "source": "https://www.lavoixdunord.fr/454400/article/2018-09-24/le-deploiement-de-la-fibre-optique-progresse",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7075369,
+          50.5619228
+        ]
+      },
+      "id": "node/9376401842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9377456731",
+        "name": "NRO de Druyes-les-Belles-Fontaines",
+        "operator": "Altitude Infra",
+        "source": "https://presse-evasion.fr/index.php/component/k2/23-service/24407-druyes-et-ses-environs-enfin-raccordes-a-la-fibre-optique-le-second-semestre-2022-est-dans-le-viseur-grace-au-nro",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4232164,
+          47.5472922
+        ]
+      },
+      "id": "node/9377456731"
     }
   ]
 }
