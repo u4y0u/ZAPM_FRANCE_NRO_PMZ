@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2021-12-30T19:31:25Z",
+  "timestamp": "2022-01-03T13:50:44Z",
   "features": [
     {
       "type": "Feature",
@@ -8005,50 +8005,6 @@
         ]
       },
       "id": "way/903459910"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/903476609",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "ivoire",
-        "name": "NRO Bellegarde sur Valserine",
-        "operator": "AXIONE",
-        "owner": "NC",
-        "ref": "NC",
-        "source": "https://twitter.com/nverdun73/status/1275385965415194625/photo/3",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.82737,
-              46.1071853
-            ],
-            [
-              5.8274036,
-              46.1071399
-            ],
-            [
-              5.8275381,
-              46.107184
-            ],
-            [
-              5.8275045,
-              46.1072245
-            ],
-            [
-              5.82737,
-              46.1071853
-            ]
-          ]
-        ]
-      },
-      "id": "way/903476609"
     },
     {
       "type": "Feature",
@@ -28626,6 +28582,93 @@
         ]
       },
       "id": "node/9377456731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9381699978",
+        "operator": "Orange",
+        "ref": "13004STH",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7437559,
+          43.638006
+        ]
+      },
+      "id": "node/9381699978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9382045716",
+        "colour": "white",
+        "image": "https://pbs.twimg.com/media/EnLaXVIXUAIhFCr?format=jpg&name=large",
+        "man_made": "street_cabinet",
+        "name": "NRO Viriat",
+        "operator": "Eiffage",
+        "ref": "NRO_01451_00003",
+        "source": "https://twitter.com/Liain01/status/1329364945859993600",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2149414,
+          46.2530599
+        ]
+      },
+      "id": "node/9382045716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9382128902",
+        "name": "NRO Bellegarde sur Valserine",
+        "note": "shelter multi-PM",
+        "operator": "Axione",
+        "owner": "NC",
+        "ref": "NRO_01033_0008",
+        "source": "https://twitter.com/nverdun73/status/1275385965415194625/photo/3;https://twitter.com/Liain01/status/1275440281001750530",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8274489,
+          46.1071883
+        ]
+      },
+      "id": "node/9382128902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9388187027",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO Villiers-sur-Loir",
+        "roof:shape": "gabled",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9935278,
+          47.8047077
+        ]
+      },
+      "id": "node/9388187027"
     }
   ]
 }
