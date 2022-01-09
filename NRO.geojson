@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-01-06T19:05:43Z",
+  "timestamp": "2022-01-09T12:18:41Z",
   "features": [
     {
       "type": "Feature",
@@ -10904,15 +10904,18 @@
         "@id": "node/7148855445",
         "name": "PZG85",
         "operator": "Orange",
-        "ref:FR:Orange": "85182PZG",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
+        "ref:FR:Orange": "MFT/PZG/000",
+        "ref:FR:Orange:NRO": "85182PZG",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.8427905,
-          46.7861117
+          -0.8427787,
+          46.7861013
         ]
       },
       "id": "node/7148855445"
@@ -10923,7 +10926,10 @@
         "@id": "node/7148883465",
         "name": "LCN85",
         "operator": "Orange",
-        "ref:FR:Orange": "85128LCN",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
+        "ref:FR:Orange": "MFT/LCN/000",
+        "ref:FR:Orange:NRA": "85128LCN",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -10961,6 +10967,8 @@
         "@id": "node/7148889021",
         "name": "MSL85",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref:FR:Orange": "85135MSL",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -13393,7 +13401,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7154072455",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "owner": "Orange",
         "ref:FR:Orange": "17306ROR",
         "ref:FR:Orange:NRO": "ROR17",
@@ -13416,6 +13427,8 @@
         "@id": "node/7154093442",
         "name": "ROP17",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "owner": "Orange",
         "ref:FR:Orange": "17306ROP",
         "telecom": "exchange",
@@ -28669,6 +28682,48 @@
         ]
       },
       "id": "node/9388187027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9404395557",
+        "name": "CHY85",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0550707,
+          46.6881125
+        ]
+      },
+      "id": "node/9404395557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9404533977",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
+        "ref:FR:Orange": "MFT/SPT/000",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9578878,
+          46.7583272
+        ]
+      },
+      "id": "node/9404533977"
     }
   ]
 }
