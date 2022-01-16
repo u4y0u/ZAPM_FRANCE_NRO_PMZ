@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-01-09T12:18:41Z",
+  "timestamp": "2022-01-16T10:24:24Z",
   "features": [
     {
       "type": "Feature",
@@ -3737,24 +3737,24 @@
         "coordinates": [
           [
             [
-              5.9492596,
-              45.8593738
+              5.9492771,
+              45.8593826
             ],
             [
-              5.949271,
-              45.8593482
+              5.9492913,
+              45.8593529
             ],
             [
-              5.9493599,
-              45.8593673
+              5.9494197,
+              45.8593829
             ],
             [
-              5.9493485,
-              45.859393
+              5.9494054,
+              45.8594125
             ],
             [
-              5.9492596,
-              45.8593738
+              5.9492771,
+              45.8593826
             ]
           ]
         ]
@@ -9561,6 +9561,47 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/1021119734",
+        "addr:city": "Orchamps-Vennes",
+        "addr:postcode": "25390",
+        "addr:street": "Rue Saint-Martin",
+        "building": "yes",
+        "name": "NRO",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5318419,
+              47.1365722
+            ],
+            [
+              6.5319278,
+              47.1365351
+            ],
+            [
+              6.5319443,
+              47.1365528
+            ],
+            [
+              6.5318584,
+              47.1365898
+            ],
+            [
+              6.5318419,
+              47.1365722
+            ]
+          ]
+        ]
+      },
+      "id": "way/1021119734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/276884854",
         "name": "NRO FREE BER34",
         "operator": "Free",
@@ -12816,6 +12857,8 @@
         "@id": "node/7153303384",
         "name": "PTR25",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref:FR:Orange": "25462PTR",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -15274,6 +15317,8 @@
         "addr:street": "Rue du 4 Septembre",
         "name": "NRO Périgueux",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref": "PER 24",
         "ref:FR:Orange:NRO": "PER 24",
         "telecom": "exchange",
@@ -15296,6 +15341,8 @@
         "@id": "node/7532755279",
         "name": "NRO Chancelade",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref": "CHD 24",
         "ref:FR:Orange:NRO": "CHD 24",
         "telecom": "exchange",
@@ -15317,6 +15364,8 @@
         "@id": "node/7532755281",
         "name": "NRO Château l'Evèque",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref": "CLQ 24",
         "ref:FR:Orange:NRO": "CLQ 24",
         "telecom": "exchange",
@@ -15338,6 +15387,8 @@
         "@id": "node/7532755283",
         "name": "NRO Trélissac",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref": "TRE 24",
         "ref:FR:Orange:NRO": "TRE 24",
         "telecom": "exchange",
@@ -15360,6 +15411,8 @@
         "@id": "node/7532803697",
         "name": "NRO Coulounieix",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref": "CIX 24",
         "ref:FR:Orange:NRO": "CIX 24",
         "telecom": "exchange",
@@ -15382,6 +15435,8 @@
         "@id": "node/7532803699",
         "name": "NRO Coursac",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref": "COU 24",
         "ref:FR:Orange:NRO": "COU 24",
         "telecom": "exchange",
@@ -15403,6 +15458,8 @@
         "@id": "node/7532803701",
         "name": "NRO Razac-sur-l'Isle",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref": "RAZ 24",
         "ref:FR:Orange:NRO": "RAZ 24",
         "telecom": "exchange",
@@ -15442,6 +15499,8 @@
         "@id": "node/7566264455",
         "name": "NRO Bergerac",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref": "BER 24",
         "ref:FR:Orange:NRO": "BER 24",
         "telecom": "exchange",
@@ -15506,6 +15565,8 @@
         "@id": "node/7620239659",
         "name": "NRO Notre-Dame-de-Sanilhac",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref": "NDS 24",
         "ref:FR:Orange:NRO": "NDS 24",
         "telecom": "exchange",
@@ -15614,8 +15675,8 @@
         "@id": "node/7660605456",
         "description": "POITIERS PTI 1 FTTH G2R : 8610000604",
         "man_made": "street_cabinet",
-        "operator": "Orange",
-        "owner": "Orange",
+        "operator": "SFR",
+        "owner": "SFR",
         "ref:FR:G2R": "8610000604",
         "ref:FR:SFR": "PTI1",
         "street_cabinet": "telecom",
@@ -26047,6 +26108,8 @@
         "@id": "node/8385011527",
         "name": "NRO Champcevinel",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref": "CHM 24",
         "ref:FR:Orange:NRO": "CHM 24",
         "telecom": "exchange",
@@ -26069,6 +26132,8 @@
         "@id": "node/8385011528",
         "name": "NRO Marsac sur l'Isle",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref": "MAS 24",
         "ref:FR:Orange:NRO": "MAS 24",
         "telecom": "exchange",
@@ -28724,6 +28789,47 @@
         ]
       },
       "id": "node/9404533977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9405256761",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Losange",
+        "ref": "NRO-54-029",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7414108,
+          48.4593744
+        ]
+      },
+      "id": "node/9405256761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9420268165",
+        "man_made": "street_cabinet",
+        "operator": "SFR",
+        "ref:FR:SFR": "NC",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3366222,
+          48.0747803
+        ]
+      },
+      "id": "node/9420268165"
     }
   ]
 }
