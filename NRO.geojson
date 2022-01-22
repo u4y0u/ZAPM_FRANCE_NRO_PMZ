@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-01-16T10:24:24Z",
+  "timestamp": "2022-01-22T11:10:24Z",
   "features": [
     {
       "type": "Feature",
@@ -654,6 +654,8 @@
         "building": "service",
         "name": "NRO de Lège-Cap-Ferret",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "owner": "Orange",
         "ref:FR:Orange": "33236CFT",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
@@ -14186,6 +14188,8 @@
         "@id": "node/7156078461",
         "name": "SAN13",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "owner": "Orange",
         "ref:FR:Orange": "13215SAN",
         "telecom": "exchange",
@@ -16257,7 +16261,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7994635661",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref:FR:Orange": "14118VEN",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -17320,6 +17327,7 @@
         "addr:city": "Gaillac",
         "addr:postcode": "81600",
         "addr:street": "Chemin des Balitrands",
+        "image": "https://images.ladepeche.fr/api/v1/images/view/60c184b98fe56f6c9508a599/original/image.jpg?v=1",
         "note": "\"11ème NRO de TARN Fibre ce 04/11/20 à GAILLAC en présence d’Elus locaux, de Madame Le Maire, de Conseillers Départementaux, des équipes TARN Fibre - SFR FTTH et EOS TELECOM. \nLe déploiement de la Fibre continue de progresser su",
         "operator": "SFR",
         "owner": "Tarn Fibre",
@@ -17332,8 +17340,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8829291,
-          43.8977877
+          1.8828952,
+          43.8977925
         ]
       },
       "id": "node/8220152889"
@@ -27982,6 +27990,8 @@
         "addr:street": "Avenue de Gradignan",
         "name": "NRO LEK",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref": "LEK",
         "ref:FR:Orange:NRO": "LEK",
         "telecom": "exchange",
@@ -28830,6 +28840,28 @@
         ]
       },
       "id": "node/9420268165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9423145628",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "name": "SRO de Goyrans",
+        "source": "https://twitter.com/mlb9146/status/1438009054417326086",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4318722,
+          43.4823203
+        ]
+      },
+      "id": "node/9423145628"
     }
   ]
 }

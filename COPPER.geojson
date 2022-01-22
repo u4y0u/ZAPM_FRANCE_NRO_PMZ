@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-01-16T10:28:26Z",
+  "timestamp": "2022-01-22T11:12:24Z",
   "features": [
     {
       "type": "Feature",
@@ -11283,9 +11283,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6299291139",
+        "image": "https://pbs.twimg.com/media/D0K8EJOW0AA_kKa?format=jpg&name=large",
         "location": "grass",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "ref:FR:Orange": "TF7/BRE/BON",
         "ref:FR:PTT": "097",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
@@ -11310,7 +11312,8 @@
         "operator": "Orange",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -39847,27 +39850,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7616661460",
-        "man_made": "street_cabinet",
-        "operator": "Orange",
-        "owner": "Orange",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.25694,
-          47.7989309
-        ]
-      },
-      "id": "node/7616661460"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/7616856594",
         "man_made": "street_cabinet",
         "source": "mapillary 2018;BDortho ign 2020",
@@ -50051,6 +50033,9 @@
         "man_made": "street_cabinet",
         "name": "AERODROME",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
+        "ref": "CDN/OUC/002",
         "ref:FR:Orange": "OUC002",
         "ref:FR:Orange:NRA": "OUC",
         "street_cabinet": "telecom",
@@ -56646,6 +56631,267 @@
         ]
       },
       "id": "node/9420239965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9422544320",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "TF7/BRE/THI",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8313584,
+          44.9208041
+        ]
+      },
+      "id": "node/9422544320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9422562606",
+        "operator": "Orange",
+        "ref:FR:Orange": "TF7/BRE/DDI",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8398274,
+          44.9178137
+        ]
+      },
+      "id": "node/9422562606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9422754383",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "TF7/KOR/CRN",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8818335,
+          44.9083985
+        ]
+      },
+      "id": "node/9422754383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9423129086",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "TF7/GYN/8GD",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.431897,
+          43.4823377
+        ]
+      },
+      "id": "node/9423129086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9423452255",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/BLB/005",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7817537,
+          47.9964319
+        ]
+      },
+      "id": "node/9423452255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9423454508",
+        "colour": "white",
+        "location": "pole",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/BLB/006",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7773237,
+          47.9702779
+        ]
+      },
+      "id": "node/9423454508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9423607301",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/5CC/001",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.742145,
+          48.0112797
+        ]
+      },
+      "id": "node/9423607301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9425049690",
+        "man_made": "street_cabinet",
+        "name": "MARQUET",
+        "operator": "Orange",
+        "ref": "CDN/LEO/004",
+        "ref:FR:Orange:NRA": "LEO",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5891256,
+          44.7227391
+        ]
+      },
+      "id": "node/9425049690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9425049695",
+        "man_made": "street_cabinet",
+        "name": "ZONE INDUSTRIELLE LA RIVIERE",
+        "operator": "Orange",
+        "ref": "CDN/LEO/009",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6180433,
+          44.7421914
+        ]
+      },
+      "id": "node/9425049695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9428072045",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "TF7/TFU/BOU",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.642166,
+          44.4847877
+        ]
+      },
+      "id": "node/9428072045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9428126751",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "TF7/STG/VER",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5556626,
+          44.4860057
+        ]
+      },
+      "id": "node/9428126751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9438973836",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "BJR/VIG/035",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4202605,
+          48.7053829
+        ]
+      },
+      "id": "node/9438973836"
     }
   ]
 }
