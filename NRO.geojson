@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-01-22T11:10:24Z",
+  "timestamp": "2022-01-29T13:12:58Z",
   "features": [
     {
       "type": "Feature",
@@ -6719,6 +6719,51 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/835742694",
+        "addr:city": "Vercel-Villedieu-le-Camp",
+        "addr:postcode": "25530",
+        "addr:street": "Grande Rue",
+        "building": "yes",
+        "building:prefabricated": "yes",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "25-030",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.4048578,
+              47.1853138
+            ],
+            [
+              6.4048283,
+              47.1852329
+            ],
+            [
+              6.404867,
+              47.1852264
+            ],
+            [
+              6.4048965,
+              47.1853073
+            ],
+            [
+              6.4048578,
+              47.1853138
+            ]
+          ]
+        ]
+      },
+      "id": "way/835742694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/835744654",
         "addr:city": "Valdahon",
         "addr:postcode": "25800",
@@ -9605,7 +9650,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/276884854",
-        "name": "NRO FREE BER34",
+        "name": "NRO Free BER34",
         "operator": "Free",
         "ref": "BER34",
         "telecom": "exchange",
@@ -19665,6 +19710,8 @@
       "properties": {
         "@id": "node/8221835206",
         "operator": "Zayo",
+        "operator:wikidata": "Q8067574",
+        "operator:wikipedia": "en:Zayo Group",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20387,26 +20434,6 @@
         ]
       },
       "id": "node/8222637188"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/8222639524",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref": "25-030",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.4048509,
-          47.1852135
-        ]
-      },
-      "id": "node/8222639524"
     },
     {
       "type": "Feature",
@@ -26396,10 +26423,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8431045351",
-        "name": "NRO IS-SUR-TILLE",
+        "name": "NRO Is-sur-Tille",
         "operator": "Orange",
         "owner": "BFC fibre",
-        "ref": "NRO IS-SUR-TILLE",
+        "ref": "NRO Is-sur-Tille",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -28862,6 +28889,72 @@
         ]
       },
       "id": "node/9423145628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9450898535",
+        "name": "NRO",
+        "operator": "Orange",
+        "owner": "HSAS",
+        "ref": "N070VLY",
+        "source": "https://twitter.com/Hades73440/status/1486387421629628418",
+        "start_date": "26/01/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6374551,
+          47.3359852
+        ]
+      },
+      "id": "node/9450898535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9450906925",
+        "name": "NRO",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "N070DSL",
+        "source": "https://twitter.com/Hades73440/status/1486387754988707842",
+        "start_date": "26/01/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2283155,
+          47.5110123
+        ]
+      },
+      "id": "node/9450906925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9452972789",
+        "name": "NRO",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "N070SXV",
+        "source": "https://twitter.com/Hades73440/status/1486672205446582280",
+        "start_date": "27/01/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2839422,
+          47.6979333
+        ]
+      },
+      "id": "node/9452972789"
     }
   ]
 }
