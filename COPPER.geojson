@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-01-29T13:15:58Z",
+  "timestamp": "2022-02-07T06:40:38Z",
   "features": [
     {
       "type": "Feature",
@@ -54661,7 +54661,8 @@
         "operator": "Orange",
         "telecom": "connection_point",
         "telecom:medium": "copper",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "File:PMZ_NA_24235_KIKA.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -57114,6 +57115,95 @@
         ]
       },
       "id": "node/9457918785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9458930376",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NRK/BAR/015",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9359602,
+          49.5668691
+        ]
+      },
+      "id": "node/9458930376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9468583662",
+        "colour": "white",
+        "image": "https://pbs.twimg.com/media/FKlh6wrWUAQ67DK?format=jpg&name=medium",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "BJR/BTY/017",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3114799,
+          48.6038663
+        ]
+      },
+      "id": "node/9468583662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9473991154",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:PTT": "A01",
+        "ref:FR:PTT:NRA": "BES",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5012502,
+          46.2975547
+        ]
+      },
+      "id": "node/9473991154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9476415136",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0676369,
+          46.4637656
+        ]
+      },
+      "id": "node/9476415136"
     }
   ]
 }

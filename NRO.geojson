@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-01-29T13:12:58Z",
+  "timestamp": "2022-02-07T06:38:35Z",
   "features": [
     {
       "type": "Feature",
@@ -1058,7 +1058,8 @@
         "operator": "Grand Poitiers Network",
         "source": "observations sur place",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Polygon",
@@ -3266,24 +3267,24 @@
         "coordinates": [
           [
             [
-              6.5210547,
-              46.3925168
+              6.5210827,
+              46.3925274
             ],
             [
-              6.5210589,
-              46.3924529
+              6.5210872,
+              46.3924635
             ],
             [
-              6.5211006,
-              46.3924542
+              6.521129,
+              46.3924649
             ],
             [
-              6.5210965,
-              46.3925181
+              6.5211244,
+              46.3925288
             ],
             [
-              6.5210547,
-              46.3925168
+              6.5210827,
+              46.3925274
             ]
           ]
         ]
@@ -4942,7 +4943,8 @@
         "source": "https://twitter.com/Vendeenumerique/status/1037341365389148161",
         "start_date": "2018-09-05",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Polygon",
@@ -6941,7 +6943,8 @@
         "operator": "Orange",
         "owner": "Orange",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Polygon",
@@ -8614,6 +8617,50 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/920930033",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "location": "indoor",
+        "name": "NRO",
+        "operator": "Orange",
+        "owner": "Deux-Sèvres Numerique",
+        "ref": "NRO 793297D4",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.2138412,
+              46.9881766
+            ],
+            [
+              -0.213856,
+              46.9881542
+            ],
+            [
+              -0.2137879,
+              46.9881307
+            ],
+            [
+              -0.2137731,
+              46.988153
+            ],
+            [
+              -0.2138412,
+              46.9881766
+            ]
+          ]
+        ]
+      },
+      "id": "way/920930033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/925971348",
         "building": "service",
         "building:prefabricated": "no",
@@ -9645,6 +9692,53 @@
         ]
       },
       "id": "way/1021119734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1028800967",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "fixme": "Info NRO de Parthenay à corriger",
+        "location": "indoor",
+        "name": "NRO",
+        "operator": "Deux-Sèvres Numerique",
+        "owner": "Deux-Sèvres Numerique",
+        "ref:FR:Orange": "792027A6",
+        "ref:FR:Orange:NRO": "792027A6",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.2454827,
+              46.6430423
+            ],
+            [
+              -0.2454854,
+              46.6430198
+            ],
+            [
+              -0.2454073,
+              46.6430155
+            ],
+            [
+              -0.2454047,
+              46.6430379
+            ],
+            [
+              -0.2454827,
+              46.6430423
+            ]
+          ]
+        ]
+      },
+      "id": "way/1028800967"
     },
     {
       "type": "Feature",
@@ -10876,7 +10970,8 @@
         "operator": "Orange",
         "ref:FR:Orange": "85191RCH",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10895,7 +10990,8 @@
         "operator": "Orange",
         "ref:FR:Orange": "85194SAB",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10956,7 +11052,8 @@
         "operator": "Orange",
         "ref:FR:Orange": "85092FON",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10975,7 +11072,8 @@
         "operator": "Orange",
         "ref:FR:Orange": "85109HRB",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10997,7 +11095,8 @@
         "ref:FR:Orange": "MFT/PZG/000",
         "ref:FR:Orange:NRO": "85182PZG",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -11019,7 +11118,8 @@
         "ref:FR:Orange": "MFT/LCN/000",
         "ref:FR:Orange:NRA": "85128LCN",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -11059,7 +11159,8 @@
         "operator:wikipedia": "fr:Orange (entreprise)",
         "ref:FR:Orange": "85135MSL",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -11078,7 +11179,8 @@
         "operator": "Orange",
         "ref:FR:Orange": "85298VR8",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -11425,6 +11527,8 @@
         "@id": "node/7150651490",
         "name": "VAL59",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref:FR:Orange": "59606VAL",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -12499,7 +12603,8 @@
         "operator": "Orange",
         "ref:FR:Orange": "86194TOU",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12578,7 +12683,8 @@
         "operator": "Orange",
         "ref:FR:Orange": "86194ACH",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12620,7 +12726,8 @@
         "operator": "Orange",
         "ref:FR:Orange": "86194COU",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -13476,7 +13583,8 @@
         "operator": "Orange",
         "ref:FR:Orange": "17299R00",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -13542,7 +13650,8 @@
         "operator": "Orange",
         "ref:FR:Orange": "17415SBA",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -13582,7 +13691,8 @@
         "operator": "Orange",
         "ref:FR:Orange": "17300D00",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16234,7 +16344,8 @@
         "owner": "Orange",
         "ref:FR:Orange": "79191NCB",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16255,7 +16366,8 @@
         "owner": "Orange",
         "ref:FR:Orange": "79191NBO",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16270,7 +16382,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7994629309",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref:FR:Orange": "14118GAM",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -19076,7 +19191,8 @@
         "@id": "node/8221771361",
         "operator": "Zayo",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19093,7 +19209,8 @@
         "@id": "node/8221771362",
         "operator": "SFR",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19418,6 +19535,8 @@
       "properties": {
         "@id": "node/8221805406",
         "operator": "Zayo",
+        "operator:wikidata": "Q8067574",
+        "operator:wikipedia": "en:Zayo Group",
         "ref": "Data Center Zayo Velizy",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -23419,8 +23538,6 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8234530383",
-        "addr:city": "L'Île-Rousse",
-        "addr:postcode": "20220",
         "fixme": "position exacte à vérifier",
         "note": "Corsica Fibra",
         "operator": "SFR",
@@ -25692,7 +25809,8 @@
         "@id": "node/8340204678",
         "operator": "Covage",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -25726,7 +25844,8 @@
         "@id": "node/8340204680",
         "operator": "Covage",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -26213,7 +26332,8 @@
         "man_made": "street_cabinet",
         "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -26668,27 +26788,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8592130497",
-        "name": "NRO",
-        "operator": "Orange",
-        "owner": "Deux Sevres Numrique",
-        "ref": "NRO 793297D4",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.2138412,
-          46.9881423
-        ]
-      },
-      "id": "node/8592130497"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8592282217",
         "name": "NRO",
         "operator": "Altitude Infrastructure",
@@ -26867,7 +26966,8 @@
         "man_made": "street_cabinet",
         "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -28275,7 +28375,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9341660073",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "owner": "HASF",
         "ref": "NRO_N070FGL",
         "source": "https://twitter.com/Hades73440/status/1471153276817227779",
@@ -28955,6 +29058,67 @@
         ]
       },
       "id": "node/9452972789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9461080309",
+        "name": "NRO La Tour-Blanche",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24554_ZAPY",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO La Tour-Blanche.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4486158,
+          45.3653746
+        ]
+      },
+      "id": "node/9461080309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9461091220",
+        "name": "NRO Brantôme",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "?",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO Brantôme.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6513752,
+          45.3607486
+        ]
+      },
+      "id": "node/9461091220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9484594883",
+        "operator": "Orange, Bouygues, Free",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2562632,
+          42.9440048
+        ]
+      },
+      "id": "node/9484594883"
     }
   ]
 }
