@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-07T06:38:35Z",
+  "timestamp": "2022-02-12T19:23:22Z",
   "features": [
     {
       "type": "Feature",
@@ -26394,6 +26394,8 @@
         "addr:street": "Chemin du Canaulet",
         "name": "NRO EAW",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref": "EAW",
         "ref:FR:Orange:NRO": "EAW",
         "telecom": "exchange",
@@ -26420,6 +26422,8 @@
         "addr:street": "Chemin de Hiqueyrots",
         "name": "NRO RTV",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref": "RTV",
         "ref:FR:Orange:NRO": "RTV",
         "telecom": "exchange",
@@ -27377,6 +27381,8 @@
         "addr:street": "Chemin du Maucoulet",
         "name": "NRO XLT",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref": "XLT",
         "ref:FR:Orange:NRO": "XLT",
         "telecom": "exchange",
@@ -27442,6 +27448,8 @@
         "addr:street": "Rue Truchon",
         "name": "NRO XCA",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref": "XCA",
         "ref:FR:Orange:NRO": "XCA",
         "telecom": "exchange",
@@ -27486,6 +27494,8 @@
         "addr:postcode": "33650",
         "name": "NRO Saucats",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref:FR:Orange:NRO": "?",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -27551,6 +27561,8 @@
         "addr:street": "Avenue des Pyrénées",
         "name": "NRO RPP",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref": "RPP",
         "ref:FR:Orange:NRO": "RPP",
         "telecom": "exchange",
@@ -28007,6 +28019,8 @@
         "addr:street": "Rue Bauduc",
         "name": "NRO QCR",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref": "QCR",
         "ref:FR:Orange:NRO": "QCR",
         "telecom": "exchange",
@@ -28166,6 +28180,8 @@
         "addr:postcode": "33370",
         "name": "NRO FHI",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref": "FHI",
         "ref:FR:Orange:NRO": "FHI",
         "telecom": "exchange",
@@ -28191,6 +28207,8 @@
         "addr:street": "Rue Cazeaux-Cazalet",
         "name": "NRO ICD",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref": "ICD",
         "ref:FR:Orange:NRO": "ICD",
         "telecom": "exchange",
@@ -29119,6 +29137,33 @@
         ]
       },
       "id": "node/9484594883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9500592146",
+        "addr:city": "Saint-Jean-d'Illac",
+        "addr:postcode": "33127",
+        "addr:street": "Place de l'Église",
+        "name": "NRO JCI",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
+        "ref": "JCI",
+        "ref:FR:Orange:NRO": "JCI",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRA_Saint-Jean_d'Illac_ILL_33.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7796882,
+          44.8122893
+        ]
+      },
+      "id": "node/9500592146"
     }
   ]
 }

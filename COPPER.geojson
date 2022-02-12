@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-07T06:40:38Z",
+  "timestamp": "2022-02-12T19:26:25Z",
   "features": [
     {
       "type": "Feature",
@@ -7019,6 +7019,7 @@
         "@id": "node/5873254374",
         "man_made": "street_cabinet",
         "street_cabinet": "telecom",
+        "survey:date": "2022-02-12",
         "telecom": "connection_point",
         "telecom:medium": "copper"
       },
@@ -15164,6 +15165,7 @@
         "man_made": "street_cabinet",
         "ref:FR:PTT": "OCT",
         "street_cabinet": "telecom",
+        "survey:date": "2022-02-07",
         "telecom": "connection_point",
         "telecom:medium": "copper"
       },
