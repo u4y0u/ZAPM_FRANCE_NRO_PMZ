@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-12T19:23:22Z",
+  "timestamp": "2022-02-20T07:33:53Z",
   "features": [
     {
       "type": "Feature",
@@ -11734,7 +11734,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7151093677",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref:FR:Orange": "18033LAU",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -12545,7 +12548,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7151805680",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref:FR:Orange": "36044CHX",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -24126,8 +24132,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.3285699,
-          47.6155046
+          1.3285544,
+          47.6155018
         ]
       },
       "id": "node/8285328960"
@@ -24436,8 +24442,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.637465,
-          46.6638656
+          3.6374175,
+          46.6638783
         ]
       },
       "id": "node/8290740888"
@@ -29164,6 +29170,1290 @@
         ]
       },
       "id": "node/9500592146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9501758875",
+        "name": "44109GLO",
+        "operator": "Orange",
+        "owner": "Orange",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5564197,
+          47.2107
+        ]
+      },
+      "id": "node/9501758875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9518135809",
+        "operator": "Arelion",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4126597,
+          48.7761689
+        ]
+      },
+      "id": "node/9518135809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9518146124",
+        "operator": "Arelion",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7092586,
+          48.8262962
+        ]
+      },
+      "id": "node/9518146124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9518146133",
+        "operator": "Arelion",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9123793,
+          48.7928964
+        ]
+      },
+      "id": "node/9518146133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9518146144",
+        "operator": "Arelion",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0652533,
+          48.7883695
+        ]
+      },
+      "id": "node/9518146144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9518146145",
+        "operator": "Arelion",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2874035,
+          48.8264743
+        ]
+      },
+      "id": "node/9518146145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9518146154",
+        "operator": "Arelion",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0737133,
+          50.1880491
+        ]
+      },
+      "id": "node/9518146154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9518146165",
+        "operator": "Arelion",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8947431,
+          49.8290963
+        ]
+      },
+      "id": "node/9518146165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9518146166",
+        "operator": "Arelion",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.688881,
+          49.3482014
+        ]
+      },
+      "id": "node/9518146166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9518910708",
+        "operator": "Lumen",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.158361,
+          50.9896713
+        ]
+      },
+      "id": "node/9518910708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9518952413",
+        "operator": "Lumen",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8510472,
+          50.2729087
+        ]
+      },
+      "id": "node/9518952413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9518953819",
+        "operator": "Lumen",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8951764,
+          50.6528372
+        ]
+      },
+      "id": "node/9518953819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519009533",
+        "operator": "Lumen",
+        "ref": "ALBRFRAA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.669887,
+          50.011
+        ]
+      },
+      "id": "node/9519009533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519009542",
+        "operator": "Lumen",
+        "ref": "BEVSFRAA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1000713,
+          49.4410719
+        ]
+      },
+      "id": "node/9519009542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519009578",
+        "operator": "Lumen",
+        "ref": "CLMMFRAA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0985806,
+          48.8038399
+        ]
+      },
+      "id": "node/9519009578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519009614",
+        "operator": "Lumen",
+        "ref": "THIBFRAA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2226095,
+          48.932217
+        ]
+      },
+      "id": "node/9519009614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519009623",
+        "operator": "Lumen",
+        "ref": "BLDCFRAA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1216239,
+          48.7963145
+        ]
+      },
+      "id": "node/9519009623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519009636",
+        "operator": "Lumen",
+        "ref": "NANCFRAC",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1298257,
+          48.6557852
+        ]
+      },
+      "id": "node/9519009636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519009645",
+        "operator": "Lumen",
+        "ref": "SRRBFRAA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0429992,
+          48.7236049
+        ]
+      },
+      "id": "node/9519009645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9519009662",
+        "operator": "Lumen",
+        "ref": "STRSFRAB",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7378533,
+          48.5565704
+        ]
+      },
+      "id": "node/9519009662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520678366",
+        "operator": "Covage",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0715047,
+          49.1668681
+        ]
+      },
+      "id": "node/9520678366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520678385",
+        "operator": "Covage",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3991365,
+          49.1456175
+        ]
+      },
+      "id": "node/9520678385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520678387",
+        "operator": "Covage",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4766987,
+          47.2640412
+        ]
+      },
+      "id": "node/9520678387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520678400",
+        "operator": "Covage",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7520003,
+          45.9504394
+        ]
+      },
+      "id": "node/9520678400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520678411",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4879814,
+          45.4216702
+        ]
+      },
+      "id": "node/9520678411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520678412",
+        "operator": "Covage",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2727515,
+          44.8536284
+        ]
+      },
+      "id": "node/9520678412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520689385",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.597303,
+          48.9666064
+        ]
+      },
+      "id": "node/9520689385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520689391",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0715658,
+          49.1665876
+        ]
+      },
+      "id": "node/9520689391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520698946",
+        "operator": "Covage",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8179528,
+          44.3993693
+        ]
+      },
+      "id": "node/9520698946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520698982",
+        "operator": "Covage",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5003195,
+          43.4645144
+        ]
+      },
+      "id": "node/9520698982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520707217",
+        "operator": "Cegetel",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6785387,
+          48.603019
+        ]
+      },
+      "id": "node/9520707217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520726934",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2278791,
+          46.1427708
+        ]
+      },
+      "id": "node/9520726934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520726940",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2277629,
+          46.1429002
+        ]
+      },
+      "id": "node/9520726940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520726948",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7944634,
+          46.5902101
+        ]
+      },
+      "id": "node/9520726948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520726962",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7946558,
+          46.5901133
+        ]
+      },
+      "id": "node/9520726962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520726973",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4445013,
+          47.0104354
+        ]
+      },
+      "id": "node/9520726973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520726985",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4445646,
+          47.0106642
+        ]
+      },
+      "id": "node/9520726985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520727011",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6411215,
+          47.5213504
+        ]
+      },
+      "id": "node/9520727011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520739497",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.321668,
+          46.4379963
+        ]
+      },
+      "id": "node/9520739497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520739506",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4599286,
+          43.7187846
+        ]
+      },
+      "id": "node/9520739506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520739515",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5362107,
+          43.2049237
+        ]
+      },
+      "id": "node/9520739515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520740191",
+        "operator": "Lumen",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4936387,
+          49.2807984
+        ]
+      },
+      "id": "node/9520740191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520740192",
+        "operator": "Lumen",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7963111,
+          49.8663713
+        ]
+      },
+      "id": "node/9520740192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520740213",
+        "operator": "Lumen",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7470548,
+          50.1999909
+        ]
+      },
+      "id": "node/9520740213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520751021",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3529968,
+          48.585908
+        ]
+      },
+      "id": "node/9520751021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520751041",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.909433,
+          48.7921554
+        ]
+      },
+      "id": "node/9520751041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520751067",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4011945,
+          49.1963637
+        ]
+      },
+      "id": "node/9520751067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520751105",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3692111,
+          49.4269679
+        ]
+      },
+      "id": "node/9520751105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520751111",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1016305,
+          49.3648959
+        ]
+      },
+      "id": "node/9520751111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520751121",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9236289,
+          49.0831257
+        ]
+      },
+      "id": "node/9520751121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520751129",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4608338,
+          43.4054883
+        ]
+      },
+      "id": "node/9520751129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520751138",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0721817,
+          43.8633867
+        ]
+      },
+      "id": "node/9520751138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520751150",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9552581,
+          44.4508975
+        ]
+      },
+      "id": "node/9520751150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520751151",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9550017,
+          44.4503741
+        ]
+      },
+      "id": "node/9520751151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520751164",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6518623,
+          44.1918583
+        ]
+      },
+      "id": "node/9520751164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520751175",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.556069,
+          46.760655
+        ]
+      },
+      "id": "node/9520751175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520751185",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2908189,
+          43.838758
+        ]
+      },
+      "id": "node/9520751185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520778720",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0771664,
+          45.6304863
+        ]
+      },
+      "id": "node/9520778720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520778725",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2576604,
+          46.2037568
+        ]
+      },
+      "id": "node/9520778725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520778745",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.825813,
+          47.3501112
+        ]
+      },
+      "id": "node/9520778745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520778746",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7331799,
+          43.6932241
+        ]
+      },
+      "id": "node/9520778746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520778753",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9566377,
+          44.1715626
+        ]
+      },
+      "id": "node/9520778753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520778769",
+        "operator": "Lumen",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.956326,
+          44.1719831
+        ]
+      },
+      "id": "node/9520778769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520778774",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4282214,
+          44.4321467
+        ]
+      },
+      "id": "node/9520778774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520778780",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8997537,
+          43.4748612
+        ]
+      },
+      "id": "node/9520778780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520794918",
+        "operator": "Lumen",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8324557,
+          50.8319017
+        ]
+      },
+      "id": "node/9520794918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520794922",
+        "operator": "Lumen",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0890177,
+          50.0921422
+        ]
+      },
+      "id": "node/9520794922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520794928",
+        "operator": "Lumen",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7621152,
+          49.521904
+        ]
+      },
+      "id": "node/9520794928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520794932",
+        "operator": "Lumen",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3233412,
+          48.8368148
+        ]
+      },
+      "id": "node/9520794932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520794935",
+        "operator": "Lumen",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3094094,
+          48.7352682
+        ]
+      },
+      "id": "node/9520794935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520794944",
+        "operator": "Lumen",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.277202,
+          48.817809
+        ]
+      },
+      "id": "node/9520794944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520794952",
+        "operator": "Lumen",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2137146,
+          48.7921615
+        ]
+      },
+      "id": "node/9520794952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520794961",
+        "operator": "Lumen",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0685103,
+          48.8194912
+        ]
+      },
+      "id": "node/9520794961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520794970",
+        "operator": "Lumen",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7321977,
+          43.6938018
+        ]
+      },
+      "id": "node/9520794970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520794976",
+        "operator": "Lumen",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.475132,
+          44.3966453
+        ]
+      },
+      "id": "node/9520794976"
     }
   ]
 }

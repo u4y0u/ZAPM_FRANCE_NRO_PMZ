@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-12T19:26:25Z",
+  "timestamp": "2022-02-20T07:34:54Z",
   "features": [
     {
       "type": "Feature",
@@ -44053,6 +44053,7 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
+        "ref:FR:PTT": "74281MER",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
@@ -57206,6 +57207,30 @@
         ]
       },
       "id": "node/9476415136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503306703",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "name": "AIF A03",
+        "operator": "Orange",
+        "ref:FR:PTT": "A03",
+        "ref:FR:PTT:NRA": "AIF",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4239402,
+          46.2969416
+        ]
+      },
+      "id": "node/9503306703"
     }
   ]
 }
