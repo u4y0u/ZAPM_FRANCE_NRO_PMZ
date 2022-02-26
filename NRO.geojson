@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-20T07:33:53Z",
+  "timestamp": "2022-02-26T13:56:42Z",
   "features": [
     {
       "type": "Feature",
@@ -19733,6 +19733,8 @@
       "properties": {
         "@id": "node/8221825050",
         "operator": "Zayo",
+        "operator:wikidata": "Q8067574",
+        "operator:wikipedia": "en:Zayo Group",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -30454,6 +30456,307 @@
         ]
       },
       "id": "node/9520794976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9521429596",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1505943,
+          45.8056609
+        ]
+      },
+      "id": "node/9521429596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9521429598",
+        "operator": "Covage",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1424343,
+          45.7993644
+        ]
+      },
+      "id": "node/9521429598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522351353",
+        "operator": "Lumen",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1201553,
+          50.2843504
+        ]
+      },
+      "id": "node/9522351353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522351370",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1203335,
+          50.2845161
+        ]
+      },
+      "id": "node/9522351370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522351371",
+        "operator": "Lumen",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9685096,
+          49.6184688
+        ]
+      },
+      "id": "node/9522351371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9530594932",
+        "name": "NRO",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "N070VCC",
+        "source": "https://twitter.com/Hades73440/status/1496511506506211328",
+        "start_date": "23/02/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8279695,
+          47.6545211
+        ]
+      },
+      "id": "node/9530594932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9530597408",
+        "name": "NRO",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "N070VT4",
+        "source": "https://twitter.com/Hades73440/status/1496470097162125315",
+        "start_date": "23/02/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7624239,
+          47.8174369
+        ]
+      },
+      "id": "node/9530597408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9530661623",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6389649,
+          47.2466177
+        ]
+      },
+      "id": "node/9530661623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9530661624",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3778716,
+          47.3418157
+        ]
+      },
+      "id": "node/9530661624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9530661630",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1668029,
+          47.1033171
+        ]
+      },
+      "id": "node/9530661630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9530661642",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9409784,
+          46.6562171
+        ]
+      },
+      "id": "node/9530661642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9530661647",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9396025,
+          46.656339
+        ]
+      },
+      "id": "node/9530661647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9530848914",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5864089,
+          47.9435037
+        ]
+      },
+      "id": "node/9530848914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9530957425",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1701097,
+          48.7132935
+        ]
+      },
+      "id": "node/9530957425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9530957448",
+        "operator": "Sipartech",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1698607,
+          48.7131216
+        ]
+      },
+      "id": "node/9530957448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9532322242",
+        "name": "NRO",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "N070RAD",
+        "start_date": "24/02/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4675667,
+          47.8411952
+        ]
+      },
+      "id": "node/9532322242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9532921378",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8093499,
+          43.1001456
+        ]
+      },
+      "id": "node/9532921378"
     }
   ]
 }
