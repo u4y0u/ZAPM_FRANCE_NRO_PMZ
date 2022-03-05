@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-26T13:58:40Z",
+  "timestamp": "2022-03-05T09:14:54Z",
   "features": [
     {
       "type": "Feature",
@@ -57231,6 +57231,51 @@
         ]
       },
       "id": "node/9503306703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9554040214",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "name": "SR Surimeau",
+        "operator": "Orange",
+        "ref:FR:PTT": "A18",
+        "ref:FR:PTT:NRA": "NBO",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.452944,
+          46.3553865
+        ]
+      },
+      "id": "node/9554040214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9555645663",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "QFY/ECM/CHE",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4901786,
+          46.1685054
+        ]
+      },
+      "id": "node/9555645663"
     }
   ]
 }

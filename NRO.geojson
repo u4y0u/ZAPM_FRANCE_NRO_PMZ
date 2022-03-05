@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-02-26T13:56:42Z",
+  "timestamp": "2022-03-05T09:13:55Z",
   "features": [
     {
       "type": "Feature",
@@ -9744,7 +9744,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/276884854",
-        "name": "NRO Free BER34",
+        "name": "NRO FREE BER34",
         "operator": "Free",
         "ref": "BER34",
         "telecom": "exchange",
@@ -10169,7 +10169,10 @@
       "properties": {
         "@id": "node/6161996572",
         "location": "indoor",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref:FR:Orange": "10387EUR",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -12096,6 +12099,7 @@
         "name": "AMS80",
         "office": "telecommunication",
         "operator": "Orange",
+        "ref:FR:Orange": "80021AMS",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -16664,7 +16668,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7994894587",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref:FR:Orange": "14191CSL",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -20859,8 +20866,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.1386595,
-          47.1051576
+          6.1389223,
+          47.105143
         ]
       },
       "id": "node/8222707016"
@@ -26555,10 +26562,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8431045351",
-        "name": "NRO Is-sur-Tille",
+        "name": "NRO IS-SUR-TILLE",
         "operator": "Orange",
         "owner": "BFC fibre",
-        "ref": "NRO Is-sur-Tille",
+        "ref": "NRO IS-SUR-TILLE",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -30757,6 +30764,46 @@
         ]
       },
       "id": "node/9532921378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9548064219",
+        "operator": "SFR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.495371,
+          50.6162891
+        ]
+      },
+      "id": "node/9548064219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9551839435",
+        "colour": "white",
+        "image": "https://pbs.twimg.com/media/FM3g8W-XwAIlHok?format=jpg&name=medium",
+        "name": "NRO de Nontron",
+        "note": "Emplacement exact à valider",
+        "source": "https://twitter.com/PerigordNum/status/1499101584306982913",
+        "start_date": "2022-03-02",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6651764,
+          45.5319945
+        ]
+      },
+      "id": "node/9551839435"
     }
   ]
 }
