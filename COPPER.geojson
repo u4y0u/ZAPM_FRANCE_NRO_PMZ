@@ -2,53 +2,8 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-05T09:14:54Z",
+  "timestamp": "2022-03-11T18:12:53Z",
   "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/41197540",
-        "location": "pavement",
-        "man_made": "street_cabinet",
-        "name": "NCB B24",
-        "operator": "Orange",
-        "ref:FR:PTT": "B24",
-        "ref:FR:PTT:NRA": "NCB",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -0.4657515,
-              46.3145079
-            ],
-            [
-              -0.4657508,
-              46.3144882
-            ],
-            [
-              -0.4657254,
-              46.3144886
-            ],
-            [
-              -0.4657261,
-              46.3145083
-            ],
-            [
-              -0.4657515,
-              46.3145079
-            ]
-          ]
-        ]
-      },
-      "id": "way/41197540"
-    },
     {
       "type": "Feature",
       "properties": {
@@ -55334,6 +55289,7 @@
         "location": "pavement",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "ref:FR:Orange": "QVR/NCO/C07",
         "ref:FR:PTT": "C07",
         "ref:FR:PTT:NRA": "NCO",
         "street_cabinet": "telecom",
@@ -55357,6 +55313,7 @@
         "location": "pavement",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "ref:FR:Orange": "QVR/NBO/A10",
         "ref:FR:PTT": "A10",
         "ref:FR:PTT:NRA": "NBO",
         "street_cabinet": "telecom",
@@ -55380,6 +55337,7 @@
         "location": "pavement",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "ref:FR:Orange": "QVR/NBO/A22",
         "ref:FR:PTT": "A22",
         "ref:FR:PTT:NRA": "NBO",
         "street_cabinet": "telecom",
@@ -55403,6 +55361,7 @@
         "location": "pavement",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "ref:FR:Orange": "QVR/NCB/B28",
         "ref:FR:PTT": "B28",
         "ref:FR:PTT:NRA": "NCB",
         "street_cabinet": "telecom",
@@ -55426,6 +55385,7 @@
         "location": "pavement",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "ref:FR:Orange": "QVR/NCB/B30",
         "ref:FR:PTT": "B30",
         "ref:FR:PTT:NRA": "NCB",
         "street_cabinet": "telecom",
@@ -55449,6 +55409,7 @@
         "location": "pavement",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "ref:FR:Orange": "QVR/NBO/A45",
         "ref:FR:PTT": "A45",
         "ref:FR:PTT:NRA": "NBO",
         "street_cabinet": "telecom",
@@ -55472,6 +55433,7 @@
         "location": "pavement",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "ref:FR:Orange": "QVR/NBO/A28",
         "ref:FR:PTT": "A28",
         "ref:FR:PTT:NRA": "NBO",
         "street_cabinet": "telecom",
@@ -55495,6 +55457,7 @@
         "location": "pavement",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "ref:FR:Orange": "QVR/NBO/A37",
         "ref:FR:PTT": "A37",
         "ref:FR:PTT:NRA": "NBO",
         "street_cabinet": "telecom",
@@ -55518,6 +55481,7 @@
         "location": "pavement",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "ref:FR:Orange": "QVR/NBO/A39",
         "ref:FR:PTT": "A39",
         "ref:FR:PTT:NRA": "NBO",
         "street_cabinet": "telecom",
@@ -55541,6 +55505,7 @@
         "location": "pavement",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "ref:FR:Orange": "QVR/NBO/A06",
         "ref:FR:PTT": "A06",
         "ref:FR:PTT:NRA": "NBO",
         "street_cabinet": "telecom",
@@ -55564,6 +55529,7 @@
         "location": "pavement",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "ref:FR:Orange": "QVR/NBO/A05",
         "ref:FR:PTT": "A05",
         "ref:FR:PTT:NRA": "NBO",
         "street_cabinet": "telecom",
@@ -55587,6 +55553,7 @@
         "location": "pavement",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "ref:FR:Orange": "QVR/NBO/A29",
         "ref:FR:PTT": "A29",
         "ref:FR:PTT:NRA": "NBO",
         "street_cabinet": "telecom",
@@ -55610,6 +55577,7 @@
         "location": "pavement",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "ref:FR:Orange": "QVR/NCB/B04",
         "ref:FR:PTT": "B04",
         "ref:FR:PTT:NRA": "NCB",
         "street_cabinet": "telecom",
@@ -55633,6 +55601,7 @@
         "location": "pavement",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "ref:FR:Orange": "QVR/NCB/B20",
         "ref:FR:PTT": "B20",
         "ref:FR:PTT:NRA": "NCB",
         "street_cabinet": "telecom",
@@ -55656,6 +55625,7 @@
         "location": "pavement",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "ref:FR:Orange": "QVR/NCB/B18",
         "ref:FR:PTT": "B18",
         "ref:FR:PTT:NRA": "NCB",
         "street_cabinet": "telecom",
@@ -55679,6 +55649,7 @@
         "location": "pavement",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "ref:FR:Orange": "QVR/NBO/A09",
         "ref:FR:PTT": "A09",
         "ref:FR:PTT:NRA": "NBO",
         "street_cabinet": "telecom",
@@ -57171,6 +57142,7 @@
         "location": "pavement",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "ref:FR:Orange": "QVR/ENE/A01",
         "ref:FR:PTT": "A01",
         "ref:FR:PTT:NRA": "BES",
         "street_cabinet": "telecom",
@@ -57216,6 +57188,7 @@
         "man_made": "street_cabinet",
         "name": "AIF A03",
         "operator": "Orange",
+        "ref:FR:Orange": "QVR/AIF/A03",
         "ref:FR:PTT": "A03",
         "ref:FR:PTT:NRA": "AIF",
         "street_cabinet": "telecom",
@@ -57240,6 +57213,7 @@
         "man_made": "street_cabinet",
         "name": "SR Surimeau",
         "operator": "Orange",
+        "ref:FR:Orange": "QVR/NBO/A18",
         "ref:FR:PTT": "A18",
         "ref:FR:PTT:NRA": "NBO",
         "street_cabinet": "telecom",
@@ -57276,6 +57250,130 @@
         ]
       },
       "id": "node/9555645663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9556263448",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "name": "NCB B24",
+        "operator": "Orange",
+        "ref:FR:Orange": "QVR/NCB/B24",
+        "ref:FR:PTT": "B24",
+        "ref:FR:PTT:NRA": "NCB",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4657381,
+          46.314507
+        ]
+      },
+      "id": "node/9556263448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9556493506",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "QVR/NCB/B27",
+        "ref:FR:PTT": "B27",
+        "ref:FR:PTT:NRA": "NCB",
+        "source": "survey",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4657254,
+          46.3196486
+        ]
+      },
+      "id": "node/9556493506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9556493507",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "QVR/NBO/A34",
+        "ref:FR:PTT": "A34",
+        "ref:FR:PTT:NRA": "NBO",
+        "source": "survey",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4645774,
+          46.3241605
+        ]
+      },
+      "id": "node/9556493507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9556493508",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "QVR/NBO/A21",
+        "ref:FR:PTT": "A21",
+        "ref:FR:PTT:NRA": "NBO",
+        "source": "survey",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4621436,
+          46.3225092
+        ]
+      },
+      "id": "node/9556493508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9558389546",
+        "location": "green",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:Orange": "QFY/VFC/CHA",
+        "ref:FR:PTT:NRA": "69264VFC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7148675,
+          46.0048038
+        ]
+      },
+      "id": "node/9558389546"
     }
   ]
 }
