@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-05T09:13:55Z",
+  "timestamp": "2022-03-18T15:45:09Z",
   "features": [
     {
       "type": "Feature",
@@ -5979,6 +5979,8 @@
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "owner": "BFC Fibre",
         "ref": "NRO39233FO",
         "telecom": "exchange",
@@ -9609,48 +9611,6 @@
         ]
       },
       "id": "way/1008154308"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1013685844",
-        "addr:city": "Flangebouche",
-        "addr:postcode": "25390",
-        "addr:street": "Rue Gustave Morel",
-        "building": "yes",
-        "name": "SRO",
-        "ref": "PMU-25-031-LC / PMU-25-031-CX",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.4740295,
-              47.1421522
-            ],
-            [
-              6.4740263,
-              47.1421171
-            ],
-            [
-              6.474097,
-              47.1421141
-            ],
-            [
-              6.4741002,
-              47.1421492
-            ],
-            [
-              6.4740295,
-              47.1421522
-            ]
-          ]
-        ]
-      },
-      "id": "way/1013685844"
     },
     {
       "type": "Feature",
@@ -20522,8 +20482,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.2383247,
-          47.0467965
+          6.2385284,
+          47.0468018
         ]
       },
       "id": "node/8222625196"
@@ -23077,7 +23037,10 @@
         "@id": "node/8231004193",
         "addr:city": "Génolhac",
         "addr:postcode": "30450",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref:FR:Orange": "30130GHC",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -30804,6 +30767,46 @@
         ]
       },
       "id": "node/9551839435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9580843110",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Dioptic",
+        "ref": "NRO-25-022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8487963,
+          47.4047362
+        ]
+      },
+      "id": "node/9580843110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9580917327",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "NRO-25-019",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6934528,
+          47.4516018
+        ]
+      },
+      "id": "node/9580917327"
     }
   ]
 }
