@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-18T15:45:09Z",
+  "timestamp": "2022-03-26T06:58:10Z",
   "features": [
     {
       "type": "Feature",
@@ -27561,10 +27561,15 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9199179990",
+        "location": "indoor",
         "name": "NRO",
+        "operator": "Altitude",
+        "owner": "PixlFibre",
         "ref": "NRO-40-005",
+        "source": "https://twitter.com/altitude_infra/status/1507049151846039563",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -30807,6 +30812,66 @@
         ]
       },
       "id": "node/9580917327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9588629755",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1103434,
+          47.0854406
+        ]
+      },
+      "id": "node/9588629755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9600598342",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Yconik Fibre",
+        "ref": "89_0015",
+        "source": "https://www.linkedin.com/feed/update/urn:li:activity:6912435453375729664/",
+        "start_date": "23/03/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3043126,
+          48.0296502
+        ]
+      },
+      "id": "node/9600598342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9603019930",
+        "Start_date": "24/03/2022",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Yconik Fibre",
+        "ref": "89_0017",
+        "source": "https://twitter.com/GLarrive/status/1506945207836844042",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0917652,
+          47.8868044
+        ]
+      },
+      "id": "node/9603019930"
     }
   ]
 }

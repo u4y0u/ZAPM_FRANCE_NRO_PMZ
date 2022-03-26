@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-18T15:49:24Z",
+  "timestamp": "2022-03-26T07:00:16Z",
   "features": [
     {
       "type": "Feature",
@@ -43943,6 +43943,7 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
+        "ref:FR:PTT": "74281CER",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
@@ -43951,8 +43952,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.4787058,
-          46.368256
+          6.4787011,
+          46.3682474
         ]
       },
       "id": "node/8090950220"
@@ -57399,6 +57400,101 @@
         ]
       },
       "id": "node/9579171918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9596965192",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "QVR/CRE/A01",
+        "ref:FR:PTT": "A01",
+        "ref:FR:PTT:NRA": "CRE",
+        "source": "survey",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3056042,
+          46.3573348
+        ]
+      },
+      "id": "node/9596965192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9597364364",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "QVR/9HM/A04",
+        "ref:FR:PTT": "A04",
+        "ref:FR:PTT:NRA": "9HM",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3329832,
+          46.3418237
+        ]
+      },
+      "id": "node/9597364364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9602013672",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "QVR/CRY/A03",
+        "ref:FR:PTT": "A03",
+        "ref:FR:PTT:NRA": "CRY",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3489487,
+          46.372598
+        ]
+      },
+      "id": "node/9602013672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9602016446",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "QVR/CRY/A05",
+        "ref:FR:PTT": "A05",
+        "ref:FR:PTT:NRA": "CRY",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3952476,
+          46.3468262
+        ]
+      },
+      "id": "node/9602016446"
     }
   ]
 }
