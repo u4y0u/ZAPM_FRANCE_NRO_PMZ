@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-26T06:58:10Z",
+  "timestamp": "2022-04-02T06:16:57Z",
   "features": [
     {
       "type": "Feature",
@@ -9703,6 +9703,48 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/1044355425",
+        "building": "service",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72068_CHAR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.5766524,
+              47.7273481
+            ],
+            [
+              0.5766194,
+              47.7273467
+            ],
+            [
+              0.5766243,
+              47.7272927
+            ],
+            [
+              0.5766575,
+              47.7272942
+            ],
+            [
+              0.5766524,
+              47.7273481
+            ]
+          ]
+        ]
+      },
+      "id": "way/1044355425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/276884854",
         "name": "NRO FREE BER34",
         "operator": "Free",
@@ -11731,24 +11773,6 @@
         ]
       },
       "id": "node/7151116016"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/7151148693",
-        "operator": "Orange",
-        "ref:FR:Orange": "18033PER",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.4015371,
-          47.0688148
-        ]
-      },
-      "id": "node/7151148693"
     },
     {
       "type": "Feature",
@@ -30855,12 +30879,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9603019930",
-        "Start_date": "24/03/2022",
         "name": "NRO",
         "operator": "Altitude",
         "owner": "Yconik Fibre",
         "ref": "89_0017",
         "source": "https://twitter.com/GLarrive/status/1506945207836844042",
+        "start_date": "2022-03-24",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -30872,6 +30896,89 @@
         ]
       },
       "id": "node/9603019930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9609916004",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72262_RULO",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6144591,
+          47.7493413
+        ]
+      },
+      "id": "node/9609916004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9624202647",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "N070CHT",
+        "source": "https://twitter.com/Hades73440/status/1509180474849169408",
+        "start_date": "30/03/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5109941,
+          47.6179492
+        ]
+      },
+      "id": "node/9624202647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9624230735",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "N070SLN",
+        "source": "https://twitter.com/Hades73440/status/1509180272083935233",
+        "start_date": "30/03/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6264737,
+          47.5613887
+        ]
+      },
+      "id": "node/9624230735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9626871246",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "N070CBF",
+        "source": "https://twitter.com/Hades73440/status/1509555963182911500",
+        "start_date": "31/03/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8902637,
+          47.7113118
+        ]
+      },
+      "id": "node/9626871246"
     }
   ]
 }

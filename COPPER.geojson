@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-03-26T07:00:16Z",
+  "timestamp": "2022-04-02T06:17:59Z",
   "features": [
     {
       "type": "Feature",
@@ -11263,6 +11263,31 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/6299345491",
+        "building": "service",
+        "colour": "#aa7942",
+        "description": "46012AYK",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref": "46012AYK",
+        "ref:FR:PTT": "46012AYK",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8509972,
+          44.7838744
+        ]
+      },
+      "id": "node/6299345491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/6299354137",
         "location": "grass",
         "man_made": "street_cabinet",
@@ -17668,26 +17693,6 @@
         ]
       },
       "id": "node/6905295078"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/6918193552",
-        "description": "Sous répartiteur cuivre ADSL / VDSL",
-        "man_made": "street_cabinet",
-        "operator": "Orange",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "copper"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.8511622,
-          44.7838518
-        ]
-      },
-      "id": "node/6918193552"
     },
     {
       "type": "Feature",
@@ -57495,6 +57500,46 @@
         ]
       },
       "id": "node/9602016446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9611589983",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4069816,
+          46.0760189
+        ]
+      },
+      "id": "node/9611589983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9624065730",
+        "man_made": "street_cabinet",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.520428,
+          46.662048
+        ]
+      },
+      "id": "node/9624065730"
     }
   ]
 }
