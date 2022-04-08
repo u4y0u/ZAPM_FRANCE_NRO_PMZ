@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-02T06:17:59Z",
+  "timestamp": "2022-04-08T13:42:12Z",
   "features": [
     {
       "type": "Feature",
@@ -9925,8 +9925,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.1827989,
-          46.0547428
+          6.1827815,
+          46.0547554
         ]
       },
       "id": "node/6182389679"
@@ -29339,28 +29339,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7489101879",
-        "man_made": "street_cabinet",
-        "name": "SR",
-        "operator": "Orange",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "copper",
-        "utility": "telecom",
-        "wikimedia_commons": "File:NRA MeD Châtres K1C 24.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.2062365,
-          45.1871949
-        ]
-      },
-      "id": "node/7489101879"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/7489101880",
         "man_made": "street_cabinet",
         "name": "SR",
@@ -29903,8 +29881,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.1614232,
-          45.0704849
+          1.1614089,
+          45.0704803
         ]
       },
       "id": "node/7492502875"
@@ -57540,6 +57518,46 @@
         ]
       },
       "id": "node/9624065730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9632925333",
+        "man_made": "street_cabinet",
+        "name": "SR",
+        "operator": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom",
+        "wikimedia_commons": "File:PMZ FI-17100-0002.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4465486,
+          45.6991753
+        ]
+      },
+      "id": "node/9632925333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9636793702",
+        "man_made": "street_cabinet",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6439661,
+          46.8246873
+        ]
+      },
+      "id": "node/9636793702"
     }
   ]
 }

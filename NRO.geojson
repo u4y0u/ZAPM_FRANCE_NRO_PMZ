@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-02T06:16:57Z",
+  "timestamp": "2022-04-08T13:39:12Z",
   "features": [
     {
       "type": "Feature",
@@ -9741,6 +9741,44 @@
         ]
       },
       "id": "way/1044355425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1047710987",
+        "building": "yes",
+        "owner": "Losange",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.949865,
+              48.1939747
+            ],
+            [
+              6.9498816,
+              48.1939557
+            ],
+            [
+              6.9499406,
+              48.1939785
+            ],
+            [
+              6.949924,
+              48.1939977
+            ],
+            [
+              6.949865,
+              48.1939747
+            ]
+          ]
+        ]
+      },
+      "id": "way/1047710987"
     },
     {
       "type": "Feature",
@@ -22943,7 +22981,7 @@
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
-        "wikimedia_commons": "File:NRO Montignac (2).jpg"
+        "wikimedia_commons": "File:NRO Montignac.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -30979,6 +31017,32 @@
         ]
       },
       "id": "node/9626871246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9632925331",
+        "addr:city": "Brives-sur-Charente",
+        "addr:postcode": "17800",
+        "name": "NRO IVB",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
+        "ref": "IVB",
+        "ref:FR:Orange:NRO": "IVB",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRA Brives BRV 17.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4621871,
+          45.6723443
+        ]
+      },
+      "id": "node/9632925331"
     }
   ]
 }
