@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-08T13:39:12Z",
+  "timestamp": "2022-04-23T09:08:54Z",
   "features": [
     {
       "type": "Feature",
@@ -5571,24 +5571,24 @@
         "coordinates": [
           [
             [
-              3.4188944,
-              43.3909206
+              3.4188884,
+              43.3909149
             ],
             [
-              3.4188636,
-              43.3908329
+              3.4188634,
+              43.3908327
             ],
             [
-              3.4189025,
-              43.3908261
+              3.4189018,
+              43.3908265
             ],
             [
-              3.418932,
-              43.3909138
+              3.4189268,
+              43.3909087
             ],
             [
-              3.4188944,
-              43.3909206
+              3.4188884,
+              43.3909149
             ]
           ]
         ]
@@ -9938,6 +9938,8 @@
         "colour": "green",
         "man_made": "street_cabinet",
         "operator": "SFR",
+        "operator:wikidata": "Q218765",
+        "operator:wikipedia": "fr:SFR",
         "owner": "SFR",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -31043,6 +31045,28 @@
         ]
       },
       "id": "node/9632925331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9682923377",
+        "name": "NRO",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "N070PLB",
+        "source": "https://twitter.com/Hades73440/status/1517109480923836417",
+        "start_date": "21/04/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7328243,
+          47.719968
+        ]
+      },
+      "id": "node/9682923377"
     }
   ]
 }

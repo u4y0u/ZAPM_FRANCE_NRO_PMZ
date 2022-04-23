@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-08T13:42:12Z",
+  "timestamp": "2022-04-23T09:10:54Z",
   "features": [
     {
       "type": "Feature",
@@ -42243,6 +42243,7 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "ref:FR:PTT": "74133ZIC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper"
@@ -57558,6 +57559,71 @@
         ]
       },
       "id": "node/9636793702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9669056517",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:PTT": "74430GRN",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6406922,
+          46.2262239
+        ]
+      },
+      "id": "node/9669056517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9674451804",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5866307,
+          44.7867292
+        ]
+      },
+      "id": "node/9674451804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9674857397",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "note": "771 982J",
+        "operator": "Orange",
+        "ref": "96-4D-240",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5849764,
+          44.7992292
+        ]
+      },
+      "id": "node/9674857397"
     }
   ]
 }
