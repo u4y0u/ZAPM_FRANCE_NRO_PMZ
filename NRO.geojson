@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-23T09:08:54Z",
+  "timestamp": "2022-04-23T16:31:06Z",
   "features": [
     {
       "type": "Feature",
@@ -18053,7 +18053,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221610023",
+        "addr:city": "Artenay",
+        "addr:postcode": "45410",
+        "addr:street": "Rue d'Orléans",
         "operator": "SFR",
+        "operator:wikidata": "Q218765",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -31067,6 +31071,235 @@
         ]
       },
       "id": "node/9682923377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9687643456",
+        "addr:city": "Artenay",
+        "addr:postcode": "45410",
+        "name": "NRO",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8789068,
+          48.0760102
+        ]
+      },
+      "id": "node/9687643456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9687821705",
+        "addr:city": "Sury-aux-Bois",
+        "addr:postcode": "45530",
+        "addr:street": "Route de Combreux",
+        "colour": "green",
+        "name": "NRO Sury-aux-Bois",
+        "source": "https://twitter.com/ggavet/status/1496021535903076353",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3401846,
+          47.9636257
+        ]
+      },
+      "id": "node/9687821705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9687826023",
+        "addr:city": "Briarres-sur-Essonne",
+        "addr:postcode": "45390",
+        "addr:street": "Rue Grande",
+        "colour": "brown",
+        "name": "NRO Briarres-sur-Essonne",
+        "source": "https://xpfibre.com/actualites/briarres-sur-essonne-installation-du-dernier-nro-de-la-phase-2-du-deploiement-de-lysseo;https://twitter.com/leloiret/status/1514254847410900996",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4296997,
+          48.2256131
+        ]
+      },
+      "id": "node/9687826023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9687861304",
+        "addr:city": "Ascoux",
+        "addr:postcode": "45300",
+        "addr:street": "Rue de la Montagne",
+        "colour": "white",
+        "name": "NRO Ascoux",
+        "source": "https://twitter.com/ggavet/status/1501868812160974849",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2490786,
+          48.1293417
+        ]
+      },
+      "id": "node/9687861304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9687947117",
+        "addr:city": "La Bussière",
+        "addr:postcode": "45230",
+        "addr:street": "Route d'Adon",
+        "name": "NRO La Bussiere",
+        "source": "https://twitter.com/ggavet/status/1468208000817156098;https://www.larep.fr/bussiere-45230/actualites/la-fibre-fait-son-arrivee-dans-le-territoire_14055574/",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7531904,
+          47.7484619
+        ]
+      },
+      "id": "node/9687947117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9687971782",
+        "colour": "green",
+        "man_made": "street_cabinet",
+        "name": "NRO Lailly en Val",
+        "source": "https://twitter.com/ggavet/status/1448642112476565504",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6856988,
+          47.7705437
+        ]
+      },
+      "id": "node/9687971782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9688008495",
+        "addr:city": "Chilleurs-aux-Bois",
+        "addr:street": "Rue de la Boulangère",
+        "name": "NRO Chilleurs-aux-Bois",
+        "source": "https://twitter.com/ggavet/status/1448300103102603265",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1350709,
+          48.0751285
+        ]
+      },
+      "id": "node/9688008495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9688010053",
+        "addr:city": "Saint-Gondon",
+        "addr:postcode": "45500",
+        "colour": "green",
+        "name": "NRO Saint-Gondon",
+        "source": "https://twitter.com/ggavet/status/1443545182515965953",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5353985,
+          47.7042963
+        ]
+      },
+      "id": "node/9688010053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9688060155",
+        "addr:city": "Boynes",
+        "addr:postcode": "45300",
+        "addr:street": "Rue du 8 Mai 1945",
+        "colour": "white",
+        "name": "NRO Boynes",
+        "source": "https://www.larep.fr/boynes-45300/actualites/la-fibre-optique-bientot-operationnelle_14018342/;https://twitter.com/ggavet/status/1443205636569935872;https://twitter.com/ggavet/status/1441032725184516108",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3660111,
+          48.116268
+        ]
+      },
+      "id": "node/9688060155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9688196677",
+        "addr:city": "Montgaillard",
+        "addr:postcode": "81630",
+        "addr:street": "Route de Beauvais",
+        "colour": "green",
+        "name": "NRO Montgaillard",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5937773,
+          43.9075125
+        ]
+      },
+      "id": "node/9688196677"
     }
   ]
 }
