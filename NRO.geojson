@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-23T16:31:06Z",
+  "timestamp": "2022-04-26T10:56:38Z",
   "features": [
     {
       "type": "Feature",
@@ -31300,6 +31300,28 @@
         ]
       },
       "id": "node/9688196677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9694730294",
+        "addr:city": "Gidy",
+        "addr:postcode": "45520",
+        "colour": "green",
+        "source": "https://twitter.com/u4y0u/status/1518905172675735558",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8398968,
+          47.9815835
+        ]
+      },
+      "id": "node/9694730294"
     }
   ]
 }
