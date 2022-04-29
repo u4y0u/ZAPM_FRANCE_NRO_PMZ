@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-24T09:13:57Z",
+  "timestamp": "2022-04-29T16:37:28Z",
   "features": [
     {
       "type": "Feature",
@@ -21159,15 +21159,15 @@
         "@id": "node/7220831259",
         "man_made": "street_cabinet",
         "street_cabinet": "telecom",
-        "survey:date": "2019-10-11",
+        "survey:date": "2022-04-26",
         "telecom": "connection_point",
         "telecom:medium": "copper"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.7306027,
-          45.189453
+          5.7305139,
+          45.1894294
         ]
       },
       "id": "node/7220831259"
@@ -57734,6 +57734,30 @@
         ]
       },
       "id": "node/9687964585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9693853058",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "QVR/NCB/B09",
+        "ref:FR:PTT": "B09",
+        "ref:FR:PTT:NRA": "NCB",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4793014,
+          46.3245069
+        ]
+      },
+      "id": "node/9693853058"
     }
   ]
 }

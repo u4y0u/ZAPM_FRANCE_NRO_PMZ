@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-26T11:23:07Z",
+  "timestamp": "2022-04-29T16:39:30Z",
   "features": [
     {
       "type": "Feature",
@@ -5158,16 +5158,36 @@
               48.8643956
             ],
             [
-              2.3427867,
-              48.864394
+              2.3427838,
+              48.8643937
             ],
             [
-              2.3427552,
-              48.8643795
+              2.3427679,
+              48.8643876
             ],
             [
-              2.3427435,
-              48.864363
+              2.3427609,
+              48.864384
+            ],
+            [
+              2.342755,
+              48.86438
+            ],
+            [
+              2.3427494,
+              48.8643738
+            ],
+            [
+              2.3427452,
+              48.8643674
+            ],
+            [
+              2.3427423,
+              48.8643629
+            ],
+            [
+              2.3427401,
+              48.8643576
             ],
             [
               2.3427379,
@@ -118815,8 +118835,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.1455202,
-          47.5657693
+          6.1479058,
+          47.5647121
         ]
       },
       "id": "node/6289849218"
@@ -119150,8 +119170,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.1942264,
-          47.5770106
+          6.1942793,
+          47.5776038
         ]
       },
       "id": "node/6289849234"
@@ -120458,7 +120478,9 @@
         "@id": "node/6289849700",
         "description": "NRA MeD Bouverans",
         "man_made": "street_cabinet",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "25085RVB",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -122629,6 +122651,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6762134174",
+        "addr:city": "Boulay-les-Barres",
         "name": "Orange",
         "operator": "Orange",
         "operator:wikidata": "Q1431486",

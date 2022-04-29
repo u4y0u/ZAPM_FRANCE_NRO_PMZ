@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-26T10:56:38Z",
+  "timestamp": "2022-04-29T16:34:27Z",
   "features": [
     {
       "type": "Feature",
@@ -5560,7 +5560,6 @@
       "properties": {
         "@id": "way/752271765",
         "building": "service",
-        "name": "POP CAHM",
         "operator": "CAHM",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -31214,6 +31213,7 @@
       "properties": {
         "@id": "node/9688008495",
         "addr:city": "Chilleurs-aux-Bois",
+        "addr:postcode": "45170",
         "addr:street": "Rue de la Boulangère",
         "name": "NRO Chilleurs-aux-Bois",
         "source": "https://twitter.com/ggavet/status/1448300103102603265",
@@ -31308,6 +31308,7 @@
         "addr:city": "Gidy",
         "addr:postcode": "45520",
         "colour": "green",
+        "name": "NRO Gidy",
         "source": "https://twitter.com/u4y0u/status/1518905172675735558",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -31322,6 +31323,50 @@
         ]
       },
       "id": "node/9694730294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9698161807",
+        "name": "NRO",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "N070MEL",
+        "source": "https://twitter.com/Hades73440/status/1519269768406122496",
+        "start_date": "27/04/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5810611,
+          47.7516225
+        ]
+      },
+      "id": "node/9698161807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9698279589",
+        "name": "NRO",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "N070CFN",
+        "source": "https://twitter.com/Hades73440/status/1519345054606938112",
+        "start_date": "27/04/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2103574,
+          47.8132732
+        ]
+      },
+      "id": "node/9698279589"
     }
   ]
 }
