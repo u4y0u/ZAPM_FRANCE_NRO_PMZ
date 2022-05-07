@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-29T16:39:30Z",
+  "timestamp": "2022-05-07T06:04:09Z",
   "features": [
     {
       "type": "Feature",
@@ -5091,6 +5091,7 @@
         "@id": "way/54040539",
         "addr:city": "Paris",
         "addr:postcode": "75001",
+        "architect": "Jean Boussard;Charles Giroud",
         "building": "yes",
         "height": "14",
         "name": "Central téléphonique",
@@ -136520,6 +136521,7 @@
         "addr:street": "Rue Montesquieu",
         "name": "Blois Europe",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "EU141",
         "ref:FR:PTT:NRA": "41018EU1",
@@ -142000,6 +142002,24 @@
         ]
       },
       "id": "node/9687908012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9710095216",
+        "operator": "Orange",
+        "ref:FR:PTT": "69219RAV",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7088794,
+          45.6193571
+        ]
+      },
+      "id": "node/9710095216"
     }
   ]
 }

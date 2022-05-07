@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-04-29T16:34:27Z",
+  "timestamp": "2022-05-07T05:58:58Z",
   "features": [
     {
       "type": "Feature",
@@ -10993,6 +10993,7 @@
         "@id": "node/7147031276",
         "name": "FR141",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "FR141",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -18107,7 +18108,6 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221617053",
-        "building": "service",
         "operator": "Zayo",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -18127,6 +18127,7 @@
         "@id": "node/8221619623",
         "name": "EU141",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "EU141",
         "ref:FR:PTT:NRA": "41018EU1",
@@ -30632,6 +30633,7 @@
       "properties": {
         "@id": "node/9530661623",
         "operator": "SFR",
+        "operator:wikidata": "Q218765",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -31367,6 +31369,24 @@
         ]
       },
       "id": "node/9698279589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9710118517",
+        "operator": "Orange",
+        "ref:FR:Orange:NRO": "69219RAV",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7089197,
+          45.6193861
+        ]
+      },
+      "id": "node/9710118517"
     }
   ]
 }
