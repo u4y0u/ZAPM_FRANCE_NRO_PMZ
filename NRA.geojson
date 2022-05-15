@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-05-07T06:04:09Z",
+  "timestamp": "2022-05-15T09:17:05Z",
   "features": [
     {
       "type": "Feature",
@@ -8361,24 +8361,24 @@
         "coordinates": [
           [
             [
-              5.840851,
-              45.1539603
+              5.8408322,
+              45.1539376
             ],
             [
-              5.8408621,
-              45.1538651
+              5.8408433,
+              45.1538424
             ],
             [
-              5.840989,
-              45.1538725
+              5.8409702,
+              45.1538498
             ],
             [
-              5.8409779,
-              45.1539677
+              5.8409591,
+              45.153945
             ],
             [
-              5.840851,
-              45.1539603
+              5.8408322,
+              45.1539376
             ]
           ]
         ]
@@ -32508,7 +32508,9 @@
       "properties": {
         "@id": "way/82582157",
         "building": "service",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "22186PEF",
         "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
@@ -48349,7 +48351,9 @@
       "properties": {
         "@id": "way/112910771",
         "building": "service",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "05010ASB",
         "source": "ANFR Opendata",
@@ -54418,6 +54422,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
         "telecom": "exchange",
@@ -55177,6 +55182,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
         "telecom": "exchange",
@@ -60687,6 +60693,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
         "telecom": "exchange",
@@ -78401,6 +78408,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
         "telecom": "exchange",
@@ -107339,6 +107347,7 @@
         "@id": "node/1411634699",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
         "telecom": "exchange",
@@ -109929,6 +109938,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -139940,8 +139950,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.4470423,
-          45.1723079
+          0.4470278,
+          45.1723055
         ]
       },
       "id": "node/9384094482"

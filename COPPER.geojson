@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-05-07T06:02:02Z",
+  "timestamp": "2022-05-15T09:14:04Z",
   "features": [
     {
       "type": "Feature",
@@ -57974,6 +57974,27 @@
         ]
       },
       "id": "node/9721590836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9731111719",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:PTT": "74005MAC",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4740124,
+          46.3294531
+        ]
+      },
+      "id": "node/9731111719"
     }
   ]
 }

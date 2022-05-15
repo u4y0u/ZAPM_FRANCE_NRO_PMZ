@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-05-07T05:58:58Z",
+  "timestamp": "2022-05-15T09:12:02Z",
   "features": [
     {
       "type": "Feature",
@@ -3126,9 +3126,12 @@
       "properties": {
         "@id": "way/665669939",
         "building": "service",
+        "building:levels": "1",
         "name": "NRO",
         "operator": "Covage",
         "owner": "Syane",
+        "roof:orientation": "along",
+        "roof:shape": "gabled",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2019",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -4469,9 +4472,12 @@
       "type": "Feature",
       "properties": {
         "@id": "way/670070584",
+        "addr:city": "Cordon",
+        "addr:postcode": "74700",
         "building": "service",
         "name": "NRO",
         "operator": "Covage",
+        "operator:wikidata": "Q3001818",
         "owner": "Syane",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -4481,24 +4487,24 @@
         "coordinates": [
           [
             [
-              6.61396,
-              45.9261269
+              6.6139502,
+              45.9261351
             ],
             [
-              6.6140378,
-              45.926098
+              6.614028,
+              45.9261062
             ],
             [
-              6.61406,
-              45.9261269
+              6.6140502,
+              45.9261351
             ],
             [
-              6.6139822,
-              45.9261558
+              6.6139724,
+              45.926164
             ],
             [
-              6.61396,
-              45.9261269
+              6.6139502,
+              45.9261351
             ]
           ]
         ]
@@ -21578,6 +21584,7 @@
       "properties": {
         "@id": "node/8222887976",
         "operator": "Interoute",
+        "operator:wikidata": "Q1668090",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -28817,6 +28824,7 @@
         "@id": "node/9376148144",
         "name": "NRO La Gorgue",
         "operator": "Axione",
+        "operator:wikidata": "Q97187730",
         "source": "https://www.lavoixdunord.fr/254512/article/2017-10-27/le-chantier-du-tres-haut-debit-est-lance-la-fibre-c-est-pour-dans-deux-ans",
         "telecom": "exchange",
         "telecom:medium": "fibre",
