@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-05-15T09:14:04Z",
+  "timestamp": "2022-05-20T14:51:27Z",
   "features": [
     {
       "type": "Feature",
@@ -57995,6 +57995,28 @@
         ]
       },
       "id": "node/9731111719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9741623275",
+        "man_made": "street_cabinet",
+        "name": "SR",
+        "operator": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom",
+        "wikimedia_commons": "File:PMZ FI-33007-0000.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3951268,
+          44.6752494
+        ]
+      },
+      "id": "node/9741623275"
     }
   ]
 }

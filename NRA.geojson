@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-05-15T09:17:05Z",
+  "timestamp": "2022-05-20T14:53:29Z",
   "features": [
     {
       "type": "Feature",
@@ -29694,6 +29694,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
         "telecom": "exchange",
@@ -45595,6 +45596,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
         "telecom": "exchange",
@@ -46089,7 +46091,9 @@
       "properties": {
         "@id": "way/109315742",
         "building": "service",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
         "telecom": "exchange",
@@ -79479,6 +79483,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
         "telecom": "exchange",
@@ -104344,32 +104349,32 @@
         "coordinates": [
           [
             [
-              5.5643032,
-              43.8936692
+              5.5643215,
+              43.8936677
             ],
             [
-              5.5644787,
-              43.8937071
+              5.564495,
+              43.8937102
             ],
             [
-              5.5644296,
-              43.8938254
+              5.5644398,
+              43.8938272
             ],
             [
-              5.5643667,
+              5.5643776,
               43.8938119
             ],
             [
-              5.5643561,
-              43.8938372
+              5.5643658,
+              43.893837
             ],
             [
-              5.5642435,
-              43.8938129
+              5.5642545,
+              43.8938097
             ],
             [
-              5.5643032,
-              43.8936692
+              5.5643215,
+              43.8936677
             ]
           ]
         ]
@@ -108964,7 +108969,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2050577181",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "telecom": "exchange",
         "telecom:medium": "copper"
       },
@@ -113079,7 +113086,9 @@
       "properties": {
         "@id": "node/5801976545",
         "man_made": "telephone_office",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "92064STC",
         "source": "ANFR Opendata",
         "telecom": "exchange",
@@ -123535,6 +123544,7 @@
         "name": "Central téléphonique",
         "note": "Central téléphonique au sous-sol",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "75107INV",
         "telecom": "exchange",
         "telecom:medium": "copper"
@@ -126743,6 +126753,7 @@
         "@id": "node/7198725273",
         "name": "CAM59",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "59122CAM",
         "telecom": "exchange",

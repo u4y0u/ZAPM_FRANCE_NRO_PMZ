@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-05-15T09:12:02Z",
+  "timestamp": "2022-05-20T14:48:25Z",
   "features": [
     {
       "type": "Feature",
@@ -11620,6 +11620,7 @@
         "@id": "node/7150669827",
         "name": "CAM59",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "59122CAM",
         "telecom": "exchange",
@@ -21943,6 +21944,7 @@
       "properties": {
         "@id": "node/8223002280",
         "operator": "Interoute",
+        "operator:wikidata": "Q1668090",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -27230,7 +27232,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8769297626",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "39198DOL",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -29401,6 +29405,7 @@
       "properties": {
         "@id": "node/9518952413",
         "operator": "Lumen",
+        "operator:wikidata": "Q5063092",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -29435,6 +29440,7 @@
       "properties": {
         "@id": "node/9519009533",
         "operator": "Lumen",
+        "operator:wikidata": "Q5063092",
         "ref": "ALBRFRAA",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -31395,6 +31401,111 @@
         ]
       },
       "id": "node/9710118517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9752835310",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "N070DSS",
+        "source": "https://twitter.com/Hades73440/status/1526935061249118209",
+        "start_date": "18/05/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.685933,
+          47.5533864
+        ]
+      },
+      "id": "node/9752835310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9752884447",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "N070RAZ",
+        "source": "https://twitter.com/Hades73440/status/1526874547449995264",
+        "start_date": "18/05/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0140964,
+          47.5845705
+        ]
+      },
+      "id": "node/9752884447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9755039980",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "N070RON",
+        "source": "https://twitter.com/Hades73440/status/1527309525879238656",
+        "start_date": "19/05/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6319373,
+          47.6994229
+        ]
+      },
+      "id": "node/9755039980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9755076044",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "N070LLF",
+        "source": "https://twitter.com/Hades73440/status/1527309525879238656",
+        "start_date": "19/05/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.196387,
+          47.4451647
+        ]
+      },
+      "id": "node/9755076044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9755081778",
+        "operator": "Altitude",
+        "owner": "Prisme Fibre",
+        "ref": "NRO-39-175",
+        "source": "https://twitter.com/PrismeFibre/status/1527223159723802624",
+        "start_date": "19/05/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0626066,
+          46.654217
+        ]
+      },
+      "id": "node/9755081778"
     }
   ]
 }
