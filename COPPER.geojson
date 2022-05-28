@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-05-20T14:51:27Z",
+  "timestamp": "2022-05-28T06:26:41Z",
   "features": [
     {
       "type": "Feature",
@@ -37630,7 +37630,8 @@
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "File:PMZ_NA_24294_GUXE.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -58017,6 +58018,92 @@
         ]
       },
       "id": "node/9741623275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9758257154",
+        "man_made": "street_cabinet",
+        "material": "metal",
+        "operator": "Orange",
+        "source": "survey 2022",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2409062,
+          44.6764286
+        ]
+      },
+      "id": "node/9758257154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768241482",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "source": "survey 2022",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2089581,
+          44.7221521
+        ]
+      },
+      "id": "node/9768241482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9769404562",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "QVR/NCB/B33",
+        "ref:FR:PTT": "B33",
+        "ref:FR:PTT:NRA": "NCB",
+        "source": "survey; mapillary",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4671094,
+          46.3269819
+        ]
+      },
+      "id": "node/9769404562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9770648584",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "source": "survey 2022",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.224035,
+          44.7096445
+        ]
+      },
+      "id": "node/9770648584"
     }
   ]
 }

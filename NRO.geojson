@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-05-20T14:48:25Z",
+  "timestamp": "2022-05-28T06:23:35Z",
   "features": [
     {
       "type": "Feature",
@@ -8193,49 +8193,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/918394653",
-        "addr:city": "Lapleau",
-        "addr:postcode": "19550",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO de Lapleau",
-        "operator": "NATHD",
-        "owner": "Dorsal",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              2.1651514,
-              45.2958677
-            ],
-            [
-              2.1651849,
-              45.2958404
-            ],
-            [
-              2.1652037,
-              45.2958517
-            ],
-            [
-              2.1651715,
-              45.2958791
-            ],
-            [
-              2.1651514,
-              45.2958677
-            ]
-          ]
-        ]
-      },
-      "id": "way/918394653"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/918402077",
         "addr:city": "Marcillac-la-Croisille",
         "addr:postcode": "19320",
@@ -11536,6 +11493,7 @@
         "@id": "node/7150634935",
         "name": "BLE59",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "59350BLE",
         "telecom": "exchange",
@@ -11642,6 +11600,7 @@
         "@id": "node/7150685991",
         "name": "LIB59",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "59350LIB",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -16811,7 +16770,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8081828063",
-        "operator": "orange",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "chambre FT",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -19845,6 +19806,7 @@
       "properties": {
         "@id": "node/8221832731",
         "operator": "Zayo",
+        "operator:wikidata": "Q8067574",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -21006,27 +20968,6 @@
         ]
       },
       "id": "node/8222717720"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/8222718252",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref": "25-031",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.531845,
-          47.1362693
-        ]
-      },
-      "id": "node/8222718252"
     },
     {
       "type": "Feature",
@@ -22326,11 +22267,14 @@
         "addr:city": "Montpon-Ménestérol",
         "addr:postcode": "24700",
         "addr:street": "Rue Henri Laborde",
-        "name": "NRO de Montpon-Ménestérol",
+        "name": "NRO Montpon-Ménestérol",
         "operator": "NATHD",
         "owner": "Périgord Numérique",
+        "ref": "SHL_24294_SISE",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Montpon-Ménestérol.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -26630,6 +26574,7 @@
         "ref": "SHL_40197_MORC",
         "telecom": "exchange",
         "telecom:medium": "fibre",
+        "utility": "telecom",
         "wikimedia_commons": "File:NRO Morcenx.jpg"
       },
       "geometry": {
@@ -26645,13 +26590,13 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8489098071",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/NRO_Morcenx.jpg/800px-NRO_Morcenx.jpg",
         "name": "NRO Moustey",
         "operator": "NATHD",
         "owner": "SYDEC",
-        "ref": "NRO Moustey",
+        "ref": "SHL_40200_MOUS",
         "telecom": "exchange",
         "telecom:medium": "fibre",
+        "utility": "telecom",
         "wikimedia_commons": "File:NRO Moustey.jpg"
       },
       "geometry": {
@@ -26777,6 +26722,7 @@
         "ref": "SHL_40332_YCHO",
         "telecom": "exchange",
         "telecom:medium": "fibre",
+        "utility": "telecom",
         "wikimedia_commons": "File:NRO_Ychoux.jpg"
       },
       "geometry": {
@@ -27141,29 +27087,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8745025582",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/SHL_40243_RION.jpg/1280px-SHL_40243_RION.jpg",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "PIXL Fibre",
-        "ref": "SHL 40243",
-        "ref:FR:ARCEP": "SHL 40243 RION",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.9234306,
-          43.9325795
-        ]
-      },
-      "id": "node/8745025582"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8756187803",
         "building": "service",
         "name": "NRO",
@@ -27354,6 +27277,7 @@
         "ref": "SHL_40217_PARE",
         "telecom": "exchange",
         "telecom:medium": "fibre",
+        "utility": "telecom",
         "wikimedia_commons": "File:NRO_Parentis-en-Born.jpg"
       },
       "geometry": {
@@ -29423,6 +29347,7 @@
       "properties": {
         "@id": "node/9518953819",
         "operator": "Lumen",
+        "operator:wikidata": "Q5063092",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -30383,6 +30308,7 @@
       "properties": {
         "@id": "node/9520794928",
         "operator": "Lumen",
+        "operator:wikidata": "Q5063092",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -31506,6 +31432,133 @@
         ]
       },
       "id": "node/9755081778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9762585150",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72189_MARO",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.320102,
+          48.2511827
+        ]
+      },
+      "id": "node/9762585150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9762585161",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72112_DANG",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.275705,
+          48.2479984
+        ]
+      },
+      "id": "node/9762585161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771929389",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/SHL_40243_RION.jpg/1280px-SHL_40243_RION.jpg",
+        "name": "NRO Rion-des-Landes",
+        "operator": "NATHD",
+        "owner": "SYDEC",
+        "ref": "SHL_40243_RION",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Rion.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9236188,
+          43.9324598
+        ]
+      },
+      "id": "node/9771929389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771929390",
+        "name": "NRO Castets",
+        "operator": "NATHD",
+        "owner": "SYDEC",
+        "ref": "SHL_40075_VEHE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Castets.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1379022,
+          43.8824538
+        ]
+      },
+      "id": "node/9771929390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9773602781",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72223_NOYE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1065711,
+          47.874733
+        ]
+      },
+      "id": "node/9773602781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9775356313",
+        "name": "NRO La Roche-Chalais",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24354_XUNU",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO La Roche-Chalais.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0070686,
+          45.1504205
+        ]
+      },
+      "id": "node/9775356313"
     }
   ]
 }
