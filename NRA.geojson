@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-05-28T06:28:46Z",
+  "timestamp": "2022-06-03T15:39:26Z",
   "features": [
     {
       "type": "Feature",
@@ -22096,14 +22096,6 @@
               48.9014249
             ],
             [
-              2.3279799,
-              48.9012904
-            ],
-            [
-              2.3278157,
-              48.9011457
-            ],
-            [
               2.327642,
               48.9009914
             ],
@@ -39625,6 +39617,7 @@
         "building": "service",
         "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
         "telecom": "exchange",
@@ -75232,7 +75225,9 @@
         "@id": "way/176808782",
         "building": "service",
         "man_made": "telephone_office",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "33344PUJ",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2018",
@@ -91819,24 +91814,24 @@
         "coordinates": [
           [
             [
-              3.1904184,
-              43.5206074
+              3.190409,
+              43.5206288
             ],
             [
-              3.1903922,
-              43.5205334
+              3.1903828,
+              43.5205548
             ],
             [
-              3.1904772,
-              43.5205176
+              3.1904678,
+              43.520539
             ],
             [
-              3.1905034,
-              43.5205916
+              3.190494,
+              43.520613
             ],
             [
-              3.1904184,
-              43.5206074
+              3.190409,
+              43.5206288
             ]
           ]
         ]
@@ -109294,6 +109289,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -120769,7 +120765,9 @@
         "@id": "node/6289849710",
         "description": "NRA MeD Les Fourgs",
         "man_made": "street_cabinet",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "252542LF",
         "street_cabinet": "telecom",
         "telecom": "exchange",
