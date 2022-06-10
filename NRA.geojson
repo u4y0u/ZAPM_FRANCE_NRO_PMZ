@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-06-03T15:39:26Z",
+  "timestamp": "2022-06-10T13:41:24Z",
   "features": [
     {
       "type": "Feature",
@@ -31633,7 +31633,9 @@
       "properties": {
         "@id": "way/81960226",
         "building": "service",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
         "telecom": "exchange",
@@ -37272,6 +37274,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
         "telecom": "exchange",
@@ -39172,6 +39175,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
         "telecom": "exchange",
@@ -39322,6 +39326,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
         "telecom": "exchange",
@@ -51706,7 +51711,6 @@
         "@id": "way/119474083",
         "building": "service",
         "building:prefabricated": "no",
-        "name": "Central téléphonique",
         "operator": "Orange",
         "owner": "Orange",
         "ref": "BBU63",
@@ -75223,6 +75227,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/176808782",
+        "addr:city": "Pujols",
+        "addr:postcode": "33350",
         "building": "service",
         "man_made": "telephone_office",
         "name": "Orange",
@@ -107240,6 +107246,49 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/1066731560",
+        "building": "yes",
+        "not:operator:wikidata": "Q1431486",
+        "operator": "Orange",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.349114,
+              44.6655505
+            ],
+            [
+              -0.3491064,
+              44.6655143
+            ],
+            [
+              -0.349067,
+              44.6655168
+            ],
+            [
+              -0.3490546,
+              44.6655176
+            ],
+            [
+              -0.3490649,
+              44.6655545
+            ],
+            [
+              -0.349114,
+              44.6655505
+            ]
+          ]
+        ]
+      },
+      "id": "way/1066731560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/1036252412",
         "name": "Central téléphonique",
         "operator": "Orange",
@@ -108599,6 +108648,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "85222GIL",
         "telecom": "exchange",
@@ -116746,8 +116796,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.2914149,
-          47.7853215
+          6.2914106,
+          47.7853199
         ]
       },
       "id": "node/6289848915"
@@ -124127,6 +124177,7 @@
         "@id": "node/7045017308",
         "name": "Chambéry Italie",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "73065ITA",
         "telecom": "exchange",
         "telecom:medium": "copper"

@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-06-03T15:37:30Z",
+  "timestamp": "2022-06-10T13:39:22Z",
   "features": [
     {
       "type": "Feature",
@@ -3979,6 +3979,7 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:PTT": "Y04",
+        "ref:FR:PTT:NRA": "17360Y00",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper"
@@ -58298,6 +58299,50 @@
         ]
       },
       "id": "node/9781335498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9797308195",
+        "connection_point": "primary",
+        "location": "green",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:PTT": "Y02",
+        "ref:FR:PTT:NRA": "17360Y00",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3530691,
+          46.1584314
+        ]
+      },
+      "id": "node/9797308195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9799353470",
+        "man_made": "street_cabinet",
+        "name": "SR",
+        "operator": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4461939,
+          44.69655
+        ]
+      },
+      "id": "node/9799353470"
     }
   ]
 }

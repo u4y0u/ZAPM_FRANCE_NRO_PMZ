@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-06-03T15:34:25Z",
+  "timestamp": "2022-06-10T13:36:18Z",
   "features": [
     {
       "type": "Feature",
@@ -9785,7 +9785,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2009742022",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "543954AA",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -9803,7 +9805,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2023925049",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "545474VA",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -11016,6 +11020,7 @@
         "@id": "node/7148802514",
         "name": "GIL85",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "85222GIL",
         "telecom": "exchange",
@@ -19860,6 +19865,7 @@
       "properties": {
         "@id": "node/8221835207",
         "operator": "SFR",
+        "operator:wikidata": "Q218765",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -31559,6 +31565,26 @@
         ]
       },
       "id": "node/9775356313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9800328064",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72269_CALA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7362316,
+          47.917836
+        ]
+      },
+      "id": "node/9800328064"
     }
   ]
 }
