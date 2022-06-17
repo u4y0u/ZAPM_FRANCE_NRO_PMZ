@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-06-10T13:36:18Z",
+  "timestamp": "2022-06-17T08:23:11Z",
   "features": [
     {
       "type": "Feature",
@@ -12113,6 +12113,7 @@
         "@id": "node/7151369275",
         "name": "ABB80",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "80001ABB",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -21961,6 +21962,7 @@
       "properties": {
         "@id": "node/8223017782",
         "operator": "Interoute",
+        "operator:wikidata": "Q1668090",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -31585,6 +31587,26 @@
         ]
       },
       "id": "node/9800328064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9813942464",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Losange",
+        "ref": "NRO-10-029",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5325968,
+          48.0611497
+        ]
+      },
+      "id": "node/9813942464"
     }
   ]
 }
