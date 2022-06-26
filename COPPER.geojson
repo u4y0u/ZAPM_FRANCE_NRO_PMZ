@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-06-10T13:39:22Z",
+  "timestamp": "2022-06-26T13:32:21Z",
   "features": [
     {
       "type": "Feature",
@@ -14148,6 +14148,7 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
+        "ref": "SRMOE",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
@@ -14157,8 +14158,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.8315836,
-          45.7610113
+          4.8315827,
+          45.76101
         ]
       },
       "id": "node/6535733754"
@@ -30763,8 +30764,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.2489891,
-          44.8389181
+          1.2481925,
+          44.8408387
         ]
       },
       "id": "node/7498262821"
@@ -58343,6 +58344,48 @@
         ]
       },
       "id": "node/9799353470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9814782323",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "material": "metal",
+        "operator": "Orange",
+        "source": "survey 2022",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1170739,
+          44.7573841
+        ]
+      },
+      "id": "node/9814782323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9833842106",
+        "man_made": "street_cabinet",
+        "material": "metal",
+        "source": "survey 2022;ortho hr",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9831031,
+          44.6456143
+        ]
+      },
+      "id": "node/9833842106"
     }
   ]
 }

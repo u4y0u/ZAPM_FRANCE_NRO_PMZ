@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-06-17T08:23:11Z",
+  "timestamp": "2022-06-26T13:29:12Z",
   "features": [
     {
       "type": "Feature",
@@ -10572,6 +10572,7 @@
         "@id": "node/6910540095",
         "operator": "Free",
         "operator:type": "private",
+        "operator:wikidata": "Q2467627",
         "ref": "DEB92",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -13419,6 +13420,7 @@
         "@id": "node/7153865747",
         "name": "BRO67",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "67482BRO",
         "telecom": "exchange",
@@ -13440,6 +13442,7 @@
         "@id": "node/7153874700",
         "name": "LEC67",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "67482LEC",
         "telecom": "exchange",
@@ -30904,8 +30907,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.6144591,
-          47.7493413
+          0.6144397,
+          47.7493686
         ]
       },
       "id": "node/9609916004"
@@ -31607,6 +31610,26 @@
         ]
       },
       "id": "node/9813942464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845346482",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72035_BESS",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7562399,
+          47.8426427
+        ]
+      },
+      "id": "node/9845346482"
     }
   ]
 }
