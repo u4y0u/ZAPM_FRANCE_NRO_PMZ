@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-06-26T13:33:25Z",
+  "timestamp": "2022-07-05T06:03:06Z",
   "features": [
     {
       "type": "Feature",
@@ -4072,6 +4072,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
         "telecom": "exchange",
@@ -14679,6 +14680,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "67300MOL",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
@@ -41967,6 +41969,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "Direction Générale des Finances Publiques - Cadastre ; mise à jour : 2010",
         "telecom": "exchange",
@@ -42169,6 +42172,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
         "telecom": "exchange",
@@ -44371,6 +44375,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
         "telecom": "exchange",
@@ -46736,7 +46741,7 @@
         "@id": "way/110735694",
         "building": "service",
         "location": "indoor",
-        "operator": "Orange",
+        "operator": "wikidata=Q1431486",
         "ref:FR:PTT": "17353SP0",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
         "telecom": "exchange",
@@ -59314,6 +59319,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
         "telecom": "exchange",
@@ -77607,6 +77613,47 @@
         ]
       },
       "id": "way/184025674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/184083653",
+        "building": "service",
+        "operator": "Orange",
+        "ref:FR:PTT": "73085CHI",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.850391,
+              45.8106224
+            ],
+            [
+              5.8502876,
+              45.8106201
+            ],
+            [
+              5.850291,
+              45.8105432
+            ],
+            [
+              5.8503945,
+              45.8105454
+            ],
+            [
+              5.850391,
+              45.8106224
+            ]
+          ]
+        ]
+      },
+      "id": "way/184083653"
     },
     {
       "type": "Feature",
@@ -103855,7 +103902,9 @@
         "@id": "way/603726521",
         "building": "service",
         "man_made": "telephone_office",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "76286FRE",
         "source": "ANFR Opendata",
         "telecom": "exchange",
@@ -103866,24 +103915,24 @@
         "coordinates": [
           [
             [
-              1.431023,
-              49.8869667
+              1.4309407,
+              49.886982
             ],
             [
-              1.430951,
-              49.8869581
+              1.4308687,
+              49.8869734
             ],
             [
-              1.4309646,
-              49.8869179
+              1.4308823,
+              49.8869332
             ],
             [
-              1.4310363,
-              49.8869263
+              1.430954,
+              49.8869416
             ],
             [
-              1.431023,
-              49.8869667
+              1.4309407,
+              49.886982
             ]
           ]
         ]
@@ -110134,6 +110183,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "67482MEI",
         "telecom": "exchange",
@@ -112920,7 +112970,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5700260465",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "67482KRO",
         "source": "ANFR Opendata",
         "telecom": "exchange",
@@ -114528,7 +114580,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6141233696",
-        "note": "Central téléphonique dans batiment tiers",
+        "descent": "Central téléphonique dans batiment tiers",
         "operator": "Orange",
         "ref:FR:PTT": "74011POM",
         "telecom": "exchange",
@@ -121444,8 +121496,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6391349660",
+        "description": "NRA MeD Dompiere Sur Mont",
         "man_made": "street_cabinet",
-        "ref": "NRA/DMH",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39200DMH",
         "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "copper"
@@ -126945,6 +127000,7 @@
         "@id": "node/7204551131",
         "name": "NEU67",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "67482NEU",
         "telecom": "exchange",
@@ -126987,6 +127043,7 @@
         "@id": "node/7204551133",
         "name": "CRO67",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "67482CRO",
         "telecom": "exchange",
@@ -138820,6 +138877,28 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/8971674056",
+        "description": "NRA MeD Brochon Maladière",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21110BDM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9775208,
+          47.236044
+        ]
+      },
+      "id": "node/8971674056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/8988260474",
         "capacity": "250",
         "man_made": "street_cabinet",
@@ -142152,6 +142231,7 @@
         "man_made": "street_cabinet",
         "name": "NRA MeD",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "39402GPG",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -142174,6 +142254,7 @@
         "man_made": "street_cabinet",
         "name": "NRA MeD",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "39398GN6",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -143089,6 +143170,5288 @@
         ]
       },
       "id": "node/9843979406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848586492",
+        "description": "NRA MeD Saint germain en montagne",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39481GMH",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.939564,
+          46.7783684
+        ]
+      },
+      "id": "node/9848586492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848586493",
+        "description": "NRA MeD Vers en Montagne",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "395549VM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9163349,
+          46.8148086
+        ]
+      },
+      "id": "node/9848586493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848586494",
+        "description": "NRA MeD Valempoulières",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39540VPU",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8639265,
+          46.8265481
+        ]
+      },
+      "id": "node/9848586494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848586495",
+        "description": "NRA MeD Molain",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39336IML",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8059512,
+          46.8232317
+        ]
+      },
+      "id": "node/9848586495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848586496",
+        "description": "NRA MeD Besain",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39050ESI",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7942145,
+          46.7854687
+        ]
+      },
+      "id": "node/9848586496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848586497",
+        "description": "NRA MeD Crotenay",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39183CTW",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8130346,
+          46.7518235
+        ]
+      },
+      "id": "node/9848586497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848586498",
+        "description": "NRA MeD Loulle",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39301LI9",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8828254,
+          46.7087369
+        ]
+      },
+      "id": "node/9848586498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848586499",
+        "description": "NRA MeD Vannoz",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39543VNW",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9155072,
+          46.7723227
+        ]
+      },
+      "id": "node/9848586499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848586500",
+        "description": "NRA MeD Ardon",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "390154RD",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8966667,
+          46.7803624
+        ]
+      },
+      "id": "node/9848586500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848586501",
+        "description": "NRA MeD Le Pasquier",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39406PQI",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9005796,
+          46.7923521
+        ]
+      },
+      "id": "node/9848586501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848586502",
+        "description": "NRA MeD Marigny",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39313NNY",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7828305,
+          46.68166
+        ]
+      },
+      "id": "node/9848586502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848868194",
+        "description": "NRA MeD Oussieres",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "394017SR",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.58755,
+          46.9076439
+        ]
+      },
+      "id": "node/9848868194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848868195",
+        "description": "NRA MeD Colonne",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "391593NE",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5766294,
+          46.8849092
+        ]
+      },
+      "id": "node/9848868195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848868196",
+        "description": "NRA MeD Brainans",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "390734AI",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.621389,
+          46.8713632
+        ]
+      },
+      "id": "node/9848868196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848868197",
+        "description": "NRA MeD Bersaillin",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39049INR",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5879691,
+          46.852504
+        ]
+      },
+      "id": "node/9848868197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848868198",
+        "description": "NRA MeD Tourmont",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39535UTM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6822746,
+          46.8604681
+        ]
+      },
+      "id": "node/9848868198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848868199",
+        "description": "NRA MeD Buvilly",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39081VBU",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7196655,
+          46.8669759
+        ]
+      },
+      "id": "node/9848868199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848868200",
+        "description": "NRA MeD Les Deux Fays",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39196XYS",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4809403,
+          46.8818
+        ]
+      },
+      "id": "node/9848868200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848868201",
+        "description": "NRA MeD La Chassagne",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39112HGW",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4552634,
+          46.8632347
+        ]
+      },
+      "id": "node/9848868201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848868202",
+        "description": "NRA MeD Rye",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39472YEZ",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4301013,
+          46.8709034
+        ]
+      },
+      "id": "node/9848868202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848868203",
+        "description": "NRA MeD Francheville",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39236FCI",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4989569,
+          46.8381674
+        ]
+      },
+      "id": "node/9848868203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848868204",
+        "description": "NRA MeD La Chaux en Bresse",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39132HXU",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.483949,
+          46.8269417
+        ]
+      },
+      "id": "node/9848868204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848868205",
+        "description": "NRA MeD Commenailles",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39160KME",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4522979,
+          46.8027706
+        ]
+      },
+      "id": "node/9848868205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848868206",
+        "description": "NRA MeD Vers Sous Sellières",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39555EER",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.535578,
+          46.824556
+        ]
+      },
+      "id": "node/9848868206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848868207",
+        "description": "NRA MeD Monay",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39342NYY",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5941896,
+          46.8351322
+        ]
+      },
+      "id": "node/9848868207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848868208",
+        "description": "NRA MeD Saint Lothain",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "394895SL",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6438409,
+          46.8245446
+        ]
+      },
+      "id": "node/9848868208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849769665",
+        "description": "NRA MeD Cosges",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "391678GS",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4017507,
+          46.7452058
+        ]
+      },
+      "id": "node/9849769665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849769666",
+        "description": "NRA MeD Fontainebrux",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39229FTX",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4227657,
+          46.7033744
+        ]
+      },
+      "id": "node/9849769666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849769667",
+        "description": "NRA MeD Larnaud",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39279RN4",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4453386,
+          46.7100627
+        ]
+      },
+      "id": "node/9849769667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849769668",
+        "description": "NRA MeD Ruffey Sur Seille",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39471UFE",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4947242,
+          46.7441199
+        ]
+      },
+      "id": "node/9849769668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849769669",
+        "description": "NRA MeD Quintigny",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39447QTG",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5228746,
+          46.7340081
+        ]
+      },
+      "id": "node/9849769669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849769670",
+        "description": "NRA MeD Plainoiseau",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "394223PU",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.555165,
+          46.7294466
+        ]
+      },
+      "id": "node/9849769670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849769671",
+        "description": "NRA MeD Baume les messieurs",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39041BMJ",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6460268,
+          46.7096308
+        ]
+      },
+      "id": "node/9849769671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849769672",
+        "description": "NRA MeD Hauteroche",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39177HHG",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6472546,
+          46.7131823
+        ]
+      },
+      "id": "node/9849769672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849769673",
+        "description": "NRA MeD Mirebel",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39177HHI",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7281983,
+          46.6976387
+        ]
+      },
+      "id": "node/9849769673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849769674",
+        "description": "NRA MeD Blois sur Seille",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39057IBS",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6695068,
+          46.7482692
+        ]
+      },
+      "id": "node/9849769674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849769675",
+        "description": "NRA MeD Saint Germain les Arlay",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39017SGK",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5589684,
+          46.7598072
+        ]
+      },
+      "id": "node/9849769675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849769676",
+        "description": "NRA MeD Frontenay",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39244YFR",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6144749,
+          46.7855568
+        ]
+      },
+      "id": "node/9849769676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849769677",
+        "description": "NRA MeD Passenans",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39407AS9",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6181337,
+          46.7983878
+        ]
+      },
+      "id": "node/9849769677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849769678",
+        "description": "NRA MeD Lombard",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "392963LD",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5075705,
+          46.784614
+        ]
+      },
+      "id": "node/9849769678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849769679",
+        "description": "NRA MeD Vincent Froideville",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "395778VT",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4919731,
+          46.7834013
+        ]
+      },
+      "id": "node/9849769679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849834649",
+        "description": "NRA MeD Macornay",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39306YMC",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5416335,
+          46.6455991
+        ]
+      },
+      "id": "node/9849834649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849834650",
+        "description": "NRA MeD Bonnaud",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39576KVL",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4301587,
+          46.6130109
+        ]
+      },
+      "id": "node/9849834650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849834651",
+        "description": "NRA MeD Orbagna",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "390433RB",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4499788,
+          46.5811169
+        ]
+      },
+      "id": "node/9849834651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849834652",
+        "description": "NRA MeD Beaufort",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39043VVB",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4382567,
+          46.5742678
+        ]
+      },
+      "id": "node/9849834652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849834653",
+        "description": "NRA MeD Augea",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "390252UG",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4109206,
+          46.5538342
+        ]
+      },
+      "id": "node/9849834653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849834654",
+        "description": "NRA MeD Chaveria",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:PTT": "39134HVI",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5668171,
+          46.5088868
+        ]
+      },
+      "id": "node/9849834654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849834655",
+        "description": "NRA MeD Loisia",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39295IIA",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4624951,
+          46.4845816
+        ]
+      },
+      "id": "node/9849834655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849834656",
+        "description": "NRA MeD Chamberia",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39092KCR",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5614242,
+          46.4647436
+        ]
+      },
+      "id": "node/9849834656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849834657",
+        "description": "NRA MeD Onoz",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39394NZD",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6535406,
+          46.4557317
+        ]
+      },
+      "id": "node/9849834657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849973691",
+        "description": "NRA MeD Montagna le reconduit",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39346TDU",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3848573,
+          46.4579258
+        ]
+      },
+      "id": "node/9849973691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849973692",
+        "description": "NRA MeD Balanod",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "390356ND",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3547548,
+          46.4563622
+        ]
+      },
+      "id": "node/9849973692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849973693",
+        "description": "NRA MeD Nanc Les Saint Amour",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "393786NA",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3568497,
+          46.4223595
+        ]
+      },
+      "id": "node/9849973693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849973694",
+        "description": "NRA MeD Saint Jean d'etreux",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39378JEX",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3573521,
+          46.403949
+        ]
+      },
+      "id": "node/9849973694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849973695",
+        "description": "NRA MeD Chazelles",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "393788NC",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3433213,
+          46.40396
+        ]
+      },
+      "id": "node/9849973695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849973696",
+        "description": "NRA MeD Bourcia",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "394856JU",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4094067,
+          46.3509112
+        ]
+      },
+      "id": "node/9849973696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849973697",
+        "description": "NRA MeD Montfleur",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "393536MF",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4373635,
+          46.3293679
+        ]
+      },
+      "id": "node/9849973697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849973698",
+        "description": "NRA MeD Villeneuve les Charnod",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39018UVI",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4789917,
+          46.3369358
+        ]
+      },
+      "id": "node/9849973698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849973699",
+        "description": "NRA MeD Aromas",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "390182RF",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4818113,
+          46.291719
+        ]
+      },
+      "id": "node/9849973699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849973700",
+        "description": "NRA MeD Cornod",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "391664NC",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5493445,
+          46.3124219
+        ]
+      },
+      "id": "node/9849973700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849973701",
+        "description": "NRA MeD Coisia",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "395303CK",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5807245,
+          46.3057237
+        ]
+      },
+      "id": "node/9849973701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849973702",
+        "description": "NRA MeD Lect",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39289EEC",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6628682,
+          46.3888083
+        ]
+      },
+      "id": "node/9849973702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849973703",
+        "description": "NRA MeD Legna",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "392902LN",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5953638,
+          46.4268665
+        ]
+      },
+      "id": "node/9849973703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849973704",
+        "description": "NRA MeD Marigna Sur Valouse",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39312KMV",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5282176,
+          46.4482237
+        ]
+      },
+      "id": "node/9849973704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849973705",
+        "description": "NRA MeD Lains",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39273ZLN",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4865902,
+          46.3915504
+        ]
+      },
+      "id": "node/9849973705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849982685",
+        "description": "NRA MeD Lamoura",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39275JRA",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9859021,
+          46.4012997
+        ]
+      },
+      "id": "node/9849982685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849982686",
+        "description": "NRA MeD Lesheres",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39293LSH",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8267019,
+          46.4518074
+        ]
+      },
+      "id": "node/9849982686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849982687",
+        "description": "NRA MeD Dannemarie",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39130ELD",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8398491,
+          46.5110639
+        ]
+      },
+      "id": "node/9849982687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849982688",
+        "description": "NRA MeD Chateau des Presname=NRA MeD",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:PTT": "39258CXP",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8980325,
+          46.4994846
+        ]
+      },
+      "id": "node/9849982688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849982689",
+        "description": "NRA MeD Grande riviere",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39258RGV",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.914148,
+          46.5416116
+        ]
+      },
+      "id": "node/9849982689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9851520226",
+        "description": "NRA MeD Bellefontaine Bourg",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39047BFI",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0659619,
+          46.5580798
+        ]
+      },
+      "id": "node/9851520226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9851520227",
+        "description": "NRA MeD Bellefontaine Morel",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39047BFM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0358517,
+          46.5423241
+        ]
+      },
+      "id": "node/9851520227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9851520228",
+        "description": "NRA MeD Saint Pierre",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39494PIW",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9207833,
+          46.5698592
+        ]
+      },
+      "id": "node/9851520228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9851520229",
+        "description": "NRA MeD Martin",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39271GTI",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9827646,
+          46.5872268
+        ]
+      },
+      "id": "node/9851520229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9851520230",
+        "description": "NRA MeD Lac des rouges Truites",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "392714LR",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9985324,
+          46.607468
+        ]
+      },
+      "id": "node/9851520230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9851520231",
+        "description": "NRA MeD Entre Deux Monts",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39208NDX",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9649584,
+          46.6412488
+        ]
+      },
+      "id": "node/9851520231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9851520232",
+        "description": "NRA MeD Chaux des Crotenay",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39129DCC",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9664714,
+          46.6576834
+        ]
+      },
+      "id": "node/9851520232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9851520233",
+        "description": "NRA MeD Denezières",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "39192DZR",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8065062,
+          46.6104035
+        ]
+      },
+      "id": "node/9851520233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9852732967",
+        "description": "NRA MeD Clery",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21180CYY",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4928528,
+          47.2887801
+        ]
+      },
+      "id": "node/9852732967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9852732968",
+        "description": "NRA MeD Flammerans",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "212699FL",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4461414,
+          47.2283777
+        ]
+      },
+      "id": "node/9852732968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9852732969",
+        "description": "NRA MeD Heuilley sur Saone",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21316HS2",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4541408,
+          47.3294255
+        ]
+      },
+      "id": "node/9852732969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9852732970",
+        "description": "NRA MeD Talmay",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "216182TY",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4384232,
+          47.3540282
+        ]
+      },
+      "id": "node/9852732970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9852732971",
+        "description": "NRA MeD Saint Sauveur",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "215717SM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4148432,
+          47.3577392
+        ]
+      },
+      "id": "node/9852732971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9852732972",
+        "description": "NRA MeD Montmancon",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "214376MM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3776869,
+          47.3509157
+        ]
+      },
+      "id": "node/9852732972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9852732973",
+        "description": "NRA MeD Drambon",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21233DB1",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3626082,
+          47.3378411
+        ]
+      },
+      "id": "node/9852732973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9852732974",
+        "description": "NRA MeD Marandeuil",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21376MM7",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3487586,
+          47.3475432
+        ]
+      },
+      "id": "node/9852732974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9852732975",
+        "description": "NRA MeD Billey",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "210743BI",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4297546,
+          47.1461766
+        ]
+      },
+      "id": "node/9852732975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9852732976",
+        "description": "NRA MeD Villers-Rotin",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21701VR",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4057855,
+          47.1570809
+        ]
+      },
+      "id": "node/9852732976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9852732977",
+        "description": "NRA MeD Labergement les Auxonne",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21331LL5",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3814288,
+          47.1580832
+        ]
+      },
+      "id": "node/9852732977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9852732978",
+        "description": "NRA MeD Flagey Les auxonne",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "212684FA",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3890294,
+          47.1469191
+        ]
+      },
+      "id": "node/9852732978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860386158",
+        "description": "NRA MeD Belleneuve",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "210606BN",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2668388,
+          47.3585902
+        ]
+      },
+      "id": "node/9860386158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860386159",
+        "description": "NRA MeD Savolles",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "215955SV",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2775027,
+          47.3757609
+        ]
+      },
+      "id": "node/9860386159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860386160",
+        "description": "NRA MeD Magny Saint Medard",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21369XMM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2530582,
+          47.3794704
+        ]
+      },
+      "id": "node/9860386160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860386161",
+        "description": "NRA MeD Arcelot",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "210162AL",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1918089,
+          47.3691377
+        ]
+      },
+      "id": "node/9860386161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860386162",
+        "description": "NRA MeD Arceau",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21016AC6",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1892547,
+          47.3831403
+        ]
+      },
+      "id": "node/9860386162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860386163",
+        "description": "NRA MeD Beire Le chatel",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21056IBC",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1998635,
+          47.4058914
+        ]
+      },
+      "id": "node/9860386163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860386164",
+        "description": "NRA MeD Beire le Chatel Village",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21056EBC",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2050875,
+          47.4119871
+        ]
+      },
+      "id": "node/9860386164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860386165",
+        "description": "NRA MeD Vievigne",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21682LX5",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2303411,
+          47.4361826
+        ]
+      },
+      "id": "node/9860386165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860386166",
+        "description": "NRA MeD Beze",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21071LX1",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2668729,
+          47.4692134
+        ]
+      },
+      "id": "node/9860386166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860386167",
+        "description": "NRA MeD Noiron sur Beze",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21459NBD",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3012872,
+          47.4380415
+        ]
+      },
+      "id": "node/9860386167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860386168",
+        "description": "NRA MeD Oisily",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "214674LY",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3676312,
+          47.4190484
+        ]
+      },
+      "id": "node/9860386168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860386169",
+        "description": "NRA MeD Champagne sur Vingeanne",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "211357VG",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3932712,
+          47.4453834
+        ]
+      },
+      "id": "node/9860386169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860386170",
+        "description": "NRA MeD Licey sur Vingeanne",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21348LVJ",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.378832,
+          47.4819319
+        ]
+      },
+      "id": "node/9860386170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860386171",
+        "description": "NRA MeD Pouilly Sur Vingeanne",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21503XPV",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4307316,
+          47.5401609
+        ]
+      },
+      "id": "node/9860386171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860386172",
+        "description": "NRA MeD Veronnes",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "216676VR",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2324612,
+          47.5269084
+        ]
+      },
+      "id": "node/9860386172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860386173",
+        "description": "NRA MeD Chazeuil",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21163ZCH",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.270693,
+          47.5596876
+        ]
+      },
+      "id": "node/9860386173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860386174",
+        "description": "NRA MeD Boussenois",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21096BZX",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2091459,
+          47.6283675
+        ]
+      },
+      "id": "node/9860386174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860386175",
+        "description": "NRA MeD Vernois les Vaivres",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21665NVV",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1456006,
+          47.6426194
+        ]
+      },
+      "id": "node/9860386175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860386176",
+        "description": "NRA MeD Crecey Sur Tille",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21211KCT",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1282061,
+          47.5563044
+        ]
+      },
+      "id": "node/9860386176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860386177",
+        "description": "NRA MeD Ruffey Les Echirey",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21535VA7",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0767376,
+          47.3677125
+        ]
+      },
+      "id": "node/9860386177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860514627",
+        "description": "NRA MeD Poiseul les Saulx",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21491PM7",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9904194,
+          47.5738114
+        ]
+      },
+      "id": "node/9860514627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860514628",
+        "description": "NRA MeD Moloy",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "214212MY",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9329184,
+          47.5400796
+        ]
+      },
+      "id": "node/9860514628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860514629",
+        "description": "NRA MeD Poncey sur L'Ignon",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21494IPY",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7618114,
+          47.4947986
+        ]
+      },
+      "id": "node/9860514629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860514630",
+        "description": "NRA MeD Source seine",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21084YBL",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.697413,
+          47.4957834
+        ]
+      },
+      "id": "node/9860514630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860514631",
+        "description": "NRA MeD Laperrière",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21490PV6",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6892235,
+          47.5627113
+        ]
+      },
+      "id": "node/9860514631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860514632",
+        "description": "NRA MeD Channay",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "211432AN",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3348878,
+          47.882729
+        ]
+      },
+      "id": "node/9860514632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860514633",
+        "description": "NRA MeD Bissey la cote Hammeau",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21077YLM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.686068,
+          47.8932159
+        ]
+      },
+      "id": "node/9860514633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860514634",
+        "description": "NRA MeD Bissey la cote Mairie",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21077YMM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7083795,
+          47.9129862
+        ]
+      },
+      "id": "node/9860514634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860514635",
+        "description": "NRA MeD Courban",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "2120210C",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7348183,
+          47.9155864
+        ]
+      },
+      "id": "node/9860514635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860514636",
+        "description": "NRA MeD Gevrolles",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21296EGV",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7772769,
+          47.9871859
+        ]
+      },
+      "id": "node/9860514636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860514637",
+        "description": "NRA MeD Riel Les Eaux",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21524RXM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6750754,
+          47.9758855
+        ]
+      },
+      "id": "node/9860514637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862686377",
+        "description": "NRA MeD Tichey",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21637XTC",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2818924,
+          47.0123187
+        ]
+      },
+      "id": "node/9862686377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862686378",
+        "description": "NRA MeD Franxault",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:PTT": "21285FXM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2770702,
+          47.0536396
+        ]
+      },
+      "id": "node/9862686378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862686379",
+        "description": "NRA MeD Saint Symphorien Sur Saone",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21575YSP",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.304605,
+          47.1028086
+        ]
+      },
+      "id": "node/9862686379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862686380",
+        "description": "NRA MeD Trouhans",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21645TH9",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2717977,
+          47.1496639
+        ]
+      },
+      "id": "node/9862686380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862686381",
+        "description": "NRA MeD Pluvault",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21352EPV",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2530998,
+          47.2139152
+        ]
+      },
+      "id": "node/9862686381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862686382",
+        "description": "NRA MeD Longeault",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21352NLG",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2539353,
+          47.2202821
+        ]
+      },
+      "id": "node/9862686382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862686383",
+        "description": "NRA MeD Collonges les Premières",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21183NGP",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2669079,
+          47.2231782
+        ]
+      },
+      "id": "node/9862686383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862686384",
+        "description": "NRA MeD Premières",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21183EMR",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.28036,
+          47.2330336
+        ]
+      },
+      "id": "node/9862686384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862686385",
+        "description": "NRA MeD Beire Le fort",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21057IBR",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2513675,
+          47.2304974
+        ]
+      },
+      "id": "node/9862686385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862686386",
+        "description": "NRA MeD Longchamp",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21351NGC",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2849864,
+          47.2606725
+        ]
+      },
+      "id": "node/9862686386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862686387",
+        "description": "NRA MeD Chambeire",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21130EIR",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2657006,
+          47.2813588
+        ]
+      },
+      "id": "node/9862686387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862686388",
+        "description": "NRA MeD Cessey sur Tille",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21126EYT",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2215511,
+          47.2792435
+        ]
+      },
+      "id": "node/9862686388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862686389",
+        "description": "NRA MeD Fauverney",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21261FM9",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1456108,
+          47.2546856
+        ]
+      },
+      "id": "node/9862686389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862686390",
+        "description": "NRA MeD Marliens",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21388NSM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1827841,
+          47.2122786
+        ]
+      },
+      "id": "node/9862686390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862686391",
+        "description": "NRA MeD Longecourt en Plaine",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21353LP5",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1459859,
+          47.1993056
+        ]
+      },
+      "id": "node/9862686391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862686392",
+        "description": "NRA MeD Noiron Sous Gevrey",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21458NGV",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0804439,
+          47.1936776
+        ]
+      },
+      "id": "node/9862686392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862686393",
+        "description": "NRA MeD Savouges",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21596XVG",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0600818,
+          47.1845103
+        ]
+      },
+      "id": "node/9862686393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862686394",
+        "description": "NRA MeD Corcelles Les Citeaux",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21191XCC",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0802565,
+          47.1731986
+        ]
+      },
+      "id": "node/9862686394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862686395",
+        "description": "NRA MeD Villebichot",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21913VB",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0420239,
+          47.1399971
+        ]
+      },
+      "id": "node/9862686395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862686396",
+        "description": "NRA MeD Saint Nicolas les Citeaux",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "215642NI",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0501238,
+          47.1150106
+        ]
+      },
+      "id": "node/9862686396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862686397",
+        "description": "NRA MeD Gerland",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "212942GL",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0066695,
+          47.0945577
+        ]
+      },
+      "id": "node/9862686397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862812649",
+        "description": "NRA MeD Villy le Moutier",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21708XVM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.002557,
+          47.0345201
+        ]
+      },
+      "id": "node/9862812649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862812650",
+        "description": "NRA MeD Chivres",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "211722HV",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0959706,
+          46.9771859
+        ]
+      },
+      "id": "node/9862812650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862812651",
+        "description": "NRA MeD Labergement les seurre",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21332LS5",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0944519,
+          47.0024214
+        ]
+      },
+      "id": "node/9862812651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862812652",
+        "description": "NRA MeD Pouilly sur saone",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21502UIL",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1207448,
+          47.0142576
+        ]
+      },
+      "id": "node/9862812652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862812653",
+        "description": "NRA MeD Labuyere",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "213336LY",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1500182,
+          47.0431745
+        ]
+      },
+      "id": "node/9862812653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862812654",
+        "description": "NRA MeD Bonnencontre",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21089BNK",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.150786,
+          47.0850163
+        ]
+      },
+      "id": "node/9862812654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9862812655",
+        "description": "NRA MeD Magny les Aubigny",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21366ZML",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1773417,
+          47.1118018
+        ]
+      },
+      "id": "node/9862812655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825215",
+        "description": "NRA MeD Boncourt le Bois",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21088WBB",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9936619,
+          47.1363088
+        ]
+      },
+      "id": "node/9863825215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825216",
+        "description": "NRA MeD Quincey",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "215172QU",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9724627,
+          47.1124437
+        ]
+      },
+      "id": "node/9863825216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825317",
+        "description": "NRA MeD Premeaux Prissey",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "215063PP",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9337149,
+          47.1126294
+        ]
+      },
+      "id": "node/9863825317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825318",
+        "description": "NRA MeD Magny les Villers",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "213685MW",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8753324,
+          47.0981868
+        ]
+      },
+      "id": "node/9863825318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825319",
+        "description": "NRA MeD Villers la Faye",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "216982VF",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.877854,
+          47.1058529
+        ]
+      },
+      "id": "node/9863825319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825320",
+        "description": "NRA MeD Marey les Fussey",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "213843MF",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8588845,
+          47.1189587
+        ]
+      },
+      "id": "node/9863825320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825321",
+        "description": "NRA MeD Fussey",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "212894FS",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8377553,
+          47.1186819
+        ]
+      },
+      "id": "node/9863825321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825322",
+        "description": "NRA MeD Brochon Grand Crus",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21110GCB",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9702043,
+          47.2391896
+        ]
+      },
+      "id": "node/9863825322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825323",
+        "description": "NRA MeD Fixin Voila",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21265FXV",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9815456,
+          47.2448876
+        ]
+      },
+      "id": "node/9863825323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825324",
+        "description": "NRA MeD Fixin Noisot",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21265FXN",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9720607,
+          47.2452826
+        ]
+      },
+      "id": "node/9863825324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825325",
+        "description": "NRA MeD Semezanges",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21601SZM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8583648,
+          47.2144076
+        ]
+      },
+      "id": "node/9863825325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825326",
+        "description": "NRA MeD Ternant",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21625TN1",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.856342,
+          47.2006476
+        ]
+      },
+      "id": "node/9863825326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825327",
+        "description": "NRA MeD Detain et Bruant",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21228DBM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7910414,
+          47.1721013
+        ]
+      },
+      "id": "node/9863825327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825328",
+        "description": "NRA MeD Bessey en Chaume",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21065B12",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7413505,
+          47.0806215
+        ]
+      },
+      "id": "node/9863825328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825329",
+        "description": "NRA MeD Veuvey sur Ouche",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21673VYE",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7165186,
+          47.1827718
+        ]
+      },
+      "id": "node/9863825329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825330",
+        "description": "NRA MeD La bussière sur Ouche",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21120XBS",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7250476,
+          47.2120279
+        ]
+      },
+      "id": "node/9863825330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825331",
+        "description": "NRA MeD Bouhey",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21091NAX",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6683892,
+          47.1992961
+        ]
+      },
+      "id": "node/9863825331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825332",
+        "description": "NRA MeD Sainte Sabine",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21570EBI",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6239733,
+          47.1917597
+        ]
+      },
+      "id": "node/9863825332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825333",
+        "description": "NRA MeD Painblanc",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21476BP3",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6184579,
+          47.1471822
+        ]
+      },
+      "id": "node/9863825333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825334",
+        "description": "NRA MeD Auxant",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21036BX1",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6303041,
+          47.1166382
+        ]
+      },
+      "id": "node/9863825334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825335",
+        "description": "NRA MeD Vic des Pres",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21677VPD",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6437102,
+          47.1041856
+        ]
+      },
+      "id": "node/9863825335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825336",
+        "description": "NRA MeD Saussey",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21588B13",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6114551,
+          47.0717358
+        ]
+      },
+      "id": "node/9863825336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863825337",
+        "description": "NRA MeD Saint Pierre en Vaux",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "215668PV",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5303638,
+          47.0550982
+        ]
+      },
+      "id": "node/9863825337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9864396796",
+        "description": "NRA MeD Foissy",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21274FY2",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5625203,
+          47.1228473
+        ]
+      },
+      "id": "node/9864396796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9864396797",
+        "description": "NRA MeD Saint prix les arnay",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21567XSP",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4988461,
+          47.1236097
+        ]
+      },
+      "id": "node/9864396797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9864396798",
+        "description": "NRA MeD Magnien",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21363IMG",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4385664,
+          47.102466
+        ]
+      },
+      "id": "node/9864396798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9864396799",
+        "description": "NRA MeD Jouey",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21325JY2",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.447444,
+          47.153044
+        ]
+      },
+      "id": "node/9864396799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9864396800",
+        "description": "NRA MeD Allerey",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "210095RY",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.438107,
+          47.1904972
+        ]
+      },
+      "id": "node/9864396800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9864396801",
+        "description": "NRA MeD Clomot",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21181CTK",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4862981,
+          47.1890218
+        ]
+      },
+      "id": "node/9864396801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9864396802",
+        "description": "NRA MeD Essey",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "212516EY",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5231137,
+          47.2041409
+        ]
+      },
+      "id": "node/9864396802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9864396803",
+        "description": "NRA MeD Musigny",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21447YMU",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5179535,
+          47.1630537
+        ]
+      },
+      "id": "node/9864396803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9864396804",
+        "description": "NRA MeD Longecourt les culetre",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "213544LT",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.553479,
+          47.159374
+        ]
+      },
+      "id": "node/9864396804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9864396805",
+        "description": "NRA MeD Cussy le chatel",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "212226CU",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5806499,
+          47.1625166
+        ]
+      },
+      "id": "node/9864396805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9864396806",
+        "description": "NRA MeD Villiers en Morvans",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21703VMM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2542827,
+          47.1460452
+        ]
+      },
+      "id": "node/9864396806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9864396807",
+        "description": "NRA MeD Liernais Pitois",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21349LP8",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2819641,
+          47.2067766
+        ]
+      },
+      "id": "node/9864396807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9864396808",
+        "description": "NRA MeD Liernais d106",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21349LM8",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2824314,
+          47.21954
+        ]
+      },
+      "id": "node/9864396808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9864396809",
+        "description": "NRA MeD Vrilly le Haut",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "215847SV",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.262564,
+          47.2677781
+        ]
+      },
+      "id": "node/9864396809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9864623443",
+        "location": "outdoor",
+        "man_made": "street_cabinet",
+        "name": "NRA MED",
+        "operator": "Orange",
+        "ref:FR:Orange": "QVR/L4Z",
+        "ref:FR:PTT": "79048L4Z",
+        "source": "survey",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3500497,
+          46.3530798
+        ]
+      },
+      "id": "node/9864623443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9865972291",
+        "description": "NRA MeD Fleurey sur Ouche",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "212731FM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8590838,
+          47.3146307
+        ]
+      },
+      "id": "node/9865972291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866025231",
+        "description": "NRA MeD Ancey",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "210134EY",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8264614,
+          47.3289808
+        ]
+      },
+      "id": "node/9866025231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866025232",
+        "description": "NRA MeD Baulme la roche",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "210516RC",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7973524,
+          47.3433563
+        ]
+      },
+      "id": "node/9866025232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866025233",
+        "description": "NRA MeD Panges",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21477NPA",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7971771,
+          47.3679751
+        ]
+      },
+      "id": "node/9866025233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866025234",
+        "description": "NRA MeD Savigny Sous Malain",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "215929VI",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7597334,
+          47.3316662
+        ]
+      },
+      "id": "node/9866025234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866025235",
+        "description": "NRA MeD Agey",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "210026GY",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7615931,
+          47.284044
+        ]
+      },
+      "id": "node/9866025235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866025236",
+        "description": "NRA MeD Aubigny les Sombernon",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21033XAS",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6416667,
+          47.3053504
+        ]
+      },
+      "id": "node/9866025236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866025237",
+        "description": "NRA MeD Turcey",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "216484TU",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7159096,
+          47.4081607
+        ]
+      },
+      "id": "node/9866025237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866025238",
+        "description": "NRA MeD Champrenault",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21141UCP",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6749939,
+          47.3954469
+        ]
+      },
+      "id": "node/9866025238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866025239",
+        "description": "NRA MeD Chevannay",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21168EVY",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6533387,
+          47.3975646
+        ]
+      },
+      "id": "node/9866025239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866025240",
+        "description": "NRA MeD Saffres",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "215371SF",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5755135,
+          47.3682557
+        ]
+      },
+      "id": "node/9866025240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866067940",
+        "description": "NRA MeD Soussey Brionne",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21613YSB",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5280523,
+          47.3254792
+        ]
+      },
+      "id": "node/9866067940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866067941",
+        "description": "NRA MeD Eguilly",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21244EG2",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5082406,
+          47.3031177
+        ]
+      },
+      "id": "node/9866067941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866067942",
+        "description": "NRA MeD Gissey le Viel",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21298EYV",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4831889,
+          47.3224265
+        ]
+      },
+      "id": "node/9866067942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866067943",
+        "description": "NRA MeD Chailly Sur Armancon",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "211286AM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4843477,
+          47.2715147
+        ]
+      },
+      "id": "node/9866067943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866067944",
+        "description": "NRA MeD Noidan",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21457IDA",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4083366,
+          47.3451507
+        ]
+      },
+      "id": "node/9866067944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866067945",
+        "description": "NRA MeD Clamerey Pont royal",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21177CPJ",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4444623,
+          47.3927825
+        ]
+      },
+      "id": "node/9866067945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866067946",
+        "description": "NRA MeD Clamerey RD108",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21177YCY",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4347208,
+          47.3927372
+        ]
+      },
+      "id": "node/9866067946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866067947",
+        "description": "NRA MeD Marcilly et Dracy",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21381MDI",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4988872,
+          47.4016771
+        ]
+      },
+      "id": "node/9866067947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866167454",
+        "description": "NRA MeD Villargoix",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21687VM3",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2950657,
+          47.290605
+        ]
+      },
+      "id": "node/9866167454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866167455",
+        "description": "NRA MeD La Motte Ternant",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "214454TM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.327132,
+          47.3265318
+        ]
+      },
+      "id": "node/9866167455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866167456",
+        "description": "NRA MeD Montlay en Auxois",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21434YXM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2812011,
+          47.3510814
+        ]
+      },
+      "id": "node/9866167456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866167457",
+        "description": "NRA MeD Lacour d'Arcenay",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21335KLC",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.250494,
+          47.3667843
+        ]
+      },
+      "id": "node/9866167457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866167458",
+        "description": "NRA MeD Saint Germain de Modeon",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21548G2M",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1312829,
+          47.3793642
+        ]
+      },
+      "id": "node/9866167458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866167459",
+        "description": "NRA MeD Saint Andeux",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21538AXM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0964039,
+          47.404646
+        ]
+      },
+      "id": "node/9866167459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866167460",
+        "description": "NRA MeD Thoste",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21635THM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2256001,
+          47.4354831
+        ]
+      },
+      "id": "node/9866167460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866167461",
+        "description": "NRA MeD Courcelles Fremoy",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21203YFM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1716757,
+          47.4503392
+        ]
+      },
+      "id": "node/9866167461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866167462",
+        "description": "NRA MeD Montberthault",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21426MM9",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1588951,
+          47.4691454
+        ]
+      },
+      "id": "node/9866167462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866167463",
+        "description": "NRA MeD Vieux Chateau",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21681VCM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1356364,
+          47.4696594
+        ]
+      },
+      "id": "node/9866167463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866167464",
+        "description": "NRA MeD Epoisses Foux",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21247OIM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2084497,
+          47.4892993
+        ]
+      },
+      "id": "node/9866167464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866167465",
+        "description": "NRA MeD Vic de Chassenay",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "216762AM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2658227,
+          47.4740917
+        ]
+      },
+      "id": "node/9866167465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866167466",
+        "description": "NRA MeD Courcelles les semur",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "212055EM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2998506,
+          47.4556437
+        ]
+      },
+      "id": "node/9866167466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866167467",
+        "description": "NRA MeD Pont et massène",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21497T2M",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3570566,
+          47.4705219
+        ]
+      },
+      "id": "node/9866167467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866167468",
+        "description": "NRA MeD Montigny sur armancon",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21431YAM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3768469,
+          47.4327153
+        ]
+      },
+      "id": "node/9866167468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866167469",
+        "description": "NRA MeD Villeneuve sous Charigny",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "216962VM",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3960401,
+          47.4384926
+        ]
+      },
+      "id": "node/9866167469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866216240",
+        "description": "NRA MeD Sainte Colombe en auxoix",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21544JCP",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.45811,
+          47.4241482
+        ]
+      },
+      "id": "node/9866216240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866216241",
+        "description": "NRA MeD Corpoyer la chapelle",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21197JCR",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6076003,
+          47.541663
+        ]
+      },
+      "id": "node/9866216241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866216242",
+        "description": "NRA MeD Poiseul la grange",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21489EPG",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8049806,
+          47.576829
+        ]
+      },
+      "id": "node/9866216242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866216243",
+        "description": "NRA MeD Faverolles les Lucey",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21262AFL",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8612447,
+          47.8343922
+        ]
+      },
+      "id": "node/9866216243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866216244",
+        "description": "NRA MeD Samerey",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "215816RY",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3616351,
+          47.0913855
+        ]
+      },
+      "id": "node/9866216244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866452993",
+        "description": "NRA MeD Epernay sous gevrey",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21246EGE",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0331985,
+          47.1811777
+        ]
+      },
+      "id": "node/9866452993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866452994",
+        "description": "NRA MeD Broindon",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21113BDJ",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0443455,
+          47.1975208
+        ]
+      },
+      "id": "node/9866452994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866452995",
+        "description": "NRA MeD Saint Philibert",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21565IPH",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0086053,
+          47.2077279
+        ]
+      },
+      "id": "node/9866452995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866452996",
+        "description": "NRA MeD Morey Saint Denis",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21442RYD",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9623319,
+          47.1986752
+        ]
+      },
+      "id": "node/9866452996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866452997",
+        "description": "NRA MeD Concoeur et Corboin",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21464NUD",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9194407,
+          47.1625777
+        ]
+      },
+      "id": "node/9866452997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866452998",
+        "description": "NRA MeD Chamboeuf",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21132EFB",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9059577,
+          47.2302033
+        ]
+      },
+      "id": "node/9866452998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866497988",
+        "description": "NRA MeD Villey Sur Tille",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "217025VT",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1154468,
+          47.5616813
+        ]
+      },
+      "id": "node/9866497988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866497989",
+        "description": "NRA MeD Marey sur Tille",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21385DMY",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0805617,
+          47.5971239
+        ]
+      },
+      "id": "node/9866497989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866497990",
+        "description": "NRA MeD Avot",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21041AVF",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0136144,
+          47.6186357
+        ]
+      },
+      "id": "node/9866497990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866497991",
+        "description": "NRA MeD Courlon",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21207UCR",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0050089,
+          47.6519132
+        ]
+      },
+      "id": "node/9866497991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866497992",
+        "description": "NRA MeD Grancey le Chateau Neuvelle",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21304YGC",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0295405,
+          47.6670518
+        ]
+      },
+      "id": "node/9866497992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866497993",
+        "description": "NRA MeD Bussieres",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21118TBU",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9694798,
+          47.6592939
+        ]
+      },
+      "id": "node/9866497993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9866497994",
+        "description": "NRA MeD Beneuvre",
+        "man_made": "street_cabinet",
+        "name": "NRA MeD",
+        "operator": "Orange",
+        "ref:FR:PTT": "21063BNJ",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9429839,
+          47.6963916
+        ]
+      },
+      "id": "node/9866497994"
     }
   ]
 }
