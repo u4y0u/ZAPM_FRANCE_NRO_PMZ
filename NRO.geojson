@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-07-05T06:00:00Z",
+  "timestamp": "2022-07-09T08:51:39Z",
   "features": [
     {
       "type": "Feature",
@@ -9090,6 +9090,47 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/973475783",
+        "building": "service",
+        "location": "indoor",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.7188478,
+              46.2790891
+            ],
+            [
+              6.718826,
+              46.279121
+            ],
+            [
+              6.7187349,
+              46.2790913
+            ],
+            [
+              6.7187566,
+              46.2790595
+            ],
+            [
+              6.7188478,
+              46.2790891
+            ]
+          ]
+        ]
+      },
+      "id": "way/973475783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/974845900",
         "building": "service",
         "location": "indoor",
@@ -9745,6 +9786,130 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/1076677403",
+        "building": "service",
+        "location": "indoor",
+        "name": "NRO",
+        "not:operator:wikidata": "Q3001818",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5648341,
+              46.3675668
+            ],
+            [
+              6.5648301,
+              46.3675279
+            ],
+            [
+              6.5649293,
+              46.3675186
+            ],
+            [
+              6.5649374,
+              46.3675575
+            ],
+            [
+              6.5648341,
+              46.3675668
+            ]
+          ]
+        ]
+      },
+      "id": "way/1076677403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1076677406",
+        "building": "service",
+        "location": "indoor",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.7842487,
+              46.2935477
+            ],
+            [
+              6.7842326,
+              46.2935023
+            ],
+            [
+              6.7842675,
+              46.2934967
+            ],
+            [
+              6.7842862,
+              46.2935403
+            ],
+            [
+              6.7842487,
+              46.2935477
+            ]
+          ]
+        ]
+      },
+      "id": "way/1076677406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1076677408",
+        "building": "service",
+        "location": "indoor",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.8398656,
+              46.2673959
+            ],
+            [
+              6.8398133,
+              46.2673894
+            ],
+            [
+              6.8398536,
+              46.2672948
+            ],
+            [
+              6.8398965,
+              46.2673041
+            ],
+            [
+              6.8398656,
+              46.2673959
+            ]
+          ]
+        ]
+      },
+      "id": "way/1076677408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/276884854",
         "name": "NRO FREE BER34",
         "operator": "Free",
@@ -10211,25 +10376,6 @@
         ]
       },
       "id": "node/6184518246"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/6230920663",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.7187754,
-          46.2790868
-        ]
-      },
-      "id": "node/6230920663"
     },
     {
       "type": "Feature",
@@ -11150,6 +11296,7 @@
         "@id": "node/7148887738",
         "name": "MNE85",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "85151MNE",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -31739,6 +31886,66 @@
         ]
       },
       "id": "node/9866963587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9873059899",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72050_BRUL",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2393574,
+          47.9724878
+        ]
+      },
+      "id": "node/9873059899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9874989196",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72012_ASSE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0817281,
+          48.1945695
+        ]
+      },
+      "id": "node/9874989196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9874989206",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72229_PARE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1783164,
+          48.1246605
+        ]
+      },
+      "id": "node/9874989206"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-07-05T06:03:06Z",
+  "timestamp": "2022-07-09T08:56:39Z",
   "features": [
     {
       "type": "Feature",
@@ -86152,7 +86152,9 @@
         "@id": "way/236221571",
         "building": "service",
         "man_made": "telephone_office",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "57399LEZ",
         "source": "ANFR Opendata",
@@ -108884,6 +108886,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -124348,7 +124351,9 @@
       "properties": {
         "@id": "node/7147231400",
         "man_made": "street_cabinet",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "86255ULS",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -148452,6 +148457,75 @@
         ]
       },
       "id": "node/9866497994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9875818950",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "NRA 5BI",
+        "ref": "5BI",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3827064,
+          48.0742934
+        ]
+      },
+      "id": "node/9875818950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9875851271",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/5JR",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4834864,
+          48.0607674
+        ]
+      },
+      "id": "node/9875851271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9875919535",
+        "man_made": "street_cabinet",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/5CV",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0653795,
+          48.1247807
+        ]
+      },
+      "id": "node/9875919535"
     }
   ]
 }
