@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-07-09T08:56:39Z",
+  "timestamp": "2022-07-15T15:47:39Z",
   "features": [
     {
       "type": "Feature",
@@ -37407,10 +37407,9 @@
       "type": "Feature",
       "properties": {
         "@id": "way/86635217",
-        "addr:city": "Poissy",
         "addr:housenumber": "49",
         "addr:postcode": "78300",
-        "addr:street": "Boulevard Victor-Hugo",
+        "addr:street": "Boulevard Victor Hugo",
         "building": "service",
         "man_made": "telephone_office",
         "name": "Central téléphonique",
@@ -42831,56 +42830,6 @@
         ]
       },
       "id": "way/99854464"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/100366511",
-        "building": "service",
-        "name": "Central Téléphonique",
-        "operator": "Orange",
-        "owner": "Orange",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
-        "telecom": "exchange",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.0955648,
-              43.6337954
-            ],
-            [
-              5.0954471,
-              43.6338534
-            ],
-            [
-              5.0951417,
-              43.6335286
-            ],
-            [
-              5.0951955,
-              43.6335021
-            ],
-            [
-              5.0952448,
-              43.6334778
-            ],
-            [
-              5.0952595,
-              43.6334706
-            ],
-            [
-              5.0955648,
-              43.6337954
-            ]
-          ]
-        ]
-      },
-      "id": "way/100366511"
     },
     {
       "type": "Feature",
@@ -52549,24 +52498,24 @@
         "coordinates": [
           [
             [
-              3.4318508,
-              44.1797948
+              3.4318682,
+              44.1798112
             ],
             [
-              3.4319333,
-              44.1797802
+              3.4319507,
+              44.1797966
             ],
             [
-              3.4319617,
-              44.1798627
+              3.4319791,
+              44.1798791
             ],
             [
-              3.4318792,
-              44.1798773
+              3.4318966,
+              44.1798937
             ],
             [
-              3.4318508,
-              44.1797948
+              3.4318682,
+              44.1798112
             ]
           ]
         ]
@@ -97441,6 +97390,49 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/380302538",
+        "building": "service",
+        "man_made": "telephone_office",
+        "name": "Central téléphonique",
+        "operator": "Orange",
+        "owner": "Orange",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2015",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.626047,
+              48.234384
+            ],
+            [
+              0.626079,
+              48.234432
+            ],
+            [
+              0.625984,
+              48.234468
+            ],
+            [
+              0.62595,
+              48.234424
+            ],
+            [
+              0.626047,
+              48.234384
+            ]
+          ]
+        ]
+      },
+      "id": "way/380302538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/380469192",
         "building": "service",
         "man_made": "telephone_office",
@@ -109928,6 +109920,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -110980,6 +110973,7 @@
         "name": "Central Téléphonique",
         "operator": "Orange",
         "owner": "Orange",
+        "ref:FR:PTT": "13103SA1",
         "telecom": "exchange",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -110987,8 +110981,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.0950324,
-          43.6403835
+          5.0950565,
+          43.640121
         ]
       },
       "id": "node/2260664521"
@@ -148526,6 +148520,24 @@
         ]
       },
       "id": "node/9875919535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9881958103",
+        "operator": "Orange",
+        "ref:FR:PTT": "13103SA2",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0954193,
+          43.6337204
+        ]
+      },
+      "id": "node/9881958103"
     }
   ]
 }

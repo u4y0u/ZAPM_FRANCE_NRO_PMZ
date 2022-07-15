@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-07-09T08:51:39Z",
+  "timestamp": "2022-07-15T15:39:23Z",
   "features": [
     {
       "type": "Feature",
@@ -7153,6 +7153,47 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/900914470",
+        "building": "yes",
+        "operator": "ADTIM",
+        "ref": "PMT_26301",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.9699078,
+              45.1158282
+            ],
+            [
+              4.9699276,
+              45.1157796
+            ],
+            [
+              4.9700463,
+              45.1158038
+            ],
+            [
+              4.9700265,
+              45.1158525
+            ],
+            [
+              4.9699078,
+              45.1158282
+            ]
+          ]
+        ]
+      },
+      "id": "way/900914470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/903411948",
         "building": "service",
         "building:prefabricated": "yes",
@@ -10029,7 +10070,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/3984542708",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "544824AB",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -18502,6 +18545,7 @@
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Axione",
+        "operator:wikidata": "Q97187730",
         "owner": "HSN",
         "ref": "HSN_NRO_N070MNY",
         "source": "https://twitter.com/Hades73440/status/1123905534007103488",
@@ -31946,6 +31990,45 @@
         ]
       },
       "id": "node/9874989206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876351788",
+        "operator": "Altitude",
+        "owner": "Prisme Fibre",
+        "ref": "NRO-39-172",
+        "source": "https://twitter.com/PrismeFibre/status/1542439000014823427",
+        "start_date": "30/06/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6588169,
+          47.1498553
+        ]
+      },
+      "id": "node/9876351788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9881958104",
+        "operator": "Orange",
+        "ref:FR:Orange:NRO": "13103SA2",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0952986,
+          43.633602
+        ]
+      },
+      "id": "node/9881958104"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-07-09T08:54:36Z",
+  "timestamp": "2022-07-15T15:42:33Z",
   "features": [
     {
       "type": "Feature",
@@ -656,6 +656,47 @@
         ]
       },
       "id": "way/902292220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1078541094",
+        "area": "yes",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "name": "SR",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5528912,
+              46.3725121
+            ],
+            [
+              6.5528795,
+              46.3725011
+            ],
+            [
+              6.552914,
+              46.3724836
+            ],
+            [
+              6.5529257,
+              46.3724946
+            ],
+            [
+              6.5528912,
+              46.3725121
+            ]
+          ]
+        ]
+      },
+      "id": "way/1078541094"
     },
     {
       "type": "Feature",
@@ -58681,6 +58722,115 @@
         ]
       },
       "id": "node/9875926819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9880873991",
+        "colour": "grey",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "mapillary": "586557256404037",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/MST/C46",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9272115,
+          47.9227023
+        ]
+      },
+      "id": "node/9880873991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9880900666",
+        "colour": "grey",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "mapillary": "275693967222729",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/MST/C37",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.924839,
+          47.9181047
+        ]
+      },
+      "id": "node/9880900666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9881958059",
+        "connection_point": "primary",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.100145,
+          43.6341028
+        ]
+      },
+      "id": "node/9881958059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9881958061",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "manufacturer": "Prefatel",
+        "operator": "Orange",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0987653,
+          43.6383075
+        ]
+      },
+      "id": "node/9881958061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9881958065",
+        "location": "green",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "telecom": "connection_point",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1135892,
+          43.6336704
+        ]
+      },
+      "id": "node/9881958065"
     }
   ]
 }
