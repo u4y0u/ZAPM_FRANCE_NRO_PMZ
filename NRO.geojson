@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-07-15T15:39:23Z",
+  "timestamp": "2022-08-11T18:18:39Z",
   "features": [
     {
       "type": "Feature",
@@ -6062,6 +6062,53 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/777696401",
+        "addr:city": "Dampierre-sur-Salon",
+        "addr:postcode": "70180",
+        "building": "yes",
+        "building:prefabricated": "yes",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "owner": "HASF",
+        "ref": "N070DSS",
+        "source": "https://twitter.com/Hades73440/status/1526935061249118209",
+        "start_date": "18/05/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.6859683,
+              47.5534315
+            ],
+            [
+              5.6858573,
+              47.5533956
+            ],
+            [
+              5.685895,
+              47.5533425
+            ],
+            [
+              5.6860061,
+              47.5533784
+            ],
+            [
+              5.6859683,
+              47.5534315
+            ]
+          ]
+        ]
+      },
+      "id": "way/777696401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/788649798",
         "building": "service",
         "name": "NRO de Plautignan",
@@ -9582,7 +9629,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1007065065",
-        "building": "yes",
+        "building": "service",
         "height": "3",
         "operator": "Hérault THD",
         "ref:FR:HeraultTHD": "NO34MON1",
@@ -9594,24 +9641,24 @@
         "coordinates": [
           [
             [
-              3.134026,
-              43.3336717
+              3.1340271,
+              43.3336714
             ],
             [
-              3.1340287,
-              43.3336463
+              3.1340276,
+              43.333645
             ],
             [
-              3.1340904,
-              43.3336444
+              3.1340893,
+              43.3336457
             ],
             [
-              3.1340877,
-              43.3336717
+              3.1340888,
+              43.333672
             ],
             [
-              3.134026,
-              43.3336717
+              3.1340271,
+              43.3336714
             ]
           ]
         ]
@@ -12181,6 +12228,7 @@
         "@id": "node/7151277417",
         "name": "CRH60",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "60175CRH",
         "telecom": "exchange",
@@ -13428,6 +13476,7 @@
         "@id": "node/7153558701",
         "name": "3LL54",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "543293LL",
         "telecom": "exchange",
@@ -13468,7 +13517,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7153600036",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "545494AV",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -13529,6 +13580,7 @@
         "@id": "node/7153842084",
         "name": "ARL57",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "57463ARL",
         "telecom": "exchange",
@@ -20149,8 +20201,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222104159",
+        "name": "Orange",
         "note": "BFC-Fibre",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Departement Cote d'Or",
         "ref": "NRO_21657HGG",
         "telecom": "exchange",
@@ -20905,8 +20959,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.7738976,
-          46.904499
+          5.7738415,
+          46.9044663
         ]
       },
       "id": "node/8222663081"
@@ -23065,8 +23119,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.7876914,
-          45.1828373
+          0.7877395,
+          45.1828309
         ]
       },
       "id": "node/8225544704"
@@ -23078,8 +23132,10 @@
         "name": "NRO Agonac",
         "operator": "NATHD",
         "owner": "Périgord Numérique",
+        "ref": "NA_24002_DYVY",
         "telecom": "exchange",
         "telecom:medium": "fibre",
+        "utility": "telecom",
         "wikimedia_commons": "File:NRO Agonac.jpg"
       },
       "geometry": {
@@ -25740,8 +25796,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.7345172,
-          47.0116416
+          -0.734548,
+          47.0116352
         ]
       },
       "id": "node/8330230344"
@@ -26754,7 +26810,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8431045351",
-        "name": "NRO IS-SUR-TILLE",
+        "name": "NRO",
         "operator": "Orange",
         "owner": "BFC fibre",
         "ref": "NRO IS-SUR-TILLE",
@@ -26765,8 +26821,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.1169945,
-          47.5230842
+          5.1165405,
+          47.5232068
         ]
       },
       "id": "node/8431045351"
@@ -29301,7 +29357,7 @@
         "name": "NRO Brantôme",
         "operator": "NATHD",
         "owner": "Périgord Numérique",
-        "ref": "?",
+        "ref": "NA_24064_CIRO",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
@@ -29310,8 +29366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.6513752,
-          45.3607486
+          0.6513636,
+          45.3607534
         ]
       },
       "id": "node/9461091220"
@@ -30586,6 +30642,7 @@
       "properties": {
         "@id": "node/9520794952",
         "operator": "Lumen",
+        "operator:wikidata": "Q5063092",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -30603,6 +30660,7 @@
       "properties": {
         "@id": "node/9520794961",
         "operator": "Lumen",
+        "operator:wikidata": "Q5063092",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -31540,27 +31598,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/9752835310",
-        "operator": "Orange",
-        "owner": "HASF",
-        "ref": "N070DSS",
-        "source": "https://twitter.com/Hades73440/status/1526935061249118209",
-        "start_date": "18/05/2022",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.685933,
-          47.5533864
-        ]
-      },
-      "id": "node/9752835310"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/9752884447",
         "operator": "Orange",
         "owner": "HASF",
@@ -31636,8 +31673,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.0626066,
-          46.654217
+          6.0625817,
+          46.6540649
         ]
       },
       "id": "node/9755081778"
@@ -32029,6 +32066,296 @@
         ]
       },
       "id": "node/9881958104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9907222952",
+        "name": "NRO Mugron",
+        "operator": "NATHD",
+        "owner": "SYDEC",
+        "ref": "SHL_40201_MUGR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Mugron.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7495321,
+          43.7478188
+        ]
+      },
+      "id": "node/9907222952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9907222954",
+        "name": "NRO Hinx",
+        "operator": "NATHD",
+        "owner": "SYDEC",
+        "ref": "SHL_40126_HINX",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Hinx.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8426462,
+          43.7095679
+        ]
+      },
+      "id": "node/9907222954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9907222957",
+        "name": "NRO Brocas",
+        "operator": "Altitude Infrastructure THD",
+        "owner": "PIXL",
+        "ref": "NRO 40-035",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5346079,
+          44.043624
+        ]
+      },
+      "id": "node/9907222957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9911173575",
+        "operator": "Altitude",
+        "owner": "Prisme Fibre",
+        "ref": "NRO-39-180",
+        "source": "https://twitter.com/PrismeFibre/status/1551852682717061120",
+        "start_date": "26/07/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6083895,
+          46.519483
+        ]
+      },
+      "id": "node/9911173575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9915104831",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "N070FVY",
+        "source": "https://twitter.com/Hades73440/status/1552265909565542400",
+        "start_date": "27/07/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1013836,
+          47.7668578
+        ]
+      },
+      "id": "node/9915104831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9915104836",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "N070VVL",
+        "source": "https://twitter.com/Hades73440/status/1552295163346796546",
+        "start_date": "27/07/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1003333,
+          47.921151
+        ]
+      },
+      "id": "node/9915104836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917516398",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "N070FAU",
+        "source": "https://twitter.com/Hades73440/status/1552625709205659650",
+        "start_date": "28/07/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.561742,
+          47.8411938
+        ]
+      },
+      "id": "node/9917516398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917516403",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "N070BMT",
+        "start_date": "28/07/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4926127,
+          47.7807177
+        ]
+      },
+      "id": "node/9917516403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9921505844",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72346_SUSA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0235355,
+          47.8868737
+        ]
+      },
+      "id": "node/9921505844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9928159677",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72138_FRES",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0229541,
+          48.2865554
+        ]
+      },
+      "id": "node/9928159677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9929792246",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Corai Fibre",
+        "ref": "NRO 21-002-Fontaine Francaise",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3658621,
+          47.5314121
+        ]
+      },
+      "id": "node/9929792246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9929792251",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Corai Fibre",
+        "ref": "NRO 21-008 Selongey",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1744141,
+          47.5862075
+        ]
+      },
+      "id": "node/9929792251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9931715707",
+        "operator": "Altitude",
+        "owner": "Prisme Fibre",
+        "ref": "NRO-39-177 Les Bouchoux",
+        "source": "https://www.linkedin.com/feed/update/urn:li:activity:6960924007776813057/",
+        "start_date": "04/08/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8188425,
+          46.2951107
+        ]
+      },
+      "id": "node/9931715707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9946083954",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72180_MAME",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.356633,
+          48.3537572
+        ]
+      },
+      "id": "node/9946083954"
     }
   ]
 }
