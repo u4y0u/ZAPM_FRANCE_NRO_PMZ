@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-08-11T18:18:39Z",
+  "timestamp": "2022-09-09T19:25:51Z",
   "features": [
     {
       "type": "Feature",
@@ -3174,6 +3174,7 @@
         "building:prefabricated": "yes",
         "colour": "white",
         "height": "3",
+        "location": "indoor",
         "name": "NRO",
         "operator": "Covage",
         "owner": "Syane",
@@ -6527,7 +6528,9 @@
       "properties": {
         "@id": "way/798139875",
         "building": "service",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Megalis",
         "ref:FR:Megalis": "PLA",
         "telecom": "exchange",
@@ -9998,6 +10001,90 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/1087649037",
+        "building": "service",
+        "location": "indoor",
+        "name": "NRO",
+        "operator": "Covage",
+        "operator:wikidata": "Q3001818",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5238357,
+              46.3754344
+            ],
+            [
+              6.5238107,
+              46.3754237
+            ],
+            [
+              6.5238372,
+              46.3753943
+            ],
+            [
+              6.5238622,
+              46.375405
+            ],
+            [
+              6.5238357,
+              46.3754344
+            ]
+          ]
+        ]
+      },
+      "id": "way/1087649037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1091732538",
+        "building": "service",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72167_LOUA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.2185617,
+              47.7779744
+            ],
+            [
+              -0.2185795,
+              47.7779557
+            ],
+            [
+              -0.2185116,
+              47.7779267
+            ],
+            [
+              -0.2184939,
+              47.7779455
+            ],
+            [
+              -0.2185617,
+              47.7779744
+            ]
+          ]
+        ]
+      },
+      "id": "way/1091732538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/276884854",
         "name": "NRO FREE BER34",
         "operator": "Free",
@@ -10198,6 +10285,7 @@
         "@id": "node/6001443344",
         "operator": "Free",
         "operator:type": "private",
+        "operator:wikidata": "Q2467627",
         "ref": "Gam92",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -11217,6 +11305,7 @@
         "@id": "node/7148783456",
         "name": "RCH85",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "85191RCH",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -11696,7 +11785,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7149976276",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "75110NOR",
         "telecom": "exchange",
@@ -12690,6 +12781,7 @@
         "@id": "node/7151572685",
         "name": "PIQ03",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "03185PIQ",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -13457,6 +13549,7 @@
         "@id": "node/7153558604",
         "name": "REC54",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "54323REC",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -13622,6 +13715,7 @@
         "@id": "node/7153857933",
         "name": "FAM57",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "57206FAM",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -16110,7 +16204,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7662119557",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange:NRO": "69383MON",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -23421,7 +23517,9 @@
         "@id": "node/8231142773",
         "addr:city": "Anduze",
         "addr:postcode": "30140",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "30010AND",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -29720,6 +29818,7 @@
       "properties": {
         "@id": "node/9519009636",
         "operator": "Lumen",
+        "operator:wikidata": "Q5063092",
         "ref": "NANCFRAC",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -32121,7 +32220,8 @@
         "ref": "NRO 40-035",
         "telecom": "exchange",
         "telecom:medium": "fibre",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Brocas.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -32356,6 +32456,86 @@
         ]
       },
       "id": "node/9946083954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9959875033",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Corai Fibre",
+        "ref": "NRO 21-014",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0016339,
+          47.210384
+        ]
+      },
+      "id": "node/9959875033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9959875038",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Corai Fibre",
+        "ref": "NRO 21-010",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8788273,
+          47.1802998
+        ]
+      },
+      "id": "node/9959875038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9997863321",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72244_PREC",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3202533,
+          47.7720984
+        ]
+      },
+      "id": "node/9997863321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10009963499",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Corai Fibre",
+        "ref": "21-021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7107151,
+          47.3135965
+        ]
+      },
+      "id": "node/10009963499"
     }
   ]
 }
