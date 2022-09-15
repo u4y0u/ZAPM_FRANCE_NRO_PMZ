@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-09-09T19:31:54Z",
+  "timestamp": "2022-09-15T18:08:38Z",
   "features": [
     {
       "type": "Feature",
@@ -101633,6 +101633,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
         "telecom": "exchange",
@@ -101644,24 +101645,24 @@
         "coordinates": [
           [
             [
-              3.5356239,
-              49.3401625
+              3.5356355,
+              49.3401652
             ],
             [
-              3.5356041,
-              49.3400925
+              3.5356127,
+              49.3400918
             ],
             [
-              3.5357187,
-              49.3400787
+              3.5357345,
+              49.3400758
             ],
             [
-              3.5357385,
-              49.3401487
+              3.5357573,
+              49.3401492
             ],
             [
-              3.5356239,
-              49.3401625
+              3.5356355,
+              49.3401652
             ]
           ]
         ]
@@ -150247,6 +150248,29 @@
         ]
       },
       "id": "node/9986830091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10026988492",
+        "colour": "white",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/3VA",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3873483,
+          47.0568625
+        ]
+      },
+      "id": "node/10026988492"
     }
   ]
 }

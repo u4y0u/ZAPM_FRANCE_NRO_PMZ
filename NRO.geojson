@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-09-09T19:25:51Z",
+  "timestamp": "2022-09-15T18:05:25Z",
   "features": [
     {
       "type": "Feature",
@@ -10085,6 +10085,46 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/1093986683",
+        "building": "service",
+        "operator": "Altitude",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.3679357,
+              45.8603895
+            ],
+            [
+              6.3679337,
+              45.8603143
+            ],
+            [
+              6.36799,
+              45.8603136
+            ],
+            [
+              6.367992,
+              45.8603888
+            ],
+            [
+              6.3679357,
+              45.8603895
+            ]
+          ]
+        ]
+      },
+      "id": "way/1093986683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/276884854",
         "name": "NRO FREE BER34",
         "operator": "Free",
@@ -13529,7 +13569,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7153553052",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "545286TL",
         "telecom": "exchange",
         "telecom:medium": "fibre"
