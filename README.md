@@ -27,7 +27,7 @@ Projet QGIS [https://www.qgis.org/fr/site/](https://www.qgis.org/fr/site/) (Syst
 
 ## Version:
 
-## **du 15/09/2022 et update .geojson du 19/09/2022**
+## **du 15/09/2022 et update .geojson du 22/09/2022**
 
 
 **Source:**
