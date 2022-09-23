@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-09-15T18:08:38Z",
+  "timestamp": "2022-09-23T17:09:44Z",
   "features": [
     {
       "type": "Feature",
@@ -57494,55 +57494,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/129034209",
-        "addr:city": "Mont-Près-Chambord",
-        "addr:housenumber": "453",
-        "addr:postcode": "41250",
-        "addr:street": "Rue Nationale",
-        "building": "service",
-        "name": "MC141",
-        "operator": "Orange",
-        "ref:FR:PTT": "MC141",
-        "ref:FR:PTT:NRA": "41250MC1",
-        "telecom": "exchange",
-        "telecom:medium": "copper"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.4591234,
-              47.5627516
-            ],
-            [
-              1.4590491,
-              47.5627389
-            ],
-            [
-              1.4590874,
-              47.562648
-            ],
-            [
-              1.4592249,
-              47.5626639
-            ],
-            [
-              1.4591852,
-              47.5627633
-            ],
-            [
-              1.4591234,
-              47.5627516
-            ]
-          ]
-        ]
-      },
-      "id": "way/129034209"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/129055545",
         "building": "service",
         "building:levels": "3",
@@ -66964,6 +66915,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
         "telecom": "exchange",
@@ -92089,28 +92041,28 @@
         "coordinates": [
           [
             [
-              7.640828,
-              48.951351
+              7.6408285,
+              48.9513466
             ],
             [
-              7.640743,
-              48.951274
+              7.6407443,
+              48.9512696
             ],
             [
-              7.640728,
-              48.9512582
+              7.640727,
+              48.9512543
             ],
             [
-              7.6410431,
-              48.9511063
+              7.6410438,
+              48.9511028
             ],
             [
-              7.6411438,
-              48.9511984
+              7.6411465,
+              48.9511929
             ],
             [
-              7.640828,
-              48.951351
+              7.6408285,
+              48.9513466
             ]
           ]
         ]
@@ -95139,24 +95091,24 @@
         "coordinates": [
           [
             [
-              -3.4616317,
-              48.3049904
+              -3.4616263,
+              48.3049975
             ],
             [
-              -3.4615874,
-              48.3050518
+              -3.461582,
+              48.3050589
             ],
             [
-              -3.4616808,
-              48.3050816
+              -3.4616754,
+              48.3050887
             ],
             [
-              -3.4617251,
-              48.3050202
+              -3.4617197,
+              48.3050273
             ],
             [
-              -3.4616317,
-              48.3049904
+              -3.4616263,
+              48.3049975
             ]
           ]
         ]
@@ -114488,7 +114440,9 @@
       "properties": {
         "@id": "node/6020505203",
         "description": "NRA_STE CROIX",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "04176SCV",
         "source": "PACA THD",
@@ -119063,8 +119017,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.1840019,
-          47.5191082
+          6.1838511,
+          47.518846
         ]
       },
       "id": "node/6289849203"
@@ -119147,7 +119101,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.1797506,
+          6.180259,
           47.4194819
         ]
       },
@@ -120302,8 +120256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.9488714,
-          47.4897532
+          5.9489137,
+          47.4895716
         ]
       },
       "id": "node/6289849262"
@@ -122642,7 +122596,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6761551293",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "JUY45",
         "ref:FR:PTT:NRA": "45175JUY",
         "telecom": "exchange",
@@ -127569,6 +127525,7 @@
         "@id": "node/7204551139",
         "name": "HAG57",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "57283HAG",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -143227,6 +143184,7 @@
         "man_made": "street_cabinet",
         "name": "NRA MeD",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "39476TUB",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -143756,6 +143714,7 @@
         "man_made": "street_cabinet",
         "name": "NRA MeD",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "39301LI9",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -143996,7 +143955,6 @@
         "@id": "node/9848868200",
         "description": "NRA MeD Les Deux Fays",
         "man_made": "street_cabinet",
-        "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "39196XYS",
         "street_cabinet": "telecom",
@@ -150271,6 +150229,116 @@
         ]
       },
       "id": "node/10026988492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10043206060",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/UY1/000",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6043307,
+          47.6499146
+        ]
+      },
+      "id": "node/10043206060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10043244350",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/T6Y",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5968578,
+          47.6300313
+        ]
+      },
+      "id": "node/10043244350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10043390831",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/MC1/000",
+        "ref:FR:PTT": "MC141",
+        "ref:FR:PTT:NRA": "41250MC1",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4591449,
+          47.5627015
+        ]
+      },
+      "id": "node/10043390831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10047536077",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/CY1/000",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1338337,
+          47.3344625
+        ]
+      },
+      "id": "node/10047536077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10047586041",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/F7C",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0825501,
+          47.3131218
+        ]
+      },
+      "id": "node/10047586041"
     }
   ]
 }

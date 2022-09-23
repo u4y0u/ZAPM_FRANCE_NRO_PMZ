@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-09-15T18:05:25Z",
+  "timestamp": "2022-09-23T17:05:38Z",
   "features": [
     {
       "type": "Feature",
@@ -10125,6 +10125,47 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/1095209881",
+        "building": "service",
+        "description": "Shelter NRO",
+        "source": "https://actu.fr/normandie/gaillon_27275/le-tres-haut-debit-arrive-gaillon-dans-leure_18245784.html",
+        "start_date": "2018-08",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.3453029,
+              49.1624474
+            ],
+            [
+              1.3451998,
+              49.1624396
+            ],
+            [
+              1.3452046,
+              49.1624125
+            ],
+            [
+              1.3453077,
+              49.1624203
+            ],
+            [
+              1.3453029,
+              49.1624474
+            ]
+          ]
+        ]
+      },
+      "id": "way/1095209881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/276884854",
         "name": "NRO FREE BER34",
         "operator": "Free",
@@ -13778,6 +13819,7 @@
         "@id": "node/7153858786",
         "name": "HAG57",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "57283HAG",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -32578,6 +32620,157 @@
         ]
       },
       "id": "node/10009963499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10028849545",
+        "man_made": "street_cabinet",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/XAO",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3075165,
+          47.0527273
+        ]
+      },
+      "id": "node/10028849545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10030153994",
+        "colour": "white",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/BGP",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4000281,
+          47.1074081
+        ]
+      },
+      "id": "node/10030153994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10036268888",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4200286,
+          47.2326814
+        ]
+      },
+      "id": "node/10036268888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10042619906",
+        "man_made": "street_cabinet",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3715396,
+          46.8030772
+        ]
+      },
+      "id": "node/10042619906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10043037747",
+        "addr:city": "Jouy-le-Potier",
+        "addr:street": "Rue d'Orléans",
+        "name": "NRO Jouy-le-Potier",
+        "operator": "Loiret THD",
+        "source": "https://www.larep.fr/jouy-le-potier-45370/actualites/amenagements-pour-la-fibre-optique_13950149/",
+        "start_date": "2021-05",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8111329,
+          47.7479548
+        ]
+      },
+      "id": "node/10043037747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10043348327",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "N070AME",
+        "source": "https://twitter.com/Hades73440/status/1572560272388390913",
+        "start_date": "21/09/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0560544,
+          47.8001201
+        ]
+      },
+      "id": "node/10043348327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10043348332",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "N070SVC",
+        "source": "https://twitter.com/Hades73440/status/1572631786819321860",
+        "start_date": "21/09/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6816471,
+          47.8132175
+        ]
+      },
+      "id": "node/10043348332"
     }
   ]
 }
