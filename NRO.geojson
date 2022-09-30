@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-09-23T17:05:38Z",
+  "timestamp": "2022-09-30T08:08:44Z",
   "features": [
     {
       "type": "Feature",
@@ -13532,6 +13532,7 @@
         "@id": "node/7153393239",
         "name": "6SD88",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "884136SD",
         "telecom": "exchange",
@@ -23878,9 +23879,11 @@
       "properties": {
         "@id": "node/8231706070",
         "operator": "Covage",
+        "operator:wikidata": "Q3001818",
         "owner": "Sem@for77",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "website": "https://www.xpfibre.com"
       },
       "geometry": {
         "type": "Point",
@@ -32771,6 +32774,45 @@
         ]
       },
       "id": "node/10043348332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10056316260",
+        "man_made": "street_cabinet",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7954803,
+          46.6755803
+        ]
+      },
+      "id": "node/10056316260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10056732346",
+        "operator": "Orange",
+        "owner": "HASF",
+        "ref": "N070ATH",
+        "start_date": "27/09/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5093008,
+          47.5961282
+        ]
+      },
+      "id": "node/10056732346"
     }
   ]
 }
