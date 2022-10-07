@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-09-30T08:08:44Z",
+  "timestamp": "2022-10-07T08:26:54Z",
   "features": [
     {
       "type": "Feature",
@@ -10166,6 +10166,51 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/1099887541",
+        "addr:city": "Preuilly-sur-Claise",
+        "building": "yes",
+        "communication": "yes",
+        "note": "Pour le secteur de Preuilly, il s’agit de 3.800 prises : entreprises, administrations ou habitations.\nhttps://www.lanouvellerepublique.fr/indre-et-loire/commune/preuilly-sur-claise/dernier-raccordement-a-la-fibre",
+        "operator": "TDF",
+        "owner": "Val de Loire Fibre",
+        "ref": "48 eme NRO Preuilly-sur-Claise",
+        "source": "https://twitter.com/valdeloirefibre/status/1325720973933416448;https://www.lanouvellerepublique.fr/indre-et-loire/commune/preuilly-sur-claise/dernier-raccordement-a-la-fibre",
+        "start_date": "2020-11-05",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.9419554,
+              46.8591939
+            ],
+            [
+              0.9419055,
+              46.8591526
+            ],
+            [
+              0.9419314,
+              46.859138
+            ],
+            [
+              0.9419813,
+              46.8591792
+            ],
+            [
+              0.9419554,
+              46.8591939
+            ]
+          ]
+        ]
+      },
+      "id": "way/1099887541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/276884854",
         "name": "NRO FREE BER34",
         "operator": "Free",
@@ -11250,7 +11295,7 @@
         "addr:housenumber": "4B",
         "addr:postcode": "45000",
         "addr:street": "Rue du Grenier à Sel",
-        "mapillary": "4isgQYvLxPFhHEJ1UULqiU",
+        "mapillary": "289132056185641",
         "operator": "Orange",
         "ref:FR:Orange": "45234GAS",
         "telecom": "exchange",
@@ -12219,6 +12264,7 @@
         "@id": "node/7151151149",
         "name": "NLA58",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "58194NLA",
         "telecom": "exchange",
@@ -13963,28 +14009,6 @@
         ]
       },
       "id": "node/7153978558"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/7153986228",
-        "name": "MEI67",
-        "operator": "Orange",
-        "operator:wikidata": "Q1431486",
-        "owner": "Orange",
-        "ref:FR:Orange": "67482MEI",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7485498,
-          48.5494777
-        ]
-      },
-      "id": "node/7153986228"
     },
     {
       "type": "Feature",
@@ -17246,24 +17270,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8168329421",
-        "operator": "Orange",
-        "ref:FR:Orange:NRO": "38185VIG",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.7216185,
-          45.1633473
-        ]
-      },
-      "id": "node/8168329421"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8168329430",
         "operator": "Orange",
         "ref:FR:Orange:NRO": "38421WMH",
@@ -17355,29 +17361,6 @@
         ]
       },
       "id": "node/8210403251"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/8210494363",
-        "addr:city": "Preuilly-sur-Claise",
-        "note": "Pour le secteur de Preuilly, il s’agit de 3.800 prises : entreprises, administrations ou habitations.\nhttps://www.lanouvellerepublique.fr/indre-et-loire/commune/preuilly-sur-claise/dernier-raccordement-a-la-fibre",
-        "operator": "TDF",
-        "owner": "Val de Loire Fibre",
-        "ref": "48 eme NRO Preuilly-sur-Claise",
-        "source": "https://twitter.com/valdeloirefibre/status/1325720973933416448;https://www.lanouvellerepublique.fr/indre-et-loire/commune/preuilly-sur-claise/dernier-raccordement-a-la-fibre",
-        "start_date": "2020-11-05",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.9419505,
-          46.8591133
-        ]
-      },
-      "id": "node/8210494363"
     },
     {
       "type": "Feature",
@@ -22361,6 +22344,7 @@
       "properties": {
         "@id": "node/8223009513",
         "operator": "Interoute",
+        "operator:wikidata": "Q1668090",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -27122,25 +27106,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8531965873",
-        "fixme": "Operateur a ajouter et identification",
-        "name": "NRO",
-        "owner": "Perigord Numerique",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.3168054,
-          45.1465718
-        ]
-      },
-      "id": "node/8531965873"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8532588140",
         "addr:city": "Meyssac",
         "addr:postcode": "19500",
@@ -27336,6 +27301,7 @@
         "name": "NRO Lisle",
         "operator": "NATHD",
         "owner": "Périgord Numérique",
+        "ref": "NA_24144_JIBY",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "wikimedia_commons": "File:NRO_Lisle.jpg"
@@ -27343,8 +27309,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.5425082,
-          45.283916
+          0.5424632,
+          45.2839241
         ]
       },
       "id": "node/8617767573"
@@ -32813,6 +32779,71 @@
         ]
       },
       "id": "node/10056732346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10076706886",
+        "addr:city": "Saint-André-de-Double",
+        "name": "NRO Saint-André-de-Double",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24367_VIVE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO Saint-André-de-Double.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3168113,
+          45.14658
+        ]
+      },
+      "id": "node/10076706886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10076706891",
+        "addr:city": "Ribérac",
+        "name": "NRO Ribérac",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24352_NEJE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO Ribérac.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3342238,
+          45.24372
+        ]
+      },
+      "id": "node/10076706891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10079739686",
+        "operator": "Altitude",
+        "owner": "Prisme Fibre",
+        "ref:FR:ARCEP": "NRO-39-176 Nozeroy",
+        "source": "https://twitter.com/PrismeFibre/status/1578007427806527488",
+        "start_date": "06/10/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0448649,
+          46.7786466
+        ]
+      },
+      "id": "node/10079739686"
     }
   ]
 }

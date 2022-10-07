@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-09-30T08:12:54Z",
+  "timestamp": "2022-10-07T08:07:34Z",
   "features": [
     {
       "type": "Feature",
@@ -10633,7 +10633,7 @@
         "@id": "way/64212923",
         "building": "yes",
         "man_made": "telephone_office",
-        "mapillary": "-JUVu_MRRnsEzguJp0GP3g",
+        "mapillary": "181750343797333",
         "name": "Central téléphonique",
         "operator": "France Telecom",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
@@ -26757,7 +26757,7 @@
         "@id": "way/77429852",
         "building": "service",
         "man_made": "telephone_office",
-        "mapillary": "95eXT5AVlD5rlx5A0rYwAQ",
+        "mapillary": "297024448707425",
         "operator": "Orange",
         "ref:FR:PTT": "44216VIE",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
@@ -32749,7 +32749,7 @@
         "@id": "way/82654455",
         "building": "service",
         "man_made": "telephone_office",
-        "mapillary": "5-VQ9BOG-veOrV9FsALsSg",
+        "mapillary": "461767578450850",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
         "survey:date": "2018-02-17",
         "telecom": "exchange",
@@ -47767,7 +47767,7 @@
         "@id": "way/112298044",
         "building": "service",
         "man_made": "telephone_office",
-        "mapillary": "euffWDcfkc_NordzyxfZCQ",
+        "mapillary": "466024234625786",
         "name": "Central téléphonique",
         "operator": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
@@ -64448,6 +64448,7 @@
         "building": "service",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
         "telecom": "exchange",
@@ -74915,7 +74916,7 @@
         "building": "service",
         "communication:microwave": "yes",
         "man_made": "telephone_office",
-        "mapillary": "13VVdEalPRBHOPAv_DNtpQ",
+        "mapillary": "2302536266547250",
         "operator": "Orange",
         "ref:FR:PTT": "06143TOE",
         "source": "ANFR Opendata",
@@ -75052,6 +75053,7 @@
         "building": "service",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
         "telecom": "exchange",
@@ -84706,7 +84708,7 @@
         "addr:postcode": "74440",
         "addr:street": "Place de la Gare",
         "building": "yes",
-        "building:level": "1",
+        "building:levels": "1",
         "building:prefabricated": "no",
         "name": "Central Téléphonique",
         "operator": "orange",
@@ -100220,7 +100222,7 @@
         "addr:street": "Rue de la Vallée",
         "building": "service",
         "man_made": "telephone_office",
-        "mapillary": "BnLT-jhckPXeHNwmqOLT6g",
+        "mapillary": "304827501169668",
         "name": "Central téléphonique",
         "operator": "Orange",
         "owner": "Orange",
@@ -110527,6 +110529,7 @@
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "owner": "Orange",
+        "ref": "MEI67",
         "ref:FR:PTT": "67482MEI",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -111874,6 +111877,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -116735,8 +116739,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.8163327,
-          47.8003786
+          5.8162859,
+          47.8003974
         ]
       },
       "id": "node/6289848894"
@@ -127653,6 +127657,7 @@
         "@id": "node/7209298557",
         "name": "NLA58",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "58194NLA",
         "telecom": "exchange",
@@ -129987,13 +129992,15 @@
         "capacity": "250",
         "description": "250 lignes",
         "man_made": "street_cabinet",
-        "name": "NRA ZO Lamonzie Montastruc",
+        "name": "NRA ZO Lamonzie-Montastruc",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "92M 24",
         "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "copper",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRA_ZO_Lamonzie-Montastruc_92M_24.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -132660,6 +132667,7 @@
         "man_made": "street_cabinet",
         "name": "NRA ZO Jumilhac Les Perrinches",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "91K 24",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -132682,6 +132690,7 @@
         "capacity": "500",
         "name": "NRA Jumilhac Le Grand",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "JUM 24",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -134524,7 +134533,7 @@
         "@id": "node/7994638531",
         "addr:postcode": "14450",
         "addr:street": "Avenue Colonel Courson",
-        "mapillary": "0x46TvkQm7SwEB8A0qxNwg",
+        "mapillary": "297297718539145",
         "operator": "Orange",
         "ref:FR:PTT": "GRM14",
         "ref:FR:PTT:NRA": "14312GRM",
@@ -135094,11 +135103,13 @@
         "man_made": "street_cabinet",
         "name": "NRA MeD Saint-Agne",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "AGX 24",
         "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "copper",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "File:PMZ NA_24361_BITE.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -136737,20 +136748,20 @@
       "properties": {
         "@id": "node/8111908641",
         "capacity": "400",
-        "fixme": "position à vérifier",
         "name": "NRA Vanxains",
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref": "VAN 24",
         "telecom": "exchange",
         "telecom:medium": "copper",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRA_Vanxains_VAN_24.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.287802,
-          45.2156567
+          0.2877947,
+          45.2156573
         ]
       },
       "id": "node/8111908641"
@@ -137018,6 +137029,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8168329422",
+        "name": "Orange",
         "operator": "Orange",
         "ref:FR:PTT": "38185VIG",
         "telecom": "exchange",
@@ -137026,8 +137038,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.7216145,
-          45.1634514
+          5.7216099,
+          45.1634041
         ]
       },
       "id": "node/8168329422"
@@ -150514,6 +150526,95 @@
         ]
       },
       "id": "node/10055982242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10073241882",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/BT9",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9952621,
+          46.9566935
+        ]
+      },
+      "id": "node/10073241882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10076435439",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/PGP",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0390508,
+          46.6808373
+        ]
+      },
+      "id": "node/10076435439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10076437080",
+        "colour": "white",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/BM1",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.060709,
+          46.6534804
+        ]
+      },
+      "id": "node/10076437080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10076733249",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/B7L",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0553967,
+          46.6292855
+        ]
+      },
+      "id": "node/10076733249"
     }
   ]
 }
