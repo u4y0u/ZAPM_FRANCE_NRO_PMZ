@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-10-07T08:26:54Z",
+  "timestamp": "2022-10-15T08:32:25Z",
   "features": [
     {
       "type": "Feature",
@@ -2921,24 +2921,24 @@
         "coordinates": [
           [
             [
-              6.0996163,
-              46.1216627
+              6.0996572,
+              46.1216368
             ],
             [
-              6.0995939,
-              46.1216397
+              6.0996348,
+              46.1216138
             ],
             [
-              6.0996655,
-              46.1216063
+              6.0997064,
+              46.1215804
             ],
             [
-              6.0996879,
-              46.1216293
+              6.0997288,
+              46.1216034
             ],
             [
-              6.0996163,
-              46.1216627
+              6.0996572,
+              46.1216368
             ]
           ]
         ]
@@ -3086,6 +3086,7 @@
         "building": "service",
         "description": "Nœud de Raccordement Optique de la communauté de communes de Limours (CCPL) - shelter Essonne numérique",
         "operator": "Covage",
+        "operator:wikidata": "Q3001818",
         "owner": "Essonne Numérique Très Haut Débit",
         "ref": "FBC",
         "telecom": "exchange",
@@ -11273,7 +11274,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7126533800",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "45284SJB",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -13639,7 +13642,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7153548475",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "543954BE",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -17009,7 +17014,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7994840550",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "14258FAL",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -17580,6 +17587,7 @@
         "addr:street": "Route de Vendôme",
         "note": "\"Situé sur la commune de Oucques-la-Nouvelle il permettra de desservir plus de 2600 prises dans 17 communes.\"",
         "operator": "TDF",
+        "operator:wikidata": "Q1162908",
         "owner": "Val de Loire Fibre",
         "ref": "76 eme NRO Oucques-la-Nouvelle",
         "source": "https://twitter.com/valdeloirefibre/status/1207597788240007168",
@@ -17589,8 +17597,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.2878584,
-          47.817967
+          1.2878398,
+          47.8179452
         ]
       },
       "id": "node/8213537672"
@@ -17913,6 +17921,7 @@
         "image": "https://images.ladepeche.fr/api/v1/images/view/60c184b98fe56f6c9508a599/original/image.jpg?v=1",
         "note": "\"11ème NRO de TARN Fibre ce 04/11/20 à GAILLAC en présence d’Elus locaux, de Madame Le Maire, de Conseillers Départementaux, des équipes TARN Fibre - SFR FTTH et EOS TELECOM. \nLe déploiement de la Fibre continue de progresser su",
         "operator": "SFR",
+        "operator:wikidata": "Q218765",
         "owner": "Tarn Fibre",
         "ref": "11 eme NRO Gaillac",
         "source": "https://twitter.com/bongiovanni_n/status/1324033530524061699",
@@ -20121,6 +20130,7 @@
       "properties": {
         "@id": "node/8221821048",
         "operator": "Zayo",
+        "operator:wikidata": "Q8067574",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20138,6 +20148,7 @@
       "properties": {
         "@id": "node/8221821049",
         "operator": "SFR",
+        "operator:wikidata": "Q218765",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "wall": "no"
@@ -26100,6 +26111,7 @@
         "height": "3",
         "name": "NRO",
         "operator": "Covage",
+        "operator:wikidata": "Q3001818",
         "owner": "Syane",
         "roof:material": "wood",
         "roof:shape": "gabled",
@@ -30655,23 +30667,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/9520778774",
-        "operator": "SFR",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.4282214,
-          44.4321467
-        ]
-      },
-      "id": "node/9520778774"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/9520778780",
         "operator": "Sipartech",
         "telecom": "exchange",
@@ -32844,6 +32839,27 @@
         ]
       },
       "id": "node/10079739686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081541177",
+        "operator": "Berry Numérique",
+        "ref": "NRO Saint Georges sur Moulon",
+        "source": "https://twitter.com/BFO_BERRY/status/1578309404830547968;https://www.facebook.com/berrynumerique18/posts/pfbid026GvGWdkSkorTVBQ63uvCSksY4sBSukGL2ZV3r7eh33QrMkJqbUycMH6z9cgva4agl;https://www.leberry.fr/saint-georges-sur-moulon-18110/actualites/a-saint-geor",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4238108,
+          47.1946638
+        ]
+      },
+      "id": "node/10081541177"
     }
   ]
 }
