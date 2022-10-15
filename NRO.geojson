@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-10-15T11:04:55Z",
+  "timestamp": "2022-10-15T21:18:54Z",
   "features": [
     {
       "type": "Feature",
@@ -12929,8 +12929,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7151577848",
-        "name": "CRE71",
+        "name": "NRO Le Creusot",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "71153CRE",
         "telecom": "exchange",
@@ -32881,6 +32882,287 @@
         ]
       },
       "id": "node/10102889035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10103492283",
+        "name": "NRO Cussy-en-Morvan",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1637175,
+          47.0883555
+        ]
+      },
+      "id": "node/10103492283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10103582641",
+        "name": "NRO Bey",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9630068,
+          46.8165854
+        ]
+      },
+      "id": "node/10103582641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10103593443",
+        "man_made": "street_cabinet",
+        "name": "NRO Chauffailles",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3375791,
+          46.208164
+        ]
+      },
+      "id": "node/10103593443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10103594912",
+        "man_made": "street_cabinet",
+        "name": "NRO Couches",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5758458,
+          46.8679011
+        ]
+      },
+      "id": "node/10103594912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10103618607",
+        "name": "NRO Cluny",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "owner": "Orange",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2014",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6571283,
+          46.4295476
+        ]
+      },
+      "id": "node/10103618607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10103658945",
+        "man_made": "street_cabinet",
+        "name": "NRO Donzy",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.560083,
+          46.4538557
+        ]
+      },
+      "id": "node/10103658945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10103714796",
+        "name": "NRO La Clayette",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.307679,
+          46.2907206
+        ]
+      },
+      "id": "node/10103714796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10103748819",
+        "addr:city": "Épinac",
+        "name": "NRO Epinac",
+        "ref": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5136691,
+          46.9900865
+        ]
+      },
+      "id": "node/10103748819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10103753432",
+        "man_made": "street_cabinet",
+        "name": "NRO Fleurville",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8823564,
+          46.4437203
+        ]
+      },
+      "id": "node/10103753432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10103766677",
+        "addr:city": "La Guiche",
+        "man_made": "street_cabinet",
+        "name": "NRO La Guiche",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4441961,
+          46.5441464
+        ]
+      },
+      "id": "node/10103766677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10104025200",
+        "man_made": "street_cabinet",
+        "name": "NRO Les Gouachots",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4015056,
+          46.9109525
+        ]
+      },
+      "id": "node/10104025200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10104379569",
+        "addr:city": "Louhans",
+        "name": "NRO Louhans",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2265952,
+          46.626388
+        ]
+      },
+      "id": "node/10104379569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10104413405",
+        "man_made": "street_cabinet",
+        "name": "NRO Mesvres",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.244025,
+          46.8611613
+        ]
+      },
+      "id": "node/10104413405"
     }
   ]
 }
