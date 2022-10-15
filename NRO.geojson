@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-10-15T08:32:25Z",
+  "timestamp": "2022-10-15T11:04:55Z",
   "features": [
     {
       "type": "Feature",
@@ -32860,6 +32860,27 @@
         ]
       },
       "id": "node/10081541177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10102889035",
+        "colour": "green",
+        "man_made": "street_cabinet",
+        "name": "NRO Puiseaux",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4575544,
+          48.2085243
+        ]
+      },
+      "id": "node/10102889035"
     }
   ]
 }
