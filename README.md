@@ -29,6 +29,15 @@ Projet QGIS [https://www.qgis.org/fr/site/](https://www.qgis.org/fr/site/) (Syst
 
 ## **du 15/10/2022 et update .geojson du 16/10/2022**
 
+Télécharger les fichiers : (clic droit puis enregistrer la cible sous ...)
+
+des armoires PMZ  https://github.com/u4y0u/ZAPM_FRANCE_NRO_PMZ/blob/master/PMZ.geojson 
+
+des NRO  https://github.com/u4y0u/ZAPM_FRANCE_NRO_PMZ/blob/master/NRO.geojson 
+
+des armoires cuivre  https://github.com/u4y0u/ZAPM_FRANCE_NRO_PMZ/blob/master/COPPER.geojson 
+
+des NRA  https://github.com/u4y0u/ZAPM_FRANCE_NRO_PMZ/blob/master/NRA.geojson 
 
 **Source:**
 
