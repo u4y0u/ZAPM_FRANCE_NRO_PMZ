@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-10-15T21:18:54Z",
+  "timestamp": "2022-10-16T11:27:08Z",
   "features": [
     {
       "type": "Feature",
@@ -12888,9 +12888,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7151566969",
-        "name": "MCL71",
+        "name": "NRO Montceau-les-Mines",
         "operator": "Orange",
-        "owner": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "71306MCL",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -12899,8 +12899,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3694475,
-          46.6740285
+          4.3693206,
+          46.6741146
         ]
       },
       "id": "node/7151566969"
@@ -33163,6 +33163,115 @@
         ]
       },
       "id": "node/10104413405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10106124286",
+        "man_made": "street_cabinet",
+        "name": "NRO Navilly",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1364579,
+          46.9265928
+        ]
+      },
+      "id": "node/10106124286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10106126201",
+        "man_made": "street_cabinet",
+        "name": "NRO Saint Etienne en Bresse",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0526815,
+          46.7063351
+        ]
+      },
+      "id": "node/10106126201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10106171078",
+        "man_made": "street_cabinet",
+        "name": "NRO Saint Leger sous Beuvray",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1007929,
+          46.9243403
+        ]
+      },
+      "id": "node/10106171078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10106219077",
+        "man_made": "street_cabinet",
+        "name": "NRO Sennecey le Grand",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8729915,
+          46.6398208
+        ]
+      },
+      "id": "node/10106219077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10106235774",
+        "man_made": "street_cabinet",
+        "name": "NRO Tournus",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9036556,
+          46.5636276
+        ]
+      },
+      "id": "node/10106235774"
     }
   ]
 }
