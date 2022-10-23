@@ -27,7 +27,7 @@ Projet QGIS [https://www.qgis.org/fr/site/](https://www.qgis.org/fr/site/) (Syst
 
 ## Version:
 
-## **du 15/10/2022 et update .geojson du 17/10/2022**
+## **du 23/10/2022 et update .geojson du 23/10/2022**
 
 Télécharger les fichiers : (clic droit puis enregistrer la cible sous ...)
 
