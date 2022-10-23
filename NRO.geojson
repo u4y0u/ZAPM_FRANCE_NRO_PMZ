@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-10-16T11:27:08Z",
+  "timestamp": "2022-10-23T09:13:39Z",
   "features": [
     {
       "type": "Feature",
@@ -247,6 +247,7 @@
         "building": "service",
         "name": "NRO de Lacanau - Le Moutchic",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "33214QMC",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
@@ -2684,9 +2685,12 @@
       "properties": {
         "@id": "way/660332092",
         "building": "service",
+        "building:levels": "1",
         "name": "NRO",
         "operator": "Covage",
         "owner": "Syane",
+        "roof:orientation": "along",
+        "roof:shape": "gabled",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -6710,24 +6714,24 @@
         "coordinates": [
           [
             [
-              3.1419178,
-              48.4755535
+              3.1419419,
+              48.4755491
             ],
             [
-              3.1419315,
-              48.4754939
+              3.1419556,
+              48.4754895
             ],
             [
-              3.1419721,
-              48.475498
+              3.1419962,
+              48.4754936
             ],
             [
-              3.1419584,
-              48.4755576
+              3.1419825,
+              48.4755532
             ],
             [
-              3.1419178,
-              48.4755535
+              3.1419419,
+              48.4755491
             ]
           ]
         ]
@@ -13563,6 +13567,7 @@
         "@id": "node/7153384516",
         "name": "1NA88",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "881601NA",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -13789,6 +13794,7 @@
         "@id": "node/7153829642",
         "name": "SAB57",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "57463SAB",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -13831,6 +13837,7 @@
         "@id": "node/7153846740",
         "name": "PDA57",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "57463PDA",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -26465,7 +26472,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8342887464",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -26482,7 +26491,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8342887465",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -26499,7 +26510,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8342887467",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -28069,7 +28082,12 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9199235323",
-        "name": "NRO",
+        "addr:city": "Moliets-et-Mâa",
+        "addr:postcode": "40660",
+        "addr:street": "Rue du Magenta",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/NRO_Moliets-et-M%C3%A2a.jpg}",
+        "name": "SHL_40187_ZUCY",
+        "operator": "NATHD",
         "ref": "SHL_40187_ZUCY",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -28157,26 +28175,6 @@
         ]
       },
       "id": "node/9199504363"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/9199725771",
-        "fixme": "emplacement exacte à vérifier",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/SHL_40284_SVDT--NA_40284_CAME.jpg/1280px-SHL_40284_SVDT--NA_40284_CAME.jpg",
-        "name": "NRO",
-        "ref": "SHL_40284_SVDT",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3068772,
-          43.6623856
-        ]
-      },
-      "id": "node/9199725771"
     },
     {
       "type": "Feature",
