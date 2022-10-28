@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-10-23T09:13:39Z",
+  "timestamp": "2022-10-28T16:33:40Z",
   "features": [
     {
       "type": "Feature",
@@ -13443,6 +13443,7 @@
         "@id": "node/7153173335",
         "name": "JUS25",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "25056JUS",
         "telecom": "exchange",
@@ -13464,6 +13465,7 @@
         "@id": "node/7153191456",
         "name": "CHA25",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "25056CHA",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -14179,6 +14181,7 @@
         "@id": "node/7154178586",
         "name": "DAX40",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "40088DAX",
         "telecom": "exchange",
@@ -14243,6 +14246,7 @@
         "@id": "node/7154493178",
         "name": "SRA83",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "83118SRA",
         "telecom": "exchange",
@@ -22537,6 +22541,7 @@
       "properties": {
         "@id": "node/8223038582",
         "operator": "Axione",
+        "operator:wikidata": "Q97187730",
         "owner": "THD 59-62",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -23227,6 +23232,7 @@
         "addr:city": "Cauneille",
         "addr:postcode": "40300",
         "addr:street": "Impasse Montplaisir",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Cauneille_NRO-40-017.jpg",
         "operator": "Altitude",
         "owner": "FibrePixl",
         "ref": "2 eme NRO Cauneille",
@@ -23238,8 +23244,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.066386,
-          43.5456113
+          -1.066855,
+          43.5455502
         ]
       },
       "id": "node/8224450162"
@@ -24641,6 +24647,7 @@
       "properties": {
         "@id": "node/8287266453",
         "operator": "Interoute",
+        "operator:wikidata": "Q1668090",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -27360,34 +27367,11 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.4353048,
-          43.5786411
+          -1.4353161,
+          43.5786172
         ]
       },
       "id": "node/8632250757"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/8636342135",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Cauneille_NRO-40-017.jpg",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "PIXL",
-        "ref": "NRO-40-017",
-        "ref:FR:ARCEP": "NRO-40-017",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0654615,
-          43.5459399
-        ]
-      },
-      "id": "node/8636342135"
     },
     {
       "type": "Feature",
@@ -27735,9 +27719,9 @@
       "properties": {
         "@id": "node/9041248710",
         "name": "NRO Biscarrosse",
-        "operator": "NATHD",
-        "owner": "SYDEC",
-        "ref": "SHL_40046_BISC",
+        "operator": "Altitude",
+        "owner": "PIXL FIBRE",
+        "ref": "NRO-40-002",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "wikimedia_commons": "File:NRO_Biscarrosse.jpg"
@@ -27745,8 +27729,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1570733,
-          44.4131512
+          -1.1571111,
+          44.4131315
         ]
       },
       "id": "node/9041248710"
@@ -31088,6 +31072,7 @@
       "properties": {
         "@id": "node/9530957425",
         "operator": "SFR",
+        "operator:wikidata": "Q218765",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -33270,6 +33255,71 @@
         ]
       },
       "id": "node/10106235774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10124077269",
+        "operator": "Altitude",
+        "owner": "PIXL Fibre",
+        "ref:FR:ARCEP": "NRO-40-027",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9223143,
+          43.7905645
+        ]
+      },
+      "id": "node/10124077269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10126544662",
+        "name": "NRO Saint-Cyprien",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24396_ROTO",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Saint-Cyprien.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0367023,
+          44.8688477
+        ]
+      },
+      "id": "node/10126544662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10130333866",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "XpFibre",
+        "ref": "NRO Risoul",
+        "source": "https://twitter.com/PaulineVidal18/status/1567883460479418368",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6334512,
+          44.6221042
+        ]
+      },
+      "id": "node/10130333866"
     }
   ]
 }
