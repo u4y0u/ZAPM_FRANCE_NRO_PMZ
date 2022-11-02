@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-10-28T16:33:40Z",
+  "timestamp": "2022-11-02T12:35:03Z",
   "features": [
     {
       "type": "Feature",
@@ -24654,8 +24654,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.1708339,
-          48.7102679
+          6.1709606,
+          48.7103271
         ]
       },
       "id": "node/8287266453"
@@ -33320,6 +33320,25 @@
         ]
       },
       "id": "node/10130333866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10151342419",
+        "man_made": "street_cabinet",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5525862,
+          46.6632346
+        ]
+      },
+      "id": "node/10151342419"
     }
   ]
 }

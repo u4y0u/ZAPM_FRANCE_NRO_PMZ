@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-10-28T16:35:47Z",
+  "timestamp": "2022-11-02T12:39:07Z",
   "features": [
     {
       "type": "Feature",
@@ -926,7 +926,7 @@
       "properties": {
         "@id": "node/2820190139",
         "man_made": "street_cabinet",
-        "mapillary": "ZggZleLfHX9eSzKeTQ27EA",
+        "mapillary": "588328765892772",
         "operator": "Orange",
         "owner": "Orange",
         "source": "survey 2014",
@@ -38905,7 +38905,7 @@
         "colour": "white",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
-        "mapillary": "zKhRwfLf1INcRK8obiz-Nw",
+        "mapillary": "517917235894754",
         "operator": "Orange",
         "ref:FR:PTT": "A29",
         "ref:FR:PTT:NRA": "GAS",
@@ -47523,8 +47523,11 @@
         "colour": "white",
         "location": "outdoor",
         "man_made": "street_cabinet",
+        "name": "PCE GAMBETTA",
         "operator": "Orange",
+        "owner": "Orange",
         "ref": "YER016",
+        "ref:FR:Orange": "BJR/YER/016",
         "ref:FR:PTT": "016",
         "ref:FR:PTT:NRA": "YER",
         "street_cabinet": "telecom",
@@ -47596,8 +47599,10 @@
         "@id": "node/9032197719",
         "location": "outdoor",
         "man_made": "street_cabinet",
+        "name": "RUE GABRIEL PERI",
         "operator": "Orange",
         "ref": "YER019",
+        "ref:FR:Orange": "BJR/YER/019",
         "ref:FR:PTT": "019",
         "ref:FR:PTT:NRA": "YER",
         "street_cabinet": "telecom",
@@ -47608,8 +47613,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4879731,
-          48.7066462
+          2.4879597,
+          48.706621
         ]
       },
       "id": "node/9032197719"
@@ -47621,8 +47626,10 @@
         "colour": "white",
         "location": "outdoor",
         "man_made": "street_cabinet",
+        "name": "RUE DU STADE",
         "operator": "Orange",
         "ref": "YER008",
+        "ref:FR:Orange": "BJR/YER/008",
         "ref:FR:PTT": "008",
         "ref:FR:PTT:NRA": "YER",
         "street_cabinet": "telecom",
@@ -47645,8 +47652,10 @@
         "@id": "node/9032197721",
         "location": "outdoor",
         "man_made": "street_cabinet",
+        "name": "RUE GABRIEL PERI",
         "operator": "Orange",
         "ref": "YER030",
+        "ref:FR:Orange": "BJR/YER/030",
         "ref:FR:PTT": "030",
         "ref:FR:PTT:NRA": "YER",
         "street_cabinet": "telecom",
@@ -47657,8 +47666,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4880193,
-          48.7122993
+          2.4880247,
+          48.7123011
         ]
       },
       "id": "node/9032197721"
@@ -47691,10 +47700,13 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9032197723",
+        "colour": "white",
         "location": "outdoor",
         "man_made": "street_cabinet",
+        "name": "RUE CHARLES DE GAULLE",
         "operator": "Orange",
         "ref": "YER004",
+        "ref:FR:Orange": "BJR/YER/004",
         "ref:FR:PTT": "004",
         "ref:FR:PTT:NRA": "YER",
         "street_cabinet": "telecom",
@@ -47705,8 +47717,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4929896,
-          48.7149082
+          2.4930625,
+          48.7149096
         ]
       },
       "id": "node/9032197723"
@@ -47741,8 +47753,10 @@
         "@id": "node/9032197725",
         "location": "outdoor",
         "man_made": "street_cabinet",
+        "name": "RUE RAYMOND POINCARE",
         "operator": "Orange",
         "ref": "YER029",
+        "ref:FR:Orange": "BJR/YER/029",
         "ref:FR:PTT": "029",
         "ref:FR:PTT:NRA": "YER",
         "street_cabinet": "telecom",
@@ -47753,8 +47767,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5002935,
-          48.7194589
+          2.5003025,
+          48.7194625
         ]
       },
       "id": "node/9032197725"
@@ -47765,8 +47779,10 @@
         "@id": "node/9032197729",
         "location": "outdoor",
         "man_made": "street_cabinet",
+        "name": "RUE RAYMOND POINCARRE",
         "operator": "Orange",
         "ref": "YER001",
+        "ref:FR:Orange": "BJR/YER/001",
         "ref:FR:PTT": "001",
         "ref:FR:PTT:NRA": "YER",
         "street_cabinet": "telecom",
@@ -47777,8 +47793,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4996767,
-          48.7219508
+          2.499666,
+          48.7219635
         ]
       },
       "id": "node/9032197729"
@@ -63065,6 +63081,573 @@
         ]
       },
       "id": "node/10135617521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10139477147",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/GUE/009",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9407654,
+          46.9397303
+        ]
+      },
+      "id": "node/10139477147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10139495921",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/GUE/001",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9476158,
+          46.9063268
+        ]
+      },
+      "id": "node/10139495921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10147778244",
+        "man_made": "street_cabinet",
+        "name": "BD STRASBOURG",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref": "B04",
+        "ref:FR:Orange": "PK2/AMS/B04",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2784682,
+          49.8868482
+        ]
+      },
+      "id": "node/10147778244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10147778245",
+        "man_made": "street_cabinet",
+        "name": "CAR LIBERATION",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref": "B47",
+        "ref:FR:Orange": "PK2/AMS/B47",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2791499,
+          49.8867369
+        ]
+      },
+      "id": "node/10147778245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10147778246",
+        "man_made": "street_cabinet",
+        "name": "BD STRASBOURG",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref": "B44",
+        "ref:FR:Orange": "PK2/AMS/B44",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2779425,
+          49.8888648
+        ]
+      },
+      "id": "node/10147778246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10147778247",
+        "man_made": "street_cabinet",
+        "name": "SQ QUATRE CHENES",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref": "B51",
+        "ref:FR:Orange": "PK2/AMS/B51",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.278783,
+          49.88972
+        ]
+      },
+      "id": "node/10147778247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10147870619",
+        "man_made": "street_cabinet",
+        "name": "BD STRASBOURG",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref": "B23",
+        "ref:FR:Orange": "PK2/AMS/B23",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2770086,
+          49.8905629
+        ]
+      },
+      "id": "node/10147870619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10147870678",
+        "man_made": "street_cabinet",
+        "name": "GDER PETIT ST JEAN",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref": "C50",
+        "ref:FR:Orange": "PK2/AMM/C50",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2636275,
+          49.8878954
+        ]
+      },
+      "id": "node/10147870678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10147873888",
+        "man_made": "street_cabinet",
+        "name": "R ABBAYE",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref": "A07",
+        "ref:FR:Orange": "PK2/AMP/A07",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2773535,
+          49.8960985
+        ]
+      },
+      "id": "node/10147873888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10147873889",
+        "man_made": "street_cabinet",
+        "name": "R ABBAYE",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref": "A21",
+        "ref:FR:Orange": "PK2/AMP/A21",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2812645,
+          49.8957846
+        ]
+      },
+      "id": "node/10147873889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10147873891",
+        "man_made": "street_cabinet",
+        "name": "R CRESSENT",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref": "A17",
+        "ref:FR:Orange": "PK2/AMP/A17",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.286606,
+          49.8955402
+        ]
+      },
+      "id": "node/10147873891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10147873892",
+        "man_made": "street_cabinet",
+        "name": "BD FAIDHERBE",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref": "A03",
+        "ref:FR:Orange": "PK2/AMP/A03",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2887902,
+          49.8967762
+        ]
+      },
+      "id": "node/10147873892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10147873893",
+        "man_made": "street_cabinet",
+        "name": "BD PORT",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref": "A14",
+        "ref:FR:Orange": "PK2/AMP/A14",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.290434,
+          49.8979552
+        ]
+      },
+      "id": "node/10147873893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10147936244",
+        "man_made": "street_cabinet",
+        "name": "BD JARDIN DES PLANTES",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref": "A26",
+        "ref:FR:Orange": "PK2/AMP/A26",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2954056,
+          49.898886
+        ]
+      },
+      "id": "node/10147936244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10147936253",
+        "man_made": "street_cabinet",
+        "name": "R BAUDELOQUE",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref": "A27",
+        "ref:FR:Orange": "PK2/AMP/A27",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3000624,
+          49.8999048
+        ]
+      },
+      "id": "node/10147936253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10148489653",
+        "location": "outdoor",
+        "man_made": "street_cabinet",
+        "name": "RUE DE CONCY",
+        "operator": "Orange",
+        "ref": "YER025",
+        "ref:FR:Orange": "BJR/YER/025",
+        "ref:FR:PTT": "025",
+        "ref:FR:PTT:NRA": "YER",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4844192,
+          48.7097784
+        ]
+      },
+      "id": "node/10148489653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10148489694",
+        "colour": "white",
+        "location": "outdoor",
+        "man_made": "street_cabinet",
+        "name": "RUE DES CAMALDULES",
+        "operator": "Orange",
+        "ref": "YER031",
+        "ref:FR:Orange": "BJR/YER/031",
+        "ref:FR:PTT": "031",
+        "ref:FR:PTT:NRA": "YER",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5019823,
+          48.7133679
+        ]
+      },
+      "id": "node/10148489694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10148555620",
+        "location": "outdoor",
+        "man_made": "street_cabinet",
+        "name": "AV GOURGAUD",
+        "operator": "Orange",
+        "ref": "YER020",
+        "ref:FR:Orange": "BJR/YER/020",
+        "ref:FR:PTT": "020",
+        "ref:FR:PTT:NRA": "YER",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5086623,
+          48.7317506
+        ]
+      },
+      "id": "node/10148555620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10149195465",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/SCO/008",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9172375,
+          46.8270818
+        ]
+      },
+      "id": "node/10149195465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10149197681",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/SCO/005",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.915508,
+          46.8339983
+        ]
+      },
+      "id": "node/10149197681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10149229835",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/SCO/006",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9252022,
+          46.8301552
+        ]
+      },
+      "id": "node/10149229835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10149260909",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/SCO/007",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9306588,
+          46.8327863
+        ]
+      },
+      "id": "node/10149260909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10149307413",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/NVB/001",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.030868,
+          46.8213338
+        ]
+      },
+      "id": "node/10149307413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10151313295",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/AIV/001",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5208252,
+          46.651158
+        ]
+      },
+      "id": "node/10151313295"
     }
   ]
 }
