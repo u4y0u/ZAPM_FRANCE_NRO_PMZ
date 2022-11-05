@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-11-02T12:39:07Z",
+  "timestamp": "2022-11-05T16:24:24Z",
   "features": [
     {
       "type": "Feature",
@@ -47552,6 +47552,7 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref": "YER018",
+        "ref:FR:Orange": "BJR/YER/018",
         "ref:FR:PTT": "018",
         "ref:FR:PTT:NRA": "YER",
         "street_cabinet": "telecom",
@@ -47562,8 +47563,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4847204,
-          48.6988632
+          2.4847159,
+          48.6988924
         ]
       },
       "id": "node/9032197717"
@@ -47575,8 +47576,10 @@
         "colour": "white",
         "location": "outdoor",
         "man_made": "street_cabinet",
+        "name": "RUE GABRIEL PERI",
         "operator": "Orange",
         "ref": "YER017",
+        "ref:FR:Orange": "BJR/YER/017",
         "ref:FR:PTT": "017",
         "ref:FR:PTT:NRA": "YER",
         "street_cabinet": "telecom",
@@ -47587,8 +47590,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4864008,
-          48.6972693
+          2.4864354,
+          48.6972219
         ]
       },
       "id": "node/9032197718"

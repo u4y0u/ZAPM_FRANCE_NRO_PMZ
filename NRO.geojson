@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-11-02T12:35:03Z",
+  "timestamp": "2022-11-05T16:21:24Z",
   "features": [
     {
       "type": "Feature",
@@ -30755,6 +30755,7 @@
       "properties": {
         "@id": "node/9520794944",
         "operator": "Lumen",
+        "operator:wikidata": "Q5063092",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
