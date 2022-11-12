@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-11-05T16:21:24Z",
+  "timestamp": "2022-11-12T10:27:48Z",
   "features": [
     {
       "type": "Feature",
@@ -6921,6 +6921,7 @@
         "height": "3",
         "name": "Central optique",
         "operator": "Covage",
+        "operator:wikidata": "Q3001818",
         "owner": "Hérault THD",
         "ref:FR:HeraultTHD": "NO34BESS",
         "telecom": "exchange",
@@ -6932,24 +6933,24 @@
         "coordinates": [
           [
             [
-              3.4218446,
-              43.3613215
+              3.4217454,
+              43.3613283
             ],
             [
-              3.4218434,
-              43.3612861
+              3.4217442,
+              43.3612929
             ],
             [
-              3.4219177,
-              43.3612848
+              3.4218185,
+              43.3612916
             ],
             [
-              3.4219189,
-              43.3613202
+              3.4218197,
+              43.361327
             ],
             [
-              3.4218446,
-              43.3613215
+              3.4217454,
+              43.3613283
             ]
           ]
         ]
@@ -13734,6 +13735,7 @@
         "@id": "node/7153573740",
         "name": "5PA54",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "544315PA",
         "telecom": "exchange",
@@ -20267,6 +20269,7 @@
       "properties": {
         "@id": "node/8221835192",
         "operator": "Zayo",
+        "operator:wikidata": "Q8067574",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -22646,6 +22649,7 @@
       "properties": {
         "@id": "node/8223050741",
         "operator": "Interoute",
+        "operator:wikidata": "Q1668090",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -24541,6 +24545,7 @@
       "properties": {
         "@id": "node/8285328957",
         "operator": "SFR",
+        "operator:wikidata": "Q218765",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -25005,6 +25010,7 @@
       "properties": {
         "@id": "node/8291565321",
         "operator": "SFR",
+        "operator:wikidata": "Q218765",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -33340,6 +33346,48 @@
         ]
       },
       "id": "node/10151342419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10170036984",
+        "addr:city": "Montdidier",
+        "name": "NRO Montdidier",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5862108,
+          49.6541371
+        ]
+      },
+      "id": "node/10170036984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10176031745",
+        "name": "NRO Thenon",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24550_CEXI",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Thenon.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0705027,
+          45.1428712
+        ]
+      },
+      "id": "node/10176031745"
     }
   ]
 }
