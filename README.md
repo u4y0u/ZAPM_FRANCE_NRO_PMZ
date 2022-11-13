@@ -8,26 +8,31 @@ ZAPM\_FRANCE\_NRO\_PMZ.zip contient le fichier au format QGIS (ou QField sur And
 
 \-> lien URL de téléchargement de la dernière version 
 
+## Version:
+
+### **du 12/11/2022 et update .geojson du 12/11/2022**
+
 [https://www.data.gouv.fr/fr/datasets/r/cdb4c712-8e2c-490d-9fd3-ba5dfdf2f033] 
 
 
-Contenu actuel de l' archive .ZIP; 4 fichiers décrits ci-dessous:
 
-_**NRO.geojson**_ et _**PMZ.geojson**_ (2 fichiers de données NRO et PMZ - dont les mises à jours peuvent être chargées directement via le 'master' GitHub)
-_**COPPER.geojson**_ ajout d'une couche PM cuivre.
+
+Contenu actuel de l' archive .ZIP; 5 fichiers décrits ci-dessous:
+
+_**NRO.geojson**_ et _**PMZ.geojson**_ pour la partie fibre optique.
+***NRA.geoson*** et ***COPPER.geojson***_ ajout d'une couche PM et NR cuivre.
 
 ZAPM_FRANCE_NRO_PMZ.qgz + *.shx, *.shp, *.dbf *.prj
 
 ## **Pour visualiser les données de ces fichiers, vous pouvez utiliser:**
 
-Application QField [https://play.google.com/store/apps/details?id=ch.opengis.qfield&hl=fr](https://play.google.com/store/apps/details?id=ch.opengis.qfield&hl=fr)
+Application QField [https://play.google.com/store/apps/details?id=ch.opengis.qfield&hl=fr](https://play.google.com/store/apps/details?id=ch.opengis.qfield&hl=fr) 
+
+voir la page dédiée QField https://github.com/u4y0u/Using-QField/blob/main/Using_QField.md
 
 Projet QGIS [https://www.qgis.org/fr/site/](https://www.qgis.org/fr/site/) (Système d'Information Géographique Libre et Open Source)
 
-
-## Version:
-
-## **du 12/11/2022 et update .geojson du 12/11/2022**
+## 
 
 Télécharger les fichiers : (clic droit puis enregistrer la cible sous ...)
 
