@@ -28,7 +28,9 @@ ZAPM_FRANCE_NRO_PMZ.qgz + *.shx, *.shp, *.dbf *.prj
 
 Application QField [https://play.google.com/store/apps/details?id=ch.opengis.qfield&hl=fr](https://play.google.com/store/apps/details?id=ch.opengis.qfield&hl=fr) 
 
-voir la page dédiée QField https://github.com/u4y0u/Using-QField/blob/main/Using_QField.md
+voir la page dédiée QField https://github.com/u4y0u/Using-QField/blob/main/Using_QField.md 
+
+![](https://github.com/u4y0u/Using-QField/blob/main/ImageQField_Android_smartphone2_300px.jpg?raw=true) 
 
 Projet QGIS [https://www.qgis.org/fr/site/](https://www.qgis.org/fr/site/) (Système d'Information Géographique Libre et Open Source)
 
