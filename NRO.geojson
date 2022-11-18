@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-11-12T10:27:48Z",
+  "timestamp": "2022-11-18T09:24:22Z",
   "features": [
     {
       "type": "Feature",
@@ -29087,6 +29087,7 @@
         "@id": "node/9375643888",
         "name": "NRO Frévent",
         "operator": "Axione",
+        "operator:wikidata": "Q97187730",
         "source": "https://www.lavoixdunord.fr/364373/article/2018-04-24/pour-l-arrivee-du-tres-haut-debit-ca-se-precise",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -29854,6 +29855,7 @@
       "properties": {
         "@id": "node/9519009623",
         "operator": "Lumen",
+        "operator:wikidata": "Q5063092",
         "ref": "BLDCFRAA",
         "telecom": "exchange",
         "telecom:medium": "fibre"

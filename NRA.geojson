@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-11-12T10:31:54Z",
+  "timestamp": "2022-11-18T09:28:24Z",
   "features": [
     {
       "type": "Feature",
@@ -8169,6 +8169,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
         "telecom": "exchange",
@@ -72727,6 +72728,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
         "telecom": "exchange",
@@ -105519,7 +105521,9 @@
         "@id": "way/670060355",
         "location": "green",
         "man_made": "street_cabinet",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "74192M4Y",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -115414,8 +115418,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.0107137,
-          47.4963627
+          6.0107733,
+          47.496408
         ]
       },
       "id": "node/6289848350"
@@ -122564,7 +122568,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6761806477",
+        "addr:city": "Les Bordes",
+        "name": "NRA Les Bordes",
+        "not:operator:wikidata": "Q1431486",
         "operator": "Orange",
+        "ref:FR:Orange": "NJR/BOR/000",
         "ref:FR:PTT": "BOR45",
         "ref:FR:PTT:NRA": "45042BOR",
         "telecom": "exchange",
@@ -122573,8 +122581,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3991312,
-          47.8119718
+          2.3991424,
+          47.8119848
         ]
       },
       "id": "node/6761806477"
@@ -123841,7 +123849,10 @@
       "properties": {
         "@id": "node/6805636077",
         "man_made": "street_cabinet",
+        "name": "NRA Villefrancœur",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/V1F",
         "ref:FR:PTT": "V1F41",
         "ref:FR:PTT:NRA": "41281V1F",
         "street_cabinet": "telecom",
@@ -123862,9 +123873,12 @@
       "properties": {
         "@id": "node/6805719307",
         "man_made": "street_cabinet",
+        "name": "NRA Villeromain",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:FRA": "4VL41",
         "ref:FR:FRA:NRA": "412904VL",
+        "ref:FR:Orange": "NJR/4VL",
         "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "copper"
@@ -123872,8 +123886,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.1417173,
-          47.7305249
+          1.1417216,
+          47.7305211
         ]
       },
       "id": "node/6805719307"
@@ -126026,7 +126040,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7177313344",
+        "addr:city": "La Chapelle-Vendômoise",
+        "name": "NRA La Chapelle-Vendômoise",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/CV1/000",
         "ref:FR:PTT": "CV141",
         "ref:FR:PTT:NRA": "41040CV1",
         "telecom": "exchange",
@@ -136796,7 +136814,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221676853",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "COT38",
         "ref:FR:PTT": "38130COT",
         "telecom": "exchange",
@@ -138015,7 +138035,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8356259794",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "GIA63",
         "ref:FR:PTT": "63165GIA",
         "telecom": "exchange",
@@ -139793,6 +139815,7 @@
         "capacity": "300",
         "name": "NRA Abjat-sur-Bandiat",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "ABJ 24",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -142730,6 +142753,7 @@
         "man_made": "street_cabinet",
         "name": "NRA MeD",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "39001TA6",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -142752,6 +142776,7 @@
         "man_made": "street_cabinet",
         "name": "NRA MeD",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "39001TA7",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -150617,6 +150642,247 @@
         ]
       },
       "id": "node/10174704839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10179011829",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "FC4/APP/ZDR",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5293812,
+          47.8726178
+        ]
+      },
+      "id": "node/10179011829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10182041379",
+        "addr:city": "Villetrun",
+        "man_made": "street_cabinet",
+        "name": "NRA Villetrun",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/VT1/000",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1562442,
+          47.7863761
+        ]
+      },
+      "id": "node/10182041379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10182122944",
+        "addr:city": "Selommes",
+        "man_made": "street_cabinet",
+        "name": "NRA Selommes",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/SS1/000",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1906558,
+          47.7576359
+        ]
+      },
+      "id": "node/10182122944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10182319225",
+        "addr:city": "Landes-le-Gaulois",
+        "man_made": "street_cabinet",
+        "name": "NRA Landes-le-Gaulois",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/1LD",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1819039,
+          47.6516619
+        ]
+      },
+      "id": "node/10182319225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10182368547",
+        "addr:city": "Herbault",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "NRA Herbault",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/HE1/000",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1372069,
+          47.6047228
+        ]
+      },
+      "id": "node/10182368547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10182470502",
+        "addr:city": "Dame-Marie-les-Bois",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "NRA Dame-Marie-les-Bois",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/D7M",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0314722,
+          47.5417925
+        ]
+      },
+      "id": "node/10182470502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10183027455",
+        "name": "NRA Montreuil-en-Touraine",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/NTR/000",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.949847,
+          47.4871104
+        ]
+      },
+      "id": "node/10183027455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10183036004",
+        "addr:city": "Reugny",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "NRA Reugny",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/REY/000",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8815024,
+          47.4821301
+        ]
+      },
+      "id": "node/10183036004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10183072989",
+        "addr:city": "Vernou-sur-Brenne",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "NRA Vernou-sur-Brenne",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/VER/000",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8461971,
+          47.4178434
+        ]
+      },
+      "id": "node/10183072989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10183088702",
+        "addr:city": "Chançay",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "NRA Chançay",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/H7Y",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8744711,
+          47.4543916
+        ]
+      },
+      "id": "node/10183088702"
     }
   ]
 }
