@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-11-18T09:24:22Z",
+  "timestamp": "2022-11-19T22:22:08Z",
   "features": [
     {
       "type": "Feature",
@@ -18161,7 +18161,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221547623",
+        "addr:city": "Bonny-sur-Loire",
         "operator": "SFR",
+        "operator:wikidata": "Q218765",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -18178,7 +18180,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221547624",
+        "addr:city": "Bonny-sur-Loire",
         "operator": "Zayo",
+        "operator:wikidata": "Q8067574",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -24975,6 +24979,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8291556015",
+        "addr:city": "Bonny-sur-Loire",
         "operator": "Sipartech",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -24982,8 +24987,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.8338345,
-          47.5854452
+          2.833849,
+          47.5854466
         ]
       },
       "id": "node/8291556015"
@@ -29421,6 +29426,7 @@
         "@id": "node/9450898535",
         "name": "NRO",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "HSAS",
         "ref": "N070VLY",
         "source": "https://twitter.com/Hades73440/status/1486387421629628418",
@@ -33390,6 +33396,114 @@
         ]
       },
       "id": "node/10176031745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10202448537",
+        "colour": "yellow",
+        "man_made": "street_cabinet",
+        "name": "NRO Ferrières-en-Gâtinais",
+        "operator": "Loiret Fibre",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7882563,
+          48.0856312
+        ]
+      },
+      "id": "node/10202448537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10202598570",
+        "man_made": "street_cabinet",
+        "mimics": "wooden cabin",
+        "name": "NRO Cléry-Saint-André",
+        "operator": "Loiret Fibre",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7579918,
+          47.8179051
+        ]
+      },
+      "id": "node/10202598570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10202599353",
+        "colour": "green",
+        "man_made": "street_cabinet",
+        "name": "NRO Patay",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7036755,
+          48.0504562
+        ]
+      },
+      "id": "node/10202599353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10202642606",
+        "colour": "yellow",
+        "man_made": "street_cabinet",
+        "operator": "Loiret Fibre",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4383366,
+          48.0704886
+        ]
+      },
+      "id": "node/10202642606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10202744775",
+        "colour": "green",
+        "man_made": "street_cabinet",
+        "name": "NRO Dordives",
+        "operator": "Loiret Fibre",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7741501,
+          48.1482484
+        ]
+      },
+      "id": "node/10202744775"
     }
   ]
 }
