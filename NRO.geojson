@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-11-19T22:22:08Z",
+  "timestamp": "2022-11-20T12:38:53Z",
   "features": [
     {
       "type": "Feature",
@@ -31503,6 +31503,7 @@
         "addr:street": "Rue de la Montagne",
         "colour": "white",
         "name": "NRO Ascoux",
+        "operator": "Loiret Fibre",
         "source": "https://twitter.com/ggavet/status/1501868812160974849",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -31571,6 +31572,7 @@
         "addr:postcode": "45170",
         "addr:street": "Rue de la Boulangère",
         "name": "NRO Chilleurs-aux-Bois",
+        "operator": "Loiret Fibre",
         "source": "https://twitter.com/ggavet/status/1448300103102603265",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -31664,6 +31666,7 @@
         "addr:postcode": "45520",
         "colour": "green",
         "name": "NRO Gidy",
+        "operator": "Loiret Fibre",
         "source": "https://twitter.com/u4y0u/status/1518905172675735558",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -33504,6 +33507,47 @@
         ]
       },
       "id": "node/10202744775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10203754843",
+        "addr:city": "Bonny-sur-Loire",
+        "name": "NRO Bonny-sur-Loire",
+        "operator": "Loiret Fibre",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8339367,
+          47.5854537
+        ]
+      },
+      "id": "node/10203754843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10203784279",
+        "addr:city": "Chantecoq",
+        "colour": "green",
+        "name": "NRO Chantecoq",
+        "operator": "Loiret Fibre",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9604483,
+          48.052258
+        ]
+      },
+      "id": "node/10203784279"
     }
   ]
 }
