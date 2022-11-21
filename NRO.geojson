@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-11-20T12:38:53Z",
+  "timestamp": "2022-11-21T15:18:55Z",
   "features": [
     {
       "type": "Feature",
@@ -12025,6 +12025,7 @@
         "@id": "node/7150658229",
         "name": "RSA59",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "59512RSA",
         "telecom": "exchange",
@@ -27092,6 +27093,7 @@
         "addr:city": "Nérondes",
         "addr:postcode": "18350",
         "operator": "Axione",
+        "operator:wikidata": "Q97187730",
         "owner": "Berry fibre optique",
         "ref": "NRO de Nérondes",
         "source": "https://twitter.com/BFO_BERRY/status/1364951503505612806/photo/1",
@@ -29113,6 +29115,7 @@
         "@id": "node/9375653096",
         "name": "NRO Halluin",
         "operator": "Covage",
+        "operator:wikidata": "Q3001818",
         "source": "https://www.lavoixdunord.fr/234835/article/2017-10-05/un-premier-pas-vers-la-fibre-pour-la-commune",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -32846,9 +32849,13 @@
       "type": "Feature",
       "properties": {
         "@id": "node/10081541177",
+        "addr:city": "Saint-Georges-sur-Moulon",
+        "addr:housenumber": "12",
+        "addr:street": "Route de Bourges",
         "operator": "Berry Numérique",
-        "ref": "NRO Saint Georges sur Moulon",
+        "ref": "NRO Saint-Georges-sur-Moulon",
         "source": "https://twitter.com/BFO_BERRY/status/1578309404830547968;https://www.facebook.com/berrynumerique18/posts/pfbid026GvGWdkSkorTVBQ63uvCSksY4sBSukGL2ZV3r7eh33QrMkJqbUycMH6z9cgva4agl;https://www.leberry.fr/saint-georges-sur-moulon-18110/actualites/a-saint-geor",
+        "start_date": "2017-03-31",
         "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -33548,6 +33555,51 @@
         ]
       },
       "id": "node/10203784279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10203813997",
+        "addr:city": "Corbeilles",
+        "colour": "green",
+        "name": "NRO Corbeilles",
+        "operator": "Loiret Fibre",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5547425,
+          48.0687201
+        ]
+      },
+      "id": "node/10203813997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10207184141",
+        "colour": "yellow",
+        "name": "NRO Beaumont-de-Lomagne",
+        "note": "ALTITUDE INFRASTRUCTURE CONSTRUCTION",
+        "operator": "Altitude",
+        "start_date": "2019-07-23",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9816261,
+          43.8787989
+        ]
+      },
+      "id": "node/10207184141"
     }
   ]
 }
