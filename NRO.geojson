@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-11-21T15:18:55Z",
+  "timestamp": "2022-11-23T10:06:54Z",
   "features": [
     {
       "type": "Feature",
@@ -5453,6 +5453,7 @@
         "addr:street": "Avenue Mazarin",
         "building": "service",
         "operator": "Free",
+        "operator:wikidata": "Q2467627",
         "owner": "Free Infrastructure",
         "ref:FR:Free": "maz91",
         "telecom": "exchange",
@@ -6064,53 +6065,6 @@
         ]
       },
       "id": "way/777175917"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777696401",
-        "addr:city": "Dampierre-sur-Salon",
-        "addr:postcode": "70180",
-        "building": "yes",
-        "building:prefabricated": "yes",
-        "name": "Orange",
-        "operator": "Orange",
-        "operator:wikidata": "Q1431486",
-        "owner": "HASF",
-        "ref": "N070DSS",
-        "source": "https://twitter.com/Hades73440/status/1526935061249118209",
-        "start_date": "18/05/2022",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.6859683,
-              47.5534315
-            ],
-            [
-              5.6858573,
-              47.5533956
-            ],
-            [
-              5.685895,
-              47.5533425
-            ],
-            [
-              5.6860061,
-              47.5533784
-            ],
-            [
-              5.6859683,
-              47.5534315
-            ]
-          ]
-        ]
-      },
-      "id": "way/777696401"
     },
     {
       "type": "Feature",
@@ -6779,138 +6733,6 @@
         ]
       },
       "id": "way/835580267"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/835742694",
-        "addr:city": "Vercel-Villedieu-le-Camp",
-        "addr:postcode": "25530",
-        "addr:street": "Grande Rue",
-        "building": "yes",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "Altitude",
-        "owner": "Doubs-THD",
-        "ref": "25-030",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.4048578,
-              47.1853138
-            ],
-            [
-              6.4048283,
-              47.1852329
-            ],
-            [
-              6.404867,
-              47.1852264
-            ],
-            [
-              6.4048965,
-              47.1853073
-            ],
-            [
-              6.4048578,
-              47.1853138
-            ]
-          ]
-        ]
-      },
-      "id": "way/835742694"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/835744654",
-        "addr:city": "Valdahon",
-        "addr:postcode": "25800",
-        "addr:street": "Rue de l'Hôtel de Ville",
-        "building": "yes",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "operator": "Altitude",
-        "ref": "25-029",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3471949,
-              47.1485287
-            ],
-            [
-              6.347275,
-              47.148579
-            ],
-            [
-              6.3472528,
-              47.1485953
-            ],
-            [
-              6.3471727,
-              47.1485451
-            ],
-            [
-              6.3471949,
-              47.1485287
-            ]
-          ]
-        ]
-      },
-      "id": "way/835744654"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/839372222",
-        "addr:city": "Pierrefontaine-les-Varans",
-        "addr:postcode": "25510",
-        "addr:street": "Rue du Repos",
-        "building": "yes",
-        "building:prefabricated": "yes",
-        "name": "NRO",
-        "ref": "25-026",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.5404468,
-              47.2135988
-            ],
-            [
-              6.5404004,
-              47.2135271
-            ],
-            [
-              6.5404406,
-              47.2135151
-            ],
-            [
-              6.5404871,
-              47.2135868
-            ],
-            [
-              6.5404468,
-              47.2135988
-            ]
-          ]
-        ]
-      },
-      "id": "way/839372222"
     },
     {
       "type": "Feature",
@@ -9715,12 +9537,9 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1021119734",
-        "addr:city": "Orchamps-Vennes",
-        "addr:postcode": "25390",
-        "addr:street": "Rue Saint-Martin",
+        "@id": "way/1013551443",
         "building": "yes",
-        "name": "NRO",
+        "operator": "THD42",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -9729,29 +9548,29 @@
         "coordinates": [
           [
             [
-              6.5318419,
-              47.1365722
+              4.3540694,
+              45.851236
             ],
             [
-              6.5319278,
-              47.1365351
+              4.3540426,
+              45.8512181
             ],
             [
-              6.5319443,
-              47.1365528
+              4.3540957,
+              45.8511822
             ],
             [
-              6.5318584,
-              47.1365898
+              4.354122,
+              45.8512009
             ],
             [
-              6.5318419,
-              47.1365722
+              4.3540694,
+              45.851236
             ]
           ]
         ]
       },
-      "id": "way/1021119734"
+      "id": "way/1013551443"
     },
     {
       "type": "Feature",
@@ -33600,6 +33419,142 @@
         ]
       },
       "id": "node/10207184141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10207874967",
+        "addr:city": "Valdahon",
+        "addr:postcode": "25800",
+        "addr:street": "Rue de l'Hôtel de Ville",
+        "name": "NRO",
+        "operator": "Altitude",
+        "ref": "25-029",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3472167,
+          47.1485612
+        ]
+      },
+      "id": "node/10207874967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10207874968",
+        "addr:city": "Vercel-Villedieu-le-Camp",
+        "addr:postcode": "25530",
+        "addr:street": "Grande Rue",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref": "25-030",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4048607,
+          47.1852691
+        ]
+      },
+      "id": "node/10207874968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10207874969",
+        "addr:city": "Pierrefontaine-les-Varans",
+        "addr:postcode": "25510",
+        "addr:street": "Rue du Repos",
+        "name": "NRO",
+        "ref": "25-026",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5404429,
+          47.213556
+        ]
+      },
+      "id": "node/10207874969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10207874970",
+        "addr:city": "Orchamps-Vennes",
+        "addr:postcode": "25390",
+        "addr:street": "Rue Saint-Martin",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "25-031",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5318905,
+          47.136561
+        ]
+      },
+      "id": "node/10207874970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10207932541",
+        "addr:city": "Dampierre-sur-Salon",
+        "addr:postcode": "70180",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "owner": "HASF",
+        "ref": "N070DSS",
+        "source": "https://twitter.com/Hades73440/status/1526935061249118209",
+        "start_date": "18/05/2022",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6859249,
+          47.5533802
+        ]
+      },
+      "id": "node/10207932541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10209065631",
+        "addr:city": "Sancergues",
+        "colour": "yellow",
+        "name": "NRO Sancergues",
+        "operator": "Berry Numérique",
+        "start_date": "2018-07-11",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9096913,
+          47.1570936
+        ]
+      },
+      "id": "node/10209065631"
     }
   ]
 }
