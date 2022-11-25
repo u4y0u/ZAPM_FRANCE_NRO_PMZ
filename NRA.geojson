@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-11-23T10:14:09Z",
+  "timestamp": "2022-11-25T08:41:39Z",
   "features": [
     {
       "type": "Feature",
@@ -8435,7 +8435,9 @@
       "properties": {
         "@id": "way/63133734",
         "building": "yes",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "BES63",
         "ref:FR:PTT": "63038BES",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
@@ -54470,49 +54472,6 @@
         ]
       },
       "id": "way/124225477"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/124352110",
-        "building": "service",
-        "building:levels": "1",
-        "man_made": "telephone_office",
-        "operator": "Orange",
-        "power": "substation",
-        "ref:FR:PTT": "74258SAM",
-        "source": "ANFR Opendata",
-        "telecom": "exchange",
-        "telecom:medium": "copper"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.7291478,
-              46.0826197
-            ],
-            [
-              6.7291171,
-              46.0825148
-            ],
-            [
-              6.7292258,
-              46.0824995
-            ],
-            [
-              6.7292565,
-              46.0826044
-            ],
-            [
-              6.7291478,
-              46.0826197
-            ]
-          ]
-        ]
-      },
-      "id": "way/124352110"
     },
     {
       "type": "Feature",
@@ -107105,6 +107064,49 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/1116964955",
+        "building": "service",
+        "building:levels": "1",
+        "man_made": "telephone_office",
+        "operator": "Orange",
+        "power": "substation",
+        "ref:FR:PTT": "74258SAM",
+        "source": "ANFR Opendata",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.7291426,
+              46.0825236
+            ],
+            [
+              6.729231,
+              46.082511
+            ],
+            [
+              6.7292593,
+              46.082603
+            ],
+            [
+              6.7291709,
+              46.0826157
+            ],
+            [
+              6.7291426,
+              46.0825236
+            ]
+          ]
+        ]
+      },
+      "id": "way/1116964955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/1036252412",
         "name": "Central téléphonique",
         "operator": "Orange",
@@ -124690,15 +124692,19 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7163556804",
+        "addr:city": "Descartes",
+        "name": "NRA Descartes",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/DE1/000",
         "telecom": "exchange",
         "telecom:medium": "copper"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.695188,
-          46.9746836
+          0.6951971,
+          46.9746824
         ]
       },
       "id": "node/7163556804"
@@ -151374,6 +151380,79 @@
         ]
       },
       "id": "node/10211664735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10214444304",
+        "addr:city": "Yzeures-sur-Creuse",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "NRA Yzeures-sur-Creuse",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/YC1/000",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8734115,
+          46.7875086
+        ]
+      },
+      "id": "node/10214444304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10216565730",
+        "addr:city": "Ligueil",
+        "man_made": "street_cabinet",
+        "name": "NRA Ligueil",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/LI1/000",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8177826,
+          47.0440455
+        ]
+      },
+      "id": "node/10216565730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10216570411",
+        "addr:city": "Manthelan",
+        "man_made": "street_cabinet",
+        "name": "NRA Manthelan",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/MA2/000",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7916965,
+          47.1345031
+        ]
+      },
+      "id": "node/10216570411"
     }
   ]
 }

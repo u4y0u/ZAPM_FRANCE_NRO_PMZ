@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-11-23T10:06:54Z",
+  "timestamp": "2022-11-25T08:37:29Z",
   "features": [
     {
       "type": "Feature",
@@ -33429,7 +33429,8 @@
         "addr:street": "Rue de l'Hôtel de Ville",
         "name": "NRO",
         "operator": "Altitude",
-        "ref": "25-029",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "25-029",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -33452,7 +33453,7 @@
         "name": "NRO",
         "operator": "Altitude",
         "owner": "Doubs-THD",
-        "ref": "25-030",
+        "ref:FR:ARCEP": "25-030",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -33473,7 +33474,9 @@
         "addr:postcode": "25510",
         "addr:street": "Rue du Repos",
         "name": "NRO",
-        "ref": "25-026",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "25-026",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -33490,9 +33493,6 @@
       "type": "Feature",
       "properties": {
         "@id": "node/10207874970",
-        "addr:city": "Orchamps-Vennes",
-        "addr:postcode": "25390",
-        "addr:street": "Rue Saint-Martin",
         "name": "NRO",
         "operator": "Altitude",
         "owner": "Doubs-THD",
@@ -33504,7 +33504,7 @@
         "type": "Point",
         "coordinates": [
           6.5318905,
-          47.136561
+          47.1365598
         ]
       },
       "id": "node/10207874970"
