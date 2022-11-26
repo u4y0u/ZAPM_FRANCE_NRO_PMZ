@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-11-25T08:37:29Z",
+  "timestamp": "2022-11-26T22:27:39Z",
   "features": [
     {
       "type": "Feature",
@@ -13431,6 +13431,7 @@
         "@id": "node/7153474826",
         "name": "1BE88",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "881601BE",
         "telecom": "exchange",
@@ -17232,6 +17233,7 @@
         "addr:city": "Avoine",
         "note": "alimentera Beaumont en Véron, Chinon, Chouzé, Huismes, La Chapelle sur Loire, St Germain sur Vienne et Savigny en Véron.",
         "operator": "TDF",
+        "operator:wikidata": "Q1162908",
         "owner": "Val de Loire Fibre",
         "ref": "NRO Avoine",
         "source": "https://twitter.com/valdeloirefibre/status/1098877881730695168",
@@ -17278,16 +17280,20 @@
         "addr:postcode": "37310",
         "building": "service",
         "building:prefabricated": "yes",
+        "colour": "green",
+        "name": "NRO Reignac-sur-Indre",
         "operator": "TDF",
+        "operator:wikidata": "Q1162908",
         "owner": "Val de Loire Fibre",
+        "start_date": "2019-02-06",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.9089142,
-          47.2220331
+          0.9089685,
+          47.2219887
         ]
       },
       "id": "node/8212611275"
@@ -17325,9 +17331,12 @@
         "addr:city": "Salbris",
         "addr:postcode": "41300",
         "building": "service",
+        "name": "NRO Salbris",
         "operator": "TDF",
+        "operator:wikidata": "Q1162908",
         "owner": "Val de Loire Fibre",
         "source": "https://twitter.com/Lourine45/status/1099240936591233024",
+        "start_date": "2019-01-16",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -17335,8 +17344,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.0531106,
-          47.4186285
+          2.0531034,
+          47.4186274
         ]
       },
       "id": "node/8212659983"
@@ -17397,17 +17406,19 @@
         "addr:postcode": "41220",
         "addr:street": "Rue du Petit Four",
         "building": "service",
+        "name": "NRO Saint Laurent Nouan",
         "operator": "TDF",
+        "operator:wikidata": "Q1162908",
         "owner": "Val de Loire Fibre",
-        "start_date": "2019",
+        "start_date": "2018-08-02",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.6085502,
-          47.7117654
+          1.6086507,
+          47.7117713
         ]
       },
       "id": "node/8213327936"
@@ -20199,6 +20210,7 @@
       "properties": {
         "@id": "node/8221861306",
         "operator": "Zayo",
+        "operator:wikidata": "Q8067574",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -25978,6 +25990,7 @@
       "properties": {
         "@id": "node/8340156108",
         "operator": "Interoute",
+        "operator:wikidata": "Q1668090",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -33536,6 +33549,30 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/10208188411",
+        "colour": "#865e3c",
+        "mimics": "wooden shed",
+        "name": "NRO Château-Renault",
+        "operator": "Val de Loire Fibre",
+        "ref": "VDLF-CHREN",
+        "start_date": "2018-08-21",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9105719,
+          47.5913765
+        ]
+      },
+      "id": "node/10208188411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/10209065631",
         "addr:city": "Sancergues",
         "colour": "yellow",
@@ -33555,6 +33592,434 @@
         ]
       },
       "id": "node/10209065631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10219561170",
+        "addr:city": "Braslou",
+        "addr:street": "Le Chillou Qui Viré",
+        "colour": "green",
+        "name": "NRO Braslou",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2019-05-21",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.38545,
+          46.9958823
+        ]
+      },
+      "id": "node/10219561170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10219572951",
+        "addr:city": "Bourgueil",
+        "name": "NRO Bourgueil",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2019-04-24",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1624808,
+          47.2821765
+        ]
+      },
+      "id": "node/10219572951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10219754967",
+        "colour": "green",
+        "name": "NRO Cerelles",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2018-07-23",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6967619,
+          47.4959095
+        ]
+      },
+      "id": "node/10219754967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10219950576",
+        "addr:city": "Fréteval",
+        "colour": "yellow",
+        "name": "NRO Fréteval",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2018-05-16",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2116306,
+          47.8917657
+        ]
+      },
+      "id": "node/10219950576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10219970979",
+        "addr:city": "Billy",
+        "colour": "yellow",
+        "name": "NRO Billy",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2018-05-24",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.53109,
+          47.3085845
+        ]
+      },
+      "id": "node/10219970979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10219976392",
+        "addr:city": "Pruniers-en-Sologne",
+        "name": "NRO Pruniers-en-Sologne",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2018-06-22",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6689285,
+          47.3243615
+        ]
+      },
+      "id": "node/10219976392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10219996823",
+        "addr:city": "Le Controis-en-Sologne",
+        "colour": "green",
+        "name": "NRO Fougères-sur-Bièvre",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2018-06-11",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3522611,
+          47.4528802
+        ]
+      },
+      "id": "node/10219996823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10220029378",
+        "addr:city": "Esvres-sur-Indre",
+        "mimics": "wooden shed",
+        "name": "NRO Esvres-sur-Indre",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2018-06-26",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7862258,
+          47.2902152
+        ]
+      },
+      "id": "node/10220029378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10220065752",
+        "name": "NRO Veuzain-sur-Loire",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2018-07-13",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1918245,
+          47.5026644
+        ]
+      },
+      "id": "node/10220065752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10220110761",
+        "addr:city": "Artannes-sur-Indre",
+        "name": "NRO Artannes-sur-Indre",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2018-07-19",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5903103,
+          47.2714215
+        ]
+      },
+      "id": "node/10220110761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10220175960",
+        "addr:city": "Maillé",
+        "colour": "green",
+        "name": "NRO Maillé",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2018-08-31",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5598021,
+          47.0615006
+        ]
+      },
+      "id": "node/10220175960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10220196331",
+        "addr:city": "Pezou",
+        "name": "NRO Pezou",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2018-08-16",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1358737,
+          47.8638109
+        ]
+      },
+      "id": "node/10220196331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10220212645",
+        "addr:city": "Talcy",
+        "mimics": "wooden hut",
+        "name": "NRO Talcy",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2018-08-27",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4492854,
+          47.769498
+        ]
+      },
+      "id": "node/10220212645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10220263122",
+        "addr:city": "Beauce-la-Romaine",
+        "colour": "green",
+        "name": "NRO Beauce-la-Romaine",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2018-09-28",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3714489,
+          47.8903769
+        ]
+      },
+      "id": "node/10220263122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10220296768",
+        "addr:city": "Loreux",
+        "name": "NRO Loreux",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2018-11-25",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8296574,
+          47.3980687
+        ]
+      },
+      "id": "node/10220296768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10220307640",
+        "addr:city": "Sorigny",
+        "colour": "green",
+        "name": "NRO Sorigny",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2018-12-27",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6997149,
+          47.2438558
+        ]
+      },
+      "id": "node/10220307640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10220330484",
+        "addr:city": "Bracieux",
+        "name": "NRO Bracieux",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2018-12-28",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.553252,
+          47.5516831
+        ]
+      },
+      "id": "node/10220330484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10220473616",
+        "colour": "green",
+        "name": "NRO Descartes",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2019-02-08",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7072419,
+          46.9793215
+        ]
+      },
+      "id": "node/10220473616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10220529234",
+        "addr:city": "Loches",
+        "colour": "green",
+        "name": "NRO Loches",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2019-02-08",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9927459,
+          47.1381802
+        ]
+      },
+      "id": "node/10220529234"
     }
   ]
 }
