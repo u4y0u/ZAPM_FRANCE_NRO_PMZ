@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-11-26T22:27:39Z",
+  "timestamp": "2022-11-28T11:45:39Z",
   "features": [
     {
       "type": "Feature",
@@ -13369,6 +13369,7 @@
         "@id": "node/7153382074",
         "name": "5PR88",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "883835PR",
         "telecom": "exchange",
@@ -13453,6 +13454,7 @@
         "@id": "node/7153479200",
         "name": "5GE88",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "881965GE",
         "telecom": "exchange",
@@ -17255,19 +17257,21 @@
       "properties": {
         "@id": "node/8211019147",
         "addr:city": "Neuvy-le-Roi",
-        "note": "2300 prises permettront de desservir les foyers de 9 communes:\nBueil-en-Touraine, Louestault, Neuillé-Pont-Pierre, Neuvy-le-Roi, Rouziers-de-Touraine, Semblançay, Sonzay Ville bourg et Neuillé-le-Lierre.",
+        "name": "NRO Neuvy-le-Roi",
+        "note": "77eme NRO Neuvy-le-Roi\n2300 prises permettront de desservir les foyers de 9 communes:\nBueil-en-Touraine, Louestault, Neuillé-Pont-Pierre, Neuvy-le-Roi, Rouziers-de-Touraine, Semblançay, Sonzay Ville bourg et Neuillé-le-Lierre.",
         "operator": "TDF",
+        "operator:wikidata": "Q1162908",
         "owner": "Val de Loire Fibre",
-        "ref": "77 eme NRO Neuvy-le-Roi",
         "source": "https://twitter.com/valdeloirefibre/status/1216712476353581057",
+        "start_date": "2019-06-24",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.5902333,
-          47.6007279
+          0.5901502,
+          47.6008134
         ]
       },
       "id": "node/8211019147"
@@ -17456,20 +17460,21 @@
         "addr:postcode": "37340",
         "addr:street": "Avenue du Vieux Château",
         "building": "service",
+        "name": "NRO Hommes",
         "note": "dessert 2633 foyers.",
         "operator": "TDF",
+        "operator:wikidata": "Q1162908",
         "owner": "Val de Loire Fibre",
-        "ref": "NRO Hommes",
         "source": "https://twitter.com/valdeloirefibre/status/1173992184657391616",
-        "start_date": "2019-09-16",
+        "start_date": "2019-07-08",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.290679,
-          47.42703
+          0.2907003,
+          47.4269814
         ]
       },
       "id": "node/8213587074"
@@ -25682,18 +25687,22 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8320790184",
+        "addr:city": "Couddes",
+        "colour": "green",
+        "name": "NRO Couddes",
         "operator": "TDF",
+        "operator:wikidata": "Q1162908",
         "owner": "Val de Loire Fibre",
-        "ref": "NRO Couddes",
         "source": "local knowledge",
+        "start_date": "2019-03-08",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.3987571,
-          47.3644294
+          1.398706,
+          47.3643528
         ]
       },
       "id": "node/8320790184"
@@ -33550,6 +33559,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/10208188411",
+        "addr:city": "Château-Renault",
         "colour": "#865e3c",
         "mimics": "wooden shed",
         "name": "NRO Château-Renault",
@@ -34020,6 +34030,301 @@
         ]
       },
       "id": "node/10220529234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10223034374",
+        "addr:city": "Pernay",
+        "colour": "green",
+        "name": "NRO Pernay",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2019-02-12",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4981051,
+          47.4454032
+        ]
+      },
+      "id": "node/10223034374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10223045256",
+        "addr:city": "Verneuil-sur-Indre",
+        "colour": "green",
+        "name": "NRO Verneuil-sur-Indre",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2019-02-10",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0575087,
+          47.0761321
+        ]
+      },
+      "id": "node/10223045256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10223086883",
+        "addr:city": "Langeais",
+        "colour": "green",
+        "name": "NRO Langeais",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2019-02-12",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.407239,
+          47.3386571
+        ]
+      },
+      "id": "node/10223086883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10223119123",
+        "addr:city": "Villetrun",
+        "colour": "green",
+        "name": "NRO Villetrun",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2019-03-12",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.149875,
+          47.7861251
+        ]
+      },
+      "id": "node/10223119123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10223133587",
+        "addr:city": "Continvoir",
+        "name": "NRO Continvoir",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2019-03-14",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.214096,
+          47.3884848
+        ]
+      },
+      "id": "node/10223133587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10223194563",
+        "addr:city": "Monthou-sur-Cher",
+        "colour": "yellow",
+        "name": "NRO Monthou-sur-Cher",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2019-03-27",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2801547,
+          47.3356948
+        ]
+      },
+      "id": "node/10223194563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10223224177",
+        "addr:city": "Cormenon",
+        "colour": "green",
+        "name": "NRO Cormenon",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2019-04-21",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9026536,
+          47.9771887
+        ]
+      },
+      "id": "node/10223224177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10223226024",
+        "colour": "yellow",
+        "name": "NRO Montrieux-en-Sologne",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2019-04-05",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7351974,
+          47.558082
+        ]
+      },
+      "id": "node/10223226024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10223248209",
+        "addr:city": "Saint-Antoine-du-Rocher",
+        "colour": "green",
+        "name": "NRO Saint-Antoine-du-Rocher",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2019-05-02",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6199389,
+          47.491643
+        ]
+      },
+      "id": "node/10223248209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10223301776",
+        "addr:city": "Tavant",
+        "colour": "green",
+        "name": "NRO Tavant",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2019-05-22",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.406056,
+          47.1205333
+        ]
+      },
+      "id": "node/10223301776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10223350451",
+        "addr:city": "Crouy-sur-Cosson",
+        "colour": "green",
+        "name": "NRO Crouy-sur-Cosson",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2019-06-24",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6186764,
+          47.656488
+        ]
+      },
+      "id": "node/10223350451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10223438175",
+        "addr:city": "Pierrefitte-sur-Sauldre",
+        "colour": "green",
+        "name": "NRO Pierrefitte-sur-Sauldre",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2019-07-25",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1416176,
+          47.5156006
+        ]
+      },
+      "id": "node/10223438175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10223454817",
+        "addr:city": "Noyant-de-Touraine",
+        "colour": "yellow",
+        "name": "NRO Noyant-de-Touraine",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2019-08-18",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5706192,
+          47.1087663
+        ]
+      },
+      "id": "node/10223454817"
     }
   ]
 }
