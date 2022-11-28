@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-11-28T11:45:39Z",
+  "timestamp": "2022-11-28T18:32:09Z",
   "features": [
     {
       "type": "Feature",
@@ -17310,11 +17310,14 @@
         "addr:postcode": "41230",
         "addr:street": "Rue de Blois",
         "building:prefabricated": "yes",
-        "note": "1800 prises éligibles sur les communes de Contres, Gy-en-Sologne, Lassay-sur-Croisne, Mur-de-Sologne, Rougeou, Sassay et Soings-en-Sologne.",
+        "colour": "green",
+        "name": "NRO Mur-de-Sologne",
+        "note": "72 eme NRO Mur-de-Sologne\n1800 prises éligibles sur les communes de Contres, Gy-en-Sologne, Lassay-sur-Croisne, Mur-de-Sologne, Rougeou, Sassay et Soings-en-Sologne.",
         "operator": "TDF",
+        "operator:wikidata": "Q1162908",
         "owner": "Val de Loire Fibre",
-        "ref": "72 eme NRO Mur-de-Sologne",
         "source": "https://twitter.com/valdeloirefibre/status/1197545561165045761",
+        "start_date": "2019-10-30",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -17322,8 +17325,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.5967503,
-          47.4174641
+          1.5967466,
+          47.417392
         ]
       },
       "id": "node/8212616831"
@@ -17434,12 +17437,14 @@
         "addr:city": "Oucques-la-Nouvelle",
         "addr:postcode": "41290",
         "addr:street": "Route de Vendôme",
-        "note": "\"Situé sur la commune de Oucques-la-Nouvelle il permettra de desservir plus de 2600 prises dans 17 communes.\"",
+        "colour": "green",
+        "name": "NRO Oucques-la-Nouvelle",
+        "note": "76 eme NRO Oucques-la-Nouvelle\n\"Situé sur la commune de Oucques-la-Nouvelle il permettra de desservir plus de 2600 prises dans 17 communes.\"",
         "operator": "TDF",
         "operator:wikidata": "Q1162908",
         "owner": "Val de Loire Fibre",
-        "ref": "76 eme NRO Oucques-la-Nouvelle",
         "source": "https://twitter.com/valdeloirefibre/status/1207597788240007168",
+        "start_date": "2019-11-25",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -17485,9 +17490,10 @@
         "@id": "node/8213668881",
         "addr:city": "Azay-le-Rideau",
         "addr:postcode": "37190",
+        "name": "NRO Azay-le-Rideau",
         "note": "\"5000 logements raccordables, à terme, à la fibre @ Avon-les-Roches, Azay-le-Rideau,Cheillé, Lignières-de-Touraine, Saché, Vallères, Villaines-les-Rochers\"",
         "operator": "TDF",
-        "ref": "NRO Azay-le-Rideau",
+        "operator:wikidata": "Q1162908",
         "source": "https://twitter.com/valdeloirefibre/status/1121802052403752960",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -17495,8 +17501,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.4554035,
-          47.2614523
+          0.4552999,
+          47.2611246
         ]
       },
       "id": "node/8213668881"
@@ -17674,19 +17680,21 @@
         "@id": "node/8214794600",
         "addr:city": "Manthelan",
         "addr:postcode": "37240",
-        "note": "\"Ce local technique de 60.000 € va permettre aux communes de Bossée, Bournan, Le Louroux ou Sepmes d’être desservies à terme par la fibre optique avec 1.245 prises éligibles.\"",
+        "name": "NRO Manthelan",
+        "note": "78 eme NRO Manthelan\n\"Ce local technique de 60.000 € va permettre aux communes de Bossée, Bournan, Le Louroux ou Sepmes d’être desservies à terme par la fibre optique avec 1.245 prises éligibles.\"",
         "operator": "TDF",
+        "operator:wikidata": "Q1162908",
         "owner": "Val de Loire Fibre",
-        "ref": "78 eme NRO Manthelan",
         "source": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/manthelan/lochois-la-fibre-optique-se-pose-dans-la-campagne;https://twitter.com/valdeloirefibre/status/1227217442881056768",
+        "start_date": "2020-01-11",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.7875193,
-          47.1420104
+          0.7876216,
+          47.1419912
         ]
       },
       "id": "node/8214794600"
@@ -23034,7 +23042,7 @@
         "@id": "node/8223710697",
         "building:prefabricated": "yes",
         "name": "NRO",
-        "operator": "Altituide",
+        "operator": "Altitude",
         "owner": "Doubs-THD",
         "ref": "25-023",
         "telecom": "exchange",
@@ -23969,20 +23977,22 @@
         "@id": "node/8242501698",
         "addr:city": "Le Liège",
         "addr:postcode": "37460",
+        "colour": "green",
+        "name": "NRO Le Liège",
         "note": "\"...environ 1 867 prises éligibles sur les communes Céré-la-Ronde, Épeigné-les-Bois, Genillé, Le Liège, Saint-Quentin-sur-Indrois qui seront desservies à terme par la fibre optique\"",
         "operator": "TDF",
+        "operator:wikidata": "Q1162908",
         "owner": "Val de Loire Fibre",
-        "ref": "NRO Le Liège",
         "source": "https://www.valdeloirefibre.fr/actualites/un-nouveau-nro-dans-le-val-de-loire/",
-        "start_date": "20200430",
+        "start_date": "2020-04-19",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.1068558,
-          47.2326712
+          1.1067435,
+          47.2327549
         ]
       },
       "id": "node/8242501698"
@@ -27511,10 +27521,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8893388315",
-        "Fixme": "Reference a trouver",
         "name": "NRO",
-        "operator": "BFC FIBRE",
-        "owner": "Departement Cote d'Or",
+        "operator": "Altitude",
+        "owner": "Corai Fibre",
+        "ref:FR:ARCEP": "NRO 21-011",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -34325,6 +34335,29 @@
         ]
       },
       "id": "node/10223454817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10223826174",
+        "addr:city": "Vernou-en-Sologne",
+        "mimics": "cottage",
+        "name": "NRO Vernou-en-Sologne",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2019-10-05",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6782376,
+          47.5053565
+        ]
+      },
+      "id": "node/10223826174"
     }
   ]
 }
