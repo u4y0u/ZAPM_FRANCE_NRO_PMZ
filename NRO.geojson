@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-11-28T18:32:09Z",
+  "timestamp": "2022-11-28T21:47:54Z",
   "features": [
     {
       "type": "Feature",
@@ -34358,6 +34358,75 @@
         ]
       },
       "id": "node/10223826174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10224380573",
+        "addr:city": "Souvigné",
+        "colour": "green",
+        "name": "NRO Souvigné",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2020-05-04",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3896683,
+          47.5202091
+        ]
+      },
+      "id": "node/10224380573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10224423359",
+        "colour": "green",
+        "name": "NRO Villeloin-Coulangé",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2020-05-27",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2382594,
+          47.1360901
+        ]
+      },
+      "id": "node/10224423359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10224461570",
+        "addr:city": "Le Grand-Pressigny",
+        "colour": "brown",
+        "mimics": "wooden cabin",
+        "name": "NRO Le Grand-Pressigny",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2020-06-04",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7967902,
+          46.921088
+        ]
+      },
+      "id": "node/10224461570"
     }
   ]
 }
