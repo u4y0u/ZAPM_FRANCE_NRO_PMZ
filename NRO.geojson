@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-11-28T21:47:54Z",
+  "timestamp": "2022-12-02T08:02:39Z",
   "features": [
     {
       "type": "Feature",
@@ -16943,7 +16943,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7994883856",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "14327HRV",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -24003,19 +24005,21 @@
         "@id": "node/8242938516",
         "addr:city": "Saint-Paterne-Racan",
         "addr:postcode": "37370",
+        "name": "NRO Saint-Paterne-Racan",
         "note": "\"Situé sur la commune de St Patern Racan celui-ci permettra de desservir plus de 1800 prises dans 6 communes.\"",
         "operator": "TDF",
+        "operator:wikidata": "Q1162908",
         "owner": "Val de Loire Fibre",
-        "ref": "NRO Saint-Paterne-Racan",
         "source": "https://twitter.com/valdeloirefibre/status/1306982152073076737",
+        "start_date": "2020-06-04",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.4736666,
-          47.6055986
+          0.4736661,
+          47.6051562
         ]
       },
       "id": "node/8242938516"
@@ -34427,6 +34431,29 @@
         ]
       },
       "id": "node/10224461570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10228438080",
+        "addr:city": "Couesmes",
+        "colour": "green",
+        "name": "NRO Couesmes",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2020-07-02",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3300127,
+          47.55499
+        ]
+      },
+      "id": "node/10228438080"
     }
   ]
 }

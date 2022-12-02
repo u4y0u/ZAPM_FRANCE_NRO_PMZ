@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-11-25T08:41:39Z",
+  "timestamp": "2022-12-02T08:07:39Z",
   "features": [
     {
       "type": "Feature",
@@ -5124,44 +5124,60 @@
               48.8642904
             ],
             [
-              2.3429665,
+              2.3429658,
+              48.8643793
+            ],
+            [
+              2.3429586,
+              48.8643674
+            ],
+            [
+              2.3429497,
+              48.8643696
+            ],
+            [
+              2.3429483,
+              48.8643676
+            ],
+            [
+              2.342902,
               48.8643788
             ],
             [
-              2.3429587,
-              48.8643669
+              2.3429026,
+              48.8643813
             ],
             [
-              2.3429504,
-              48.8643689
+              2.3428428,
+              48.8643946
             ],
             [
-              2.3429486,
-              48.8643669
+              2.3428408,
+              48.8643919
             ],
             [
-              2.3429015,
-              48.8643791
+              2.3428353,
+              48.8643935
             ],
             [
-              2.3429011,
-              48.8643811
+              2.3428277,
+              48.8643949
             ],
             [
-              2.3428434,
-              48.8643937
+              2.3428168,
+              48.8643957
             ],
             [
-              2.3428389,
-              48.864392
+              2.3428109,
+              48.8643959
             ],
             [
-              2.3428302,
-              48.864394
+              2.3428061,
+              48.8643959
             ],
             [
-              2.3428176,
-              48.8643956
+              2.3427956,
+              48.8643957
             ],
             [
               2.3427838,
@@ -28671,6 +28687,7 @@
         "man_made": "telephone_office",
         "name": "Orange - Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
         "telecom": "exchange",
@@ -37236,13 +37253,15 @@
       "type": "Feature",
       "properties": {
         "@id": "way/86635217",
+        "addr:city": "Poissy",
         "addr:housenumber": "49",
         "addr:postcode": "78300",
-        "addr:street": "Boulevard Victor Hugo",
+        "addr:street": "Boulevard Victor-Hugo",
         "building": "service",
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "roof:shape": "flat",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 1983",
@@ -57426,7 +57445,9 @@
       "properties": {
         "@id": "way/129564645",
         "building": "service",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref": "GEV44",
         "ref:FR:PTT": "44035GEV",
@@ -78285,47 +78306,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/189597076",
-        "building": "service",
-        "operator": "Orange",
-        "ref:FR:Free": "AVO37-1",
-        "ref:FR:PTT": "AVO37",
-        "ref:FR:PTT:NRA": "37022AVO",
-        "telecom": "exchange",
-        "telecom:medium": "copper"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              0.1836447,
-              47.1992011
-            ],
-            [
-              0.183634,
-              47.1991308
-            ],
-            [
-              0.1838231,
-              47.1991175
-            ],
-            [
-              0.1838338,
-              47.1991877
-            ],
-            [
-              0.1836447,
-              47.1992011
-            ]
-          ]
-        ]
-      },
-      "id": "way/189597076"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/190065551",
         "building": "service",
         "building:levels": "1",
@@ -90751,6 +90731,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "Direction Générale des Finances Publiques - cadastre. Mise à jour : 2014",
         "telecom": "exchange",
@@ -108723,6 +108704,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -111299,7 +111281,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2693348011",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "telecom": "exchange",
         "telecom:medium": "copper"
       },
@@ -112743,7 +112727,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5696703894",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "65199PY6",
         "source": "ANFR Opendata",
@@ -124969,7 +124955,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7165741653",
+        "addr:city": "L'Île-Bouchard",
+        "name": "NRA de L'Île-Bouchard",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/ILB/000",
         "telecom": "exchange",
         "telecom:medium": "copper"
       },
@@ -125649,7 +125639,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7177212352",
+        "addr:city": "Salbris",
+        "name": "NRA Salbris",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/SA1/000",
         "ref:FR:PTT": "SA1",
         "ref:FR:PTT:NRA": "41232SA1",
         "telecom": "exchange",
@@ -127306,6 +127300,7 @@
         "@id": "node/7209298567",
         "name": "5GE88",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "881965GE",
         "telecom": "exchange",
@@ -127327,6 +127322,7 @@
         "@id": "node/7209298568",
         "name": "5PR88",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "883835PR",
         "telecom": "exchange",
@@ -127348,6 +127344,7 @@
         "@id": "node/7209298569",
         "name": "1BE88",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "881601BE",
         "telecom": "exchange",
@@ -134163,7 +134160,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7994883855",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "HRV14",
         "ref:FR:PTT:NRA": "14327HRV",
         "source": "ANFR Opendata",
@@ -137144,7 +137143,9 @@
         "@id": "node/8243007417",
         "addr:city": "Saint-Paterne-Racan",
         "addr:postcode": "37370",
+        "name": "NRA Saint-Paterne-Racan",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "37231PTN",
         "telecom": "exchange",
         "telecom:medium": "copper"
@@ -150557,8 +150558,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.1327786,
-          46.6796207
+          6.1327725,
+          46.6796198
         ]
       },
       "id": "node/10174704838"
@@ -151453,6 +151454,321 @@
         ]
       },
       "id": "node/10216570411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10216880469",
+        "addr:city": "Richelieu",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "NRA Richelieu",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/RIC/000",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.323776,
+          47.0169671
+        ]
+      },
+      "id": "node/10216880469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10216917029",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/4TG",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4036075,
+          47.0492107
+        ]
+      },
+      "id": "node/10216917029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10217055804",
+        "addr:city": "Cravant-les-Côteaux",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "NRA Cravant-les-Côteaux",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/CRA/000",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3460977,
+          47.1584843
+        ]
+      },
+      "id": "node/10217055804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10219234666",
+        "addr:city": "Rivière",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "NRA Rivière",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/RIV/000",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2705989,
+          47.1408069
+        ]
+      },
+      "id": "node/10219234666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10219308210",
+        "addr:city": "Sazilly",
+        "man_made": "street_cabinet",
+        "name": "NRA Sazilly",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/SAZ/000",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.344057,
+          47.1322529
+        ]
+      },
+      "id": "node/10219308210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10219317157",
+        "addr:city": "Anché",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "NRA Anché",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/5AN",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3070095,
+          47.1353534
+        ]
+      },
+      "id": "node/10219317157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10219340915",
+        "addr:city": "Marçay",
+        "man_made": "street_cabinet",
+        "name": "NRA Marçay",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/MAY/000",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2155197,
+          47.1023834
+        ]
+      },
+      "id": "node/10219340915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10219371835",
+        "addr:city": "Beaumont-en-Véron",
+        "name": "NRA Beaumont-en-Véron",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Free": "AVO37-1",
+        "ref:FR:Orange": "NJR/AVO/000",
+        "ref:FR:PTT": "AVO37",
+        "ref:FR:PTT:NRA": "37022AVO",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1837222,
+          47.1991591
+        ]
+      },
+      "id": "node/10219371835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10219699241",
+        "man_made": "street_cabinet",
+        "name": "NRA La Celle-Guenand",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/C7G",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8947494,
+          46.9443649
+        ]
+      },
+      "id": "node/10219699241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10219802762",
+        "addr:city": "Chanceaux-sur-Choisille",
+        "colour": "white",
+        "name": "NRA Chanceaux-sur-Choisille",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/CXX/000",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6984065,
+          47.4877441
+        ]
+      },
+      "id": "node/10219802762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10223138478",
+        "addr:city": "Monthou-sur-Cher",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "NRA Monthou-sur-Cher",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/M1U",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2950556,
+          47.3464241
+        ]
+      },
+      "id": "node/10223138478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10223194561",
+        "addr:city": "Ferrand",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "NRA Ferrand",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/FD7/000",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.280083,
+          47.3356074
+        ]
+      },
+      "id": "node/10223194561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10224306790",
+        "addr:city": "Souvigné",
+        "man_made": "street_cabinet",
+        "name": "NRA Souvigné",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/UVG/000",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3923357,
+          47.5225528
+        ]
+      },
+      "id": "node/10224306790"
     }
   ]
 }
