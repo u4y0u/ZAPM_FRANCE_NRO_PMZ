@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-12-02T08:02:39Z",
+  "timestamp": "2022-12-03T13:55:39Z",
   "features": [
     {
       "type": "Feature",
@@ -17539,20 +17539,22 @@
         "addr:city": "Droué",
         "addr:postcode": "41270",
         "addr:street": "Place de la Gare",
+        "colour": "green",
+        "name": "NRO Droué",
         "note": "Ce dernier, desservira plus de 1700 prises dans \n13 communes",
         "operator": "TDF",
+        "operator:wikidata": "Q1162908",
         "owner": "Val de Loire Fibre",
-        "ref": "NRO Droué",
         "source": "https://twitter.com/valdeloirefibre/status/1278245744831537158",
-        "start_date": "2020-07-01",
+        "start_date": "2020-07-15",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.0724644,
-          48.0435825
+          1.0724842,
+          48.0435872
         ]
       },
       "id": "node/8214069932"
@@ -17564,18 +17566,21 @@
         "addr:city": "Chauvigny-du-Perche",
         "addr:postcode": "41270",
         "addr:street": "Rue Saint-Gildéric",
+        "name": "NRO Chauvigny-du-Perche",
+        "note": "96 eme NRO Chauvigny-du-Perche",
         "operator": "TDF",
+        "operator:wikidata": "Q1162908",
         "owner": "Val de Loire Fibre",
-        "ref": "96 eme NRO Chauvigny-du-Perche",
         "source": "https://twitter.com/valdeloirefibre/status/1336970187929694210",
+        "start_date": "2020-07-25",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.0823521,
-          47.9597077
+          1.0823714,
+          47.9596962
         ]
       },
       "id": "node/8214314722"
@@ -34454,6 +34459,29 @@
         ]
       },
       "id": "node/10228438080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10235475568",
+        "addr:city": "Langon-sur-Cher",
+        "colour": "green",
+        "name": "NRO Langon-sur-Cher",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2020-08-19",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8243631,
+          47.2889656
+        ]
+      },
+      "id": "node/10235475568"
     }
   ]
 }
