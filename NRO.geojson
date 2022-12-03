@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-12-03T13:55:39Z",
+  "timestamp": "2022-12-03T22:01:10Z",
   "features": [
     {
       "type": "Feature",
@@ -17213,19 +17213,21 @@
       "properties": {
         "@id": "node/8210683182",
         "addr:city": "Luzé",
-        "note": "1 217 prises qui permettront de desservir les communes de Antogny-le-Tillac, Chezelles, Courcoué, La Tour-Saint-Gelin, Luzé, Marigny-Marmande et Verneuil-le-Château.",
+        "name": "NRO Luzé",
+        "note": "80 eme NRO Luzé\n1 217 prises qui permettront de desservir les communes de Antogny-le-Tillac, Chezelles, Courcoué, La Tour-Saint-Gelin, Luzé, Marigny-Marmande et Verneuil-le-Château.",
         "operator": "TDF",
+        "operator:wikidata": "Q1162908",
         "owner": "Val de Loire Fibre",
-        "ref": "80 eme NRO Luzé",
         "source": "https://twitter.com/valdeloirefibre/status/1234423368214028289",
+        "start_date": "2021-04-10",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.4540084,
-          47.0219435
+          0.4543472,
+          47.0220687
         ]
       },
       "id": "node/8210683182"
@@ -34482,6 +34484,28 @@
         ]
       },
       "id": "node/10235475568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10236323641",
+        "addr:city": "Villefranche-sur-Cher",
+        "name": "NRO Villefranche-sur-Cher",
+        "operator": "Val de Loire Fibre",
+        "start_date": "2022-08-25",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7776261,
+          47.2918532
+        ]
+      },
+      "id": "node/10236323641"
     }
   ]
 }
