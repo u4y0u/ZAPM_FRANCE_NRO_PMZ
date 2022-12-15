@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-12-14T22:38:09Z",
+  "timestamp": "2022-12-15T21:22:53Z",
   "features": [
     {
       "type": "Feature",
@@ -1934,145 +1934,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/30752386",
-        "building": "service",
-        "man_made": "telephone_office",
-        "name": "Central téléphonique",
-        "operator": "Orange",
-        "owner": "Orange",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
-        "telecom": "exchange",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -0.5881253,
-              44.8387175
-            ],
-            [
-              -0.5881344,
-              44.8387149
-            ],
-            [
-              -0.5881421,
-              44.8387105
-            ],
-            [
-              -0.5881497,
-              44.8387043
-            ],
-            [
-              -0.5881522,
-              44.8386963
-            ],
-            [
-              -0.588149,
-              44.8386782
-            ],
-            [
-              -0.5881061,
-              44.8384347
-            ],
-            [
-              -0.5881013,
-              44.8384304
-            ],
-            [
-              -0.5881003,
-              44.8384295
-            ],
-            [
-              -0.5880931,
-              44.8384249
-            ],
-            [
-              -0.5880852,
-              44.8384223
-            ],
-            [
-              -0.5880757,
-              44.8384208
-            ],
-            [
-              -0.5874644,
-              44.8384772
-            ],
-            [
-              -0.587453,
-              44.8384801
-            ],
-            [
-              -0.5874449,
-              44.8384854
-            ],
-            [
-              -0.5874396,
-              44.8384906
-            ],
-            [
-              -0.5874373,
-              44.8384974
-            ],
-            [
-              -0.5874841,
-              44.8387533
-            ],
-            [
-              -0.5874873,
-              44.8387597
-            ],
-            [
-              -0.5874922,
-              44.838765
-            ],
-            [
-              -0.5874983,
-              44.8387688
-            ],
-            [
-              -0.5875064,
-              44.8387722
-            ],
-            [
-              -0.5875156,
-              44.8387734
-            ],
-            [
-              -0.5875247,
-              44.8387734
-            ],
-            [
-              -0.5875686,
-              44.8387687
-            ],
-            [
-              -0.5875786,
-              44.8388228
-            ],
-            [
-              -0.587746,
-              44.8388086
-            ],
-            [
-              -0.5877367,
-              44.838754
-            ],
-            [
-              -0.5881253,
-              44.8387175
-            ]
-          ]
-        ]
-      },
-      "id": "way/30752386"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/31245569",
         "addr:housenumber": "28",
         "addr:street": "Rue de la Pierre Morin",
@@ -3617,139 +3478,6 @@
         ]
       },
       "id": "way/46806309"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/47726395",
-        "NRA:capacity": "19000",
-        "building": "service",
-        "man_made": "telephone_office",
-        "name": "Central téléphonique",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref:FR:PTT": "21617TAL",
-        "ref:Gigapop": "CK",
-        "ref:NRA:name": "Talant",
-        "ref:SRHD": "BO1-SRHD4-2",
-        "ref:SRTHD": "BOU-SRTHD1",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-        "telecom": "exchange",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.0143541,
-              47.3229115
-            ],
-            [
-              5.0143346,
-              47.3227209
-            ],
-            [
-              5.0143182,
-              47.32256
-            ],
-            [
-              5.014467,
-              47.322551
-            ],
-            [
-              5.0144647,
-              47.3225282
-            ],
-            [
-              5.014682,
-              47.3225174
-            ],
-            [
-              5.0146847,
-              47.3225414
-            ],
-            [
-              5.015081,
-              47.322521
-            ],
-            [
-              5.0150767,
-              47.3224835
-            ],
-            [
-              5.01522,
-              47.3224771
-            ],
-            [
-              5.0152237,
-              47.3225124
-            ],
-            [
-              5.0154315,
-              47.322503
-            ],
-            [
-              5.0154264,
-              47.3224421
-            ],
-            [
-              5.0155922,
-              47.322434
-            ],
-            [
-              5.0156215,
-              47.3226971
-            ],
-            [
-              5.0154533,
-              47.3227045
-            ],
-            [
-              5.0154475,
-              47.3226276
-            ],
-            [
-              5.0151409,
-              47.3226445
-            ],
-            [
-              5.0151507,
-              47.3227178
-            ],
-            [
-              5.0149829,
-              47.3227249
-            ],
-            [
-              5.014976,
-              47.3226525
-            ],
-            [
-              5.0147032,
-              47.3226672
-            ],
-            [
-              5.0147221,
-              47.3228556
-            ],
-            [
-              5.0146971,
-              47.3228564
-            ],
-            [
-              5.0147019,
-              47.3228942
-            ],
-            [
-              5.0143541,
-              47.3229115
-            ]
-          ]
-        ]
-      },
-      "id": "way/47726395"
     },
     {
       "type": "Feature",
@@ -14010,85 +13738,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/66737882",
-        "addr:city": "Clermont-Ferrand",
-        "addr:housenumber": "5",
-        "addr:postcode": "63118",
-        "addr:street": "Rue Félix Mézard",
-        "building": "service",
-        "name": "Central téléphonique",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref:FR:PTT": "63113FLA",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-        "telecom": "exchange",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              3.1118075,
-              45.8151437
-            ],
-            [
-              3.1122271,
-              45.815167
-            ],
-            [
-              3.112192,
-              45.8154739
-            ],
-            [
-              3.1117685,
-              45.8154504
-            ],
-            [
-              3.1117887,
-              45.8152738
-            ],
-            [
-              3.1117452,
-              45.8152714
-            ],
-            [
-              3.1117427,
-              45.8152932
-            ],
-            [
-              3.1116202,
-              45.8152864
-            ],
-            [
-              3.1116395,
-              45.8151169
-            ],
-            [
-              3.1117604,
-              45.8151236
-            ],
-            [
-              3.1117541,
-              45.8151781
-            ],
-            [
-              3.1118033,
-              45.8151808
-            ],
-            [
-              3.1118075,
-              45.8151437
-            ]
-          ]
-        ]
-      },
-      "id": "way/66737882"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/66744000",
         "building": "service",
         "operator": "Orange",
@@ -14940,73 +14589,6 @@
         ]
       },
       "id": "way/67205679"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/67313083",
-        "building": "service",
-        "name": "Central téléphonique",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref:FR:PTT": "63113LAV",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-        "telecom": "exchange",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              3.0767251,
-              45.7841866
-            ],
-            [
-              3.0768059,
-              45.7840961
-            ],
-            [
-              3.0767977,
-              45.7840926
-            ],
-            [
-              3.0768407,
-              45.7840444
-            ],
-            [
-              3.0768762,
-              45.7840598
-            ],
-            [
-              3.0769149,
-              45.7840164
-            ],
-            [
-              3.0776256,
-              45.784325
-            ],
-            [
-              3.0774631,
-              45.784507
-            ],
-            [
-              3.0772305,
-              45.784406
-            ],
-            [
-              3.0771819,
-              45.7843849
-            ],
-            [
-              3.0767251,
-              45.7841866
-            ]
-          ]
-        ]
-      },
-      "id": "way/67313083"
     },
     {
       "type": "Feature",
@@ -21439,49 +21021,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/72681941",
-        "building": "service",
-        "description": "Central téléphonique",
-        "man_made": "telephone_office",
-        "operator": "Orange",
-        "owner": "Orange",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-        "telecom": "exchange",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -1.4628594,
-              43.4921973
-            ],
-            [
-              -1.4629617,
-              43.4922702
-            ],
-            [
-              -1.4633038,
-              43.4920173
-            ],
-            [
-              -1.4632015,
-              43.4919445
-            ],
-            [
-              -1.4628594,
-              43.4921973
-            ]
-          ]
-        ]
-      },
-      "id": "way/72681941"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/72737941",
         "building": "service",
         "operator": "Orange",
@@ -24999,50 +24538,6 @@
         ]
       },
       "id": "way/75727382"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/75756855",
-        "building": "service",
-        "height": "6",
-        "name": "Central téléphonique",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref": "CRO34",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-        "telecom": "exchange",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              3.8591176,
-              43.5909833
-            ],
-            [
-              3.8585651,
-              43.590569
-            ],
-            [
-              3.8587665,
-              43.5904281
-            ],
-            [
-              3.859319,
-              43.5908424
-            ],
-            [
-              3.8591176,
-              43.5909833
-            ]
-          ]
-        ]
-      },
-      "id": "way/75756855"
     },
     {
       "type": "Feature",
@@ -45958,6 +45453,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
         "telecom": "exchange",
@@ -61317,93 +60813,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/141278306",
-        "building": "service",
-        "height": "15",
-        "name": "Central téléphonique Saint-Barthélémy",
-        "operator": "Orange",
-        "owner": "Orange",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
-        "telecom": "exchange",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              7.256269,
-              43.71711
-            ],
-            [
-              7.256382,
-              43.71714
-            ],
-            [
-              7.256569,
-              43.71719
-            ],
-            [
-              7.256336,
-              43.717595
-            ],
-            [
-              7.256228,
-              43.717557
-            ],
-            [
-              7.256055,
-              43.7174963
-            ],
-            [
-              7.25602,
-              43.717484
-            ],
-            [
-              7.255856,
-              43.717425
-            ],
-            [
-              7.255979,
-              43.71724
-            ],
-            [
-              7.255996,
-              43.717206
-            ],
-            [
-              7.256004,
-              43.717158
-            ],
-            [
-              7.256022,
-              43.716963
-            ],
-            [
-              7.256171,
-              43.716964
-            ],
-            [
-              7.256169,
-              43.717
-            ],
-            [
-              7.256164,
-              43.717079
-            ],
-            [
-              7.256269,
-              43.71711
-            ]
-          ]
-        ]
-      },
-      "id": "way/141278306"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/141418797",
         "building": "service",
         "name": "Central téléphonique",
@@ -68695,73 +68104,6 @@
         ]
       },
       "id": "way/157227110"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/157227223",
-        "building": "service",
-        "man_made": "telephone_office",
-        "name": "Central téléphonique",
-        "operator": "Orange",
-        "owner": "Orange",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
-        "telecom": "exchange",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -1.4954621,
-              43.4970503
-            ],
-            [
-              -1.495384,
-              43.4966304
-            ],
-            [
-              -1.4952393,
-              43.4966446
-            ],
-            [
-              -1.4952386,
-              43.4966407
-            ],
-            [
-              -1.4950911,
-              43.4966552
-            ],
-            [
-              -1.4951128,
-              43.4967722
-            ],
-            [
-              -1.4950862,
-              43.4967748
-            ],
-            [
-              -1.4950901,
-              43.4967959
-            ],
-            [
-              -1.4951178,
-              43.4967931
-            ],
-            [
-              -1.495171,
-              43.4970788
-            ],
-            [
-              -1.4954621,
-              43.4970503
-            ]
-          ]
-        ]
-      },
-      "id": "way/157227223"
     },
     {
       "type": "Feature",
@@ -101496,32 +100838,32 @@
         "coordinates": [
           [
             [
-              0.0848446,
-              44.3136285
+              0.084849,
+              44.3136277
             ],
             [
-              0.0849462,
-              44.3136162
+              0.0849466,
+              44.3136164
             ],
             [
-              0.0849627,
-              44.3136859
+              0.0849623,
+              44.3136858
             ],
             [
-              0.0850119,
-              44.3136799
+              0.0850124,
+              44.31368
             ],
             [
-              0.0850311,
-              44.3137606
+              0.0850307,
+              44.3137609
             ],
             [
-              0.0848876,
+              0.084883,
               44.313778
             ],
             [
-              0.0848446,
-              44.3136285
+              0.084849,
+              44.3136277
             ]
           ]
         ]
@@ -106983,10 +106325,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1411634681",
-        "name": "Central téléphonique",
+        "addr:city": "Marseille",
+        "name": "NRA Marseille",
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
-        "operator:wikipedia": "fr:Orange (entreprise)",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
         "telecom": "exchange",
@@ -106996,8 +106338,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.3741802,
-          43.315634
+          5.3737611,
+          43.3158394
         ]
       },
       "id": "node/1411634681"
@@ -107028,10 +106370,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1411692977",
-        "man_made": "telephone_office",
+        "addr:city": "Marseille",
         "mapillary": "1101258683720080",
-        "name": "Central téléphonique",
+        "name": "NRA Marseille",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
         "survey:date": "2018-06-14",
         "telecom": "exchange",
@@ -107040,8 +106383,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.3770805,
-          43.3030864
+          5.3771663,
+          43.3031089
         ]
       },
       "id": "node/1411692977"
@@ -107500,26 +106843,6 @@
         ]
       },
       "id": "node/1975791130"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/1975803137",
-        "name": "Bachut",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref:FR:PTT": "69388BAC",
-        "telecom": "exchange",
-        "telecom:medium": "copper"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8725609,
-          45.7375607
-        ]
-      },
-      "id": "node/1975803137"
     },
     {
       "type": "Feature",
@@ -108068,9 +107391,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2009735320",
-        "man_made": "telephone_office",
-        "name": "Central téléphonique",
+        "addr:city": "Bordeaux",
+        "name": "NRA Bordeaux",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -108079,8 +107403,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.5831315,
-          44.8404515
+          -0.5831148,
+          44.840451
         ]
       },
       "id": "node/2009735320"
@@ -110273,8 +109597,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2193386497",
-        "name": "Central téléphonique",
+        "addr:city": "Toulon",
+        "name": "NRA Toulon",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -110283,8 +109609,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.9501107,
-          43.1209578
+          5.9506214,
+          43.1210531
         ]
       },
       "id": "node/2193386497"
@@ -112534,7 +111860,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5700260465",
-        "name": "Orange",
+        "addr:city": "Strasbourg",
+        "name": "NRA Strasbourg",
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "67482KRO",
@@ -112545,8 +111872,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.7361493,
-          48.5905482
+          7.7359256,
+          48.5904963
         ]
       },
       "id": "node/5700260465"
@@ -126577,6 +125904,7 @@
         "@id": "node/7201801498",
         "name": "MEA77",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "77284MEA",
         "telecom": "exchange",
@@ -126701,8 +126029,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7204551134",
-        "name": "SHM67",
+        "addr:city": "Schiltigheim",
+        "name": "NRA Schiltigheim",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "67447SHM",
         "telecom": "exchange",
@@ -126712,8 +126042,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.7483051,
-          48.6066306
+          7.7483486,
+          48.6065981
         ]
       },
       "id": "node/7204551134"
@@ -136336,24 +135666,6 @@
         ]
       },
       "id": "node/8168329433"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/8168329436",
-        "operator": "Orange",
-        "ref:FR:PTT": "38185MUT",
-        "telecom": "exchange",
-        "telecom:medium": "copper"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.7380363,
-          45.1883737
-        ]
-      },
-      "id": "node/8168329436"
     },
     {
       "type": "Feature",
@@ -152684,6 +151996,791 @@
         ]
       },
       "id": "node/10263461378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10264375634",
+        "name": "MID-SRTHD1",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "MID-SRTHD1",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4728262,
+          43.6109431
+        ]
+      },
+      "id": "node/10264375634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10264533100",
+        "name": "MID-SRTHD2",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "MID-SRTHD2",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4560792,
+          43.6027441
+        ]
+      },
+      "id": "node/10264533100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10264545384",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "NRA Grenoble",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "JR4/MUT/0ZR",
+        "ref:FR:PTT": "38185MUT",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7380325,
+          45.1883646
+        ]
+      },
+      "id": "node/10264545384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10264545385",
+        "name": "ALPS-SRTHD1",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "ALPS-SRTHD1",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7383273,
+          45.1882562
+        ]
+      },
+      "id": "node/10264545385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10264562860",
+        "name": "ALPS-SRTHD2",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "ALPS-SRTHD2",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7311484,
+          45.1841614
+        ]
+      },
+      "id": "node/10264562860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10264563395",
+        "name": "ALPN-SRTHD1",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "ALPN-SRTHD1",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1160707,
+          45.9084482
+        ]
+      },
+      "id": "node/10264563395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10264594619",
+        "name": "ALPN-SRTHD2",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "ALPN-SRTHD2",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1149642,
+          45.9135402
+        ]
+      },
+      "id": "node/10264594619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10264634823",
+        "name": "AQU-SRTHD1",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "AQU-SRTHD1",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5878175,
+          44.8386463
+        ]
+      },
+      "id": "node/10264634823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10264660086",
+        "name": "AQU-SRTHD2",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "AQU-SRTHD2",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5831924,
+          44.8406558
+        ]
+      },
+      "id": "node/10264660086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10264681189",
+        "name": "PRO-SRTHD1",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "PRO-SRTHD1",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37371,
+          43.316251
+        ]
+      },
+      "id": "node/10264681189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10264715235",
+        "name": "PRO-SRTHD2",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "PRO-SRTHD2",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3771212,
+          43.3030846
+        ]
+      },
+      "id": "node/10264715235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10264743300",
+        "addr:city": "Clermont-Ferrand",
+        "name": "NRA Clermont-Ferrand",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "owner": "Orange",
+        "ref:FR:PTT": "63113FLA",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1120533,
+          45.8153545
+        ]
+      },
+      "id": "node/10264743300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10264743302",
+        "name": "AUV-SRHD1",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "AUV-SRHD1",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1119041,
+          45.8152723
+        ]
+      },
+      "id": "node/10264743302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10264757936",
+        "addr:city": "Clermont-Ferrand",
+        "man_made": "street_cabinet",
+        "name": "NRA Clermont-Ferrand",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "owner": "Orange",
+        "ref:FR:PTT": "63113LAV",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0768438,
+          45.7841097
+        ]
+      },
+      "id": "node/10264757936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10264757937",
+        "name": "AUV-SRHD2",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "AUV-SRHD2",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0773049,
+          45.7842952
+        ]
+      },
+      "id": "node/10264757937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10264848379",
+        "name": "ALS-SRTHD1",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "ALS-SRTHD1",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7364321,
+          48.5906852
+        ]
+      },
+      "id": "node/10264848379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10264884121",
+        "name": "ALS-SRTHD2",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "ALS-SRTHD2",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7482562,
+          48.6066298
+        ]
+      },
+      "id": "node/10264884121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10265838169",
+        "name": "LOR-SRTHD1",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "LOR-SRTHD1",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1858427,
+          48.6739998
+        ]
+      },
+      "id": "node/10265838169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10265870866",
+        "name": "LOR-SRTHD2",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "LOR-SRTHD2",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1646169,
+          48.6810254
+        ]
+      },
+      "id": "node/10265870866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10266056731",
+        "NRA:capacity": "19000",
+        "addr:city": "Dijon",
+        "name": "NRA Dijon",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "owner": "Orange",
+        "ref:FR:PTT": "21617TAL",
+        "ref:Gigapop": "CK",
+        "ref:NRA:name": "Talant",
+        "ref:SRHD": "BO1-SRHD4-2",
+        "ref:SRTHD": "BOU-SRTHD1",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0154283,
+          47.322572
+        ]
+      },
+      "id": "node/10266056731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10266056733",
+        "name": "BOU-SRTHD1",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "BOU-SRTHD1",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0150531,
+          47.3225891
+        ]
+      },
+      "id": "node/10266056733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10266078452",
+        "name": "BOU-SRTHD2",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "BOU-SRTHD2",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0295035,
+          47.319242
+        ]
+      },
+      "id": "node/10266078452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10266088035",
+        "addr:city": "Anglet",
+        "man_made": "street_cabinet",
+        "name": "NRA Anglet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "owner": "Orange",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4952944,
+          43.4969338
+        ]
+      },
+      "id": "node/10266088035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10266088037",
+        "name": "PYR-SRTHD2",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "PYR-SRTHD2",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4952811,
+          43.4968116
+        ]
+      },
+      "id": "node/10266088037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10266122792",
+        "man_made": "street_cabinet",
+        "name": "NRA Bayonne",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "owner": "Orange",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4629573,
+          43.4921954
+        ]
+      },
+      "id": "node/10266122792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10266122793",
+        "name": "PYR-SRTHD1",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "PYR-SRTHD1",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4630275,
+          43.4921506
+        ]
+      },
+      "id": "node/10266122793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10266124051",
+        "name": "LAN-SRTHD1",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "LAN-SRTHD1",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8646145,
+          43.5984684
+        ]
+      },
+      "id": "node/10266124051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10266139751",
+        "man_made": "street_cabinet",
+        "name": "NRA Montpellier",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "owner": "Orange",
+        "ref": "CRO34",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.859117,
+          43.590837
+        ]
+      },
+      "id": "node/10266139751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10266139752",
+        "name": "LAN-SRTHD2",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "LAN-SRTHD2",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8589255,
+          43.5906993
+        ]
+      },
+      "id": "node/10266139752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10266176923",
+        "name": "ALPM-SRTHD1",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "ALPM-SRTHD1",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2602235,
+          43.7026318
+        ]
+      },
+      "id": "node/10266176923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10266200009",
+        "name": "ALPM-SRTHD2",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "ALPM-SRTHD2",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2562031,
+          43.717407
+        ]
+      },
+      "id": "node/10266200009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10266200010",
+        "addr:city": "Nice",
+        "man_made": "street_cabinet",
+        "name": "NRA Nice",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "owner": "Orange",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2563628,
+          43.7172381
+        ]
+      },
+      "id": "node/10266200010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10266217586",
+        "name": "VAR-SRTHD1",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "VAR-SRTHD1",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9503787,
+          43.120977
+        ]
+      },
+      "id": "node/10266217586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10266244086",
+        "addr:city": "Toulon",
+        "man_made": "street_cabinet",
+        "name": "NRA Toulon",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9161547,
+          43.1267608
+        ]
+      },
+      "id": "node/10266244086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10266244090",
+        "name": "VAR-SRTHD2",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "VAR-SRTHD2",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.915889,
+          43.1266489
+        ]
+      },
+      "id": "node/10266244090"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-12-03T22:01:10Z",
+  "timestamp": "2022-12-15T21:13:37Z",
   "features": [
     {
       "type": "Feature",
@@ -5619,6 +5619,7 @@
         "building:prefabricated": "yes",
         "name": "NRO de Montevrain",
         "operator": "Covage",
+        "operator:wikidata": "Q3001818",
         "owner": "Seine et Marne Numérique",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -8883,46 +8884,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/965448002",
-        "building": "yes",
-        "operator": "Sarthe Numérique",
-        "owner": "Sarthe Numérique",
-        "ref": "SHL_72096_COUL",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              0.0098112,
-              48.0173934
-            ],
-            [
-              0.0098799,
-              48.0173716
-            ],
-            [
-              0.0098943,
-              48.0173918
-            ],
-            [
-              0.0098255,
-              48.0174136
-            ],
-            [
-              0.0098112,
-              48.0173934
-            ]
-          ]
-        ]
-      },
-      "id": "way/965448002"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/970118591",
         "addr:city": "Saint-Bauzille-de-Putois",
         "addr:postcode": "34190",
@@ -8964,47 +8925,6 @@
         ]
       },
       "id": "way/970118591"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/972644690",
-        "building": "yes",
-        "operator": "Sarthe Numérique",
-        "owner": "Sarthe Numérique",
-        "ref": "SHL_72073_CHAU",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2021",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              0.0752343,
-              48.0248837
-            ],
-            [
-              0.0752111,
-              48.0249354
-            ],
-            [
-              0.0751787,
-              48.0249293
-            ],
-            [
-              0.0752022,
-              48.0248772
-            ],
-            [
-              0.0752343,
-              48.0248837
-            ]
-          ]
-        ]
-      },
-      "id": "way/972644690"
     },
     {
       "type": "Feature",
@@ -9749,6 +9669,7 @@
         "location": "indoor",
         "name": "NRO",
         "operator": "Covage",
+        "operator:wikidata": "Q3001818",
         "owner": "Syane",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -9991,51 +9912,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1099887541",
-        "addr:city": "Preuilly-sur-Claise",
-        "building": "yes",
-        "communication": "yes",
-        "note": "Pour le secteur de Preuilly, il s’agit de 3.800 prises : entreprises, administrations ou habitations.\nhttps://www.lanouvellerepublique.fr/indre-et-loire/commune/preuilly-sur-claise/dernier-raccordement-a-la-fibre",
-        "operator": "TDF",
-        "owner": "Val de Loire Fibre",
-        "ref": "48 eme NRO Preuilly-sur-Claise",
-        "source": "https://twitter.com/valdeloirefibre/status/1325720973933416448;https://www.lanouvellerepublique.fr/indre-et-loire/commune/preuilly-sur-claise/dernier-raccordement-a-la-fibre",
-        "start_date": "2020-11-05",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              0.9419554,
-              46.8591939
-            ],
-            [
-              0.9419055,
-              46.8591526
-            ],
-            [
-              0.9419314,
-              46.859138
-            ],
-            [
-              0.9419813,
-              46.8591792
-            ],
-            [
-              0.9419554,
-              46.8591939
-            ]
-          ]
-        ]
-      },
-      "id": "way/1099887541"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/276884854",
         "name": "NRO FREE BER34",
         "operator": "Free",
@@ -10096,7 +9972,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2023925049",
-        "name": "Orange",
+        "name": "4VA",
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "545474VA",
@@ -10106,8 +9982,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.1859829,
-          48.6741057
+          6.1857122,
+          48.6739395
         ]
       },
       "id": "node/2023925049"
@@ -11490,6 +11366,7 @@
         "@id": "node/7149244688",
         "name": "CAM44",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "44109CAM",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -11497,8 +11374,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.5644701,
-          47.2109268
+          -1.5644734,
+          47.2109438
         ]
       },
       "id": "node/7149244688"
@@ -12375,26 +12252,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7151312480",
-        "name": "AMS80",
-        "office": "telecommunication",
-        "operator": "Orange",
-        "ref:FR:Orange": "80021AMS",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2808754,
-          49.8772959
-        ]
-      },
-      "id": "node/7151312480"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/7151369275",
         "name": "ABB80",
         "operator": "Orange",
@@ -12538,6 +12395,7 @@
         "@id": "node/7151469275",
         "name": "MEA77",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "77284MEA",
         "telecom": "exchange",
@@ -12967,26 +12825,6 @@
         ]
       },
       "id": "node/7151863275"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/7151868293",
-        "name": "ACH86",
-        "operator": "Orange",
-        "ref:FR:Orange": "86194ACH",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.3304986,
-          46.5784561
-        ]
-      },
-      "id": "node/7151868293"
     },
     {
       "type": "Feature",
@@ -13474,7 +13312,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7153548475",
-        "name": "Orange",
+        "name": "4BE",
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "543954BE",
@@ -13484,8 +13322,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.1645447,
-          48.6810066
+          6.1646733,
+          48.680949
         ]
       },
       "id": "node/7153548475"
@@ -13771,6 +13609,7 @@
         "@id": "node/7153887175",
         "name": "SHM67",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "67447SHM",
         "telecom": "exchange",
@@ -13780,8 +13619,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.7482215,
-          48.6066373
+          7.7481508,
+          48.606642
         ]
       },
       "id": "node/7153887175"
@@ -14093,6 +13932,7 @@
         "@id": "node/7154493921",
         "name": "TCA83",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "83137TCA",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -14100,8 +13940,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.9158676,
-          43.1267304
+          5.9157165,
+          43.1267371
         ]
       },
       "id": "node/7154493921"
@@ -16239,24 +16079,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7712024347",
-        "operator": "Orange",
-        "ref:FR:Orange:NRO": "69388BAC",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8724365,
-          45.7375803
-        ]
-      },
-      "id": "node/7712024347"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/7712024348",
         "operator": "Orange",
         "ref:FR:Orange:NRO": "69384CXR",
@@ -16733,8 +16555,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.3930107,
-          49.1808996
+          -0.3930885,
+          49.1808347
         ]
       },
       "id": "node/7994635661"
@@ -17171,7 +16993,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8168329435",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange:NRO": "38185MUT",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -17179,8 +17003,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.7381329,
-          45.1882461
+          5.7380957,
+          45.188293
         ]
       },
       "id": "node/8168329435"
@@ -24945,7 +24769,8 @@
       "properties": {
         "@id": "node/8296147946",
         "name": "NRO",
-        "operator": "TDF Fibre",
+        "operator": "TDF",
+        "operator:wikidata": "Q1162908",
         "owner": "Anjou Fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -29690,6 +29515,7 @@
       "properties": {
         "@id": "node/9519009578",
         "operator": "Lumen",
+        "operator:wikidata": "Q5063092",
         "ref": "CLMMFRAA",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -30056,6 +29882,7 @@
       "properties": {
         "@id": "node/9520726973",
         "operator": "SFR",
+        "operator:wikidata": "Q218765",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -31366,10 +31193,10 @@
         "addr:city": "Ascoux",
         "addr:postcode": "45300",
         "addr:street": "Rue de la Montagne",
-        "colour": "white",
         "name": "NRO Ascoux",
         "operator": "Loiret Fibre",
         "source": "https://twitter.com/ggavet/status/1501868812160974849",
+        "start_date": "2021-07-28",
         "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -31392,7 +31219,9 @@
         "addr:postcode": "45230",
         "addr:street": "Route d'Adon",
         "name": "NRO La Bussiere",
+        "operator": "Loiret Fibre",
         "source": "https://twitter.com/ggavet/status/1468208000817156098;https://www.larep.fr/bussiere-45230/actualites/la-fibre-fait-son-arrivee-dans-le-territoire_14055574/",
+        "start_date": "2021-05-04",
         "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -31533,6 +31362,7 @@
         "name": "NRO Gidy",
         "operator": "Loiret Fibre",
         "source": "https://twitter.com/u4y0u/status/1518905172675735558",
+        "start_date": "2021-07-12",
         "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -32130,7 +31960,7 @@
       "properties": {
         "@id": "node/9907222957",
         "name": "NRO Brocas",
-        "operator": "Altitude Infrastructure THD",
+        "operator": "Altitude",
         "owner": "PIXL",
         "ref": "NRO 40-035",
         "telecom": "exchange",
@@ -33273,10 +33103,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/10202448537",
+        "addr:city": "Ferrières-en-Gâtinais",
         "colour": "yellow",
-        "man_made": "street_cabinet",
         "name": "NRO Ferrières-en-Gâtinais",
         "operator": "Loiret Fibre",
+        "start_date": "2020-10-30",
         "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -33295,10 +33126,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/10202598570",
-        "man_made": "street_cabinet",
+        "addr:city": "Cléry-Saint-André",
         "mimics": "wooden cabin",
         "name": "NRO Cléry-Saint-André",
         "operator": "Loiret Fibre",
+        "start_date": "2021-04-14",
         "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -33317,9 +33149,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/10202599353",
+        "addr:city": "Patay",
         "colour": "green",
-        "man_made": "street_cabinet",
         "name": "NRO Patay",
+        "operator": "Loiret Fibre",
+        "start_date": "2021-02-25",
         "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -33338,9 +33172,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/10202642606",
+        "addr:city": "Beaune-la-Rolande",
         "colour": "yellow",
-        "man_made": "street_cabinet",
+        "name": "NRO Beaune-la-Rolande",
         "operator": "Loiret Fibre",
+        "start_date": "2020-11-09",
         "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -33359,10 +33195,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/10202744775",
+        "addr:city": "Dordives",
         "colour": "green",
-        "man_made": "street_cabinet",
         "name": "NRO Dordives",
         "operator": "Loiret Fibre",
+        "start_date": "2021-01-15",
         "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -33384,6 +33221,7 @@
         "addr:city": "Bonny-sur-Loire",
         "name": "NRO Bonny-sur-Loire",
         "operator": "Loiret Fibre",
+        "start_date": "2021-06-01",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -33404,6 +33242,7 @@
         "colour": "green",
         "name": "NRO Chantecoq",
         "operator": "Loiret Fibre",
+        "start_date": "2020-12-17",
         "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -33426,6 +33265,7 @@
         "colour": "green",
         "name": "NRO Corbeilles",
         "operator": "Loiret Fibre",
+        "start_date": "2020-12-24",
         "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -34506,6 +34346,92 @@
         ]
       },
       "id": "node/10236323641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10236367795",
+        "addr:city": "Preuilly-sur-Claise",
+        "communication": "yes",
+        "man_made": "street_cabinet",
+        "mimics": "cottage",
+        "name": "NRO Preuilly-sur-Claise",
+        "note": "48 eme NRO Preuilly-sur-Claise\nPour le secteur de Preuilly, il s’agit de 3.800 prises : entreprises, administrations ou habitations.\nhttps://www.lanouvellerepublique.fr/indre-et-loire/commune/preuilly-sur-claise/dernier-raccordement-a-la-fibre",
+        "operator": "TDF",
+        "operator:wikidata": "Q1162908",
+        "owner": "Val de Loire Fibre",
+        "source": "https://twitter.com/valdeloirefibre/status/1325720973933416448;https://www.lanouvellerepublique.fr/indre-et-loire/commune/preuilly-sur-claise/dernier-raccordement-a-la-fibre",
+        "start_date": "2020-11-05",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9419225,
+          46.8591678
+        ]
+      },
+      "id": "node/10236367795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10247500411",
+        "operator": "Altitude",
+        "owner": "Pixl",
+        "ref:FR:ARCEP": "NRO 40-001",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0737927,
+          44.4844649
+        ]
+      },
+      "id": "node/10247500411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10249918454",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72073_CHAU",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.075201,
+          48.0249199
+        ]
+      },
+      "id": "node/10249918454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10249918461",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72096_COUL",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0098714,
+          48.017387
+        ]
+      },
+      "id": "node/10249918461"
     }
   ]
 }
