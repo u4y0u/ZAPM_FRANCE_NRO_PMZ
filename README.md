@@ -52,4 +52,4 @@ le ZIP complet https://github.com/u4y0u/ZAPM_FRANCE_NRO_PMZ/archive/refs/heads/m
 
 voir Licence\_ZAPM\_FRANCE.txt ( [https://github.com/u4y0u/ZAPM_FRANCE_NRO_PMZ/blob/master/Licence_ZAPM_FRANCE.txt](https://github.com/u4y0u/ZAPM_FRANCE_NRO_PMZ/blob/master/Licence_ZAPM_FRANCE.txt) )
 
-Contact via: [https://mastouille.fr/@u4y0u(https://mastouille.fr/@u4y0u)] ou [https://twitter.com/u4y0u](https://twitter.com/u4y0u)
+Contact via: [https://mastouille.fr/@u4y0u](https://mastouille.fr/@u4y0u) ou [https://twitter.com/u4y0u](https://twitter.com/u4y0u)
