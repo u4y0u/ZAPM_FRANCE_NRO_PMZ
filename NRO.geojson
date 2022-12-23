@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-12-15T21:13:37Z",
+  "timestamp": "2022-12-23T15:27:24Z",
   "features": [
     {
       "type": "Feature",
@@ -9912,6 +9912,50 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/1124016274",
+        "addr:street": "Chemin des Gaydons",
+        "building": "service",
+        "building:levels": "1",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:orientation": "along",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5129935,
+              46.3393292
+            ],
+            [
+              6.5130287,
+              46.3393051
+            ],
+            [
+              6.5130997,
+              46.3393546
+            ],
+            [
+              6.5130644,
+              46.3393787
+            ],
+            [
+              6.5129935,
+              46.3393292
+            ]
+          ]
+        ]
+      },
+      "id": "way/1124016274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/276884854",
         "name": "NRO FREE BER34",
         "operator": "Free",
@@ -13674,6 +13718,7 @@
         "@id": "node/7153978558",
         "name": "SAV67",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "67437SAV",
         "telecom": "exchange",
@@ -27303,6 +27348,7 @@
         "location": "indoor",
         "operator": "Sarthe Numérique",
         "owner": "Sarthe Numérique",
+        "ref": "SHL_72383_VOLN",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -28741,6 +28787,7 @@
         "@id": "node/9375632541",
         "name": "NRO Boiry-Sainte-Rictrude",
         "operator": "Axione",
+        "operator:wikidata": "Q97187730",
         "source": "https://www.lavoixdunord.fr/431717/article/2018-08-14/la-fibre-optique-reconnecte-les-espaces-ruraux",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -34432,6 +34479,149 @@
         ]
       },
       "id": "node/10249918461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10270255300",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72146_GUEC",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1267142,
+          47.8707928
+        ]
+      },
+      "id": "node/10270255300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10271718996",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72299_SMDO",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3359458,
+          47.8696538
+        ]
+      },
+      "id": "node/10271718996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10274252738",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72071_LUCE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4087636,
+          47.7010564
+        ]
+      },
+      "id": "node/10274252738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10276856205",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72158_LAVA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6521033,
+          48.0528883
+        ]
+      },
+      "id": "node/10276856205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10276873018",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72373_VIBR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7313637,
+          48.0646728
+        ]
+      },
+      "id": "node/10276873018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10279737740",
+        "colour": "yellow",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Berry Fibre Optique",
+        "ref:FR:ARCEP": "ADR_18097_GUER",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4350794,
+          47.1434925
+        ]
+      },
+      "id": "node/10279737740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10281244973",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72144_GREE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7956704,
+          48.1391348
+        ]
+      },
+      "id": "node/10281244973"
     }
   ]
 }
