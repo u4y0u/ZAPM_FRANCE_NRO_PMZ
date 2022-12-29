@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-12-23T15:27:24Z",
+  "timestamp": "2022-12-29T11:17:10Z",
   "features": [
     {
       "type": "Feature",
@@ -6826,7 +6826,9 @@
       "properties": {
         "@id": "way/886913473",
         "building": "service",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -12155,6 +12157,7 @@
         "@id": "node/7151236942",
         "name": "AVA89",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "89025AVA",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -13230,6 +13233,7 @@
         "@id": "node/7153370498",
         "name": "SCX25",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "25547SCX",
         "telecom": "exchange",
@@ -21630,8 +21634,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.7253309,
-          46.4276591
+          5.725237,
+          46.4270536
         ]
       },
       "id": "node/8222820212"
@@ -22564,6 +22568,7 @@
       "properties": {
         "@id": "node/8223092022",
         "operator": "Axione",
+        "operator:wikidata": "Q97187730",
         "owner": "THD 59-62",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -30439,6 +30444,7 @@
       "properties": {
         "@id": "node/9520794922",
         "operator": "Lumen",
+        "operator:wikidata": "Q5063092",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -31511,7 +31517,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9755039980",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "HASF",
         "ref": "N070RON",
         "source": "https://twitter.com/Hades73440/status/1527309525879238656",
@@ -34622,6 +34630,90 @@
         ]
       },
       "id": "node/10281244973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10292186180",
+        "addr:city": "La Chapelle Grésignac",
+        "name": "NRO de la Chapelle Grésignac",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24109_TENE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3257603,
+          45.3940617
+        ]
+      },
+      "id": "node/10292186180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10292187353",
+        "addr:city": "Saint Aulaye Puymangou",
+        "name": "NRO de St Aulaye",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24376_TINO",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1324614,
+          45.2034305
+        ]
+      },
+      "id": "node/10292187353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10292808997",
+        "addr:city": "Milhac de Nontron",
+        "name": "NRO de Milhac de Nontron",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24271_TYNU",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7779241,
+          45.4663996
+        ]
+      },
+      "id": "node/10292808997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10292808998",
+        "addr:city": "Champagnac de Bel Air",
+        "name": "NRO de Champagnac de Bel Air",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24096_JIRA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6945873,
+          45.391211
+        ]
+      },
+      "id": "node/10292808998"
     }
   ]
 }

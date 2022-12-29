@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-12-23T15:34:34Z",
+  "timestamp": "2022-12-29T11:20:07Z",
   "features": [
     {
       "type": "Feature",
@@ -69843,6 +69843,7 @@
         "building": "service",
         "name": "Centrale téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
         "telecom": "exchange",
@@ -80455,6 +80456,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -115180,7 +115182,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.5101129,
+          6.5100958,
           47.8330517
         ]
       },
@@ -115213,7 +115215,9 @@
         "@id": "node/6289848384",
         "description": "NRA MeD Fougerolles",
         "man_made": "street_cabinet",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "70245FU2",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -115264,8 +115268,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.9767985,
-          47.8898774
+          5.9767732,
+          47.8898994
         ]
       },
       "id": "node/6289848886"
@@ -118083,8 +118087,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.7036906,
-          47.4188213
+          5.7037189,
+          47.4188062
         ]
       },
       "id": "node/6289849220"
@@ -126570,6 +126574,7 @@
         "@id": "node/7209298566",
         "name": "SCX25",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "25547SCX",
         "telecom": "exchange",
@@ -153173,6 +153178,79 @@
         ]
       },
       "id": "node/10282269080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10287400904",
+        "man_made": "street_cabinet",
+        "name": "NRA Lion-en-Sullias",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/5LS",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4898109,
+          47.7265339
+        ]
+      },
+      "id": "node/10287400904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10291214336",
+        "addr:city": "Tournon-Saint-Martin",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "NRA Tournon-Saint-Martin",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/6TN",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.95665,
+          46.7058696
+        ]
+      },
+      "id": "node/10291214336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10291459235",
+        "addr:city": "Oulches",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "NRA Oulches",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/6HL",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.29474,
+          46.6149737
+        ]
+      },
+      "id": "node/10291459235"
     }
   ]
 }
