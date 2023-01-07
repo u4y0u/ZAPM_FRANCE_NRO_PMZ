@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-12-29T11:20:07Z",
+  "timestamp": "2023-01-07T10:00:57Z",
   "features": [
     {
       "type": "Feature",
@@ -5937,11 +5937,11 @@
         "building": "service",
         "name": "Central téléphonique",
         "operator": "Orange",
-        "ref:FR:Orange": "10387CRO",
         "ref:FR:PTT": "10387CRO",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Polygon",
@@ -24605,28 +24605,24 @@
         "coordinates": [
           [
             [
-              3.8216822,
-              43.6163603
+              3.8216912,
+              43.6163509
             ],
             [
-              3.8216816,
-              43.6163629
+              3.8214208,
+              43.6163192
             ],
             [
-              3.8214112,
-              43.6163311
+              3.8215377,
+              43.6157973
             ],
             [
-              3.821528,
-              43.6158093
+              3.8218081,
+              43.6158291
             ],
             [
-              3.8217984,
-              43.615841
-            ],
-            [
-              3.8216822,
-              43.6163603
+              3.8216912,
+              43.6163509
             ]
           ]
         ]
@@ -40040,6 +40036,7 @@
         "name": "Quimper Miossec",
         "name:br": "Kemper Mioseg",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
         "source:name:br": "proper translation",
@@ -44886,6 +44883,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
         "telecom": "exchange",
@@ -49113,6 +49111,7 @@
         "man_made": "telephone_office",
         "name": "Central Téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
         "telecom": "exchange",
@@ -85278,48 +85277,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/239254880",
-        "building": "service",
-        "man_made": "telephone_office",
-        "name": "Central téléphonique",
-        "operator": "Orange",
-        "ref:FR:PTT": "34199PEZ",
-        "telecom": "exchange",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              3.4209695,
-              43.4561489
-            ],
-            [
-              3.4211098,
-              43.4563241
-            ],
-            [
-              3.4207617,
-              43.456471
-            ],
-            [
-              3.4206214,
-              43.4562958
-            ],
-            [
-              3.4209695,
-              43.4561489
-            ]
-          ]
-        ]
-      },
-      "id": "way/239254880"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/239752664",
         "building": "service",
         "man_made": "telephone_office",
@@ -87459,7 +87416,9 @@
         "@id": "way/246713833",
         "building": "service",
         "man_made": "telephone_office",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "62284ECO",
         "source": "ANFR Opendata",
@@ -92849,7 +92808,7 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT": "29020BRI",
-        "source": "cadastre-dgi-fr source : PaysDeBrest - 20100331",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2022;cadastre-dgi-fr source : PaysDeBrest - 20100331",
         "telecom": "exchange",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -92859,12 +92818,8 @@
         "coordinates": [
           [
             [
-              -4.0025244,
-              48.1010735
-            ],
-            [
               -4.0025164,
-              48.1010124
+              48.1010125
             ],
             [
               -4.0023811,
@@ -92872,15 +92827,19 @@
             ],
             [
               -4.0023776,
-              48.1010219
+              48.1010218
             ],
             [
               -4.0023869,
               48.1010843
             ],
             [
-              -4.0025244,
+              -4.0025245,
               48.1010735
+            ],
+            [
+              -4.0025164,
+              48.1010125
             ]
           ]
         ]
@@ -100320,6 +100279,7 @@
         "building": "service",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "08311MOU",
         "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
         "telecom": "exchange",
@@ -101471,6 +101431,7 @@
         "building": "service",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -108151,6 +108112,7 @@
         "name": "Central téléphonique",
         "name:br": "Kreizenn bellgomz",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source:name:br": "ofis publik ar brezhoneg",
         "telecom": "exchange",
@@ -117003,7 +116965,9 @@
         "@id": "node/6289848969",
         "description": "NRA MeD Arpenans",
         "man_made": "street_cabinet",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "70029APS",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -127209,6 +127173,7 @@
         "@id": "node/7228905755",
         "name": "IST13",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "13047IST",
         "telecom": "exchange",
@@ -137938,24 +137903,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8769366892",
-        "operator": "Orange",
-        "ref:FR:PTT:NRA": "31192FQX",
-        "telecom": "exchange",
-        "telecom:medium": "copper"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.6167748,
-          43.5066158
-        ]
-      },
-      "id": "node/8769366892"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8822600106",
         "note": "Installations au sous-sol",
         "operator": "Orange",
@@ -142445,6 +142392,7 @@
         "man_made": "street_cabinet",
         "name": "NRA MeD",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "39336IML",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -150528,6 +150476,26 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/10207525776",
+        "addr:city": "Sury-en-Vaux",
+        "name": "NRA Sury-en-Vaux",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8031639,
+          47.3708329
+        ]
+      },
+      "id": "node/10207525776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/10208942629",
         "addr:city": "Saint-Symphorien",
         "colour": "white",
@@ -153251,6 +153219,51 @@
         ]
       },
       "id": "node/10291459235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10300584516",
+        "addr:city": "Jussy-le-Chaudrier",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "NRA Jussy-le-Chaudrier",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/JC1",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9333474,
+          47.1285202
+        ]
+      },
+      "id": "node/10300584516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10304144150",
+        "addr:city": "Sury-és-Bois",
+        "name": "NRA Sury-és-Bois",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7010797,
+          47.4652665
+        ]
+      },
+      "id": "node/10304144150"
     }
   ]
 }

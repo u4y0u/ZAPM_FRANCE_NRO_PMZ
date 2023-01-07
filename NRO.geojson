@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-12-29T11:17:10Z",
+  "timestamp": "2023-01-07T09:56:53Z",
   "features": [
     {
       "type": "Feature",
@@ -9958,6 +9958,43 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/1125639197",
+        "building": "yes",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.6046493,
+              44.7318617
+            ],
+            [
+              0.6045868,
+              44.7318075
+            ],
+            [
+              0.6046201,
+              44.7317881
+            ],
+            [
+              0.6046826,
+              44.7318423
+            ],
+            [
+              0.6046493,
+              44.7318617
+            ]
+          ]
+        ]
+      },
+      "id": "way/1125639197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/276884854",
         "name": "NRO FREE BER34",
         "operator": "Free",
@@ -14554,6 +14591,7 @@
         "@id": "node/7156088990",
         "name": "IST13",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "13047IST",
         "telecom": "exchange",
@@ -27349,6 +27387,24 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/8769366892",
+        "operator": "Orange",
+        "ref:FR:PTT:NRA": "31192FQX",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6167748,
+          43.5066158
+        ]
+      },
+      "id": "node/8769366892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/8807520871",
         "location": "indoor",
         "operator": "Sarthe Numérique",
@@ -28813,6 +28869,7 @@
         "@id": "node/9375641213",
         "name": "NRO Blécourt",
         "operator": "Axione",
+        "operator:wikidata": "Q97187730",
         "source": "https://www.lavoixdunord.fr/310576/article/2018-02-03/le-cambresis-franchit-une-nouvelle-etape-dans-le-deploiement-de-la-fibre-optique",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -30921,10 +30978,13 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9551839435",
+        "addr:city": "Nontron",
         "colour": "white",
         "image": "https://pbs.twimg.com/media/FM3g8W-XwAIlHok?format=jpg&name=medium",
         "name": "NRO de Nontron",
-        "note": "Emplacement exact à valider",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24311_FEDE",
         "source": "https://twitter.com/PerigordNum/status/1499101584306982913",
         "start_date": "2022-03-02",
         "telecom": "exchange",
@@ -34714,6 +34774,678 @@
         ]
       },
       "id": "node/10292808998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10293334487",
+        "addr:city": "Mussidan",
+        "name": "NRO de Mussidan",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24299_CEMU",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3628272,
+          45.0344489
+        ]
+      },
+      "id": "node/10293334487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10293390469",
+        "addr:city": "Issigeac",
+        "name": "NRO de Issigeac",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24212_CERO",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6046355,
+          44.7318285
+        ]
+      },
+      "id": "node/10293390469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10293390474",
+        "addr:city": "Beaumont-du-Périgord",
+        "name": "NRO de Beaumont-du-Périgord",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24028_DOFO",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7663337,
+          44.7642275
+        ]
+      },
+      "id": "node/10293390474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10293390479",
+        "addr:city": "Le Buisson de Cadouin",
+        "name": "NRO du Buisson de Cadouin",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24068_DEFI",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9009945,
+          44.8488925
+        ]
+      },
+      "id": "node/10293390479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10293390484",
+        "addr:city": "Lalinde",
+        "name": "NRO de Lalinde",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24223_TENO",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7422488,
+          44.8400998
+        ]
+      },
+      "id": "node/10293390484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10293413631",
+        "addr:city": "Douville",
+        "name": "NRO de Douville",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24155_CEZE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5943241,
+          44.987427
+        ]
+      },
+      "id": "node/10293413631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10293429820",
+        "addr:city": "Saint-Léon-sur-L'Isle",
+        "name": "NRO de Saint-Léon-sur-L'Isle",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24442_CEZI",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5068521,
+          45.112557
+        ]
+      },
+      "id": "node/10293429820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10293446607",
+        "addr:city": "Mareuil en Périgord",
+        "name": "NRO de Mareuil en Périgord",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24253_TUNO",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4490668,
+          45.4494097
+        ]
+      },
+      "id": "node/10293446607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10295595550",
+        "addr:city": "Sigoulès",
+        "name": "NRO de Sigoulès",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24534_CERE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4089222,
+          44.7567409
+        ]
+      },
+      "id": "node/10295595550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10295595555",
+        "addr:city": "Gardonne",
+        "name": "NRO de Gardonne",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24194_CERA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.33161,
+          44.8348418
+        ]
+      },
+      "id": "node/10295595555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10295595560",
+        "addr:city": "Port-Sainte-Foy-et-Ponchapt",
+        "name": "NRO de Port-Sainte-Foy-et-Ponchapt",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24335_CEMO",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.205717,
+          44.8395587
+        ]
+      },
+      "id": "node/10295595560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10295595569",
+        "addr:city": "Montcaret",
+        "name": "NRO de Montcaret",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24289_CEMI",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0634484,
+          44.8548285
+        ]
+      },
+      "id": "node/10295595569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10295595574",
+        "addr:city": "Villefranche de Lonchat",
+        "name": "NRO de Villefranche de Lonchat",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24584_CEMA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0639798,
+          44.9462061
+        ]
+      },
+      "id": "node/10295595574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10295741234",
+        "addr:city": "Le Bugue",
+        "name": "NRO du Bugue",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24067_FERA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9251121,
+          44.9228909
+        ]
+      },
+      "id": "node/10295741234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10295741239",
+        "addr:city": "Daglan",
+        "name": "NRO de Daglan",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24150_CETE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1925065,
+          44.7512849
+        ]
+      },
+      "id": "node/10295741239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10295741244",
+        "addr:city": "Carlux",
+        "name": "NRO de Carlux",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24081_GERI",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3543354,
+          44.8867436
+        ]
+      },
+      "id": "node/10295741244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10295741249",
+        "addr:city": "Badefols d'Ans",
+        "name": "NRO de Badefols d'Ans",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24021_DIFO",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2031536,
+          45.2242984
+        ]
+      },
+      "id": "node/10295741249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10295741254",
+        "addr:city": "Piégut-Pluviers",
+        "name": "NRO de Piégut-Pluviers",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24328_FEDI",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6879445,
+          45.6245561
+        ]
+      },
+      "id": "node/10295741254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10295741259",
+        "addr:city": "Mialet",
+        "name": "NRO de Mialet",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24269_CEZU",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9063645,
+          45.5508289
+        ]
+      },
+      "id": "node/10295741259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10295741264",
+        "addr:city": "Saint-Paul-la-Roche",
+        "name": "NRO de Saint-Paul-la-Roche",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24481_MONU",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0040379,
+          45.4753266
+        ]
+      },
+      "id": "node/10295741264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10295741269",
+        "addr:city": "Lanouaille",
+        "name": "NRO de Lanouaille",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24227_TONO",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1406224,
+          45.3928462
+        ]
+      },
+      "id": "node/10295741269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10295741274",
+        "addr:city": "Savignac-Lédrier",
+        "name": "NRO de Savignac-Lédrier",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24526_CEZA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2098887,
+          45.3966044
+        ]
+      },
+      "id": "node/10295741274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10308079073",
+        "addr:city": "Javerlhac",
+        "name": "NRO de Javerlhac",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24214_FEDA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5640971,
+          45.5679865
+        ]
+      },
+      "id": "node/10308079073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10308079078",
+        "addr:city": "Eymet",
+        "name": "NRO de Eymet",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24167_CERI",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4064995,
+          44.6720143
+        ]
+      },
+      "id": "node/10308079078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10308079083",
+        "addr:city": "Vergt",
+        "name": "NRO de Vergt",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24571_CEZO",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.717744,
+          45.030614
+        ]
+      },
+      "id": "node/10308079083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10308079088",
+        "addr:city": "Sainte-Foy-de-Longas",
+        "name": "NRO de Sainte-Foy-de-Longas",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24362_TANE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7517013,
+          44.926221
+        ]
+      },
+      "id": "node/10308079088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10308079093",
+        "addr:city": "Mauzens-et-Miremont",
+        "name": "NRO de Mauzens-et-Miremont",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24356_TANA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9435042,
+          44.9919646
+        ]
+      },
+      "id": "node/10308079093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10308079098",
+        "addr:city": "Pays-de-Belvès",
+        "name": "NRO de Pays-de-Belvès",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24035_FERI",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0026743,
+          44.7816853
+        ]
+      },
+      "id": "node/10308079098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10308079103",
+        "addr:city": "Villefranche-du-Périgord",
+        "name": "NRO de Villefranche-du-Périgord",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24585_CESI",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0785556,
+          44.6321959
+        ]
+      },
+      "id": "node/10308079103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10308079108",
+        "addr:city": "Salignac-Eyvigues",
+        "name": "NRO de Salignac-Eyvigues",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24516_CETO",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3204259,
+          44.9727763
+        ]
+      },
+      "id": "node/10308079108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10308106213",
+        "addr:city": "Monpazier",
+        "name": "NRO de Monpazier",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24257_CERU",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8872212,
+          44.6880945
+        ]
+      },
+      "id": "node/10308106213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10308307543",
+        "addr:city": "Ginestet",
+        "name": "NRO de Ginestet",
+        "operator": "NATHD",
+        "owner": "Périgord Numérique",
+        "ref": "NA_24197_CETI",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4303401,
+          44.9115179
+        ]
+      },
+      "id": "node/10308307543"
     }
   ]
 }
