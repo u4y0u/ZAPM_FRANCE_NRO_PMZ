@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-01-07T09:58:51Z",
+  "timestamp": "2023-01-11T10:29:27Z",
   "features": [
     {
       "type": "Feature",
@@ -61815,6 +61815,28 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/10098128658",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/MA1/LEO",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3804498,
+          47.8318629
+        ]
+      },
+      "id": "node/10098128658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/10098150046",
         "colour": "grey",
         "man_made": "street_cabinet",
@@ -63135,7 +63157,7 @@
       "properties": {
         "@id": "node/10147778244",
         "man_made": "street_cabinet",
-        "name": "BD STRASBOURG",
+        "name": "Bd Strasbourg",
         "operator": "Orange",
         "owner": "Orange",
         "ref": "B04",
@@ -63159,7 +63181,7 @@
       "properties": {
         "@id": "node/10147778245",
         "man_made": "street_cabinet",
-        "name": "CAR LIBERATION",
+        "name": "Car Libération",
         "operator": "Orange",
         "owner": "Orange",
         "ref": "B47",
@@ -63183,7 +63205,7 @@
       "properties": {
         "@id": "node/10147778246",
         "man_made": "street_cabinet",
-        "name": "BD STRASBOURG",
+        "name": "Bd Strasbourg",
         "operator": "Orange",
         "owner": "Orange",
         "ref": "B44",
@@ -63207,7 +63229,7 @@
       "properties": {
         "@id": "node/10147778247",
         "man_made": "street_cabinet",
-        "name": "SQ QUATRE CHENES",
+        "name": "Sq Quatre Chênes",
         "operator": "Orange",
         "owner": "Orange",
         "ref": "B51",
@@ -63231,7 +63253,7 @@
       "properties": {
         "@id": "node/10147870619",
         "man_made": "street_cabinet",
-        "name": "BD STRASBOURG",
+        "name": "Bd Strasbourg",
         "operator": "Orange",
         "owner": "Orange",
         "ref": "B23",
@@ -63255,7 +63277,7 @@
       "properties": {
         "@id": "node/10147870678",
         "man_made": "street_cabinet",
-        "name": "GDER PETIT ST JEAN",
+        "name": "GDER Petit St Jean",
         "operator": "Orange",
         "owner": "Orange",
         "ref": "C50",
@@ -67675,6 +67697,140 @@
         ]
       },
       "id": "node/10304057503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10316479616",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "mapillary": "1280874112471807",
+        "operator": "Orange",
+        "ref:FR:Orange": "QVR/NCB/B08",
+        "ref:FR:PTT": "B08",
+        "ref:FR:PTT:NRA": "NCB",
+        "source": "survey",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4671023,
+          46.3230109
+        ]
+      },
+      "id": "node/10316479616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10538029822",
+        "man_made": "street_cabinet",
+        "note": "NRA MeD (Montée en Débit)",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.065524,
+          48.6711596
+        ]
+      },
+      "id": "node/10538029822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10538792230",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/M1V/MAV",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.363839,
+          47.7429331
+        ]
+      },
+      "id": "node/10538792230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10538821838",
+        "colour": "white",
+        "location": "pole",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/MA1/PLE",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4277496,
+          47.8135329
+        ]
+      },
+      "id": "node/10538821838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10538825555",
+        "colour": "white",
+        "location": "pole",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/JO2/VIL",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4929447,
+          47.8015144
+        ]
+      },
+      "id": "node/10538825555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10538853440",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/B5A/003",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6621119,
+          47.8404107
+        ]
+      },
+      "id": "node/10538853440"
     }
   ]
 }

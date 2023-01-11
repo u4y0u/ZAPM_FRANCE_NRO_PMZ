@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-01-07T10:00:57Z",
+  "timestamp": "2023-01-11T10:30:33Z",
   "features": [
     {
       "type": "Feature",
@@ -54165,6 +54165,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
         "telecom": "exchange",
@@ -56158,6 +56159,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
         "telecom": "exchange",
@@ -81411,6 +81413,7 @@
         "man_made": "telephone_office",
         "name": "Central Téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
         "telecom": "exchange",
@@ -121542,8 +121545,9 @@
       "properties": {
         "@id": "node/6761705708",
         "building": "service",
-        "name": "Cravant",
+        "name": "NRA Cravant",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "CVT45",
         "ref:FR:PTT:NRA": "45116CVT",
@@ -125961,6 +125965,7 @@
         "@id": "node/7198725272",
         "name": "DOU59",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "59178DOU",
         "telecom": "exchange",
@@ -153264,6 +153269,55 @@
         ]
       },
       "id": "node/10304144150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10538792229",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "NRA Maves",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/M1V",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.363828,
+          47.7429487
+        ]
+      },
+      "id": "node/10538792229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10538830878",
+        "addr:city": "Le Bardon",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "NRA Le Bardon",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/B5A",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6621883,
+          47.8403644
+        ]
+      },
+      "id": "node/10538830878"
     }
   ]
 }
