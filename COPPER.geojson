@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-01-11T10:29:27Z",
+  "timestamp": "2023-01-13T20:18:34Z",
   "features": [
     {
       "type": "Feature",
@@ -47294,7 +47294,7 @@
         "colour": "white",
         "man_made": "street_cabinet",
         "operator": "Orange",
-        "ref:FR:PTT": "NC",
+        "ref:FR:Orange": "MFT/CTL/050",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
@@ -67831,6 +67831,50 @@
         ]
       },
       "id": "node/10538853440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10539258907",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "MFT/MOZ/025",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7335605,
+          46.4855548
+        ]
+      },
+      "id": "node/10539258907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10539691951",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "MFT/5TP",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6982333,
+          46.4526338
+        ]
+      },
+      "id": "node/10539691951"
     }
   ]
 }

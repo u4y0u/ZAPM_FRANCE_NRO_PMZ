@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-01-11T10:30:33Z",
+  "timestamp": "2023-01-13T20:20:39Z",
   "features": [
     {
       "type": "Feature",
@@ -20679,7 +20679,9 @@
       "properties": {
         "@id": "way/72340658",
         "building": "service",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "29184PAN",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
@@ -45244,46 +45246,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/109481707",
-        "building": "service",
-        "name": "Central téléphonique",
-        "operator": "Orange",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
-        "telecom": "exchange",
-        "telecom:medium": "copper"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -1.620534,
-              46.464297
-            ],
-            [
-              -1.620566,
-              46.464229
-            ],
-            [
-              -1.62048,
-              46.46421
-            ],
-            [
-              -1.620448,
-              46.464277
-            ],
-            [
-              -1.620534,
-              46.464297
-            ]
-          ]
-        ]
-      },
-      "id": "way/109481707"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/109517091",
         "building": "service",
         "man_made": "telephone_office",
@@ -48784,6 +48746,7 @@
         "building": "service",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
         "telecom": "exchange",
@@ -91579,6 +91542,7 @@
         "building": "service",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2014",
         "telecom": "exchange",
@@ -98298,6 +98262,7 @@
         "building": "service",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2016",
         "telecom": "exchange",
@@ -119152,7 +119117,9 @@
         "@id": "node/6289849273",
         "description": "NRA MeD Villars sous Dampjoux",
         "man_made": "street_cabinet",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "copper"
@@ -142620,6 +142587,7 @@
         "man_made": "street_cabinet",
         "name": "NRA MeD",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "390734AI",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -153318,6 +153286,49 @@
         ]
       },
       "id": "node/10538830878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10539770258",
+        "man_made": "street_cabinet",
+        "name": "NRA",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "MFT/TAL/000",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6204797,
+          46.4642418
+        ]
+      },
+      "id": "node/10539770258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10539802539",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6205724,
+          46.4643152
+        ]
+      },
+      "id": "node/10539802539"
     }
   ]
 }

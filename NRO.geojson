@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-01-07T09:56:53Z",
+  "timestamp": "2023-01-13T20:15:24Z",
   "features": [
     {
       "type": "Feature",
@@ -6169,24 +6169,24 @@
         "coordinates": [
           [
             [
-              2.0561208,
-              48.7046477
+              2.0561901,
+              48.7047041
             ],
             [
-              2.0561107,
-              48.704628
+              2.05618,
+              48.7046844
             ],
             [
-              2.0562368,
-              48.7045999
+              2.0563061,
+              48.7046563
             ],
             [
-              2.0562449,
-              48.7046231
+              2.0563142,
+              48.7046795
             ],
             [
-              2.0561208,
-              48.7046477
+              2.0561901,
+              48.7047041
             ]
           ]
         ]
@@ -10133,6 +10133,27 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/5714048325",
+        "man_made": "street_cabinet",
+        "operator": "Dorsal",
+        "ref": "NRA/3PD",
+        "ref:FR:Orange:NRO": "871133PD",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3299975,
+          45.8754303
+        ]
+      },
+      "id": "node/5714048325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/5793921897",
         "name": "Brest Centre",
         "operator": "Orange",
@@ -11762,6 +11783,7 @@
         "@id": "node/7150640631",
         "name": "DOU59",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "59178DOU",
         "telecom": "exchange",
@@ -15016,6 +15038,27 @@
         ]
       },
       "id": "node/7235896736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7358492125",
+        "man_made": "street_cabinet",
+        "operator": "Dorsal",
+        "ref": "NRA/RR3",
+        "ref:FR:Orange:NRO": "87125RR3",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3206875,
+          45.8927842
+        ]
+      },
+      "id": "node/7358492125"
     },
     {
       "type": "Feature",
@@ -35446,6 +35489,27 @@
         ]
       },
       "id": "node/10308307543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10539284751",
+        "addr:city": "Talmont-Saint-Hilaire",
+        "colour": "green",
+        "name": "NRO Talmont-Saint-Hilaire",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6719227,
+          46.4444745
+        ]
+      },
+      "id": "node/10539284751"
     }
   ]
 }
