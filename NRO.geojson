@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-01-13T20:15:24Z",
+  "timestamp": "2023-01-20T19:41:54Z",
   "features": [
     {
       "type": "Feature",
@@ -5360,6 +5360,45 @@
         ]
       },
       "id": "way/711876914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/718191841",
+        "building": "service",
+        "operator": "Isère fibre",
+        "owner": "Cosneil départemental de l'Isère",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.5894845,
+              45.1287046
+            ],
+            [
+              5.5894785,
+              45.128657
+            ],
+            [
+              5.5896004,
+              45.1286495
+            ],
+            [
+              5.5896061,
+              45.1286971
+            ],
+            [
+              5.5894845,
+              45.1287046
+            ]
+          ]
+        ]
+      },
+      "id": "way/718191841"
     },
     {
       "type": "Feature",
@@ -16990,7 +17029,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8065179285",
-        "operator": "orange",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "chambre FT PA",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -30735,6 +30776,7 @@
       "properties": {
         "@id": "node/9522351353",
         "operator": "Lumen",
+        "operator:wikidata": "Q5063092",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },

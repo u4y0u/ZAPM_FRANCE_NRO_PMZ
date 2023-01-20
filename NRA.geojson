@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-01-13T20:20:39Z",
+  "timestamp": "2023-01-20T19:46:54Z",
   "features": [
     {
       "type": "Feature",
@@ -5686,11 +5686,11 @@
       "type": "Feature",
       "properties": {
         "@id": "way/60752339",
-        "addr:city": "Saint-Gély-du-Fesc",
-        "addr:country": "FR",
-        "addr:housenumber": "154",
-        "addr:postcode": "34980",
         "building": "service",
+        "contact:city": "Saint-Gély-du-Fesc",
+        "contact:housenumber": "154",
+        "contact:postcode": "34980",
+        "contact:street": "Rue du Bosc de la Plaine",
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT": "34255AIG",
@@ -16839,7 +16839,9 @@
         "@id": "way/69595910",
         "building": "service",
         "description": "NRA_ORCIERES",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "05096ORC",
         "source": "PACA THD",
@@ -26835,6 +26837,10 @@
             [
               2.3495881,
               48.8245369
+            ],
+            [
+              2.3494938,
+              48.8246206
             ],
             [
               2.3494065,
@@ -44612,6 +44618,7 @@
         "building": "service",
         "name": "central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "73248JEA",
         "telecom": "exchange",
         "telecom:medium": "copper"
@@ -54797,24 +54804,24 @@
         "coordinates": [
           [
             [
-              0.0031604,
-              45.6680411
+              0.0031121,
+              45.6680561
             ],
             [
-              0.0032995,
-              45.6680349
+              0.0032512,
+              45.6680499
             ],
             [
-              0.0033056,
-              45.6681019
+              0.0032573,
+              45.6681169
             ],
             [
-              0.0031665,
-              45.6681081
+              0.0031182,
+              45.6681231
             ],
             [
-              0.0031604,
-              45.6680411
+              0.0031121,
+              45.6680561
             ]
           ]
         ]
@@ -56538,6 +56545,7 @@
         "name": "Central téléphonique",
         "name:br": "Kreizenn Bellgomz",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref": "CQF44",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
@@ -143658,6 +143666,7 @@
         "man_made": "street_cabinet",
         "name": "NRA MeD",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "39289EEC",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -143680,6 +143689,7 @@
         "man_made": "street_cabinet",
         "name": "NRA MeD",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "392902LN",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -153329,6 +153339,78 @@
         ]
       },
       "id": "node/10539802539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10570978097",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "NRA Poilly-Lez-Gien",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/5PZ",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6050296,
+          47.6557257
+        ]
+      },
+      "id": "node/10570978097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10570979951",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "NRA Poilly-Lez-Gien",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/5PG",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6007514,
+          47.673535
+        ]
+      },
+      "id": "node/10570979951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10571126449",
+        "colour": "white",
+        "man_made": "street_cabinet",
+        "name": "NRA Saint-Firmin-sur-Loire",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "NJR/5FN",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7318988,
+          47.6268326
+        ]
+      },
+      "id": "node/10571126449"
     }
   ]
 }
