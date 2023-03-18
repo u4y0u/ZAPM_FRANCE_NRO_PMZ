@@ -2,8 +2,152 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-01-20T19:41:54Z",
+  "timestamp": "2023-03-18T06:50:24Z",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/47401448",
+        "building": "service",
+        "building:levels": "6",
+        "man_made": "telephone_office",
+        "name": "Central téléphonique",
+        "operator": "Orange",
+        "owner": "Orange",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.0288357,
+              47.3190281
+            ],
+            [
+              5.0288249,
+              47.319008
+            ],
+            [
+              5.0288347,
+              47.3190056
+            ],
+            [
+              5.0287582,
+              47.3188628
+            ],
+            [
+              5.0287469,
+              47.3188656
+            ],
+            [
+              5.0287213,
+              47.318818
+            ],
+            [
+              5.0287472,
+              47.3188117
+            ],
+            [
+              5.0287507,
+              47.3188183
+            ],
+            [
+              5.0288483,
+              47.3187943
+            ],
+            [
+              5.0288448,
+              47.3187877
+            ],
+            [
+              5.0289105,
+              47.3187715
+            ],
+            [
+              5.0289148,
+              47.3187796
+            ],
+            [
+              5.0295379,
+              47.3186261
+            ],
+            [
+              5.0295344,
+              47.3186195
+            ],
+            [
+              5.0296175,
+              47.3185991
+            ],
+            [
+              5.0296208,
+              47.3186052
+            ],
+            [
+              5.0296284,
+              47.3186033
+            ],
+            [
+              5.0296806,
+              47.3187008
+            ],
+            [
+              5.0297308,
+              47.3187944
+            ],
+            [
+              5.0297223,
+              47.3187965
+            ],
+            [
+              5.029726,
+              47.3188035
+            ],
+            [
+              5.0297124,
+              47.3188068
+            ],
+            [
+              5.0297275,
+              47.318835
+            ],
+            [
+              5.0296225,
+              47.3188609
+            ],
+            [
+              5.0296095,
+              47.3188366
+            ],
+            [
+              5.0296171,
+              47.3188347
+            ],
+            [
+              5.0296131,
+              47.3188272
+            ],
+            [
+              5.0290186,
+              47.3189737
+            ],
+            [
+              5.029023,
+              47.3189819
+            ],
+            [
+              5.0288357,
+              47.3190281
+            ]
+          ]
+        ]
+      },
+      "id": "way/47401448"
+    },
     {
       "type": "Feature",
       "properties": {
@@ -143,6 +287,7 @@
         "building": "service",
         "name": "NRO Free Périgueux",
         "operator": "Free",
+        "operator:wikidata": "Q2467627",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -184,57 +329,6 @@
         ]
       },
       "id": "way/75341178"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/98306476",
-        "addr:city": "Cranves-Sales",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.2880423,
-              46.1895816
-            ],
-            [
-              6.2880436,
-              46.1895523
-            ],
-            [
-              6.2880936,
-              46.1895533
-            ],
-            [
-              6.2881369,
-              46.1895542
-            ],
-            [
-              6.2881357,
-              46.1895835
-            ],
-            [
-              6.2880423,
-              46.1895816
-            ]
-          ]
-        ]
-      },
-      "id": "way/98306476"
     },
     {
       "type": "Feature",
@@ -1177,46 +1271,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/338323995",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0772498,
-              46.1449798
-            ],
-            [
-              6.0773111,
-              46.1449482
-            ],
-            [
-              6.0773809,
-              46.145016
-            ],
-            [
-              6.0773199,
-              46.145047
-            ],
-            [
-              6.0772498,
-              46.1449798
-            ]
-          ]
-        ]
-      },
-      "id": "way/338323995"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/365330871",
         "building": "service",
         "name": "NRO de Saint-Laurent-Médoc",
@@ -1291,46 +1345,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/436875582",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.027592,
-              45.7657561
-            ],
-            [
-              6.0275624,
-              45.7657053
-            ],
-            [
-              6.0275957,
-              45.7656958
-            ],
-            [
-              6.0276253,
-              45.7657466
-            ],
-            [
-              6.027592,
-              45.7657561
-            ]
-          ]
-        ]
-      },
-      "id": "way/436875582"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/437211189",
         "building": "service",
         "name": "NRO de Saint-Estèphe",
@@ -1381,54 +1395,6 @@
         ]
       },
       "id": "way/437211189"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/443074328",
-        "addr:city": "Thorens-Glières",
-        "addr:street": "Route des Chappes",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "start_date": "2016-03",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.2517385,
-              46.0009153
-            ],
-            [
-              6.2517226,
-              46.0008524
-            ],
-            [
-              6.2517637,
-              46.0008474
-            ],
-            [
-              6.2517786,
-              46.00091
-            ],
-            [
-              6.2517385,
-              46.0009153
-            ]
-          ]
-        ]
-      },
-      "id": "way/443074328"
     },
     {
       "type": "Feature",
@@ -1522,141 +1488,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/488952209",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "start_date": "2017-06",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.102259,
-              46.0338582
-            ],
-            [
-              6.102169,
-              46.0338459
-            ],
-            [
-              6.1021769,
-              46.0338179
-            ],
-            [
-              6.1022669,
-              46.0338301
-            ],
-            [
-              6.102259,
-              46.0338582
-            ]
-          ]
-        ]
-      },
-      "id": "way/488952209"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/488952210",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.1633435,
-              45.8354694
-            ],
-            [
-              6.1633869,
-              45.8354083
-            ],
-            [
-              6.1634314,
-              45.8354236
-            ],
-            [
-              6.163388,
-              45.8354847
-            ],
-            [
-              6.1633435,
-              45.8354694
-            ]
-          ]
-        ]
-      },
-      "id": "way/488952210"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/488952212",
-        "addr:city": "Sévrier",
-        "addr:postcode": "74320",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "brown",
-        "height": "3",
-        "material": "wood",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "start_date": "2017-03",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.1495181,
-              45.8506424
-            ],
-            [
-              6.1495153,
-              45.8505892
-            ],
-            [
-              6.1495586,
-              45.8505881
-            ],
-            [
-              6.1495614,
-              45.8506413
-            ],
-            [
-              6.1495181,
-              45.8506424
-            ]
-          ]
-        ]
-      },
-      "id": "way/488952212"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/496132805",
         "building": "service",
         "name": "NRO de Vertheuil",
@@ -1695,91 +1526,6 @@
         ]
       },
       "id": "way/496132805"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/499185938",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "start_date": "2016",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.04394,
-              45.959862
-            ],
-            [
-              6.0440098,
-              45.9598131
-            ],
-            [
-              6.0440495,
-              45.9598406
-            ],
-            [
-              6.0439797,
-              45.9598894
-            ],
-            [
-              6.04394,
-              45.959862
-            ]
-          ]
-        ]
-      },
-      "id": "way/499185938"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/503270763",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "green",
-        "height": "2.5",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:shape": "flat",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.197933,
-              45.8619197
-            ],
-            [
-              6.1978891,
-              45.8618661
-            ],
-            [
-              6.1979229,
-              45.8618509
-            ],
-            [
-              6.1979698,
-              45.8619049
-            ],
-            [
-              6.197933,
-              45.8619197
-            ]
-          ]
-        ]
-      },
-      "id": "way/503270763"
     },
     {
       "type": "Feature",
@@ -2203,229 +1949,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/660332064",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.1205127,
-              45.997717
-            ],
-            [
-              6.1206124,
-              45.9977391
-            ],
-            [
-              6.1205984,
-              45.9977698
-            ],
-            [
-              6.1204987,
-              45.9977477
-            ],
-            [
-              6.1205127,
-              45.997717
-            ]
-          ]
-        ]
-      },
-      "id": "way/660332064"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/660332074",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO Taninges",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "source": "https://twitter.com/CovageSUD_EST/status/1305529993032802309/photo/1",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.5907656,
-              46.1033445
-            ],
-            [
-              6.5907642,
-              46.1032799
-            ],
-            [
-              6.5908139,
-              46.1032794
-            ],
-            [
-              6.5908152,
-              46.103344
-            ],
-            [
-              6.5907656,
-              46.1033445
-            ]
-          ]
-        ]
-      },
-      "id": "way/660332074"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/660332075",
-        "addr:city": "Chatillon-sur-Cluses",
-        "addr:postcode": "74300",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.5846655,
-              46.0908054
-            ],
-            [
-              6.5846145,
-              46.0907516
-            ],
-            [
-              6.5846496,
-              46.0907354
-            ],
-            [
-              6.5847001,
-              46.0907885
-            ],
-            [
-              6.5846655,
-              46.0908054
-            ]
-          ]
-        ]
-      },
-      "id": "way/660332075"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/660332076",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.5374225,
-              46.0811222
-            ],
-            [
-              6.5374186,
-              46.0810576
-            ],
-            [
-              6.5374601,
-              46.0810565
-            ],
-            [
-              6.5374646,
-              46.0811211
-            ],
-            [
-              6.5374225,
-              46.0811222
-            ]
-          ]
-        ]
-      },
-      "id": "way/660332076"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/660332078",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "2.5",
-        "name": "NRO Marnaz",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:shape": "flat",
-        "source": "https://twitter.com/CovageSUD_EST/status/1328613557676740608/photo/1",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.5288876,
-              46.0700535
-            ],
-            [
-              6.5288494,
-              46.0699942
-            ],
-            [
-              6.5288914,
-              46.0699812
-            ],
-            [
-              6.5289296,
-              46.0700405
-            ],
-            [
-              6.5288876,
-              46.0700535
-            ]
-          ]
-        ]
-      },
-      "id": "way/660332078"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/660332079",
         "building": "service",
         "building:prefabricated": "yes",
@@ -2466,620 +1989,6 @@
         ]
       },
       "id": "way/660332079"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/660332080",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3803804,
-              46.0664672
-            ],
-            [
-              6.3803602,
-              46.0663831
-            ],
-            [
-              6.3804241,
-              46.0663757
-            ],
-            [
-              6.3804442,
-              46.0664599
-            ],
-            [
-              6.3803804,
-              46.0664672
-            ]
-          ]
-        ]
-      },
-      "id": "way/660332080"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/660332081",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.4115257,
-              45.9219845
-            ],
-            [
-              6.4115408,
-              45.9219506
-            ],
-            [
-              6.4116496,
-              45.9219741
-            ],
-            [
-              6.4116345,
-              45.922008
-            ],
-            [
-              6.4115257,
-              45.9219845
-            ]
-          ]
-        ]
-      },
-      "id": "way/660332081"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/660332082",
-        "addr:city": "Thônes",
-        "addr:postcode": "74230",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3215743,
-              45.8806757
-            ],
-            [
-              6.3215658,
-              45.8806506
-            ],
-            [
-              6.3216371,
-              45.8806388
-            ],
-            [
-              6.3216456,
-              45.8806639
-            ],
-            [
-              6.3215743,
-              45.8806757
-            ]
-          ]
-        ]
-      },
-      "id": "way/660332082"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/660332089",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3039816,
-              45.7492577
-            ],
-            [
-              6.3039941,
-              45.7492315
-            ],
-            [
-              6.3040712,
-              45.7492494
-            ],
-            [
-              6.3040586,
-              45.7492756
-            ],
-            [
-              6.3039816,
-              45.7492577
-            ]
-          ]
-        ]
-      },
-      "id": "way/660332089"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/660332090",
-        "addr:housenumber": "1802",
-        "addr:street": "Route de la Cheterie",
-        "building": "service",
-        "building:levels": "1",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:orientation": "along",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.5315717,
-              46.2313102
-            ],
-            [
-              6.5315721,
-              46.2313728
-            ],
-            [
-              6.5315252,
-              46.231373
-            ],
-            [
-              6.5315247,
-              46.2313104
-            ],
-            [
-              6.5315717,
-              46.2313102
-            ]
-          ]
-        ]
-      },
-      "id": "way/660332090"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/660332092",
-        "building": "service",
-        "building:levels": "1",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:orientation": "along",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.4082786,
-              46.2066101
-            ],
-            [
-              6.4083113,
-              46.2065577
-            ],
-            [
-              6.4083537,
-              46.2065704
-            ],
-            [
-              6.4083211,
-              46.2066227
-            ],
-            [
-              6.4082786,
-              46.2066101
-            ]
-          ]
-        ]
-      },
-      "id": "way/660332092"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/660332105",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.4653186,
-              46.1365528
-            ],
-            [
-              6.4653093,
-              46.1365101
-            ],
-            [
-              6.4654326,
-              46.1364971
-            ],
-            [
-              6.465442,
-              46.1365398
-            ],
-            [
-              6.4653186,
-              46.1365528
-            ]
-          ]
-        ]
-      },
-      "id": "way/660332105"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/660332108",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.328661,
-              46.1682522
-            ],
-            [
-              6.3287061,
-              46.1681857
-            ],
-            [
-              6.3287554,
-              46.1682017
-            ],
-            [
-              6.3287103,
-              46.1682683
-            ],
-            [
-              6.328661,
-              46.1682522
-            ]
-          ]
-        ]
-      },
-      "id": "way/660332108"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/660332111",
-        "addr:housenumber": "56",
-        "addr:street": "Route d'Arve",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "ref:FR:ARCEP": "FI-74012-000M",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.2254742,
-              46.1857772
-            ],
-            [
-              6.2254605,
-              46.1857393
-            ],
-            [
-              6.2255593,
-              46.1857223
-            ],
-            [
-              6.225573,
-              46.1857602
-            ],
-            [
-              6.2254742,
-              46.1857772
-            ]
-          ]
-        ]
-      },
-      "id": "way/660332111"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/660332112",
-        "addr:city": "Collonges-sous-Salève",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.1467066,
-              46.143598
-            ],
-            [
-              6.1466876,
-              46.1435362
-            ],
-            [
-              6.1467287,
-              46.1435301
-            ],
-            [
-              6.1467476,
-              46.143592
-            ],
-            [
-              6.1467066,
-              46.143598
-            ]
-          ]
-        ]
-      },
-      "id": "way/660332112"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/660332114",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "start_date": "2017-01",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0996572,
-              46.1216368
-            ],
-            [
-              6.0996348,
-              46.1216138
-            ],
-            [
-              6.0997064,
-              46.1215804
-            ],
-            [
-              6.0997288,
-              46.1216034
-            ],
-            [
-              6.0996572,
-              46.1216368
-            ]
-          ]
-        ]
-      },
-      "id": "way/660332114"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/660332115",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0987082,
-              46.0941325
-            ],
-            [
-              6.0987111,
-              46.0940646
-            ],
-            [
-              6.0987708,
-              46.0940659
-            ],
-            [
-              6.0987678,
-              46.0941338
-            ],
-            [
-              6.0987082,
-              46.0941325
-            ]
-          ]
-        ]
-      },
-      "id": "way/660332115"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/660332116",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.2287078,
-              46.1617849
-            ],
-            [
-              6.2287407,
-              46.1617661
-            ],
-            [
-              6.2287983,
-              46.1618162
-            ],
-            [
-              6.2287647,
-              46.1618346
-            ],
-            [
-              6.2287078,
-              46.1617849
-            ]
-          ]
-        ]
-      },
-      "id": "way/660332116"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/660332121",
-        "addr:city": "La Muraz",
-        "addr:postcode": "74560",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.2053277,
-              46.1257949
-            ],
-            [
-              6.205354,
-              46.1257282
-            ],
-            [
-              6.2053974,
-              46.1257364
-            ],
-            [
-              6.2053711,
-              46.1258031
-            ],
-            [
-              6.2053277,
-              46.1257949
-            ]
-          ]
-        ]
-      },
-      "id": "way/660332121"
     },
     {
       "type": "Feature",
@@ -3125,359 +2034,6 @@
         ]
       },
       "id": "way/662491115"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/665669939",
-        "building": "service",
-        "building:levels": "1",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:orientation": "along",
-        "roof:shape": "gabled",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2019",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.4989571,
-              46.2016194
-            ],
-            [
-              6.4989403,
-              46.2016005
-            ],
-            [
-              6.498984,
-              46.2015819
-            ],
-            [
-              6.4990008,
-              46.2016007
-            ],
-            [
-              6.4989571,
-              46.2016194
-            ]
-          ]
-        ]
-      },
-      "id": "way/665669939"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/665669941",
-        "addr:city": "Saint-Jean-d'Aulps",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "location": "indoor",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.6451657,
-              46.2419057
-            ],
-            [
-              6.6451942,
-              46.2419231
-            ],
-            [
-              6.6451336,
-              46.2419708
-            ],
-            [
-              6.645105,
-              46.2419535
-            ],
-            [
-              6.6451657,
-              46.2419057
-            ]
-          ]
-        ]
-      },
-      "id": "way/665669941"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/665669944",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "source": "BD Ortho IGN",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.6717204,
-              46.3001222
-            ],
-            [
-              6.6717264,
-              46.3000476
-            ],
-            [
-              6.671786,
-              46.3000499
-            ],
-            [
-              6.67178,
-              46.3001245
-            ],
-            [
-              6.6717204,
-              46.3001222
-            ]
-          ]
-        ]
-      },
-      "id": "way/665669944"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/665669970",
-        "addr:city": "Publier",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2019",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.5210827,
-              46.3925274
-            ],
-            [
-              6.5210872,
-              46.3924635
-            ],
-            [
-              6.521129,
-              46.3924649
-            ],
-            [
-              6.5211244,
-              46.3925288
-            ],
-            [
-              6.5210827,
-              46.3925274
-            ]
-          ]
-        ]
-      },
-      "id": "way/665669970"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/665669980",
-        "addr:city": "Publier",
-        "addr:street": "Rue de la Fiogère",
-        "building": "service",
-        "colour": "white",
-        "height": "2.5",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:shape": "flat",
-        "source": "Survey",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.5571784,
-              46.3932061
-            ],
-            [
-              6.5572281,
-              46.3931295
-            ],
-            [
-              6.5573014,
-              46.393152
-            ],
-            [
-              6.5572516,
-              46.3932287
-            ],
-            [
-              6.5571784,
-              46.3932061
-            ]
-          ]
-        ]
-      },
-      "id": "way/665669980"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/665669981",
-        "addr:city": "Évian-les-Bains",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "source": "Survey",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.5777848,
-              46.3956185
-            ],
-            [
-              6.5777861,
-              46.3955908
-            ],
-            [
-              6.5778725,
-              46.3955927
-            ],
-            [
-              6.5778713,
-              46.3956203
-            ],
-            [
-              6.5777848,
-              46.3956185
-            ]
-          ]
-        ]
-      },
-      "id": "way/665669981"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/665669982",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "2.5",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:shape": "flat",
-        "source": "Survey",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.6028944,
-              46.3994571
-            ],
-            [
-              6.6029011,
-              46.3994324
-            ],
-            [
-              6.602965,
-              46.3994407
-            ],
-            [
-              6.6029582,
-              46.3994655
-            ],
-            [
-              6.6028944,
-              46.3994571
-            ]
-          ]
-        ]
-      },
-      "id": "way/665669982"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/665669983",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2019",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.6211546,
-              46.3982032
-            ],
-            [
-              6.6211603,
-              46.3981735
-            ],
-            [
-              6.6212882,
-              46.3981852
-            ],
-            [
-              6.6212824,
-              46.398215
-            ],
-            [
-              6.6211546,
-              46.3982032
-            ]
-          ]
-        ]
-      },
-      "id": "way/665669983"
     },
     {
       "type": "Feature",
@@ -3606,1010 +2162,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/670060345",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.2981005,
-              46.1559003
-            ],
-            [
-              6.2981556,
-              46.1558809
-            ],
-            [
-              6.2981696,
-              46.1559001
-            ],
-            [
-              6.2981145,
-              46.1559194
-            ],
-            [
-              6.2981005,
-              46.1559003
-            ]
-          ]
-        ]
-      },
-      "id": "way/670060345"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670060347",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.2700961,
-              46.1419987
-            ],
-            [
-              6.2700403,
-              46.1419904
-            ],
-            [
-              6.2700685,
-              46.1418999
-            ],
-            [
-              6.2701243,
-              46.1419082
-            ],
-            [
-              6.2700961,
-              46.1419987
-            ]
-          ]
-        ]
-      },
-      "id": "way/670060347"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670060348",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0118722,
-              45.8626648
-            ],
-            [
-              6.0117953,
-              45.8626332
-            ],
-            [
-              6.0118164,
-              45.8626086
-            ],
-            [
-              6.011894,
-              45.8626416
-            ],
-            [
-              6.0118722,
-              45.8626648
-            ]
-          ]
-        ]
-      },
-      "id": "way/670060348"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670060352",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.9492771,
-              45.8593826
-            ],
-            [
-              5.9492913,
-              45.8593529
-            ],
-            [
-              5.9494197,
-              45.8593829
-            ],
-            [
-              5.9494054,
-              45.8594125
-            ],
-            [
-              5.9492771,
-              45.8593826
-            ]
-          ]
-        ]
-      },
-      "id": "way/670060352"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670060354",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "2.5",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:shape": "flat",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.9361763,
-              45.8677796
-            ],
-            [
-              5.9361758,
-              45.8678087
-            ],
-            [
-              5.9360485,
-              45.8678076
-            ],
-            [
-              5.936049,
-              45.8677785
-            ],
-            [
-              5.9361763,
-              45.8677796
-            ]
-          ]
-        ]
-      },
-      "id": "way/670060354"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670060356",
-        "addr:city": "Vallières",
-        "building": "service",
-        "colour": "brown",
-        "height": "3",
-        "material": "wood",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "start_date": "2018-02",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.9387404,
-              45.89121
-            ],
-            [
-              5.9387171,
-              45.8911848
-            ],
-            [
-              5.9387951,
-              45.8911498
-            ],
-            [
-              5.9388185,
-              45.891175
-            ],
-            [
-              5.9387404,
-              45.89121
-            ]
-          ]
-        ]
-      },
-      "id": "way/670060356"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670060357",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "2.5",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:shape": "flat",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.9997642,
-              45.9297651
-            ],
-            [
-              5.9998127,
-              45.9297125
-            ],
-            [
-              5.9998485,
-              45.9297284
-            ],
-            [
-              5.9998,
-              45.9297811
-            ],
-            [
-              5.9997642,
-              45.9297651
-            ]
-          ]
-        ]
-      },
-      "id": "way/670060357"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670060358",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0198308,
-              46.0324296
-            ],
-            [
-              6.0198274,
-              46.0323608
-            ],
-            [
-              6.0198812,
-              46.0323596
-            ],
-            [
-              6.0198847,
-              46.0324284
-            ],
-            [
-              6.0198308,
-              46.0324296
-            ]
-          ]
-        ]
-      },
-      "id": "way/670060358"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670060360",
-        "addr:city": "Viry",
-        "addr:postcode": "74580",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0389921,
-              46.1184597
-            ],
-            [
-              6.0389076,
-              46.1184381
-            ],
-            [
-              6.038921,
-              46.1184128
-            ],
-            [
-              6.0390055,
-              46.1184344
-            ],
-            [
-              6.0389921,
-              46.1184597
-            ]
-          ]
-        ]
-      },
-      "id": "way/670060360"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670060362",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.9786205,
-              46.1109772
-            ],
-            [
-              5.9786258,
-              46.110951
-            ],
-            [
-              5.978728,
-              46.110961
-            ],
-            [
-              5.9787226,
-              46.1109872
-            ],
-            [
-              5.9786205,
-              46.1109772
-            ]
-          ]
-        ]
-      },
-      "id": "way/670060362"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670060369",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "start_date": "2016-10",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.9916763,
-              46.0651706
-            ],
-            [
-              5.9916311,
-              46.0651533
-            ],
-            [
-              5.9916839,
-              46.0650869
-            ],
-            [
-              5.9917291,
-              46.0651043
-            ],
-            [
-              5.9916763,
-              46.0651706
-            ]
-          ]
-        ]
-      },
-      "id": "way/670060369"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670060373",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.9376968,
-              46.0167835
-            ],
-            [
-              5.937694,
-              46.0167202
-            ],
-            [
-              5.9377355,
-              46.0167193
-            ],
-            [
-              5.9377384,
-              46.0167826
-            ],
-            [
-              5.9376968,
-              46.0167835
-            ]
-          ]
-        ]
-      },
-      "id": "way/670060373"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670060376",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "2.5",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:shape": "flat",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.9345831,
-              45.9621559
-            ],
-            [
-              5.9345285,
-              45.9621067
-            ],
-            [
-              5.9345606,
-              45.9620895
-            ],
-            [
-              5.9346152,
-              45.9621387
-            ],
-            [
-              5.9345831,
-              45.9621559
-            ]
-          ]
-        ]
-      },
-      "id": "way/670060376"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670060379",
-        "addr:city": "Seyssel",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.8362088,
-              45.957139
-            ],
-            [
-              5.8361693,
-              45.9571321
-            ],
-            [
-              5.8361912,
-              45.9570708
-            ],
-            [
-              5.8362307,
-              45.9570777
-            ],
-            [
-              5.8362088,
-              45.957139
-            ]
-          ]
-        ]
-      },
-      "id": "way/670060379"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670060386",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.8539885,
-              46.0499092
-            ],
-            [
-              5.8539418,
-              46.049925
-            ],
-            [
-              5.8539075,
-              46.0498759
-            ],
-            [
-              5.8539542,
-              46.0498602
-            ],
-            [
-              5.8539885,
-              46.0499092
-            ]
-          ]
-        ]
-      },
-      "id": "way/670060386"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670070570",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "brown",
-        "height": "2.5",
-        "material": "wood",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.1465404,
-              45.9654816
-            ],
-            [
-              6.1465144,
-              45.965453
-            ],
-            [
-              6.1465948,
-              45.9654177
-            ],
-            [
-              6.1466208,
-              45.9654463
-            ],
-            [
-              6.1465404,
-              45.9654816
-            ]
-          ]
-        ]
-      },
-      "id": "way/670070570"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670070573",
-        "addr:city": "Villaz",
-        "addr:street": "Avenue de Bonatray",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.1934982,
-              45.9510443
-            ],
-            [
-              6.1935725,
-              45.9510206
-            ],
-            [
-              6.1935879,
-              45.9510439
-            ],
-            [
-              6.1935136,
-              45.9510676
-            ],
-            [
-              6.1934982,
-              45.9510443
-            ]
-          ]
-        ]
-      },
-      "id": "way/670070573"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670070578",
-        "addr:city": "Saint-Eustache",
-        "addr:postcode": "74410",
-        "addr:street": "Route de l'Église",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.1494235,
-              45.7964019
-            ],
-            [
-              6.149453,
-              45.7963907
-            ],
-            [
-              6.1494936,
-              45.7964425
-            ],
-            [
-              6.1494641,
-              45.7964537
-            ],
-            [
-              6.1494235,
-              45.7964019
-            ]
-          ]
-        ]
-      },
-      "id": "way/670070578"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670070581",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3338234,
-              45.816944
-            ],
-            [
-              6.3338722,
-              45.8168783
-            ],
-            [
-              6.3339084,
-              45.8168914
-            ],
-            [
-              6.3338596,
-              45.8169571
-            ],
-            [
-              6.3338234,
-              45.816944
-            ]
-          ]
-        ]
-      },
-      "id": "way/670070581"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670070583",
-        "building": "service",
-        "building:levels": "1",
-        "colour": "brown",
-        "height": "3",
-        "material": "wood",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.6620338,
-              45.9083829
-            ],
-            [
-              6.6620663,
-              45.9083657
-            ],
-            [
-              6.6621269,
-              45.9084144
-            ],
-            [
-              6.6621161,
-              45.9084207
-            ],
-            [
-              6.6620939,
-              45.9084338
-            ],
-            [
-              6.6620338,
-              45.9083829
-            ]
-          ]
-        ]
-      },
-      "id": "way/670070583"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670070584",
-        "addr:city": "Cordon",
-        "addr:postcode": "74700",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "operator:wikidata": "Q3001818",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.6139502,
-              45.9261351
-            ],
-            [
-              6.614028,
-              45.9261062
-            ],
-            [
-              6.6140502,
-              45.9261351
-            ],
-            [
-              6.6139724,
-              45.926164
-            ],
-            [
-              6.6139502,
-              45.9261351
-            ]
-          ]
-        ]
-      },
-      "id": "way/670070584"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670070585",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "ref": "NRO de Magland",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.6235204,
-              46.016982
-            ],
-            [
-              6.623548,
-              46.0169762
-            ],
-            [
-              6.6235611,
-              46.0169735
-            ],
-            [
-              6.6235878,
-              46.017035
-            ],
-            [
-              6.6235471,
-              46.0170435
-            ],
-            [
-              6.6235204,
-              46.016982
-            ]
-          ]
-        ]
-      },
-      "id": "way/670070585"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670070586",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.6755999,
-              46.357921
-            ],
-            [
-              6.6755549,
-              46.3579965
-            ],
-            [
-              6.6754979,
-              46.3579803
-            ],
-            [
-              6.6755429,
-              46.3579048
-            ],
-            [
-              6.6755999,
-              46.357921
-            ]
-          ]
-        ]
-      },
-      "id": "way/670070586"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/670070588",
         "building": "service",
         "name": "NRO",
@@ -4646,223 +2198,6 @@
         ]
       },
       "id": "way/670070588"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670070589",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.2968034,
-              46.3487471
-            ],
-            [
-              6.2968106,
-              46.3486739
-            ],
-            [
-              6.2968585,
-              46.3486761
-            ],
-            [
-              6.2968512,
-              46.3487494
-            ],
-            [
-              6.2968034,
-              46.3487471
-            ]
-          ]
-        ]
-      },
-      "id": "way/670070589"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670070590",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "2.5",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:shape": "flat",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.371672,
-              46.3345285
-            ],
-            [
-              6.3716419,
-              46.3345255
-            ],
-            [
-              6.3716543,
-              46.3344666
-            ],
-            [
-              6.3716844,
-              46.3344696
-            ],
-            [
-              6.371672,
-              46.3345285
-            ]
-          ]
-        ]
-      },
-      "id": "way/670070590"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670070594",
-        "addr:city": "Bons-en-Chablais",
-        "addr:postcode": "74890",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3642743,
-              46.2638413
-            ],
-            [
-              6.364268,
-              46.2638041
-            ],
-            [
-              6.3643685,
-              46.263796
-            ],
-            [
-              6.3643748,
-              46.2638331
-            ],
-            [
-              6.3642743,
-              46.2638413
-            ]
-          ]
-        ]
-      },
-      "id": "way/670070594"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670070595",
-        "addr:city": "Douvaine",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3000193,
-              46.3084066
-            ],
-            [
-              6.3000173,
-              46.3083777
-            ],
-            [
-              6.3001104,
-              46.3083745
-            ],
-            [
-              6.3001125,
-              46.3084034
-            ],
-            [
-              6.3000193,
-              46.3084066
-            ]
-          ]
-        ]
-      },
-      "id": "way/670070595"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/670072138",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3139231,
-              46.0549883
-            ],
-            [
-              6.3139482,
-              46.0549683
-            ],
-            [
-              6.3140089,
-              46.055005
-            ],
-            [
-              6.3139838,
-              46.055025
-            ],
-            [
-              6.3139231,
-              46.0549883
-            ]
-          ]
-        ]
-      },
-      "id": "way/670072138"
     },
     {
       "type": "Feature",
@@ -5458,24 +2793,24 @@
         "coordinates": [
           [
             [
-              3.4214342,
-              43.4561972
+              3.421399,
+              43.4561991
             ],
             [
-              3.4214138,
-              43.4561627
+              3.4213747,
+              43.456166
             ],
             [
-              3.4215003,
-              43.4561357
+              3.4214578,
+              43.4561338
             ],
             [
-              3.4215208,
-              43.4561701
+              3.4214821,
+              43.4561669
             ],
             [
-              3.4214342,
-              43.4561972
+              3.421399,
+              43.4561991
             ]
           ]
         ]
@@ -6066,45 +3401,6 @@
         ]
       },
       "id": "way/768483806"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/777175917",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.902489,
-              45.0899202
-            ],
-            [
-              5.9025531,
-              45.0898971
-            ],
-            [
-              5.9025988,
-              45.0899603
-            ],
-            [
-              5.9025347,
-              45.0899834
-            ],
-            [
-              5.902489,
-              45.0899202
-            ]
-          ]
-        ]
-      },
-      "id": "way/777175917"
     },
     {
       "type": "Feature",
@@ -6822,47 +4118,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/884457512",
-        "building": "yes",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2014",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.5209211,
-              46.2846062
-            ],
-            [
-              6.5208722,
-              46.2846114
-            ],
-            [
-              6.5208569,
-              46.2845433
-            ],
-            [
-              6.5209058,
-              46.284538
-            ],
-            [
-              6.5209211,
-              46.2846062
-            ]
-          ]
-        ]
-      },
-      "id": "way/884457512"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/886913473",
         "building": "service",
         "name": "Orange",
@@ -7073,47 +4328,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/900914470",
-        "building": "yes",
-        "operator": "ADTIM",
-        "ref": "PMT_26301",
-        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2021",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              4.9699078,
-              45.1158282
-            ],
-            [
-              4.9699276,
-              45.1157796
-            ],
-            [
-              4.9700463,
-              45.1158038
-            ],
-            [
-              4.9700265,
-              45.1158525
-            ],
-            [
-              4.9699078,
-              45.1158282
-            ]
-          ]
-        ]
-      },
-      "id": "way/900914470"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/903411948",
         "building": "service",
         "building:prefabricated": "yes",
@@ -7192,90 +4406,6 @@
         ]
       },
       "id": "way/903414994"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/903416606",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO La Roche-sur-Foron",
-        "operator": "COVAGE",
-        "owner": "Syane",
-        "source": "https://twitter.com/CovageSUD_EST/status/1354425455739359238/photo/1",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3118598,
-              46.0690458
-            ],
-            [
-              6.3118017,
-              46.069026
-            ],
-            [
-              6.3118218,
-              46.0690014
-            ],
-            [
-              6.3118796,
-              46.0690218
-            ],
-            [
-              6.3118598,
-              46.0690458
-            ]
-          ]
-        ]
-      },
-      "id": "way/903416606"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/903420936",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "name": "NRO Mieussy",
-        "operator": "COVAGE",
-        "owner": "Syane",
-        "source": "https://twitter.com/CovageSUD_EST/status/1333777962127273984/photo/1",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.5220371,
-              46.1334135
-            ],
-            [
-              6.5219915,
-              46.133419
-            ],
-            [
-              6.5219795,
-              46.1333651
-            ],
-            [
-              6.5220264,
-              46.1333605
-            ],
-            [
-              6.5220371,
-              46.1334135
-            ]
-          ]
-        ]
-      },
-      "id": "way/903420936"
     },
     {
       "type": "Feature",
@@ -8970,47 +6100,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/973475783",
-        "building": "service",
-        "location": "indoor",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.7188478,
-              46.2790891
-            ],
-            [
-              6.718826,
-              46.279121
-            ],
-            [
-              6.7187349,
-              46.2790913
-            ],
-            [
-              6.7187566,
-              46.2790595
-            ],
-            [
-              6.7188478,
-              46.2790891
-            ]
-          ]
-        ]
-      },
-      "id": "way/973475783"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/974845900",
         "building": "service",
         "location": "indoor",
@@ -9049,86 +6138,6 @@
         ]
       },
       "id": "way/974845900"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/977371009",
-        "building": "yes",
-        "exploitant": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
-        "survey:date": "2021-07-26",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.5473432,
-              45.1721519
-            ],
-            [
-              5.5474853,
-              45.1721477
-            ],
-            [
-              5.5474882,
-              45.1721955
-            ],
-            [
-              5.5473461,
-              45.1721998
-            ],
-            [
-              5.5473432,
-              45.1721519
-            ]
-          ]
-        ]
-      },
-      "id": "way/977371009"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/979716243",
-        "building": "service",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0034543,
-              45.8175833
-            ],
-            [
-              6.0034717,
-              45.8175575
-            ],
-            [
-              6.0035589,
-              45.817586
-            ],
-            [
-              6.0035415,
-              45.8176118
-            ],
-            [
-              6.0034543,
-              45.8175833
-            ]
-          ]
-        ]
-      },
-      "id": "way/979716243"
     },
     {
       "type": "Feature",
@@ -9380,7 +6389,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1007062715",
-        "building": "yes",
+        "building": "service",
         "height": "3",
         "name": "Central Optique",
         "operator": "Hérault THD",
@@ -9663,173 +6672,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1076677403",
-        "building": "service",
-        "location": "indoor",
-        "name": "NRO",
-        "not:operator:wikidata": "Q3001818",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.5648341,
-              46.3675668
-            ],
-            [
-              6.5648301,
-              46.3675279
-            ],
-            [
-              6.5649293,
-              46.3675186
-            ],
-            [
-              6.5649374,
-              46.3675575
-            ],
-            [
-              6.5648341,
-              46.3675668
-            ]
-          ]
-        ]
-      },
-      "id": "way/1076677403"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1076677406",
-        "building": "service",
-        "location": "indoor",
-        "name": "NRO",
-        "operator": "Covage",
-        "operator:wikidata": "Q3001818",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.7842487,
-              46.2935477
-            ],
-            [
-              6.7842326,
-              46.2935023
-            ],
-            [
-              6.7842675,
-              46.2934967
-            ],
-            [
-              6.7842862,
-              46.2935403
-            ],
-            [
-              6.7842487,
-              46.2935477
-            ]
-          ]
-        ]
-      },
-      "id": "way/1076677406"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1076677408",
-        "building": "service",
-        "location": "indoor",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.8398656,
-              46.2673959
-            ],
-            [
-              6.8398133,
-              46.2673894
-            ],
-            [
-              6.8398536,
-              46.2672948
-            ],
-            [
-              6.8398965,
-              46.2673041
-            ],
-            [
-              6.8398656,
-              46.2673959
-            ]
-          ]
-        ]
-      },
-      "id": "way/1076677408"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1087649037",
-        "building": "service",
-        "location": "indoor",
-        "name": "NRO",
-        "operator": "Covage",
-        "operator:wikidata": "Q3001818",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.5238357,
-              46.3754344
-            ],
-            [
-              6.5238107,
-              46.3754237
-            ],
-            [
-              6.5238372,
-              46.3753943
-            ],
-            [
-              6.5238622,
-              46.375405
-            ],
-            [
-              6.5238357,
-              46.3754344
-            ]
-          ]
-        ]
-      },
-      "id": "way/1087649037"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/1091732538",
         "building": "service",
         "location": "indoor",
@@ -9872,46 +6714,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/1093986683",
-        "building": "service",
-        "operator": "Altitude",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.3679357,
-              45.8603895
-            ],
-            [
-              6.3679337,
-              45.8603143
-            ],
-            [
-              6.36799,
-              45.8603136
-            ],
-            [
-              6.367992,
-              45.8603888
-            ],
-            [
-              6.3679357,
-              45.8603895
-            ]
-          ]
-        ]
-      },
-      "id": "way/1093986683"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/1095209881",
         "building": "service",
         "description": "Shelter NRO",
@@ -9949,50 +6751,6 @@
         ]
       },
       "id": "way/1095209881"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/1124016274",
-        "addr:street": "Chemin des Gaydons",
-        "building": "service",
-        "building:levels": "1",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:orientation": "along",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.5129935,
-              46.3393292
-            ],
-            [
-              6.5130287,
-              46.3393051
-            ],
-            [
-              6.5130997,
-              46.3393546
-            ],
-            [
-              6.5130644,
-              46.3393787
-            ],
-            [
-              6.5129935,
-              46.3393292
-            ]
-          ]
-        ]
-      },
-      "id": "way/1124016274"
     },
     {
       "type": "Feature",
@@ -10177,9 +6935,9 @@
         "operator": "Dorsal",
         "ref": "NRA/3PD",
         "ref:FR:Orange:NRO": "871133PD",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10964,6 +7722,7 @@
         "@id": "node/7045017305",
         "name": "La Motte Servolex",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "73179MSL",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -10983,6 +7742,7 @@
         "@id": "node/7045017307",
         "name": "Chambéry Italie",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "73065ITA",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -12781,6 +9541,7 @@
         "@id": "node/7151596047",
         "name": "MAC71",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "71270MAC",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -12936,7 +9697,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7151846773",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "36046CHE",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -12977,6 +9740,7 @@
         "@id": "node/7151886749",
         "name": "FAU42",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "42218FAU",
         "telecom": "exchange",
@@ -14931,7 +11695,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7158743927",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "45274DEV",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -15021,7 +11787,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7188596089",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "PGT",
         "telecom": "exchange",
@@ -15063,6 +11831,7 @@
         "@id": "node/7235896736",
         "name": "RIV42",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "42186RIV",
         "telecom": "exchange",
@@ -15086,9 +11855,9 @@
         "operator": "Dorsal",
         "ref": "NRA/RR3",
         "ref:FR:Orange:NRO": "87125RR3",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -15861,7 +12630,7 @@
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom",
-        "wikimedia_commons": "File:NRA_Tr%C3%A9lissac_TRE_24.jpg"
+        "wikimedia_commons": "File:NRA Trélissac TRE 24.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -15931,7 +12700,7 @@
         "ref:FR:Orange:NRO": "RAZ 24",
         "telecom": "exchange",
         "telecom:medium": "fibre",
-        "wikimedia_commons": "File:NRA_Razac-sur-l%27Isle_RAZ_24.jpg"
+        "wikimedia_commons": "File:NRA Razac-sur-l'Isle RAZ 24.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -17412,7 +14181,7 @@
         "addr:postcode": "41220",
         "addr:street": "Rue du Petit Four",
         "building": "service",
-        "name": "NRO Saint Laurent Nouan",
+        "name": "NRO Saint-Laurent Nouan",
         "operator": "TDF",
         "operator:wikidata": "Q1162908",
         "owner": "Val de Loire Fibre",
@@ -18410,16 +15179,15 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221621798",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.1852018,
+          5.1852044,
           45.340906
         ]
       },
@@ -18448,8 +15216,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221639775",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -18483,8 +15251,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221640610",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -18501,9 +15269,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221641536",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -18520,8 +15287,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221642054",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -18538,7 +15305,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221644803",
-        "operator": "Isère Fibre",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -18555,8 +15323,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221646331",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -18592,8 +15360,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221651248",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -18658,8 +15426,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221661346",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -18676,8 +15444,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221671553",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -18713,9 +15481,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221676854",
-        "building": "service",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -18749,7 +15516,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221685292",
-        "operator": "Isère Fibre",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -18784,8 +15552,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221688981",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -18838,8 +15606,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221695823",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -18856,7 +15624,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221702404",
-        "operator": "Isère Fibre",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -18968,8 +15737,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8221723222",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20286,9 +17055,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222384892",
-        "name": "Local technique - fibre optique",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20305,8 +17073,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222406468",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20323,7 +17091,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222406469",
-        "operator": "Isère Fibre",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20340,8 +17109,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222406854",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20358,11 +17127,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222408128",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
+        "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
@@ -20377,8 +17145,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222415736",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20395,8 +17163,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222415738",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20413,8 +17181,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222416374",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20431,7 +17199,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222418426",
-        "operator": "Isère Fibre",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20448,8 +17217,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222430550",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20466,7 +17235,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222431782",
-        "operator": "Isère Fibre",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20502,7 +17272,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222434902",
-        "operator": "Isère Fibre",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20519,8 +17290,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222441874",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20537,8 +17308,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222443482",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20555,8 +17326,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222488468",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20573,8 +17344,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222489212",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20591,8 +17362,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222490198",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20627,8 +17398,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222494858",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20645,16 +17416,16 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222511078",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.6405586,
-          45.3810526
+          5.6406196,
+          45.3809934
         ]
       },
       "id": "node/8222511078"
@@ -20664,8 +17435,9 @@
       "properties": {
         "@id": "node/8222517367",
         "location": "indoor",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "ref:FR:ARCEP": "38553 002",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20682,7 +17454,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222523663",
-        "operator": "Isère Fibre",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20699,8 +17472,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222526041",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20982,8 +17755,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.4772873,
-          47.047451
+          6.4773389,
+          47.0474451
         ]
       },
       "id": "node/8222659151"
@@ -21540,8 +18313,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222776685",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "ref:FR:ARCEP": "38316 001",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -21579,8 +18353,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222780164",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "ref:FR:ARCEP": "38138 001",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -21597,8 +18372,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222786715",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "ref:FR:ARCEP": "38449 001",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -21615,8 +18391,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222789593",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "ref:FR:ARCEP": "38189 001",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -21672,8 +18449,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222794384",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "ref:FR:ARCEP": "38537 001",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -21690,8 +18468,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222795399",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "ref:FR:ARCEP": "38507 001",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -21708,8 +18487,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8222809455",
-        "operator": "Isère Fibre",
-        "owner": "Conseil Départemental de l'Isère",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "ref:FR:ARCEP": "38190-001",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -22451,6 +19231,7 @@
       "properties": {
         "@id": "node/8223044635",
         "operator": "Interoute",
+        "operator:wikidata": "Q1668090",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -22763,8 +19544,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.0531107,
-          46.1293898
+          1.0530746,
+          46.1294157
         ]
       },
       "id": "node/8223099335"
@@ -25931,8 +22712,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8330981110",
-        "operator": "Isère THD",
-        "owner": "Isère Fibre",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "ref:FR:ARCEP": "38193 001",
         "source:telecom": "https://www.lessor38.fr/la-fibre-arrive-a-l-isle-d-abeau-23517.html",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -25941,8 +22723,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.2265998,
-          45.6155445
+          5.226637,
+          45.615508
         ]
       },
       "id": "node/8330981110"
@@ -25954,6 +22736,7 @@
         "name": "NRO",
         "operator": "Isère Fibre",
         "owner": "Isère THD",
+        "ref:FR:ARCEP": "38085 001",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -27283,26 +24066,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8691425383",
-        "building": "service",
-        "operator": "Manche fibre",
-        "owner": "Manche fibre",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6781123,
-          49.3094694
-        ]
-      },
-      "id": "node/8691425383"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8728772584",
         "building": "service",
         "name": "NRO",
@@ -27406,28 +24169,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8756187804",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Manche fibre",
-        "owner": "Manche fibre",
-        "ref": "NRO-50-050",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.4526884,
-          49.0236769
-        ]
-      },
-      "id": "node/8756187804"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8763953791",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/NRO_40_018.jpg/576px-NRO_40_018.jpg",
         "name": "NRO",
@@ -27510,8 +24251,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8822600105",
+        "name": "Orange",
         "note": "Installations au sous-sol",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange:NRO": "75114BNE",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -27721,7 +24464,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9120575774",
-        "name": "POP",
+        "name": "PoP",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -27729,8 +24472,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.6902912,
-          45.1440806
+          0.690332,
+          45.1439432
         ]
       },
       "id": "node/9120575774"
@@ -30064,8 +26807,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.7946558,
-          46.5901133
+          -0.794692,
+          46.5900999
         ]
       },
       "id": "node/9520726962"
@@ -31347,9 +28090,9 @@
         "colour": "green",
         "name": "NRO Sury-aux-Bois",
         "source": "https://twitter.com/ggavet/status/1496021535903076353",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -33696,7 +30439,6 @@
         "name": "NRO Bourgueil",
         "operator": "Val de Loire Fibre",
         "start_date": "2019-04-24",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -34636,6 +31378,50 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/10263344638",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "PIC-SRTHD1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2811786,
+          49.8772335
+        ]
+      },
+      "id": "node/10263344638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10263353676",
+        "man_made": "street_cabinet",
+        "name": "Pic-SRTHD2",
+        "note": "DSL Collect Ethernet",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange": "PIC-SRTHD2",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2762553,
+          49.8754816
+        ]
+      },
+      "id": "node/10263353676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/10270255300",
         "location": "indoor",
         "operator": "Sarthe Numérique",
@@ -34912,13 +31698,15 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24028_DOFO",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Beaumont-du-Périgord.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.7663337,
-          44.7642275
+          0.7662832,
+          44.764229
         ]
       },
       "id": "node/10293390474"
@@ -34927,19 +31715,21 @@
       "type": "Feature",
       "properties": {
         "@id": "node/10293390479",
-        "addr:city": "Le Buisson de Cadouin",
+        "addr:city": "Le Buisson-de-Cadouin",
         "name": "NRO du Buisson de Cadouin",
         "operator": "NATHD",
         "owner": "Périgord Numérique",
         "ref": "NA_24068_DEFI",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Le_Buisson-de-Cadouin.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.9009945,
-          44.8488925
+          0.9009393,
+          44.8488651
         ]
       },
       "id": "node/10293390479"
@@ -34996,13 +31786,15 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24442_CEZI",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Saint-Léon-sur-l'Isle.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.5068521,
-          45.112557
+          0.5068366,
+          45.1125371
         ]
       },
       "id": "node/10293429820"
@@ -35122,7 +31914,9 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24584_CEMA",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Villefranche-de-Lonchat.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -35143,13 +31937,14 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24067_FERA",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_Le_Bugue.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.9251121,
-          44.9228909
+          0.9250849,
+          44.9228967
         ]
       },
       "id": "node/10295741234"
@@ -35552,6 +32347,2623 @@
         ]
       },
       "id": "node/10539284751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10658190960",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "ref:FR:ARCEP": "38247-001",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4068897,
+          45.8218577
+        ]
+      },
+      "id": "node/10658190960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10658791785",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "ref:FR:ARCEP": "38557 001",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1305124,
+          45.7948638
+        ]
+      },
+      "id": "node/10658791785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10675781101",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3560022,
+          45.6406414
+        ]
+      },
+      "id": "node/10675781101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10677727847",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "ref:FR:ARCEP": "38072 001",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8219229,
+          45.3137036
+        ]
+      },
+      "id": "node/10677727847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10677727859",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "ref:FR:ARCEP": "38009 001",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8905433,
+          45.3479958
+        ]
+      },
+      "id": "node/10677727859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10677744586",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "ref:FR:ARCEP": "38425 001",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7800153,
+          45.395869
+        ]
+      },
+      "id": "node/10677744586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10677744599",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "ref:FR:ARCEP": "38017 001",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8655052,
+          45.407224
+        ]
+      },
+      "id": "node/10677744599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10677749969",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "ref:FR:ARCEP": "38344 001",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8004524,
+          45.3688037
+        ]
+      },
+      "id": "node/10677749969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10677762012",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "ref:FR:ARCEP": "38378 001",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7666546,
+          45.4472436
+        ]
+      },
+      "id": "node/10677762012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10680724763",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0747134,
+          45.5553729
+        ]
+      },
+      "id": "node/10680724763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10680724775",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1388023,
+          45.4974868
+        ]
+      },
+      "id": "node/10680724775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10680763908",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2012572,
+          45.4909664
+        ]
+      },
+      "id": "node/10680763908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10680763917",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3075058,
+          45.5302322
+        ]
+      },
+      "id": "node/10680763917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10680767204",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6294869,
+          45.5975772
+        ]
+      },
+      "id": "node/10680767204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10680808271",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5371308,
+          45.5461718
+        ]
+      },
+      "id": "node/10680808271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10680808282",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6569026,
+          45.5388011
+        ]
+      },
+      "id": "node/10680808282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10680824318",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4300851,
+          45.5620358
+        ]
+      },
+      "id": "node/10680824318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10680824334",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4664417,
+          45.5881599
+        ]
+      },
+      "id": "node/10680824334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10680875011",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5712515,
+          45.6321418
+        ]
+      },
+      "id": "node/10680875011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10681383190",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3822326,
+          45.486199
+        ]
+      },
+      "id": "node/10681383190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10681413406",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.473088,
+          45.4868798
+        ]
+      },
+      "id": "node/10681413406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10681739259",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6405752,
+          45.4596938
+        ]
+      },
+      "id": "node/10681739259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10681739264",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7276192,
+          45.38657
+        ]
+      },
+      "id": "node/10681739264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10685827169",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4954735,
+          45.3472466
+        ]
+      },
+      "id": "node/10685827169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10685827184",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4886236,
+          45.2961922
+        ]
+      },
+      "id": "node/10685827184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10686328354",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5610094,
+          45.3330347
+        ]
+      },
+      "id": "node/10686328354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10686328370",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5986872,
+          45.3490355
+        ]
+      },
+      "id": "node/10686328370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10686328379",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.553417,
+          45.4090493
+        ]
+      },
+      "id": "node/10686328379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10686358396",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6294433,
+          45.298282
+        ]
+      },
+      "id": "node/10686358396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10686422011",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.80749,
+          45.3339634
+        ]
+      },
+      "id": "node/10686422011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10686615858",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2388352,
+          45.2586523
+        ]
+      },
+      "id": "node/10686615858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10686615865",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.336835,
+          45.2558868
+        ]
+      },
+      "id": "node/10686615865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10686615872",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2880472,
+          45.1863437
+        ]
+      },
+      "id": "node/10686615872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10686615879",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3059373,
+          45.1471289
+        ]
+      },
+      "id": "node/10686615879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10686623778",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2310761,
+          45.126725
+        ]
+      },
+      "id": "node/10686623778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10686623790",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3746357,
+          45.1479291
+        ]
+      },
+      "id": "node/10686623790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10686623799",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3364532,
+          45.0641686
+        ]
+      },
+      "id": "node/10686623799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10686722612",
+        "fixme": "A verifier position",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3635975,
+          45.1212617
+        ]
+      },
+      "id": "node/10686722612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10686722619",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4149765,
+          45.2054687
+        ]
+      },
+      "id": "node/10686722619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10687823553",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5558211,
+          45.0744658
+        ]
+      },
+      "id": "node/10687823553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10687823569",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5473592,
+          45.1721761
+        ]
+      },
+      "id": "node/10687823569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10687842113",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6280941,
+          44.9317117
+        ]
+      },
+      "id": "node/10687842113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10687842137",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9496469,
+          44.8996422
+        ]
+      },
+      "id": "node/10687842137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10687852046",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7490442,
+          44.8150359
+        ]
+      },
+      "id": "node/10687852046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10687913528",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9025334,
+          45.089943
+        ]
+      },
+      "id": "node/10687913528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10687956813",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0781063,
+          45.0537989
+        ]
+      },
+      "id": "node/10687956813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10687973491",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0694143,
+          45.0876287
+        ]
+      },
+      "id": "node/10687973491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10687983705",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0382104,
+          45.1274687
+        ]
+      },
+      "id": "node/10687983705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10687983709",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.07761,
+          45.1571375
+        ]
+      },
+      "id": "node/10687983709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10688018566",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9576241,
+          45.3661244
+        ]
+      },
+      "id": "node/10688018566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10688053099",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.885549,
+          45.3092015
+        ]
+      },
+      "id": "node/10688053099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10693279856",
+        "operator": "Axione",
+        "owner": "ADN",
+        "ref:FR:ARCEP": "PMT 26301 SA01",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9699264,
+          45.1158236
+        ]
+      },
+      "id": "node/10693279856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10693279857",
+        "operator": "Axione",
+        "owner": "ADN",
+        "ref:FR:ARCEP": "PMT 26301 SA02",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9699298,
+          45.115811
+        ]
+      },
+      "id": "node/10693279857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10693279858",
+        "operator": "Axione",
+        "owner": "ADN",
+        "ref:FR:ARCEP": "PMT 26301 SA03",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9699343,
+          45.1157977
+        ]
+      },
+      "id": "node/10693279858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10734703841",
+        "location": "indoor",
+        "name": "NRO",
+        "operator": "Covage",
+        "operator:wikidata": "Q3001818",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5238349,
+          46.3754144
+        ]
+      },
+      "id": "node/10734703841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10734703842",
+        "addr:city": "Publier",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2019",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5211034,
+          46.3924998
+        ]
+      },
+      "id": "node/10734703842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10734703843",
+        "addr:city": "Publier",
+        "addr:street": "Rue de la Fiogère",
+        "colour": "white",
+        "height": "2.5",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:shape": "flat",
+        "source": "Survey",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5572467,
+          46.393181
+        ]
+      },
+      "id": "node/10734703843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10734703844",
+        "addr:city": "Évian-les-Bains",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "source": "Survey",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5778271,
+          46.3956036
+        ]
+      },
+      "id": "node/10734703844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10734703845",
+        "colour": "white",
+        "height": "2.5",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:shape": "flat",
+        "source": "Survey",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6029229,
+          46.3994472
+        ]
+      },
+      "id": "node/10734703845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10734703846",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2019",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6212076,
+          46.3981923
+        ]
+      },
+      "id": "node/10734703846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10734703847",
+        "location": "indoor",
+        "name": "NRO",
+        "not:operator:wikidata": "Q3001818",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5648765,
+          46.3675447
+        ]
+      },
+      "id": "node/10734703847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10734703848",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6755432,
+          46.3579567
+        ]
+      },
+      "id": "node/10734703848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10734703849",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "source": "BD Ortho IGN",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6717526,
+          46.300087
+        ]
+      },
+      "id": "node/10734703849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10734703850",
+        "location": "indoor",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7187832,
+          46.2790918
+        ]
+      },
+      "id": "node/10734703850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10734703851",
+        "location": "indoor",
+        "name": "NRO",
+        "operator": "Covage",
+        "operator:wikidata": "Q3001818",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7842579,
+          46.2935224
+        ]
+      },
+      "id": "node/10734703851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10734703852",
+        "location": "indoor",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8398486,
+          46.2673547
+        ]
+      },
+      "id": "node/10734703852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10734703853",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:orientation": "along",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5130307,
+          46.3393322
+        ]
+      },
+      "id": "node/10734703853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10734703854",
+        "colour": "white",
+        "height": "2.5",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:shape": "flat",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3716641,
+          46.3345038
+        ]
+      },
+      "id": "node/10734703854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10734703855",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:orientation": "along",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3717704,
+          46.3336754
+        ]
+      },
+      "id": "node/10734703855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10734703856",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2968321,
+          46.3487217
+        ]
+      },
+      "id": "node/10734703856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10734703857",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3000621,
+          46.3083921
+        ]
+      },
+      "id": "node/10734703857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735262585",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3643139,
+          46.263821
+        ]
+      },
+      "id": "node/10735262585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735262586",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2014",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5209613,
+          46.2845623
+        ]
+      },
+      "id": "node/10735262586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735262587",
+        "colour": "white",
+        "height": "3",
+        "location": "indoor",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6451622,
+          46.2419354
+        ]
+      },
+      "id": "node/10735262587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735262588",
+        "building:levels": "1",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:orientation": "along",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5315428,
+          46.2313272
+        ]
+      },
+      "id": "node/10735262588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735262589",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:orientation": "along",
+        "roof:shape": "gabled",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2019",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4989645,
+          46.2016026
+        ]
+      },
+      "id": "node/10735262589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735262590",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:orientation": "along",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4083193,
+          46.2065938
+        ]
+      },
+      "id": "node/10735262590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735262591",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO Taninges",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "source": "https://twitter.com/CovageSUD_EST/status/1305529993032802309/photo/1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5907865,
+          46.1033139
+        ]
+      },
+      "id": "node/10735262591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735262592",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5846606,
+          46.0907773
+        ]
+      },
+      "id": "node/10735262592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735262593",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "ref": "NRO de Magland",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6235559,
+          46.0170033
+        ]
+      },
+      "id": "node/10735262593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735262594",
+        "colour": "white",
+        "height": "2.5",
+        "name": "NRO Marnaz",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:shape": "flat",
+        "source": "https://twitter.com/CovageSUD_EST/status/1328613557676740608/photo/1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5288859,
+          46.0700164
+        ]
+      },
+      "id": "node/10735262594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735262595",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.53744,
+          46.0810884
+        ]
+      },
+      "id": "node/10735262595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735262596",
+        "name": "NRO Mieussy",
+        "operator": "COVAGE",
+        "owner": "Syane",
+        "source": "https://twitter.com/CovageSUD_EST/status/1333777962127273984/photo/1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5220039,
+          46.1333857
+        ]
+      },
+      "id": "node/10735262596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735262597",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4653624,
+          46.1365279
+        ]
+      },
+      "id": "node/10735262597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735302262",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2880664,
+          46.1895686
+        ]
+      },
+      "id": "node/10735302262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735302263",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "ref:FR:ARCEP": "FI-74012-000M",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2255146,
+          46.1857519
+        ]
+      },
+      "id": "node/10735302263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735302264",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3287104,
+          46.1682298
+        ]
+      },
+      "id": "node/10735302264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735302265",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2981229,
+          46.1559018
+        ]
+      },
+      "id": "node/10735302265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735302266",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2700721,
+          46.1419589
+        ]
+      },
+      "id": "node/10735302266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735302267",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2287506,
+          46.1617984
+        ]
+      },
+      "id": "node/10735302267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735302268",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2053614,
+          46.1256646
+        ]
+      },
+      "id": "node/10735302268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735302270",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1467148,
+          46.1435644
+        ]
+      },
+      "id": "node/10735302270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735302271",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0772997,
+          46.1449978
+        ]
+      },
+      "id": "node/10735302271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735444795",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "start_date": "2017-01",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0996684,
+          46.1216182
+        ]
+      },
+      "id": "node/10735444795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735444796",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0389571,
+          46.1184363
+        ]
+      },
+      "id": "node/10735444796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735444797",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9786823,
+          46.1109702
+        ]
+      },
+      "id": "node/10735444797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735444798",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.098741,
+          46.0940939
+        ]
+      },
+      "id": "node/10735444798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735444799",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "start_date": "2016-10",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9916696,
+          46.0651387
+        ]
+      },
+      "id": "node/10735444799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735444800",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9377163,
+          46.0167487
+        ]
+      },
+      "id": "node/10735444800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735444801",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0198595,
+          46.0324147
+        ]
+      },
+      "id": "node/10735444801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735444802",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "start_date": "2017-06",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1021846,
+          46.0338356
+        ]
+      },
+      "id": "node/10735444802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735444803",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8539403,
+          46.0498908
+        ]
+      },
+      "id": "node/10735444803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735444804",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8361995,
+          45.957111
+        ]
+      },
+      "id": "node/10735444804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447805",
+        "colour": "white",
+        "height": "2.5",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:shape": "flat",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.934566,
+          45.9621162
+        ]
+      },
+      "id": "node/10735447805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447806",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "start_date": "2016",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0439717,
+          45.9598638
+        ]
+      },
+      "id": "node/10735447806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447807",
+        "colour": "white",
+        "height": "2.5",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:shape": "flat",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9998034,
+          45.9297519
+        ]
+      },
+      "id": "node/10735447807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447808",
+        "colour": "brown",
+        "height": "3",
+        "material": "wood",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "start_date": "2018-02",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9387697,
+          45.891184
+        ]
+      },
+      "id": "node/10735447808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447809",
+        "colour": "white",
+        "height": "2.5",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:shape": "flat",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9360746,
+          45.8677936
+        ]
+      },
+      "id": "node/10735447809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447810",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9493562,
+          45.859383
+        ]
+      },
+      "id": "node/10735447810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447811",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0118411,
+          45.8626344
+        ]
+      },
+      "id": "node/10735447811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447812",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0034979,
+          45.8175923
+        ]
+      },
+      "id": "node/10735447812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447813",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0275864,
+          45.7657224
+        ]
+      },
+      "id": "node/10735447813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447814",
+        "colour": "brown",
+        "height": "3",
+        "material": "wood",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "start_date": "2017-03",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1495356,
+          45.8506197
+        ]
+      },
+      "id": "node/10735447814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447815",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1633872,
+          45.8354497
+        ]
+      },
+      "id": "node/10735447815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447816",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1494587,
+          45.7964245
+        ]
+      },
+      "id": "node/10735447816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447817",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.304021,
+          45.7492566
+        ]
+      },
+      "id": "node/10735447817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447818",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.333856,
+          45.8169222
+        ]
+      },
+      "id": "node/10735447818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447819",
+        "operator": "Altitude",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3679609,
+          45.8603733
+        ]
+      },
+      "id": "node/10735447819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447820",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3215983,
+          45.8806599
+        ]
+      },
+      "id": "node/10735447820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447821",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4115819,
+          45.9219786
+        ]
+      },
+      "id": "node/10735447821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447822",
+        "colour": "green",
+        "height": "2.5",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:shape": "flat",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1979307,
+          45.8618857
+        ]
+      },
+      "id": "node/10735447822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447823",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1935461,
+          45.9510458
+        ]
+      },
+      "id": "node/10735447823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447824",
+        "colour": "brown",
+        "height": "2.5",
+        "material": "wood",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1465621,
+          45.9654579
+        ]
+      },
+      "id": "node/10735447824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447825",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1205531,
+          45.9977369
+        ]
+      },
+      "id": "node/10735447825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447826",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "start_date": "2016-03",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2517456,
+          46.000882
+        ]
+      },
+      "id": "node/10735447826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447827",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3139603,
+          46.0549945
+        ]
+      },
+      "id": "node/10735447827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447828",
+        "name": "NRO La Roche-sur-Foron",
+        "operator": "COVAGE",
+        "owner": "Syane",
+        "source": "https://twitter.com/CovageSUD_EST/status/1354425455739359238/photo/1",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3118339,
+          46.0690231
+        ]
+      },
+      "id": "node/10735447828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735447829",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3804065,
+          46.0664456
+        ]
+      },
+      "id": "node/10735447829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735820652",
+        "building": "service",
+        "name": "NRO",
+        "operator": "Covage",
+        "operator:wikidata": "Q3001818",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6139924,
+          45.9261395
+        ]
+      },
+      "id": "node/10735820652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10735820653",
+        "colour": "brown",
+        "height": "3",
+        "material": "wood",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.662075,
+          45.9084015
+        ]
+      },
+      "id": "node/10735820653"
     }
   ]
 }
