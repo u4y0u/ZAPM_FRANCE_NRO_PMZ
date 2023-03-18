@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-01-20T19:44:55Z",
+  "timestamp": "2023-03-18T06:52:25Z",
   "features": [
     {
       "type": "Feature",
@@ -180,9 +180,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "001",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Polygon",
@@ -624,9 +624,9 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Polygon",
@@ -785,6 +785,27 @@
         ]
       },
       "id": "node/2079256311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2132375252",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7615663,
+          47.2931483
+        ]
+      },
+      "id": "node/2132375252"
     },
     {
       "type": "Feature",
@@ -1221,9 +1242,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "B08",
         "ref:FR:PTT:NRA": "60159COP",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -1243,9 +1264,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "B24",
         "ref:FR:PTT:NRA": "60159COP",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -1265,9 +1286,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "B22",
         "ref:FR:PTT:NRA": "60159COP",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -1287,9 +1308,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "B13",
         "ref:FR:PTT:NRA": "60159COP",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -1310,10 +1331,10 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT:NRA": "60159COP",
-        "street_cabinet": "telecom",
         "survey:date": "2017-09-07",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -1333,9 +1354,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "B07",
         "ref:FR:PTT:NRA": "60159COP",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -1355,9 +1376,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "B25",
         "ref:FR:PTT:NRA": "60159COP",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -1377,9 +1398,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "B21",
         "ref:FR:PTT:NRA": "60159COP",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -1399,9 +1420,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "B09",
         "ref:FR:PTT:NRA": "60159COP",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -1422,10 +1443,10 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT:NRA": "60382COM",
-        "street_cabinet": "telecom",
         "survey:date": "2018-03-25",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -1445,9 +1466,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "B16",
         "ref:FR:PTT:NRA": "60159COP",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -1467,9 +1488,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "B03",
         "ref:FR:PTT:NRA": "60159COP",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -1620,9 +1641,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "B29",
         "ref:FR:PTT:NRA": "60159COP",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -1642,9 +1663,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "B28",
         "ref:FR:PTT:NRA": "60159COP",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -2378,7 +2399,6 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref": "SR MARCONNET",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -2422,7 +2442,6 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref": "SR GRENETTE",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -2464,7 +2483,6 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref": "TJ La Poste",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -2485,10 +2503,10 @@
         "man_made": "street_cabinet",
         "mapillary": "392705095117396",
         "ref": "513",
-        "street_cabinet": "telecom",
         "survey:date": "2018-05-16",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -2529,7 +2547,6 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref": "SR HOUILLE BLANCHE",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -2776,6 +2793,7 @@
         "description": "armoire de brassage lignes cuivre",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
+        "material": "metal",
         "operator": "Orange",
         "owner": "Orange",
         "source": "survey 2015",
@@ -3085,8 +3103,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.577775,
-          44.3528256
+          2.5777437,
+          44.3528202
         ]
       },
       "id": "node/4126440650"
@@ -3097,6 +3115,7 @@
         "@id": "node/4130892457",
         "description": "Point de connexion ligne cuivre",
         "man_made": "street_cabinet",
+        "material": "metal",
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT": "BDR",
@@ -3109,8 +3128,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5759353,
-          44.3466231
+          2.5759319,
+          44.3466295
         ]
       },
       "id": "node/4130892457"
@@ -3237,9 +3256,9 @@
         "ref": "CHP A31",
         "ref:FR:PTT": "A31",
         "ref:FR:PTT:NRA": "53130CHP",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -3260,9 +3279,9 @@
         "ref": "CHP A47",
         "ref:FR:PTT": "A47",
         "ref:FR:PTT:NRA": "53130CHP",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -3412,9 +3431,11 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "owner": "Orange",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -4331,9 +4352,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "C10",
         "ref:FR:PTT:NRA": "45234MST",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -4352,9 +4373,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "F03",
         "ref:FR:PTT:NRA": "45302SAR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -4374,9 +4395,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "F02",
         "ref:FR:PTT:NRA": "45302SAR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -4395,9 +4416,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "C13",
         "ref:FR:PTT:NRA": "45234MST",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -4416,9 +4437,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "F06",
         "ref:FR:PTT:NRA": "45302SAR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -4437,9 +4458,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "F05",
         "ref:FR:PTT:NRA": "45302SAR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -4481,9 +4502,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "C44",
         "ref:FR:PTT:NRA": "45234MST",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -4527,9 +4548,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "A49",
         "ref:FR:PTT:NRA": "45234GAS",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -4601,9 +4622,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "C08",
         "ref:FR:PTT:NRA": "45234MST",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -4672,9 +4693,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "002",
         "ref:FR:PTT:NRA": "45285DOU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -4693,9 +4714,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "004",
         "ref:FR:PTT:NRA": "45285DOU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -4714,9 +4735,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "008",
         "ref:FR:PTT:NRA": "45285DOU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -4735,9 +4756,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "A37",
         "ref:FR:PTT:NRA": "45234GAS",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -4756,9 +4777,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "A13",
         "ref:FR:PTT:NRA": "45234GAS",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -4824,9 +4845,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "F08",
         "ref:FR:PTT:NRA": "45302SAR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -4845,9 +4866,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "F07",
         "ref:FR:PTT:NRA": "45302SAR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -4866,9 +4887,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "F16",
         "ref:FR:PTT:NRA": "45302SAR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -4887,9 +4908,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "F12",
         "ref:FR:PTT:NRA": "45302SAR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -4908,9 +4929,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "024",
         "ref:FR:PTT:NRA": "45285DOU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -4929,9 +4950,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "A26",
         "ref:FR:PTT:NRA": "45234GAS",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5157,9 +5178,9 @@
         "operator": "orange",
         "ref:FR:PTT": "020",
         "ref:FR:PTT:NRA": "85194SAB",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5180,9 +5201,9 @@
         "operator": "orange",
         "ref:FR:PTT": "018",
         "ref:FR:PTT:NRA": "85194SAB",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5224,9 +5245,9 @@
         "operator": "orange",
         "ref:FR:PTT": "C23",
         "ref:FR:PTT:NRA": "45234MST",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5291,9 +5312,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "C28",
         "ref:FR:PTT:NRA": "45234MST",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5313,9 +5334,9 @@
         "ref:FR:Orange": "NJR/DOU/D10",
         "ref:FR:PTT": "D10",
         "ref:FR:PTT:NRA": "45285DOU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5360,9 +5381,9 @@
         "ref:FR:Orange": "NJR/DOU/D26",
         "ref:FR:PTT": "D26",
         "ref:FR:PTT:NRA": "45285DOU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5381,9 +5402,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "D15",
         "ref:FR:PTT:NRA": "45285DOU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5437,8 +5458,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8883365,
-          47.9008073
+          1.8883274,
+          47.9007921
         ]
       },
       "id": "node/5749274661"
@@ -5551,9 +5572,9 @@
         "operator": "orange",
         "ref:FR:PTT": "A12",
         "ref:FR:PTT:NRA": "45234GAS",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5572,9 +5593,9 @@
         "operator": "orange",
         "ref:FR:PTT": "NC",
         "ref:FR:PTT:NRA": "45234GAS",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5594,9 +5615,9 @@
         "man_made": "street_cabinet",
         "ref:FR:PTT": "B03",
         "ref:FR:PTT:NRA": "45234MRC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5695,9 +5716,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "J33",
         "ref:FR:PTT:NRA": "45284SJB",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5717,9 +5738,9 @@
         "operator": "orange",
         "ref:FR:PTT": "J19",
         "ref:FR:PTT:NRA": "45284SJB",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5791,9 +5812,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "B34",
         "ref:FR:PTT:NRA": "45234MRC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5812,9 +5833,9 @@
         "operator": "orange",
         "ref:FR:PTT": "B17",
         "ref:FR:PTT:NRA": "45234MRC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5835,9 +5856,9 @@
         "operator": "orange",
         "ref:FR:PTT": "A46",
         "ref:FR:PTT:NRA": "45234GAS",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5858,9 +5879,9 @@
         "operator": "orange",
         "ref:FR:PTT": "B15",
         "ref:FR:PTT:NRA": "45234MRC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5879,9 +5900,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "NC",
         "ref:FR:PTT:NRA": "NC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5928,9 +5949,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "051",
         "ref:FR:PTT:NRA": "85194SAB",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5949,9 +5970,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "035",
         "ref:FR:PTT:NRA": "85194SAB",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5972,9 +5993,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "028",
         "ref:FR:PTT:NRA": "85194SAB",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -5993,9 +6014,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "03",
         "ref:FR:PTT:NRA": "NC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -6017,9 +6038,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "012",
         "ref:FR:PTT:NRA": "85194SAB",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -6040,9 +6061,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "029",
         "ref:FR:PTT:NRA": "85194SAB",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -6084,9 +6105,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "010",
         "ref:FR:PTT:NRA": "85194SAB",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -6106,9 +6127,9 @@
         "man_made": "street_cabinet",
         "ref:FR:PTT": "027",
         "ref:FR:PTT:NRA": "85194SAB",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -6177,9 +6198,9 @@
         "operator": "orange",
         "ref:FR:PTT": "052",
         "ref:FR:PTT:NRA": "85194SAB",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -6200,9 +6221,9 @@
         "operator": "orange",
         "ref:FR:PTT": "005",
         "ref:FR:PTT:NRA": "85194SAB",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -6434,9 +6455,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "017",
         "ref:FR:PTT:NRA": "NC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -6596,9 +6617,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "source": "Survey",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -6642,9 +6663,9 @@
         "operator": "orange",
         "ref:FR:PTT": "055",
         "ref:FR:PTT:NRA": "85194SAB",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -6664,9 +6685,9 @@
         "man_made": "street_cabinet",
         "ref:FR:PTT": "021",
         "ref:FR:PTT:NRA": "85194SAB",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -6687,9 +6708,9 @@
         "operator": "orange",
         "ref:FR:PTT": "032",
         "ref:FR:PTT:NRA": "85194SAB",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -6710,9 +6731,9 @@
         "operator": "orange",
         "ref:FR:PTT": "037",
         "ref:FR:PTT:NRA": "85166OLN",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -6733,9 +6754,9 @@
         "operator": "orange",
         "ref:FR:PTT": "058",
         "ref:FR:PTT:NRA": "85194SAB",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -6756,9 +6777,9 @@
         "operator": "orange",
         "ref:FR:PTT": "NC",
         "ref:FR:PTT:NRA": "NC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7100,9 +7121,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "042",
         "ref:FR:PTT:NRA": "91122BUR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7121,9 +7142,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "039",
         "ref:FR:PTT:NRA": "91122BUR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7144,9 +7165,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "C02",
         "ref:FR:PTT:NRA": "45234MST",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7167,9 +7188,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "NC",
         "ref:FR:PTT:NRA": "45234MST",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7337,9 +7358,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "030",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7378,9 +7399,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "043",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7400,9 +7421,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "023",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7422,9 +7443,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "028",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7444,9 +7465,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "020",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7467,9 +7488,9 @@
         "ref": "BAU055",
         "ref:FR:PTT": "BAU055",
         "ref:FR:PTT:NRA": "91377BAU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7490,9 +7511,9 @@
         "ref": "BAU024",
         "ref:FR:PTT": "BAU024",
         "ref:FR:PTT:NRA": "91377BAU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7513,9 +7534,9 @@
         "ref": "BAU019",
         "ref:FR:PTT": "BAU019",
         "ref:FR:PTT:NRA": "91377BAU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7596,9 +7617,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "056",
         "ref:FR:PTT:NRA": "91377BAU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7618,9 +7639,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "018",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7640,9 +7661,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "023",
         "ref:FR:PTT:NRA": "91377BAU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7662,9 +7683,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "054",
         "ref:FR:PTT:NRA": "91377BAU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7684,9 +7705,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "001",
         "ref:FR:PTT:NRA": "91064BIE",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7706,9 +7727,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "003",
         "ref:FR:PTT:NRA": "91064BIE",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7728,9 +7749,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "008",
         "ref:FR:PTT:NRA": "91064BIE",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7750,9 +7771,9 @@
         "man_made": "street_cabinet",
         "ref:FR:PTT": "C30",
         "ref:FR:PTT:NRA": "45234MST",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7772,9 +7793,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "035",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7794,9 +7815,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "010",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7816,9 +7837,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "036",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7838,9 +7859,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "037",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7860,9 +7881,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "019",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7882,9 +7903,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "029",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7929,9 +7950,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "014",
         "ref:FR:PTT:NRA": "91377VER",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7951,9 +7972,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "013",
         "ref:FR:PTT:NRA": "91377VER",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7973,9 +7994,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "001",
         "ref:FR:PTT:NRA": "91377VER",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -7995,9 +8016,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "006",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8017,9 +8038,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "005",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8039,9 +8060,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "014",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8061,9 +8082,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "059",
         "ref:FR:PTT:NRA": "91122BUR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8083,9 +8104,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "069",
         "ref:FR:PTT:NRA": "91122BUR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8105,9 +8126,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "037",
         "ref:FR:PTT:NRA": "91122BUR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8127,9 +8148,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "012",
         "ref:FR:PTT:NRA": "91122BUR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8149,9 +8170,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "047",
         "ref:FR:PTT:NRA": "91122BUR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8171,9 +8192,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "010",
         "ref:FR:PTT:NRA": "91122BUR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8193,9 +8214,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "017",
         "ref:FR:PTT:NRA": "91534SAC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8215,9 +8236,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "041",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8237,9 +8258,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "061",
         "ref:FR:PTT:NRA": "91377VER",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8259,9 +8280,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "017",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8281,9 +8302,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "027",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8303,9 +8324,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "022",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8325,9 +8346,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "062",
         "ref:FR:PTT:NRA": "91377VER",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8347,9 +8368,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "027",
         "ref:FR:PTT:NRA": "91534SAC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8370,9 +8391,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "F10",
         "ref:FR:PTT:NRA": "45302SAR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8895,9 +8916,9 @@
         "owner": "Orange",
         "ref": "D10",
         "ref:FR:PTT:NRA": "78343LOG",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8917,9 +8938,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "D14",
         "ref:FR:PTT:NRA": "78343LOG",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8939,9 +8960,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "D13",
         "ref:FR:PTT:NRA": "78343LOG",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8961,9 +8982,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "002",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -8983,9 +9004,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "045",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -9005,9 +9026,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "003",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -9069,9 +9090,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "C09",
         "ref:FR:PTT:NRA": "45234MST",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -9113,9 +9134,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "047",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -9135,9 +9156,9 @@
         "ref:FR:Orange": "NJR/MON/SIR",
         "ref:FR:PTT": "NC",
         "ref:FR:PTT:NRA": "NC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -9176,9 +9197,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -9218,9 +9239,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "PT005",
         "ref:FR:PTT:NRA": "91377BAU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -9240,9 +9261,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "002",
         "ref:FR:PTT:NRA": "91377BAU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -9260,9 +9281,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -9281,9 +9302,9 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT:NRA": "91377BAU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -9887,9 +9908,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "SJB/J34",
         "ref:FR:PTT:NRA": "45284SJB",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10196,8 +10217,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.4521698,
-          46.3585653
+          6.452165,
+          46.3585499
         ]
       },
       "id": "node/6185798198"
@@ -10392,9 +10413,9 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT": "E25",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10413,9 +10434,9 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT": "E26",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10435,9 +10456,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "024",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10456,9 +10477,9 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "ref:FR:PTT": "NC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10574,9 +10595,9 @@
         "operator": "orange",
         "ref:FR:PTT": "B20",
         "ref:FR:PTT:NRA": "45234MRC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10621,9 +10642,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "019",
         "ref:FR:PTT:NRA": "91534SAC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10642,9 +10663,9 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT": "SRD06",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10663,9 +10684,9 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT": "D07",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10685,9 +10706,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "008",
         "ref:FR:PTT:NRA": "91534SAC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10706,9 +10727,9 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT": "D15",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10726,9 +10747,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10769,9 +10790,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "F11",
         "ref:FR:PTT:NRA": "45302SAR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10792,9 +10813,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "C42",
         "ref:FR:PTT:NRA": "NC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10835,9 +10856,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "011",
         "ref:FR:PTT:NRA": "91534SAC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10857,9 +10878,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "014",
         "ref:FR:PTT:NRA": "91534SAC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10879,9 +10900,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "016",
         "ref:FR:PTT:NRA": "91534SAC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10901,9 +10922,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "007",
         "ref:FR:PTT:NRA": "91534SAC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -10923,9 +10944,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "012",
         "ref:FR:PTT:NRA": "91534SAC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -11093,9 +11114,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "018",
         "ref:FR:PTT:NRA": "91534SAC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -11114,9 +11135,9 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT": "E16",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -11136,9 +11157,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "006",
         "ref:FR:PTT:NRA": "91534SAC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -11267,9 +11288,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -11289,9 +11310,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:PTT": "D47",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -11358,7 +11379,6 @@
         "man_made": "street_cabinet",
         "manufacturer": "Prefatel",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -11381,9 +11401,9 @@
         "man_made": "street_cabinet",
         "ref:FR:PTT": "B24",
         "ref:FR:PTT:NRA": "45234MRC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -11451,9 +11471,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "005",
         "ref:FR:PTT:NRA": "ULI",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -11492,9 +11512,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:PTT": "NOREF",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -11512,9 +11532,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -11639,9 +11659,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:PTT": "D04",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -11661,9 +11681,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "007",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -11683,9 +11703,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "008",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -11705,9 +11725,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "011",
         "ref:FR:PTT:NRA": "BUR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -11725,9 +11745,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -11874,9 +11894,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "SR-U12",
         "source": "survey;gps",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -11896,9 +11916,9 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT": "D48",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12023,9 +12043,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:PTT": "C08",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12043,9 +12063,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:PTT": "J10",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12063,9 +12083,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12083,9 +12103,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12103,9 +12123,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:PTT": "F16",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12124,9 +12144,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "038",
         "ref:FR:PTT:NRA": "45234DOU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12173,15 +12193,15 @@
         "operator": "Orange",
         "ref:FR:PTT": "A56",
         "ref:FR:PTT:NRA": "45234GAS",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           1.9035392,
-          47.9113178
+          47.9113258
         ]
       },
       "id": "node/6356078786"
@@ -12195,9 +12215,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:PTT": "B19",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12217,9 +12237,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:PTT": "GRA-B19",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12345,9 +12365,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "C05",
         "ref:FR:PTT:NRA": "45234MST",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12368,9 +12388,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "C26",
         "ref:FR:PTT:NRA": "45234MST",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12416,9 +12436,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:PTT": "SJB/J21",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12542,9 +12562,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "B08",
         "ref:FR:PTT:NRA": "MRC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12687,9 +12707,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "NC",
         "ref:FR:PTT:NRA": "NC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12712,9 +12732,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "32",
         "ref:FR:PTT:NRA": "45285DOU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12736,9 +12756,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "NC",
         "ref:FR:PTT:NRA": "NC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12775,9 +12795,9 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT": "G93",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12843,9 +12863,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "E18",
         "ref:FR:PTT:NRA": "45234SOU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12866,9 +12886,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "E05",
         "ref:FR:PTT:NRA": "45234SOU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12889,9 +12909,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "B25",
         "ref:FR:PTT:NRA": "45234MRC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12912,9 +12932,9 @@
         "operator": "orange",
         "ref:FR:PTT": "031",
         "ref:FR:PTT:NRA": "45285DOU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12935,9 +12955,9 @@
         "operator": "orange",
         "ref:FR:PTT": "034",
         "ref:FR:PTT:NRA": "45285DOU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -12958,9 +12978,9 @@
         "operator": "orange",
         "ref:FR:PTT": "014",
         "ref:FR:PTT:NRA": "45285DOU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -13106,14 +13126,13 @@
       "properties": {
         "@id": "node/6433841944",
         "colour": "gray",
-        "fixme": "ref",
         "inscription": "PTT",
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -13158,9 +13177,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "V57",
         "ref:FR:PTT:NRA": "91687VIR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -13196,9 +13215,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -13452,9 +13471,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "040",
         "ref:FR:PTT:NRA": "45285DOU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -13543,9 +13562,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -13698,9 +13717,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "E23",
         "ref:FR:PTT:NRA": "45234SOU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -13719,9 +13738,9 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT": "B23",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -13870,9 +13889,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:PTT": "D06",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -13891,10 +13910,12 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
-        "ref:FR:PTT": "74012DEF",
+        "owner": "Orange",
+        "ref:FR:PTT": "74012NAT",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -13909,7 +13930,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6483931852",
-        "colour": "green",
+        "colour": "#2e392b",
+        "colour:ref": "RAL 6009",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
@@ -13934,10 +13956,12 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "owner": "Orange",
         "ref:FR:PTT": "74012POS",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -13956,10 +13980,12 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "owner": "Orange",
         "ref:FR:PTT": "74012CLO",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -14322,10 +14348,12 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "owner": "Orange",
         "ref:FR:PTT": "74012COC",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -14364,10 +14392,12 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "owner": "Orange",
         "ref:FR:PTT": "74008RAV",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -14377,6 +14407,27 @@
         ]
       },
       "id": "node/6565802361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6570644775",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2282918,
+          46.194091
+        ]
+      },
+      "id": "node/6570644775"
     },
     {
       "type": "Feature",
@@ -14756,9 +14807,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "021",
         "ref:FR:PTT:NRA": "91661VBO",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -15105,9 +15156,9 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT": "G45",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -15232,9 +15283,9 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT": "E09",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -15357,9 +15408,9 @@
         "colour": "beige",
         "man_made": "street_cabinet",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -15419,9 +15470,12 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:PTT": "74305PLA",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -15537,9 +15591,9 @@
         "colour": "beige",
         "man_made": "street_cabinet",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -15556,9 +15610,9 @@
         "@id": "node/6615192964",
         "man_made": "street_cabinet",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -15802,13 +15856,16 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6629252725",
-        "colour": "green",
+        "colour": "#2e392b",
+        "colour:ref": "RAL 6009",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "owner": "Orange",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -15847,9 +15904,9 @@
         "colour": "grey",
         "man_made": "street_cabinet",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -15868,9 +15925,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:PTT:NRA": "23077FLM",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -15884,34 +15941,16 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/6637140852",
-        "hinge": "horizontal",
-        "man_made": "street_cabinet",
-        "operator": "Orange",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "copper"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.2363492,
-          46.1870422
-        ]
-      },
-      "id": "node/6637140852"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/6637140863",
         "colour": "beige",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "owner": "Orange",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -15930,15 +15969,18 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:PTT": "74012DUS",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.2433692,
-          46.1880031
+          6.2433578,
+          46.188005
         ]
       },
       "id": "node/6637586766"
@@ -15972,10 +16014,12 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "owner": "Orange",
         "ref:FR:PTT": "74012FAU",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -15993,9 +16037,9 @@
         "colour": "brown",
         "man_made": "street_cabinet",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16050,9 +16094,11 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "owner": "Orange",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16111,10 +16157,12 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "owner": "Orange",
         "ref:FR:PTT": "74012ROM",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16152,10 +16200,12 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "owner": "Orange",
         "ref:FR:PTT": "74008MAR",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16195,9 +16245,9 @@
         "operator": "orange",
         "ref:FR:PTT": "DOU 09",
         "ref:FR:PTT:NRA": "45285DOU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16218,9 +16268,9 @@
         "ref": "LJU026",
         "ref:FR:PTT": "LJU026",
         "ref:FR:PTT:NRA": "91345LJU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16241,9 +16291,9 @@
         "ref": "LJU073",
         "ref:FR:PTT": "LJU073",
         "ref:FR:PTT:NRA": "91345LJU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16264,9 +16314,9 @@
         "ref": "LJU065",
         "ref:FR:PTT": "LJU065",
         "ref:FR:PTT:NRA": "91345LJU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16287,9 +16337,9 @@
         "ref": "LJU019",
         "ref:FR:PTT": "LJU019",
         "ref:FR:PTT:NRA": "91345LJU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16310,9 +16360,9 @@
         "ref": "LJU010",
         "ref:FR:PTT": "LJU010",
         "ref:FR:PTT:NRA": "91345LJU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16333,9 +16383,9 @@
         "ref": "LJU041",
         "ref:FR:PTT": "LJU041",
         "ref:FR:PTT:NRA": "91345LJU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16355,9 +16405,9 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT:NRA": "91345LJU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16379,9 +16429,9 @@
         "ref": "LJU027",
         "ref:FR:PTT": "LJU027",
         "ref:FR:PTT:NRA": "91345LJU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16401,9 +16451,9 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT:NRA": "91345LJU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16468,9 +16518,9 @@
         "ref": "LJU025",
         "ref:FR:PTT": "LJU025",
         "ref:FR:PTT:NRA": "91345LJU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16489,9 +16539,9 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT:NRA": "91345LJU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16626,9 +16676,9 @@
         "colour": "grey",
         "man_made": "street_cabinet",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16646,9 +16696,9 @@
         "colour": "grey",
         "man_made": "street_cabinet",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16666,9 +16716,9 @@
         "colour": "grey",
         "man_made": "street_cabinet",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16686,9 +16736,9 @@
         "colour": "grey",
         "man_made": "street_cabinet",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16706,9 +16756,9 @@
         "colour": "grey",
         "man_made": "street_cabinet",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16729,9 +16779,9 @@
         "ref": "LJU009",
         "ref:FR:PTT": "LJU009",
         "ref:FR:PTT:NRA": "91345LJU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16752,9 +16802,9 @@
         "ref": "LJU074",
         "ref:FR:PTT": "LJU074",
         "ref:FR:PTT:NRA": "91345LJU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16775,9 +16825,9 @@
         "ref": "LJU060",
         "ref:FR:PTT": "LJU060",
         "ref:FR:PTT:NRA": "91345LJU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16842,9 +16892,9 @@
         "colour": "grey",
         "man_made": "street_cabinet",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16885,9 +16935,9 @@
         "ref": "LJU058",
         "ref:FR:PTT": "LJU058",
         "ref:FR:PTT:NRA": "91345LJU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16908,9 +16958,9 @@
         "ref": "LJU045",
         "ref:FR:PTT": "LJU045",
         "ref:FR:PTT:NRA": "91345LJU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16931,9 +16981,9 @@
         "ref": "LJU07N",
         "ref:FR:PTT": "LJU07N",
         "ref:FR:PTT:NRA": "91345LJU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16951,9 +17001,9 @@
         "colour": "grey",
         "man_made": "street_cabinet",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -16974,9 +17024,9 @@
         "ref": "LJU049",
         "ref:FR:PTT": "LJU049",
         "ref:FR:PTT:NRA": "91345LJU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -17085,9 +17135,9 @@
         "ref": "LJU002",
         "ref:FR:PTT": "LJU002",
         "ref:FR:PTT:NRA": "91345LJU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -17108,9 +17158,9 @@
         "ref:FR:Orange": "NJR/L9B/LAU",
         "ref:FR:PTT": "L9B41",
         "ref:FR:PTT:NRA": "41219L9B",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -17131,9 +17181,9 @@
         "ref": "LJU007",
         "ref:FR:PTT": "LJU007",
         "ref:FR:PTT:NRA": "91345LJU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -17382,9 +17432,9 @@
         "ref": "LJU044",
         "ref:FR:PTT": "LJU044",
         "ref:FR:PTT:NRA": "91345LJU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -17705,9 +17755,9 @@
         "ref": "LJU022",
         "ref:FR:PTT": "LJU022",
         "ref:FR:PTT:NRA": "91345LJU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -17726,9 +17776,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "NC",
         "ref:FR:PTT:NRA": "NC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -17749,9 +17799,9 @@
         "mapillary": "768702064014029",
         "ref:FR:PTT": "B11",
         "ref:FR:PTT:NRA": "MRC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -17815,10 +17865,10 @@
         "name": "FR1/GAL",
         "operator": "Orange",
         "ref:FR:PTT": "GAL",
-        "street_cabinet": "telecom",
         "survey:date": "2019-10-30",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -17837,10 +17887,10 @@
         "name": "FR1/LOI",
         "operator": "Orange",
         "ref:FR:PTT": "LOI",
-        "street_cabinet": "telecom",
         "survey:date": "2019-10-30",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -17859,10 +17909,10 @@
         "name": "FR1/GAM",
         "operator": "Orange",
         "ref:FR:PTT": "GAM",
-        "street_cabinet": "telecom",
         "survey:date": "2019-10-30",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -17881,10 +17931,10 @@
         "name": "FR1/LXI",
         "operator": "Orange",
         "ref:FR:PTT": "LXI",
-        "street_cabinet": "telecom",
         "survey:date": "2019-10-30",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -17927,9 +17977,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:PTT": "NC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -17947,9 +17997,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -17967,15 +18017,15 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.0489465,
-          50.6345004
+          3.0489813,
+          50.6344867
         ]
       },
       "id": "node/6937706951"
@@ -17987,9 +18037,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -18007,9 +18057,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -18027,9 +18077,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -18047,9 +18097,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -18067,9 +18117,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -18223,7 +18273,6 @@
         "name": "Dauphiné",
         "operator": "Orange",
         "ref:FR:PTT": "DAU",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -18493,10 +18542,12 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "owner": "Orange",
         "ref:FR:PTT": "74012GAR",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -18639,6 +18690,7 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:PTT": "RHO",
+        "ref:FR:PTT:NRA": "74010GLI",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -18646,8 +18698,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.1189335,
-          45.8988077
+          6.1189677,
+          45.898783
         ]
       },
       "id": "node/7045195088"
@@ -18767,10 +18819,12 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "owner": "Orange",
         "ref:FR:PTT": "74133GAI",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -18788,10 +18842,12 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "owner": "Orange",
         "ref:FR:PTT": "74012TOU",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -18913,14 +18969,38 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/7096008402",
+        "colour": "beige",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "noref": "yes",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2481677,
+          46.1916963
+        ]
+      },
+      "id": "node/7096008402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/7096279989",
         "man_made": "street_cabinet",
         "name": "AMB/CHA",
         "operator": "Orange",
         "ref:FR:PTT": "CHA",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -18939,9 +19019,9 @@
         "name": "TSS/POR",
         "operator": "Orange",
         "ref:FR:PTT": "POR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -18960,9 +19040,9 @@
         "name": "TSS/0ER",
         "operator": "Orange",
         "ref:FR:PTT": "0ER",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -18981,9 +19061,9 @@
         "name": "TSS/0AT",
         "operator": "Orange",
         "ref:FR:PTT": "0AT",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19002,9 +19082,9 @@
         "name": "TSS/00B",
         "operator": "Orange",
         "ref:FR:PTT": "00B",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19023,9 +19103,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19044,9 +19124,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19065,9 +19145,9 @@
         "name": "6SB/SAM",
         "operator": "Orange",
         "ref:FR:PTT": "SAM",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19086,9 +19166,9 @@
         "name": "LM1/MON",
         "operator": "Orange",
         "ref:FR:PTT": "MON",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19107,9 +19187,9 @@
         "name": "C8H/OUC",
         "operator": "Orange",
         "ref:FR:PTT": "OUC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19339,9 +19419,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "C18",
         "ref:FR:PTT:NRA": "MST",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19359,9 +19439,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:PTT": "NC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19489,9 +19569,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19510,9 +19590,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19531,9 +19611,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19552,9 +19632,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19573,9 +19653,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19594,9 +19674,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19615,9 +19695,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19636,9 +19716,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19657,9 +19737,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19678,9 +19758,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19699,9 +19779,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19720,9 +19800,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19802,9 +19882,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19823,9 +19903,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19844,9 +19924,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19865,9 +19945,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19886,9 +19966,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19907,9 +19987,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -19994,9 +20074,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -20015,9 +20095,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -20036,9 +20116,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -20057,9 +20137,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -20362,9 +20442,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -20626,9 +20706,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:PTT": "J18",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -20823,9 +20903,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -20930,7 +21010,6 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -21293,9 +21372,11 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "owner": "Orange",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -22006,7 +22087,6 @@
         "location": "pavement",
         "man_made": "street_cabinet",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -22028,7 +22108,6 @@
         "location": "pavement",
         "man_made": "street_cabinet",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -22186,9 +22265,9 @@
         "ref": "ATM A12",
         "ref:FR:PTT": "A12",
         "ref:FR:PTT:NRA": "ATM",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -22385,9 +22464,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref": "ATM A15",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -22405,9 +22484,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -22536,9 +22615,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref": "ATH",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -22556,9 +22635,9 @@
         "connection_point": "primary",
         "man_made": "street_cabinet",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -22622,9 +22701,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "063",
         "ref:FR:PTT:NRA": "91122BUR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -22645,9 +22724,9 @@
         "ref": "019",
         "ref:FR:PTT": "019",
         "ref:FR:PTT:NRA": "91122BUR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -22690,9 +22769,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "021",
         "ref:FR:PTT:NRA": "91122BUR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -22712,9 +22791,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "066",
         "ref:FR:PTT:NRA": "91122BUR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -22757,9 +22836,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "004",
         "ref:FR:PTT:NRA": "91122BUR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -22888,9 +22967,9 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT:NRA": "91274GOV",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -22910,9 +22989,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "011",
         "ref:FR:PTT:NRA": "91274GOV",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -22996,7 +23075,6 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -24387,11 +24465,9 @@
         "man_made": "street_cabinet",
         "name": "SR",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
-        "utility": "telecom",
-        "wikimedia_commons": "File:SR Périgueux (4).jpg"
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -31726,11 +31802,10 @@
         "man_made": "street_cabinet",
         "name": "SR",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:PMZ_ADR_24520_MONE.jpg"
+        "wikimedia_commons": "File:PMZ ADR 24520 MONE.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -32211,9 +32286,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -32365,8 +32440,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.9243977,
-          44.913786
+          0.9243963,
+          44.9137746
         ]
       },
       "id": "node/7500636484"
@@ -34171,10 +34246,12 @@
         "man_made": "street_cabinet",
         "name": "SR",
         "operator": "Orange",
+        "ref": "BEA105",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRA_ZO_Saint-Avit-Sénieur_9B2_24.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -34300,13 +34377,14 @@
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRA_ZO_Naussannes_9C2_24.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.7247382,
-          44.7585406
+          0.7247322,
+          44.7585481
         ]
       },
       "id": "node/7501349206"
@@ -35335,9 +35413,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "C20",
         "ref:FR:PTT:NRA": "45234MST",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -35472,9 +35550,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "TGY004",
         "ref:FR:PTT:NRA": "45241UVC",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -37365,13 +37443,14 @@
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "File:PMZ_NA_24454_BADA.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.1087418,
-          44.9514489
+          0.1087058,
+          44.9514616
         ]
       },
       "id": "node/7555978136"
@@ -38250,7 +38329,6 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -38387,9 +38465,9 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT": "V39",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -38409,9 +38487,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -38432,9 +38510,9 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT": "V46",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -38454,9 +38532,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -38477,9 +38555,9 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT": "V30",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -39798,9 +39876,9 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT": "V20",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -40056,9 +40134,9 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref": "VIR V62",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -40226,9 +40304,9 @@
       "properties": {
         "@id": "node/7652371475",
         "man_made": "street_cabinet",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -42760,9 +42838,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -43975,9 +44053,9 @@
       "properties": {
         "@id": "node/8059159798",
         "man_made": "street_cabinet",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -44464,9 +44542,9 @@
         "@id": "node/8202316838",
         "location": "green",
         "man_made": "street_cabinet",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -44481,10 +44559,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8211368573",
-        "connection_point": "primary",
-        "location": "pavement",
+        "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -45459,9 +45537,9 @@
       "properties": {
         "@id": "node/8286231455",
         "man_made": "street_cabinet",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -45691,9 +45769,9 @@
       "properties": {
         "@id": "node/8293604856",
         "man_made": "street_cabinet",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -45801,9 +45879,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "F07",
         "ref:FR:PTT:NRA": "45302SAR",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -46351,9 +46429,11 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "owner": "Orange",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -46371,9 +46451,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref": "C03",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -46393,9 +46473,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:PTT": "D04",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -46638,9 +46718,9 @@
         "operator": "Orange",
         "ref:FR:Orange": "NJR/SAY/008",
         "ref:FR:PTT": "SAY 008",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -46842,9 +46922,9 @@
         "@id": "node/8736593798",
         "man_made": "street_cabinet",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -47209,10 +47289,12 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "owner": "Orange",
         "ref:FR:PTT": "74008BIE",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -47363,10 +47445,10 @@
         "owner": "Orange",
         "ref:FR:PTT": "003",
         "source": "Orthophotographie CRAIG - IGN - Feder Auvergne-Rhône-Alpes 2019; survey",
-        "street_cabinet": "telecom",
         "survey:date": "2021-08-03",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -47387,10 +47469,10 @@
         "owner": "Orange",
         "ref:FR:PTT": "002",
         "source": "Orthophotographie CRAIG - IGN - Feder Auvergne-Rhône-Alpes 2019; survey",
-        "street_cabinet": "telecom",
         "survey:date": "2021-08-03",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -48105,9 +48187,11 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9130153134",
+        "colour": "green",
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "ref:FR:PTT": "74163RON",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper"
@@ -50502,7 +50586,6 @@
         "man_made": "street_cabinet",
         "name": "SR",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -51338,10 +51421,12 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "owner": "Orange",
         "ref:FR:PTT": "74305MON",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -51871,7 +51956,6 @@
         "man_made": "street_cabinet",
         "name": "SR",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -53436,9 +53520,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:Orange": "NJR/RO1/PAP",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -53796,7 +53880,6 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:Orange": "PWN/CUC/561",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -59275,9 +59358,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:PTT": "S16",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -60579,7 +60662,6 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:Orange": "NJR/CHX/S56",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -60710,7 +60792,6 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:Orange": "NJR/CHX/S22",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -60732,7 +60813,6 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:Orange": "NJR/CHX/S51",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -60908,7 +60988,6 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:Orange": "NJR/CHX/S55",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -60930,7 +61009,6 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:Orange": "NJR/CHX/S07",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -60996,7 +61074,6 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:Orange": "NJR/CHX/S02",
-        "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -61212,9 +61289,11 @@
         "hinge": "horizontal",
         "man_made": "street_cabinet",
         "operator": "Orange",
+        "owner": "Orange",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -63185,7 +63264,6 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref": "B47",
-        "ref:FR:Orange": "PK2/AMS/B47",
         "street_cabinet": "telecom",
         "telecom": "connection_point",
         "telecom:medium": "copper",
@@ -63203,129 +63281,9 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/10147778246",
-        "man_made": "street_cabinet",
-        "name": "Bd Strasbourg",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref": "B44",
-        "ref:FR:Orange": "PK2/AMS/B44",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2779425,
-          49.8888648
-        ]
-      },
-      "id": "node/10147778246"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/10147778247",
-        "man_made": "street_cabinet",
-        "name": "Sq Quatre Chênes",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref": "B51",
-        "ref:FR:Orange": "PK2/AMS/B51",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.278783,
-          49.88972
-        ]
-      },
-      "id": "node/10147778247"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/10147870619",
-        "man_made": "street_cabinet",
-        "name": "Bd Strasbourg",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref": "B23",
-        "ref:FR:Orange": "PK2/AMS/B23",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2770086,
-          49.8905629
-        ]
-      },
-      "id": "node/10147870619"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/10147870678",
-        "man_made": "street_cabinet",
-        "name": "GDER Petit St Jean",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref": "C50",
-        "ref:FR:Orange": "PK2/AMM/C50",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2636275,
-          49.8878954
-        ]
-      },
-      "id": "node/10147870678"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/10147873888",
-        "man_made": "street_cabinet",
-        "name": "R ABBAYE",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref": "A07",
-        "ref:FR:Orange": "PK2/AMP/A07",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2773535,
-          49.8960985
-        ]
-      },
-      "id": "node/10147873888"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/10147873889",
         "man_made": "street_cabinet",
-        "name": "R ABBAYE",
+        "name": "R Abbaye",
         "operator": "Orange",
         "owner": "Orange",
         "ref": "A21",
@@ -63343,54 +63301,6 @@
         ]
       },
       "id": "node/10147873889"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/10147873891",
-        "man_made": "street_cabinet",
-        "name": "R CRESSENT",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref": "A17",
-        "ref:FR:Orange": "PK2/AMP/A17",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.286606,
-          49.8955402
-        ]
-      },
-      "id": "node/10147873891"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/10147873892",
-        "man_made": "street_cabinet",
-        "name": "BD FAIDHERBE",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref": "A03",
-        "ref:FR:Orange": "PK2/AMP/A03",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2887902,
-          49.8967762
-        ]
-      },
-      "id": "node/10147873892"
     },
     {
       "type": "Feature",
@@ -63415,54 +63325,6 @@
         ]
       },
       "id": "node/10147873893"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/10147936244",
-        "man_made": "street_cabinet",
-        "name": "BD JARDIN DES PLANTES",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref": "A26",
-        "ref:FR:Orange": "PK2/AMP/A26",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2954056,
-          49.898886
-        ]
-      },
-      "id": "node/10147936244"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/10147936253",
-        "man_made": "street_cabinet",
-        "name": "R BAUDELOQUE",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref": "A27",
-        "ref:FR:Orange": "PK2/AMP/A27",
-        "street_cabinet": "telecom",
-        "telecom": "connection_point",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3000624,
-          49.8999048
-        ]
-      },
-      "id": "node/10147936253"
     },
     {
       "type": "Feature",
@@ -68089,6 +67951,503 @@
         ]
       },
       "id": "node/10571190875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10572661285",
+        "colour": "green",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/GAS/A32",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8994389,
+          47.9009901
+        ]
+      },
+      "id": "node/10572661285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10582724709",
+        "colour": "beige",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:PTT": "74012VAL",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2363177,
+          46.187012
+        ]
+      },
+      "id": "node/10582724709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10588185082",
+        "colour": "white",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/MRC/B20",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9303848,
+          47.8838643
+        ]
+      },
+      "id": "node/10588185082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10588530790",
+        "colour": "white",
+        "location": "pole",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/DEV/001/0GM",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9855517,
+          47.8861904
+        ]
+      },
+      "id": "node/10588530790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10588746323",
+        "colour": "grey",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "NJR/DEVM002",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9602096,
+          47.8889149
+        ]
+      },
+      "id": "node/10588746323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10597046715",
+        "colour": "beige",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:PTT": "74133MIL",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.217931,
+          46.191646
+        ]
+      },
+      "id": "node/10597046715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10597046721",
+        "colour": "beige",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:PTT": "74008GEN",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2241297,
+          46.1928713
+        ]
+      },
+      "id": "node/10597046721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10599724814",
+        "colour": "beige",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:PTT": "74012PLO",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2396047,
+          46.1962006
+        ]
+      },
+      "id": "node/10599724814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10602640726",
+        "colour": "brown",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:PTT": "74133ARV",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2157176,
+          46.1887463
+        ]
+      },
+      "id": "node/10602640726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10612079730",
+        "man_made": "street_cabinet",
+        "material": "metal",
+        "operator": "Orange",
+        "source": "survey 2022",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0147044,
+          48.635729
+        ]
+      },
+      "id": "node/10612079730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10616917117",
+        "colour": "beige",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.276646,
+          46.2031499
+        ]
+      },
+      "id": "node/10616917117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10649591495",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:Orange": "QVR/NCB/B29",
+        "ref:FR:PTT": "B29",
+        "ref:FR:PTT:NRA": "NCB",
+        "source": "survey",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4602409,
+          46.305089
+        ]
+      },
+      "id": "node/10649591495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10659718890",
+        "man_made": "street_cabinet",
+        "material": "metal",
+        "operator": "Orange",
+        "source": "survey 2022",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0550745,
+          48.6280502
+        ]
+      },
+      "id": "node/10659718890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10671903259",
+        "man_made": "street_cabinet",
+        "material": "metal",
+        "operator": "Orange",
+        "source": "survey 2022",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0044558,
+          48.6242469
+        ]
+      },
+      "id": "node/10671903259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10677289452",
+        "colour": "beige",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "ref:FR:PTT": "74012MAL",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2442047,
+          46.1924952
+        ]
+      },
+      "id": "node/10677289452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10678778802",
+        "colour": "green",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2301882,
+          46.1852294
+        ]
+      },
+      "id": "node/10678778802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10690806806",
+        "colour": "beige",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "owner": "Orange",
+        "street_cabinet": "telecom",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2646237,
+          46.2009622
+        ]
+      },
+      "id": "node/10690806806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10712542918",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:PTT:NRA": "15016AY6",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32607,
+          44.9839395
+        ]
+      },
+      "id": "node/10712542918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10736051583",
+        "operator": "Orange",
+        "ref": "DSLAM",
+        "telecom": "connection_point",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0348705,
+          48.4891211
+        ]
+      },
+      "id": "node/10736051583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10738223445",
+        "colour": "green",
+        "connection_point": "primary",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.377086,
+          46.0729348
+        ]
+      },
+      "id": "node/10738223445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10741728987",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4472915,
+          43.6069185
+        ]
+      },
+      "id": "node/10741728987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10741728988",
+        "colour": "white",
+        "hinge": "horizontal",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "telecom": "connection_point",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4478189,
+          43.6073169
+        ]
+      },
+      "id": "node/10741728988"
     }
   ]
 }

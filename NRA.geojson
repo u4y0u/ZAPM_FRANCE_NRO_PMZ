@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-01-20T19:46:54Z",
+  "timestamp": "2023-03-18T06:54:29Z",
   "features": [
     {
       "type": "Feature",
@@ -2578,6 +2578,7 @@
         "man_made": "telephone_office",
         "name": "Brest Nord",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "29019BRN",
         "source": "BMO2009",
         "telecom": "exchange",
@@ -2589,56 +2590,56 @@
         "coordinates": [
           [
             [
-              -4.5017906,
-              48.4120144
+              -4.5017875,
+              48.4119837
             ],
             [
-              -4.5019457,
-              48.4120151
+              -4.5019426,
+              48.4119844
             ],
             [
-              -4.5019468,
-              48.4119445
+              -4.5019437,
+              48.4119138
             ],
             [
-              -4.5019404,
-              48.4119445
+              -4.5019373,
+              48.4119138
             ],
             [
-              -4.5019408,
-              48.4119185
+              -4.5019377,
+              48.4118878
             ],
             [
-              -4.5019463,
-              48.4119185
+              -4.5019432,
+              48.4118878
             ],
             [
-              -4.5019489,
-              48.4116544
+              -4.5019458,
+              48.4116237
             ],
             [
-              -4.5017958,
-              48.411653
+              -4.5017927,
+              48.4116223
             ],
             [
-              -4.5017932,
-              48.4119168
+              -4.5017901,
+              48.4118861
             ],
             [
-              -4.5018177,
-              48.4119169
+              -4.5018146,
+              48.4118862
             ],
             [
-              -4.5018174,
-              48.4119456
+              -4.5018143,
+              48.4119149
             ],
             [
-              -4.5017919,
-              48.4119455
+              -4.5017888,
+              48.4119148
             ],
             [
-              -4.5017906,
-              48.4120144
+              -4.5017875,
+              48.4119837
             ]
           ]
         ]
@@ -6003,6 +6004,7 @@
         "building": "service",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2017",
         "telecom": "exchange",
@@ -10300,6 +10302,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/64141299",
+        "addr:housenumber": "3",
+        "addr:street": "Avenue Jean Moulin",
         "building": "service",
         "operator": "Orange",
         "ref:FR:PTT": "63307ROM",
@@ -13869,7 +13873,9 @@
       "properties": {
         "@id": "way/66857720",
         "building": "service",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "35126GUH",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
@@ -15152,6 +15158,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
         "telecom": "exchange",
@@ -16636,7 +16643,9 @@
         "building": "service",
         "communication:microwave": "yes",
         "man_made": "telephone_office",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "05139ETE",
         "source": "ANFR Opendata",
         "telecom": "exchange",
@@ -16647,24 +16656,24 @@
         "coordinates": [
           [
             [
-              5.9371223,
-              44.6954824
+              5.9371169,
+              44.6954848
             ],
             [
-              5.937074,
-              44.6954214
+              5.9370667,
+              44.6954236
             ],
             [
-              5.9371701,
-              44.6953839
+              5.9371679,
+              44.6953817
             ],
             [
-              5.9372183,
+              5.9372181,
               44.695443
             ],
             [
-              5.9371223,
-              44.6954824
+              5.9371169,
+              44.6954848
             ]
           ]
         ]
@@ -17642,7 +17651,9 @@
       "properties": {
         "@id": "way/70266985",
         "building": "service",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "35033BGC",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
@@ -21409,12 +21420,12 @@
               45.7152448
             ],
             [
-              4.8100438,
-              45.7151291
+              4.8100287,
+              45.7151682
             ],
             [
-              4.8099891,
-              45.7151179
+              4.8099844,
+              45.7151575
             ],
             [
               4.8100009,
@@ -27051,6 +27062,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
         "telecom": "exchange",
@@ -39131,8 +39143,9 @@
         "building": "service",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
-        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2021",
         "telecom": "exchange",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -39142,24 +39155,24 @@
         "coordinates": [
           [
             [
-              7.2013193,
-              43.6870344
+              7.2013218,
+              43.6870355
             ],
             [
-              7.2012737,
-              43.6870267
+              7.201264,
+              43.6870251
             ],
             [
-              7.2012862,
-              43.6869885
+              7.2012785,
+              43.6869849
             ],
             [
-              7.2013317,
-              43.6869963
+              7.2013356,
+              43.6869931
             ],
             [
-              7.2013193,
-              43.6870344
+              7.2013218,
+              43.6870355
             ]
           ]
         ]
@@ -40702,10 +40715,9 @@
         "@id": "way/95861807",
         "building": "service",
         "man_made": "telephone_office",
-        "name": "Central téléphonique",
         "operator": "Orange",
         "owner": "Orange",
-        "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2023",
         "telecom": "exchange",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -40715,24 +40727,24 @@
         "coordinates": [
           [
             [
-              -0.0417478,
-              43.7571169
+              -0.0417439,
+              43.7571172
             ],
             [
-              -0.0418289,
-              43.7571154
+              -0.0418249,
+              43.7571158
             ],
             [
-              -0.0418272,
-              43.7570683
+              -0.0418233,
+              43.7570688
             ],
             [
-              -0.0417462,
-              43.7570697
+              -0.0417423,
+              43.7570702
             ],
             [
-              -0.0417478,
-              43.7571169
+              -0.0417439,
+              43.7571172
             ]
           ]
         ]
@@ -45719,6 +45731,7 @@
         "building": "utility",
         "name": "Les Landiers",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "73065LDI",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
         "start_date": "2009",
@@ -45847,6 +45860,7 @@
         "building": "utility",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "73065CHY",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
         "telecom": "exchange",
@@ -50533,7 +50547,6 @@
         "addr:city": "Blois",
         "addr:housenumber": "2",
         "addr:postcode": "41000",
-        "addr:street": "Boulevard de l'Industrie",
         "building": "service",
         "name": "BLOIS VENDOME",
         "operator": "Orange",
@@ -50580,10 +50593,6 @@
       "type": "Feature",
       "properties": {
         "@id": "way/118851256",
-        "addr:city": "Blois",
-        "addr:housenumber": "84",
-        "addr:postcode": "41000",
-        "addr:street": "Avenue de Châteaudun",
         "building": "service",
         "name": "BLOIS INDUSTRIE",
         "operator": "Orange",
@@ -54848,24 +54857,24 @@
         "coordinates": [
           [
             [
-              0.778384,
-              46.009684
+              0.7783721,
+              46.0097047
             ],
             [
-              0.778503,
-              46.00966
+              0.7784904,
+              46.009679
             ],
             [
-              0.778528,
-              46.00972
+              0.7785172,
+              46.0097386
             ],
             [
-              0.778409,
-              46.009744
+              0.778399,
+              46.0097643
             ],
             [
-              0.778384,
-              46.009684
+              0.7783721,
+              46.0097047
             ]
           ]
         ]
@@ -59830,6 +59839,7 @@
         "building:levels": "1",
         "name": "Central Telecom",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "FLE57",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
         "telecom": "exchange",
@@ -63291,6 +63301,10 @@
             [
               2.2699444,
               48.6472547
+            ],
+            [
+              2.2700286,
+              48.6472402
             ],
             [
               2.2701004,
@@ -68933,6 +68947,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
         "telecom": "exchange",
@@ -70567,6 +70582,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
         "telecom": "exchange",
@@ -72153,24 +72169,24 @@
         "coordinates": [
           [
             [
-              4.5173547,
-              48.7787634
+              4.5173638,
+              48.7787481
             ],
             [
-              4.5173137,
-              48.7788173
+              4.5173228,
+              48.778802
             ],
             [
-              4.5172641,
-              48.7788102
+              4.5172732,
+              48.7787949
             ],
             [
-              4.517311,
-              48.7787489
+              4.5173201,
+              48.7787336
             ],
             [
-              4.5173547,
-              48.7787634
+              4.5173638,
+              48.7787481
             ]
           ]
         ]
@@ -74028,7 +74044,9 @@
       "properties": {
         "@id": "way/177439087",
         "building": "service",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "56184QBT",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
@@ -75996,6 +76014,7 @@
         "building": "service",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
         "telecom": "exchange",
@@ -77662,6 +77681,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
         "telecom": "exchange",
@@ -78784,32 +78804,28 @@
         "coordinates": [
           [
             [
-              6.3830434,
-              44.0236647
+              6.3830406,
+              44.0236641
             ],
             [
-              6.3829839,
-              44.0236558
+              6.3829809,
+              44.0236557
             ],
             [
-              6.3830047,
-              44.0235813
+              6.3830038,
+              44.0235851
             ],
             [
-              6.3830653,
-              44.0235907
+              6.3830605,
+              44.0235927
             ],
             [
-              6.3830569,
-              44.0236187
+              6.38305,
+              44.0236303
             ],
             [
-              6.3830551,
-              44.0236249
-            ],
-            [
-              6.3830434,
-              44.0236647
+              6.3830406,
+              44.0236641
             ]
           ]
         ]
@@ -82009,6 +82025,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -85651,6 +85668,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -85988,6 +86006,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -86294,24 +86313,24 @@
         "coordinates": [
           [
             [
-              6.3787985,
+              6.3788387,
+              43.6050552
+            ],
+            [
+              6.3789251,
               43.6050494
             ],
             [
-              6.3788849,
-              43.6050436
-            ],
-            [
-              6.378897,
-              43.6051381
-            ],
-            [
-              6.3788106,
+              6.3789372,
               43.6051439
             ],
             [
-              6.3787985,
-              43.6050494
+              6.3788508,
+              43.6051497
+            ],
+            [
+              6.3788387,
+              43.6050552
             ]
           ]
         ]
@@ -87055,6 +87074,7 @@
         "man_made": "telephone_office",
         "name": "Central Téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
         "telecom": "exchange",
@@ -87533,24 +87553,24 @@
         "coordinates": [
           [
             [
-              -3.9670229,
-              48.2246962
+              -3.9670228,
+              48.2246842
             ],
             [
-              -3.9670332,
-              48.2247923
+              -3.9670333,
+              48.2247807
             ],
             [
-              -3.9671271,
-              48.2247878
+              -3.9671273,
+              48.2247762
             ],
             [
               -3.9671168,
-              48.2246917
+              48.2246797
             ],
             [
-              -3.9670229,
-              48.2246962
+              -3.9670228,
+              48.2246842
             ]
           ]
         ]
@@ -88913,6 +88933,48 @@
         ]
       },
       "id": "way/256114977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/257445896",
+        "building": "service",
+        "man_made": "telephone_office",
+        "operator": "Orange",
+        "owner": "Orange",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2014",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.040717,
+              48.272468
+            ],
+            [
+              -0.040761,
+              48.272504
+            ],
+            [
+              -0.040806,
+              48.272478
+            ],
+            [
+              -0.040759,
+              48.272447
+            ],
+            [
+              -0.040717,
+              48.272468
+            ]
+          ]
+        ]
+      },
+      "id": "way/257445896"
     },
     {
       "type": "Feature",
@@ -91306,6 +91368,7 @@
         "building": "service",
         "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2014",
         "telecom": "exchange",
@@ -93287,6 +93350,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "75108LAB",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
         "telecom": "exchange",
@@ -97285,24 +97349,24 @@
         "coordinates": [
           [
             [
-              3.1538344,
-              46.8683426
+              3.1538316,
+              46.8683334
             ],
             [
-              3.1537187,
-              46.8682483
+              3.1537273,
+              46.8682505
             ],
             [
-              3.1538002,
-              46.8682016
+              3.1537952,
+              46.8682105
             ],
             [
-              3.1539158,
-              46.8682959
+              3.1538996,
+              46.8682934
             ],
             [
-              3.1538344,
-              46.8683426
+              3.1538316,
+              46.8683334
             ]
           ]
         ]
@@ -104931,9 +104995,9 @@
         "ref:FR:Orange": "NJR/5MG",
         "ref:FR:PTT": "5MG45",
         "ref:FR:PTT:NRA": "450755MG",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Polygon",
@@ -105575,8 +105639,12 @@
       "properties": {
         "@id": "way/882996861",
         "building": "service",
+        "building:levels": "1",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "operator:wikipedia": "fr:Orange (entreprise)",
         "ref:FR:PTT": "74305M5B",
+        "roof:shape": "flat",
         "telecom": "exchange",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -107602,6 +107670,7 @@
         "mapillary": "-fTzjxvJBFxKCP9pBHTDkA",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "survey:date": "2017-06-01",
         "telecom": "exchange",
         "telecom:medium": "copper"
@@ -109190,7 +109259,7 @@
         "name": "Central téléphonique",
         "note": "Central téléphonique dans batiment tiers",
         "operator": "Orange",
-        "ref:FR:PTT": "74010GLI",
+        "ref:FR:PTT:NRA": "74010GLI",
         "telecom": "exchange",
         "telecom:medium": "copper"
       },
@@ -111074,10 +111143,10 @@
         "man_made": "street_cabinet",
         "mapillary": "853072805277879",
         "ref:FR:PTT": "442162GY",
-        "street_cabinet": "telecom",
         "survey:date": "2017-08-04",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -111137,10 +111206,10 @@
         "man_made": "street_cabinet",
         "mapillary": "324722395688608",
         "ref:FR:PTT": "441422RR",
-        "street_cabinet": "telecom",
         "survey:date": "2017-08-31",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -111340,7 +111409,6 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:PTT": "43268YVZ",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -111839,7 +111907,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5688737042",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "42218FAU",
         "source": "ANFR Opendata",
@@ -112079,7 +112149,6 @@
         "operator": "Orange",
         "owner": "Dorsal",
         "ref:FR:PTT": "870209B3",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -112262,9 +112331,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "36116M6V",
         "source": "Survey",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -112283,9 +112352,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "360375CP",
         "source": "Survey",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -112360,7 +112429,6 @@
         "operator:wikidata": "Q1431486",
         "operator:wikipedia": "fr:Orange (entreprise)",
         "ref:FR:PTT": "43244TB3",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -112403,9 +112471,9 @@
         "@id": "node/5962065685",
         "man_made": "street_cabinet",
         "ref:FR:PTT": "271569VC",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -112631,7 +112699,9 @@
       "properties": {
         "@id": "node/5983631367",
         "man_made": "street_cabinet",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "221954PL",
         "street_cabinet": "telecom",
@@ -113364,9 +113434,9 @@
         "@id": "node/6064783610",
         "man_made": "street_cabinet",
         "ref:FR:PTT": "91201DMO",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -113384,9 +113454,9 @@
         "man_made": "street_cabinet",
         "name": "Draveil Internet Haut Débit",
         "ref:FR:PTT": "91201DED",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -113403,9 +113473,9 @@
         "@id": "node/6064783614",
         "man_made": "street_cabinet",
         "ref:FR:PTT": "91201DGE",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -113422,9 +113492,9 @@
         "@id": "node/6064783615",
         "man_made": "street_cabinet",
         "ref:FR:PTT": "91201DVI",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -113441,9 +113511,9 @@
         "@id": "node/6064783618",
         "man_made": "street_cabinet",
         "ref:FR:PTT": "91201DVE",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -113462,9 +113532,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:PTT": "014506VL",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -119207,10 +119277,12 @@
         "@id": "node/6289849277",
         "description": "NRA MeD Semondans",
         "man_made": "street_cabinet",
+        "name": "Orange",
         "operator": "Orange",
-        "street_cabinet": "telecom",
+        "operator:wikidata": "Q1431486",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -120387,7 +120459,6 @@
         "location": "grass",
         "man_made": "street_cabinet",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -120547,6 +120618,7 @@
         "@id": "node/6435527142",
         "name": "Chambéry Verney",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "73065VER",
         "telecom": "exchange",
         "telecom:medium": "copper"
@@ -120665,9 +120737,9 @@
         "operator": "Orange",
         "owner": "Vendée Numérique",
         "ref:FR:PTT": "851975VD",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -120686,9 +120758,9 @@
         "operator": "Orange",
         "owner": "Dorsal",
         "ref": "23212UML",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -120709,9 +120781,9 @@
         "operator:wikidata": "Q1431486",
         "operator:wikipedia": "fr:Orange (entreprise)",
         "ref:FR:PTT": "78010QAR",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -120730,6 +120802,7 @@
         "man_made": "street_cabinet",
         "name": "NRA MeD",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "39381NA9",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -120801,9 +120874,9 @@
         "operator:wikidata": "Q1431486",
         "operator:wikipedia": "fr:Orange (entreprise)",
         "ref:FR:PTT": "78162CSJ",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -120840,9 +120913,9 @@
         "man_made": "street_cabinet",
         "operator": "Dorsal",
         "ref:FR:PTT": "23264VDI",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -120882,9 +120955,9 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:PTT": "63293LQU",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -121245,7 +121318,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6761549670",
+        "name": "NRA Saint-Denis-en-Val",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "NJR/DEV/000",
         "ref:FR:PTT": "DEV45",
         "ref:FR:PTT:NRA": "45274DEV",
@@ -121483,9 +121558,9 @@
         "man_made": "street_cabinet",
         "ref:FR:PTT": "5BY45",
         "ref:FR:PTT:NRA": "450595BY",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -121703,9 +121778,9 @@
         "man_made": "street_cabinet",
         "ref:FR:PTT": "5VC45",
         "ref:FR:PTT:NRA": "453415VC",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -121801,9 +121876,9 @@
         "man_made": "street_cabinet",
         "ref:FR:PTT": "MPB45",
         "ref:FR:PTT:NRA": "45075MPB",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -121925,9 +122000,9 @@
         "man_made": "street_cabinet",
         "ref:FR:PTT": "5PF45",
         "ref:FR:PTT:NRA": "452555PF",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -122789,9 +122864,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "CU941",
         "ref:FR:PTT:NRA": "41047CU9",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -122872,9 +122947,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "VNH41",
         "ref:FR:PTT:NRA": "41212VNH",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -122896,9 +122971,9 @@
         "ref:FR:Orange": "NJR/V1F",
         "ref:FR:PTT": "V1F41",
         "ref:FR:PTT:NRA": "41281V1F",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -122920,9 +122995,9 @@
         "ref:FR:FRA": "4VL41",
         "ref:FR:FRA:NRA": "412904VL",
         "ref:FR:Orange": "NJR/4VL",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -122989,9 +123064,9 @@
         "operator": "Orange",
         "ref:FR:PTT": "LV745",
         "ref:FR:PTT:NRA": "45232LV7",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -123175,6 +123250,7 @@
         "@id": "node/7045017306",
         "name": "La Motte Servolex",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "73179MSL",
         "telecom": "exchange",
         "telecom:medium": "copper"
@@ -123220,9 +123296,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "6SB41",
         "ref:FR:PTT:NRA": "412336SB",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -123245,9 +123321,9 @@
         "owner": "Orange",
         "ref:FR:PTT": "C8H41",
         "ref:FR:PTT:NRA": "41170C8H",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -123266,9 +123342,9 @@
         "name": "NRA MED",
         "operator": "Orange",
         "owner": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -123411,9 +123487,9 @@
         "name": "5OL85",
         "operator": "Orange",
         "ref:FR:Orange": "851125OL",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -123566,6 +123642,7 @@
         "@id": "node/7151936819",
         "name": "RIV42",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "42186RIV",
         "telecom": "exchange",
@@ -123953,7 +124030,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7163759415",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "telecom": "exchange",
         "telecom:medium": "copper"
       },
@@ -125727,7 +125806,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7188596090",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "29189PGT",
         "telecom": "exchange",
@@ -127361,7 +127442,6 @@
         "man_made": "street_cabinet",
         "operator": "Orange",
         "ref:FR:PTT": "43213S6C",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -128774,11 +128854,13 @@
         "man_made": "street_cabinet",
         "name": "NRA ZO Saint-Avit-Sénieur",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "9B2 24",
         "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "copper",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRA_ZO_Saint-Avit-Sénieur_9B2_24.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -129013,7 +129095,7 @@
         "telecom": "exchange",
         "telecom:medium": "copper",
         "utility": "telecom",
-        "wikimedia_commons": "File:NRA_Tr%C3%A9lissac_TRE_24.jpg"
+        "wikimedia_commons": "File:NRA Trélissac TRE 24.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -129082,7 +129164,7 @@
         "ref": "RAZ 24",
         "telecom": "exchange",
         "telecom:medium": "copper",
-        "wikimedia_commons": "File:NRA_Razac-sur-l%27Isle_RAZ_24.jpg"
+        "wikimedia_commons": "File:NRA Razac-sur-l'Isle RAZ 24.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -129705,16 +129787,18 @@
         "capacity": "750",
         "name": "NRA Beaumont",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "BEA 24",
         "telecom": "exchange",
         "telecom:medium": "copper",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRA_Beaumont_BEA_24.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.7690695,
-          44.769197
+          0.7690642,
+          44.7692015
         ]
       },
       "id": "node/7566157758"
@@ -131393,14 +131477,16 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7599811300",
+        "addr:city": "Lacropte",
         "capacity": "250",
         "name": "NRA Lacropte",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "LAE 24",
         "telecom": "exchange",
         "telecom:medium": "copper",
         "utility": "telecom",
-        "wikimedia_commons": "https://commons.wikimedia.org/wiki/File:NRA_Lacropte_LAE_24.jpg"
+        "wikimedia_commons": "File:NRA_Lacropte_LAE_24.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -132198,17 +132284,19 @@
         "man_made": "street_cabinet",
         "name": "NRA ZO Naussannes",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "9C2 24",
         "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "copper",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRA_ZO_Naussannes_9C2_24.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.7247773,
-          44.7585491
+          0.7247755,
+          44.758554
         ]
       },
       "id": "node/7617638544"
@@ -135796,7 +135884,6 @@
         "addr:city": "Blois",
         "addr:housenumber": "39",
         "addr:postcode": "41000",
-        "addr:street": "Rue Montesquieu",
         "name": "Blois Europe",
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
@@ -136731,7 +136818,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8342887458",
-        "operator": "PTT(Orange)",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "telecom": "exchange",
         "telecom:medium": "copper"
       },
@@ -137048,9 +137137,9 @@
         "operator": "Orange",
         "ref": "JYL63",
         "ref:FR:PTT": "63370JYL",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -137068,9 +137157,9 @@
         "operator": "Orange",
         "ref": "B6363",
         "ref:FR:PTT": "63410B63",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -137091,9 +137180,9 @@
         "operator:wikipedia": "fr:Orange (entreprise)",
         "ref": "VHL63",
         "ref:FR:PTT": "63450VHL",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -137111,9 +137200,9 @@
         "operator": "Orange",
         "ref": "V6G63",
         "ref:FR:PTT": "63467V6G",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -137152,9 +137241,9 @@
         "operator": "Orange",
         "ref": "L6C63",
         "ref:FR:PTT": "63064L6C",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -137191,9 +137280,9 @@
         "operator": "Orange",
         "ref": "S3S63",
         "ref:FR:PTT": "63388S3S",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -137211,9 +137300,9 @@
         "operator": "Orange",
         "ref": "S9B63",
         "ref:FR:PTT": "63408S9B",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -137231,9 +137320,9 @@
         "operator": "Orange",
         "ref": "M2F63",
         "ref:FR:PTT": "63223M2F",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -137251,9 +137340,9 @@
         "operator": "Orange",
         "ref": "YOU63",
         "ref:FR:PTT": "63471YOU",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -137271,9 +137360,9 @@
         "operator": "Orange",
         "ref": "Y1A63",
         "ref:FR:PTT": "63471Y1A",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -137646,9 +137735,9 @@
         "@id": "node/8644975694",
         "man_made": "street_cabinet",
         "ref:FR:PTT:NRA": "722002MK",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -137755,9 +137844,9 @@
         "@id": "node/8716059335",
         "man_made": "street_cabinet",
         "ref:FR:PTT:NRA": "721872MW",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -137824,9 +137913,9 @@
         "@id": "node/8734826781",
         "man_made": "street_cabinet",
         "ref:FR:PTT:NRA": "722752NL",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -138024,10 +138113,10 @@
         "owner": "Auvergne Haut Débit",
         "ref:FR:PTT": "03299VSH",
         "source": "Orthophotographie CRAIG - IGN - Feder Auvergne-Rhône-Alpes 2019; survey",
-        "street_cabinet": "telecom",
         "survey:date": "2021-08-03",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -138048,10 +138137,10 @@
         "owner": "Auvergne Haut Débit",
         "ref:FR:PTT": "03263S5V",
         "source": "Orthophotographie CRAIG - IGN - Feder Auvergne-Rhône-Alpes 2019; survey",
-        "street_cabinet": "telecom",
         "survey:date": "2021-08-03",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -138277,9 +138366,9 @@
         "@id": "node/9178884415",
         "man_made": "street_cabinet",
         "ref:FR:PTT:NRA": "72306X2B",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -138585,9 +138674,9 @@
         "@id": "node/9354195128",
         "man_made": "street_cabinet",
         "ref:FR:PTT:NRA": "721552LI",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -138604,9 +138693,9 @@
         "@id": "node/9354195129",
         "man_made": "street_cabinet",
         "ref:FR:PTT:NRA": "722682BK",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -140188,17 +140277,19 @@
         "man_made": "street_cabinet",
         "name": "NRA MeD Saint-Martin-de-Gurson",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "T1Z 24",
         "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "copper",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRA_MeD_Saint-Martin-de-Gurson_T1Z_24.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.108862,
-          44.9514782
+          0.1088604,
+          44.9514823
         ]
       },
       "id": "node/9386522014"
@@ -141930,6 +142021,7 @@
         "man_made": "street_cabinet",
         "name": "NRA MeD",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "39490UPM",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -141998,9 +142090,9 @@
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "39573VDD",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -142063,10 +142155,11 @@
         "man_made": "street_cabinet",
         "name": "NRA MeD",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "39520JSV",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -142529,6 +142622,7 @@
         "man_made": "street_cabinet",
         "name": "NRA MeD",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "39313NNY",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -142705,10 +142799,11 @@
         "man_made": "street_cabinet",
         "name": "NRA MeD",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "39112HGW",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -142947,6 +143042,7 @@
         "man_made": "street_cabinet",
         "name": "NRA MeD",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "39471UFE",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -143167,6 +143263,7 @@
         "man_made": "street_cabinet",
         "name": "NRA MeD",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "392963LD",
         "street_cabinet": "telecom",
         "telecom": "exchange",
@@ -144788,9 +144885,9 @@
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "21491PM7",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -144811,9 +144908,9 @@
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "214212MY",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -144833,9 +144930,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21494IPY",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -144855,9 +144952,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21084YBL",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -144877,9 +144974,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21490PV6",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -144900,9 +144997,9 @@
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "211432AN",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -144924,9 +145021,9 @@
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "21077YLM",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -144947,9 +145044,9 @@
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "21077YMM",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -144970,9 +145067,9 @@
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "2120210C",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -144992,9 +145089,9 @@
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "21296EGV",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -145015,9 +145112,9 @@
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "21524RXM",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -145876,9 +145973,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21601SZM",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -145898,9 +145995,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21625TN1",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -145920,9 +146017,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21228DBM",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -145942,9 +146039,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21065B12",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -145964,9 +146061,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21673VYE",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -145986,9 +146083,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21120XBS",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146008,9 +146105,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21091NAX",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146030,9 +146127,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21570EBI",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146052,9 +146149,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21476BP3",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146074,9 +146171,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21036BX1",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146096,9 +146193,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21677VPD",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146118,9 +146215,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21588B13",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146140,9 +146237,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "215668PV",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146162,9 +146259,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21274FY2",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146184,9 +146281,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21567XSP",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146206,9 +146303,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21363IMG",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146228,9 +146325,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21325JY2",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146250,9 +146347,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "210095RY",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146272,9 +146369,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21181CTK",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146294,9 +146391,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "212516EY",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146316,9 +146413,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21447YMU",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146338,9 +146435,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "213544LT",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146360,9 +146457,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "212226CU",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146382,9 +146479,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21703VMM",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146404,9 +146501,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21349LP8",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146426,9 +146523,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21349LM8",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146448,9 +146545,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "215847SV",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146495,9 +146592,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "212731FM",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146517,9 +146614,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "210134EY",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146539,9 +146636,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "210516RC",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146561,9 +146658,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21477NPA",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146583,9 +146680,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "215929VI",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146605,9 +146702,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "210026GY",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146627,9 +146724,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21033XAS",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146649,9 +146746,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "216484TU",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146671,9 +146768,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21141UCP",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146693,9 +146790,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21168EVY",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146715,9 +146812,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "215371SF",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146737,9 +146834,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21613YSB",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146759,9 +146856,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21244EG2",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146781,9 +146878,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21298EYV",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146803,9 +146900,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "211286AM",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146825,9 +146922,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21457IDA",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146847,9 +146944,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21177CPJ",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146869,9 +146966,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21177YCY",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146891,9 +146988,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21381MDI",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146913,9 +147010,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21687VM3",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146935,9 +147032,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "214454TM",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146957,9 +147054,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21434YXM",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146979,9 +147076,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21335KLC",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -147001,9 +147098,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21548G2M",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -147023,9 +147120,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21538AXM",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -147045,9 +147142,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21635THM",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -147067,9 +147164,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21203YFM",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -147089,9 +147186,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21426MM9",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -147111,9 +147208,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21681VCM",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -147133,9 +147230,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21247OIM",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -147155,9 +147252,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "216762AM",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -147177,9 +147274,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "212055EM",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -147199,9 +147296,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21497T2M",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -147221,9 +147318,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21431YAM",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -147243,9 +147340,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "216962VM",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -147265,9 +147362,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21544JCP",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -147287,9 +147384,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21197JCR",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -147309,9 +147406,9 @@
         "name": "NRA MeD",
         "operator": "Orange",
         "ref:FR:PTT": "21489EPG",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -147332,9 +147429,9 @@
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "21262AFL",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -147555,9 +147652,9 @@
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "21041AVF",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -147578,9 +147675,9 @@
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "21207UCR",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -147601,9 +147698,9 @@
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "21304YGC",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -147625,9 +147722,9 @@
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "21118TBU",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -147648,9 +147745,9 @@
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "21063BNJ",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -148526,7 +148623,6 @@
       "properties": {
         "@id": "node/9969930806",
         "capacity": "150",
-        "fixme": "position à vérifier",
         "man_made": "street_cabinet",
         "name": "NRA MeD Paunat",
         "operator": "Orange",
@@ -148535,7 +148631,8 @@
         "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "copper",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRA_MeD_Paunat_PUK_24.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -151936,51 +152033,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/10263344638",
-        "name": "PIC-SRTHD1",
-        "note": "DSL Collect Ethernet",
-        "operator": "Orange",
-        "operator:wikidata": "Q1431486",
-        "ref:FR:Orange": "PIC-SRTHD1",
-        "telecom": "exchange",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2811786,
-          49.8772335
-        ]
-      },
-      "id": "node/10263344638"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/10263353676",
-        "man_made": "street_cabinet",
-        "name": "PIC-SRTHD2",
-        "note": "DSL Collect Ethernet",
-        "operator": "Orange",
-        "operator:wikidata": "Q1431486",
-        "ref:FR:Orange": "PIC-SRTHD2",
-        "telecom": "exchange",
-        "telecom:medium": "copper",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2762553,
-          49.8754816
-        ]
-      },
-      "id": "node/10263353676"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/10263353677",
         "name": "NRA Amiens",
         "operator": "Orange",
@@ -152899,9 +152951,9 @@
         "@id": "node/10270255292",
         "man_made": "street_cabinet",
         "ref:FR:PTT:NRA": "722531SR",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -153411,6 +153463,27 @@
         ]
       },
       "id": "node/10571126449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10712542917",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "operator": "Orange",
+        "ref:FR:PTT:NRA": "15016AY6",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3260345,
+          44.9839385
+        ]
+      },
+      "id": "node/10712542917"
     }
   ]
 }
