@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-03-18T06:54:29Z",
+  "timestamp": "2023-03-31T14:50:22Z",
   "features": [
     {
       "type": "Feature",
@@ -27014,6 +27014,7 @@
         "operator:wikidata": "Q1431486",
         "operator:wikipedia": "fr:Orange (entreprise)",
         "owner": "Orange",
+        "roof:shape": "flat",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -63260,6 +63261,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
         "telecom": "exchange",
@@ -66258,7 +66260,6 @@
         "@id": "way/152846313",
         "building": "service",
         "man_made": "telephone_office",
-        "name": "Central téléphonique",
         "operator": "Orange",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
@@ -99920,9 +99921,9 @@
         "@id": "way/461842119",
         "man_made": "street_cabinet",
         "operator": "Orange",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Polygon",
@@ -107919,10 +107920,16 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2047107391",
+        "addr:city": "Guingamp",
+        "addr:housenumber": "24",
+        "addr:postcode": "22200",
+        "addr:street": "Rue Anatole le Braz",
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
+        "ref": "22070GGP",
         "telecom": "exchange",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -111823,7 +111830,9 @@
       "properties": {
         "@id": "node/5676366773",
         "man_made": "telephone_office",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "25475QUI",
         "telecom": "exchange",
@@ -112588,27 +112597,6 @@
         ]
       },
       "id": "node/5983631350"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/5983631356",
-        "man_made": "street_cabinet",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref:FR:PTT": "222234PK",
-        "street_cabinet": "telecom",
-        "telecom": "exchange",
-        "telecom:medium": "copper"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.1905627,
-          48.5661874
-        ]
-      },
-      "id": "node/5983631356"
     },
     {
       "type": "Feature",
@@ -116579,8 +116567,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.8412585,
-          47.4231678
+          5.8412364,
+          47.4231725
         ]
       },
       "id": "node/6289848948"
@@ -116621,8 +116609,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.084162,
-          47.7457571
+          6.0841188,
+          47.7457827
         ]
       },
       "id": "node/6289848950"
@@ -117717,8 +117705,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.3158807,
-          47.5001048
+          6.3159165,
+          47.5001199
         ]
       },
       "id": "node/6289849202"
@@ -118215,11 +118203,13 @@
         "@id": "node/6289849226",
         "description": "NRA MeD Champvans",
         "man_made": "street_cabinet",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "701256CV",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -118236,11 +118226,13 @@
         "@id": "node/6289849227",
         "description": "NRA MeD Vadans",
         "man_made": "street_cabinet",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "705108VA",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -118727,8 +118719,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.1047332,
-          47.3903591
+          6.1046897,
+          47.390367
         ]
       },
       "id": "node/6289849250"
@@ -119135,10 +119127,12 @@
         "@id": "node/6289849270",
         "description": "NRA MeD Remondans Vaivre",
         "man_made": "street_cabinet",
+        "name": "Orange",
         "operator": "Orange",
-        "street_cabinet": "telecom",
+        "operator:wikidata": "Q1431486",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -119712,9 +119706,9 @@
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "25085RVB",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -127486,17 +127480,18 @@
         "operator": "Orange",
         "owner": "Tarn-et-Garonne Numérique",
         "ref:FR:PTT": "82077ELG",
-        "source": "BD ORTHO® 2019; survey",
+        "source": "IGN / BD ORTHO® - 2022;survey",
         "start_date": "2019-04-01",
         "street_cabinet": "telecom",
+        "survey:date": "2021-04-21",
         "telecom": "exchange",
         "telecom:medium": "copper"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.3173287,
-          44.2086666
+          1.3173267,
+          44.2086654
         ]
       },
       "id": "node/7393479923"
@@ -136888,7 +136883,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8342887466",
-        "operator": "PTT(Orange)",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "telecom": "exchange",
         "telecom:medium": "copper"
       },
@@ -136905,7 +136902,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8342887468",
-        "operator": "PTT(Orange)",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "telecom": "exchange",
         "telecom:medium": "copper"
       },
@@ -142624,9 +142623,9 @@
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "39313NNY",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -153484,6 +153483,138 @@
         ]
       },
       "id": "node/10712542917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10761654536",
+        "addr:city": "Saint-Agathon",
+        "addr:postcode": "22200",
+        "addr:street": "Rue de Bel Orme",
+        "operator": "Orange/France Télécom",
+        "ref": "22272SZI",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1065169,
+          48.5518791
+        ]
+      },
+      "id": "node/10761654536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10761677745",
+        "addr:city": "Ploumagoar",
+        "addr:postcode": "22970",
+        "addr:street": "Square des Rochers",
+        "operator": "Orange/France Télécom",
+        "ref": "22225PMG",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.13448,
+          48.5410075
+        ]
+      },
+      "id": "node/10761677745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10761685072",
+        "addr:city": "Saint-Agathon",
+        "addr:housenumber": "2",
+        "addr:postcode": "22200",
+        "addr:street": "Tartarin",
+        "operator": "Orange",
+        "ref": "22272SAM",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1197284,
+          48.5652215
+        ]
+      },
+      "id": "node/10761685072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10761697618",
+        "addr:city": "Kermoroc'h",
+        "addr:postcode": "22140",
+        "addr:street": "LA CROIX BLANCHE",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref": "22091KMR",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1854671,
+          48.6242561
+        ]
+      },
+      "id": "node/10761697618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10761698062",
+        "addr:city": "Plouisy",
+        "addr:housenumber": "15",
+        "addr:postcode": "22200",
+        "addr:street": "Rue des Écoliers",
+        "name": "Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref": "22223PY5",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1830411,
+          48.5777317
+        ]
+      },
+      "id": "node/10761698062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10761756763",
+        "addr:city": "Trévérec",
+        "addr:postcode": "22290",
+        "addr:street": "Rue de la Vallée",
+        "operator": "Orange/France Télécom",
+        "ref": "22378TEC",
+        "telecom": "exchange",
+        "telecom:medium": "copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0580229,
+          48.654928
+        ]
+      },
+      "id": "node/10761756763"
     }
   ]
 }

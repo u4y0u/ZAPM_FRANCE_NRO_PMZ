@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-03-18T06:50:24Z",
+  "timestamp": "2023-03-31T14:47:14Z",
   "features": [
     {
       "type": "Feature",
@@ -1569,52 +1569,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/520913772",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "start_date": "2017-09",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.1862289,
-              46.0375975
-            ],
-            [
-              6.1862694,
-              46.0375814
-            ],
-            [
-              6.1863238,
-              46.0376476
-            ],
-            [
-              6.1862832,
-              46.0376637
-            ],
-            [
-              6.1862289,
-              46.0375975
-            ]
-          ]
-        ]
-      },
-      "id": "way/520913772"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/528882873",
         "building": "service",
         "colour": "white",
@@ -1945,50 +1899,6 @@
         ]
       },
       "id": "way/653220328"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/660332079",
-        "building": "service",
-        "building:prefabricated": "yes",
-        "colour": "white",
-        "height": "2.5",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:shape": "flat",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.4632239,
-              46.0716101
-            ],
-            [
-              6.4632222,
-              46.0715856
-            ],
-            [
-              6.463305,
-              46.0715828
-            ],
-            [
-              6.4633066,
-              46.0716074
-            ],
-            [
-              6.4632239,
-              46.0716101
-            ]
-          ]
-        ]
-      },
-      "id": "way/660332079"
     },
     {
       "type": "Feature",
@@ -8500,7 +8410,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7149976273",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "75104BDV",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -12012,8 +11924,15 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7464881196",
+        "addr:city": "Guingamp",
+        "addr:housenumber": "24",
+        "addr:postcode": "22200",
+        "addr:street": "Rue Anatole le Braz",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Megalis",
+        "ref": "22070GGP",
         "ref:FR:Megalis": "GGP",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -13113,8 +13032,8 @@
         "@id": "node/7738008100",
         "man_made": "street_cabinet",
         "operator": "SFR",
+        "operator:wikidata": "Q218765",
         "owner": "SFR",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -34964,6 +34883,52 @@
         ]
       },
       "id": "node/10735820653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10743213906",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "start_date": "2017-09",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1862714,
+          46.0376223
+        ]
+      },
+      "id": "node/10743213906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10743213908",
+        "colour": "white",
+        "height": "2.5",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:shape": "flat",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4632557,
+          46.0715964
+        ]
+      },
+      "id": "node/10743213908"
     }
   ]
 }
