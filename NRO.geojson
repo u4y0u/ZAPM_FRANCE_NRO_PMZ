@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-03-31T14:47:14Z",
+  "timestamp": "2023-07-17T07:09:15Z",
   "features": [
     {
       "type": "Feature",
@@ -13,6 +13,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
         "telecom": "exchange",
@@ -1399,9 +1400,58 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/443074328",
+        "addr:city": "Thorens-Glières",
+        "addr:street": "Route des Chappes",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "start_date": "2016-03",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.2517385,
+              46.0009153
+            ],
+            [
+              6.2517226,
+              46.0008524
+            ],
+            [
+              6.2517637,
+              46.0008474
+            ],
+            [
+              6.2517786,
+              46.00091
+            ],
+            [
+              6.2517385,
+              46.0009153
+            ]
+          ]
+        ]
+      },
+      "id": "way/443074328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/483533115",
         "building": "service",
-        "name": "NRO du Porge",
+        "description": "NRO du Porge",
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:Orange": "33333GEW",
@@ -3315,6 +3365,45 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/777175913",
+        "building": "service",
+        "operator": "XPFibre",
+        "owner": "THD38",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.0195853,
+              45.4328447
+            ],
+            [
+              6.0196493,
+              45.4328153
+            ],
+            [
+              6.0197673,
+              45.4329419
+            ],
+            [
+              6.0197034,
+              45.4329713
+            ],
+            [
+              6.0195853,
+              45.4328447
+            ]
+          ]
+        ]
+      },
+      "id": "way/777175913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/788649798",
         "building": "service",
         "name": "NRO de Plautignan",
@@ -3649,7 +3738,9 @@
       "properties": {
         "@id": "way/798139873",
         "building": "yes",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Megalis",
         "ref:FR:Megalis": "ROS",
         "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2020",
@@ -5426,24 +5517,24 @@
         "coordinates": [
           [
             [
-              1.7311533,
-              45.4655642
+              1.7311878,
+              45.4655525
             ],
             [
-              1.7311627,
-              45.4655454
+              1.7311968,
+              45.4655331
             ],
             [
-              1.7312311,
-              45.4655633
+              1.7312664,
+              45.4655491
             ],
             [
-              1.7312217,
-              45.465583
+              1.7312573,
+              45.4655685
             ],
             [
-              1.7311533,
-              45.4655642
+              1.7311878,
+              45.4655525
             ]
           ]
         ]
@@ -6698,6 +6789,56 @@
         ]
       },
       "id": "way/1125639197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1159150594",
+        "building": "service",
+        "building:colour": "silver",
+        "building:material": "metal",
+        "building:prefabricated": "yes",
+        "manufacturer": "Smitt Technology",
+        "operator": "Orange",
+        "owner": "Régie Auvergne Numérique",
+        "roof:colour": "silver",
+        "roof:material": "metal",
+        "roof:shape": "flat",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2023;IGN / BD ORTHO® - 2020;survey",
+        "start_date": "2014-09-03",
+        "survey:date": "2021-05-26",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.3448861,
+              45.2180642
+            ],
+            [
+              2.3448557,
+              45.2180616
+            ],
+            [
+              2.3448649,
+              45.2180095
+            ],
+            [
+              2.3448953,
+              45.2180122
+            ],
+            [
+              2.3448861,
+              45.2180642
+            ]
+          ]
+        ]
+      },
+      "id": "way/1159150594"
     },
     {
       "type": "Feature",
@@ -8237,6 +8378,7 @@
         "@id": "node/7149262578",
         "name": "XBN44",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "44109XBN",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -8690,7 +8832,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7150959940",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "37233SP1",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -8947,6 +9091,7 @@
         "@id": "node/7151277371",
         "name": "BEL60",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "60057BEL",
         "telecom": "exchange",
@@ -9011,6 +9156,7 @@
         "@id": "node/7151298061",
         "name": "COP60",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "60159COP",
         "telecom": "exchange",
@@ -9051,6 +9197,7 @@
         "@id": "node/7151298433",
         "name": "BES60",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "60057BES",
         "telecom": "exchange",
@@ -9132,6 +9279,7 @@
         "@id": "node/7151401051",
         "name": "BAU21",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "21054BAU",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -9151,6 +9299,7 @@
         "@id": "node/7151419827",
         "name": "RAI21",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "21231RAI",
         "telecom": "exchange",
@@ -9348,6 +9497,7 @@
         "@id": "node/7151561355",
         "name": "JAU03",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "03185JAU",
         "telecom": "exchange",
@@ -9766,7 +9916,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3027653,
+          4.3027472,
           45.391718
         ]
       },
@@ -11924,10 +12074,6 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7464881196",
-        "addr:city": "Guingamp",
-        "addr:housenumber": "24",
-        "addr:postcode": "22200",
-        "addr:street": "Rue Anatole le Braz",
         "name": "Orange",
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
@@ -12742,6 +12888,7 @@
       "properties": {
         "@id": "node/7620261156",
         "operator": "SFR",
+        "operator:wikidata": "Q218765",
         "owner": "Seine-Maritime Numérique",
         "owner:type": "public",
         "ref": "NO76AUM",
@@ -16774,6 +16921,7 @@
       "properties": {
         "@id": "node/8221832730",
         "operator": "Zayo",
+        "operator:wikidata": "Q8067574",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -17312,24 +17460,6 @@
         ]
       },
       "id": "node/8222493048"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/8222494858",
-        "operator": "XPFibre",
-        "owner": "THD38",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.0196765,
-          45.4328949
-        ]
-      },
-      "id": "node/8222494858"
     },
     {
       "type": "Feature",
@@ -18352,6 +18482,7 @@
       "properties": {
         "@id": "node/8222791101",
         "operator": "Interoute",
+        "operator:wikidata": "Q1668090",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -19010,6 +19141,7 @@
       "properties": {
         "@id": "node/8223026201",
         "operator": "Interoute",
+        "operator:wikidata": "Q1668090",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -19835,6 +19967,7 @@
         "@id": "node/8225226011",
         "name": "NRO de Soulac-sur-Mer",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "33514USL",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
@@ -20552,7 +20685,7 @@
       "properties": {
         "@id": "node/8234530383",
         "fixme": "position exacte à vérifier",
-        "note": "Corsica Fibra",
+        "note": "Corsica Fibra\n\nPeut-être SRO-BPI-11353597",
         "operator": "SFR",
         "ref": "NRO",
         "telecom": "exchange",
@@ -21867,6 +22000,7 @@
         "name": "NRO",
         "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
+        "ref:FR:ARCEP": "ANFI-HAUTS",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -21874,8 +22008,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.5204432,
-          47.728709
+          -0.5205356,
+          47.7286678
         ]
       },
       "id": "node/8297678318"
@@ -21948,6 +22082,7 @@
         "name": "NRO",
         "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
+        "ref:FR:ARCEP": "ANFI-DURTA",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -21955,8 +22090,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.2353449,
-          47.6757764
+          -0.2353635,
+          47.6757361
         ]
       },
       "id": "node/8297751897"
@@ -21968,6 +22103,7 @@
         "name": "NRO",
         "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
+        "ref:FR:ARCEP": "ANFI-BAUGE",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -21975,8 +22111,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1059563,
-          47.5486253
+          -0.1059954,
+          47.5486014
         ]
       },
       "id": "node/8297756011"
@@ -22008,6 +22144,7 @@
         "name": "NRO",
         "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
+        "ref:FR:ARCEP": "ANFI-MORSD",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -22015,8 +22152,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.3603552,
-          47.6991456
+          -0.3603891,
+          47.6990977
         ]
       },
       "id": "node/8297764289"
@@ -22292,8 +22429,10 @@
       "properties": {
         "@id": "node/8298039959",
         "name": "NRO",
-        "operator": "TDF Fibre",
+        "operator": "TDF",
+        "operator:wikidata": "Q1162908",
         "owner": "Anjou Fibre",
+        "ref:FR:ARCEP": "ANFI-NOYAN",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -22301,8 +22440,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.1236332,
-          47.5142846
+          0.1236462,
+          47.5142969
         ]
       },
       "id": "node/8298039959"
@@ -22314,6 +22453,7 @@
         "name": "NRO",
         "operator": "TDF Fibre",
         "owner": "Anjou Fibre",
+        "ref:FR:ARCEP": "ANFI-JARZE",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -22321,8 +22461,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.2287896,
-          47.5548879
+          -0.2287916,
+          47.5548043
         ]
       },
       "id": "node/8298051144"
@@ -23815,7 +23955,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8592282217",
-        "name": "NRO",
+        "name": "NRO-40-014",
         "operator": "Altitude Infrastructure",
         "owner": "PIXL",
         "ref": "NRO-40-014",
@@ -26280,6 +26420,7 @@
       "properties": {
         "@id": "node/9518910708",
         "operator": "Lumen",
+        "operator:wikidata": "Q5063092",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -26669,6 +26810,7 @@
       "properties": {
         "@id": "node/9520726934",
         "operator": "SFR",
+        "operator:wikidata": "Q218765",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -27736,13 +27878,14 @@
         "start_date": "2022-03-02",
         "telecom": "exchange",
         "telecom:medium": "fibre",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Nontron.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.6651764,
-          45.5319945
+          0.6651434,
+          45.5319482
         ]
       },
       "id": "node/9551839435"
@@ -29431,7 +29574,6 @@
         "colour": "green",
         "man_made": "street_cabinet",
         "name": "NRO Puiseaux",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -29690,7 +29832,6 @@
         "name": "NRO Louhans",
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -31533,13 +31674,15 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24271_TYNU",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Milhac-de-Nontron.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.7779241,
-          45.4663996
+          0.7779236,
+          45.4662676
         ]
       },
       "id": "node/10292808997"
@@ -31663,13 +31806,14 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24223_TENO",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_Lalinde.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.7422488,
-          44.8400998
+          0.7423254,
+          44.8400138
         ]
       },
       "id": "node/10293390484"
@@ -33257,27 +33401,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/10734703841",
-        "location": "indoor",
-        "name": "NRO",
-        "operator": "Covage",
-        "operator:wikidata": "Q3001818",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.5238349,
-          46.3754144
-        ]
-      },
-      "id": "node/10734703841"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/10734703842",
         "addr:city": "Publier",
         "name": "NRO",
@@ -33687,20 +33810,17 @@
       "type": "Feature",
       "properties": {
         "@id": "node/10735262588",
-        "building:levels": "1",
         "name": "NRO",
         "operator": "Covage",
         "owner": "Syane",
-        "roof:orientation": "along",
-        "roof:shape": "gabled",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.5315428,
-          46.2313272
+          6.5315482,
+          46.2313284
         ]
       },
       "id": "node/10735262588"
@@ -34159,6 +34279,7 @@
         "@id": "node/10735444797",
         "name": "NRO",
         "operator": "Covage",
+        "operator:wikidata": "Q3001818",
         "owner": "Syane",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -34761,30 +34882,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/10735447826",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "start_date": "2016-03",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.2517456,
-          46.000882
-        ]
-      },
-      "id": "node/10735447826"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/10735447827",
         "name": "NRO",
         "operator": "Covage",
@@ -34929,6 +35026,218 @@
         ]
       },
       "id": "node/10743213908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10779696823",
+        "operator": "Orange",
+        "owner": "Régie Auvergne Numérique",
+        "source": "ARCEP",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19863,
+          44.8564738
+        ]
+      },
+      "id": "node/10779696823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10779746921",
+        "addr:city": "Mées",
+        "addr:housenumber": "25",
+        "addr:postcode": "40180",
+        "addr:street": "rue du 19 MARS 1962",
+        "name": "40OD3 NRO Mées",
+        "note": "Grand Dax Très Haut Débit",
+        "ref": "40OD3 NRO Mées",
+        "source": "local knowledge",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1117138,
+          43.7053196
+        ]
+      },
+      "id": "node/10779746921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10779746923",
+        "addr:city": "Saint Pandelon",
+        "addr:housenumber": "240",
+        "addr:postcode": "40180",
+        "addr:street": "Route de Peyrehorade",
+        "name": "40OD4",
+        "note": "Grand Dax Très Haut Débit",
+        "ref": "40OD4 NRO Saint Pandelon",
+        "source": "local knowledge",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0395325,
+          43.6660207
+        ]
+      },
+      "id": "node/10779746923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10779746929",
+        "addr:city": "Saint-Paul-Les-Dax",
+        "addr:housenumber": "11",
+        "addr:postcode": "40990",
+        "addr:street": "Rue Pasteur",
+        "note": "Grand Dax Très Haut Débit",
+        "ref": "40OD5 NRO Saint-Paul-Les-Dax",
+        "source": "local knowledge",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0535391,
+          43.7289009
+        ]
+      },
+      "id": "node/10779746929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10779746932",
+        "addr:city": "Herm",
+        "addr:housenumber": "D97",
+        "addr:postcode": "40990",
+        "addr:street": "D947, Chemain ACCES POMPIER",
+        "note": "Grand Dax Très Haut Débit",
+        "ref": "40OD2 NRO Herm",
+        "source": "local knowledge",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0831885,
+          43.8052634
+        ]
+      },
+      "id": "node/10779746932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10790374546",
+        "operator": "TDF",
+        "owner": "Anjou Fibre",
+        "ref:FR:ARCEP": "ANFI-SEVRM",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0439357,
+          47.0319479
+        ]
+      },
+      "id": "node/10790374546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10839308483",
+        "addr:city": "Soorts-hossegor",
+        "addr:postcode": "40150",
+        "addr:street": "Route des Lacs",
+        "name": "SHL_40304_SOOR",
+        "operator": "NATHD",
+        "ref": "SHL_40304_SOOR",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.419337,
+          43.6720336
+        ]
+      },
+      "id": "node/10839308483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10969885573",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72337_SOUG",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0245096,
+          48.3174337
+        ]
+      },
+      "id": "node/10969885573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10978419998",
+        "operator": "manche numérique",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5923056,
+          48.8391655
+        ]
+      },
+      "id": "node/10978419998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11016878736",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72225_OISS",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0883771,
+          48.3514535
+        ]
+      },
+      "id": "node/11016878736"
     }
   ]
 }
