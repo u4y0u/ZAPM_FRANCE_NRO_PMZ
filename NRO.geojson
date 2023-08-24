@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-07-17T07:09:15Z",
+  "timestamp": "2023-08-24T17:01:07Z",
   "features": [
     {
       "type": "Feature",
@@ -387,6 +387,7 @@
         "building": "service",
         "name": "NRO de Louens",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "33322ENZ",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
@@ -840,6 +841,7 @@
         "building": "service",
         "name": "Central de Castelnau-de-Médoc",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:ARCEP": "NRA QCM",
         "ref:FR:Orange": "33104QCM",
@@ -1619,6 +1621,51 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/520913772",
+        "building": "service",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "start_date": "2017-09",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1862261,
+              46.0376099
+            ],
+            [
+              6.1862697,
+              46.03759
+            ],
+            [
+              6.1863276,
+              46.037651
+            ],
+            [
+              6.1862839,
+              46.0376709
+            ],
+            [
+              6.1862261,
+              46.0376099
+            ]
+          ]
+        ]
+      },
+      "id": "way/520913772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/528882873",
         "building": "service",
         "colour": "white",
@@ -2122,6 +2169,47 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/670070584",
+        "building": "service",
+        "name": "NRO",
+        "operator": "Altitude",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6139502,
+              45.9261351
+            ],
+            [
+              6.614028,
+              45.9261062
+            ],
+            [
+              6.6140502,
+              45.9261351
+            ],
+            [
+              6.6139724,
+              45.926164
+            ],
+            [
+              6.6139502,
+              45.9261351
+            ]
+          ]
+        ]
+      },
+      "id": "way/670070584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/670070588",
         "building": "service",
         "name": "NRO",
@@ -2135,24 +2223,24 @@
         "coordinates": [
           [
             [
-              6.442478,
-              46.3300499
+              6.4424648,
+              46.3300377
             ],
             [
-              6.4425634,
-              46.3300739
+              6.4425502,
+              46.3300617
             ],
             [
-              6.442547,
-              46.3301017
+              6.4425338,
+              46.3300895
             ],
             [
-              6.4424616,
-              46.3300777
+              6.4424484,
+              46.3300655
             ],
             [
-              6.442478,
-              46.3300499
+              6.4424648,
+              46.3300377
             ]
           ]
         ]
@@ -3321,6 +3409,53 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/762688187",
+        "area": "yes",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "white",
+        "location": "indoor",
+        "name": "NRO Serres-Castet",
+        "operator": "THD64",
+        "ref": "SEC",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/embed/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/table/",
+        "start_date": "2019",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.3821004,
+              43.3681756
+            ],
+            [
+              -0.3820985,
+              43.3681015
+            ],
+            [
+              -0.3820567,
+              43.3681021
+            ],
+            [
+              -0.3820586,
+              43.3681761
+            ],
+            [
+              -0.3821004,
+              43.3681756
+            ]
+          ]
+        ]
+      },
+      "id": "way/762688187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/768483806",
         "building": "service",
         "building:prefabricated": "yes",
@@ -3449,6 +3584,7 @@
         "building": "service",
         "name": "NRO de Marcheprime",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "33555EMH",
         "telecom": "exchange",
@@ -4302,24 +4438,24 @@
         "coordinates": [
           [
             [
-              4.0774756,
-              43.6543023
+              4.0774425,
+              43.6542863
             ],
             [
-              4.0774844,
-              43.6542846
+              4.0774528,
+              43.6542635
             ],
             [
-              4.0775265,
-              43.6542966
+              4.077526,
+              43.6542808
             ],
             [
-              4.0775168,
-              43.6543144
+              4.0775157,
+              43.6543036
             ],
             [
-              4.0774756,
-              43.6543023
+              4.0774425,
+              43.6542863
             ]
           ]
         ]
@@ -4371,11 +4507,17 @@
       "type": "Feature",
       "properties": {
         "@id": "way/903414994",
+        "area": "yes",
         "building": "service",
         "building:prefabricated": "yes",
+        "colour": "white",
+        "location": "indoor",
         "name": "NRO Arzacq-Arraziguet",
-        "operator": "SFR",
-        "source": "https://twitter.com/lafibre64/status/1329512150621184000/photo/3",
+        "operator": "THD64",
+        "ref": "ARZ",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/information/",
+        "start_date": "2020",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -4384,24 +4526,24 @@
         "coordinates": [
           [
             [
-              -0.4055394,
-              43.5348729
+              -0.4055377,
+              43.5347897
             ],
             [
-              -0.4056031,
-              43.534878
+              -0.405573,
+              43.5347911
             ],
             [
-              -0.4056164,
-              43.5348075
+              -0.4055775,
+              43.534731
             ],
             [
-              -0.4055491,
-              43.5348024
+              -0.4055422,
+              43.5347296
             ],
             [
-              -0.4055394,
-              43.5348729
+              -0.4055377,
+              43.5347897
             ]
           ]
         ]
@@ -5154,6 +5296,53 @@
         ]
       },
       "id": "way/903459910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/903582405",
+        "area": "yes",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "white",
+        "location": "indoor",
+        "name": "NRO Bedous",
+        "operator": "THD64",
+        "ref": "BED",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/information/",
+        "start_date": "2020",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5998272,
+              42.9972632
+            ],
+            [
+              -0.599832,
+              42.9972345
+            ],
+            [
+              -0.5997493,
+              42.9972272
+            ],
+            [
+              -0.5997445,
+              42.9972559
+            ],
+            [
+              -0.5998272,
+              42.9972632
+            ]
+          ]
+        ]
+      },
+      "id": "way/903582405"
     },
     {
       "type": "Feature",
@@ -6016,6 +6205,53 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/958117295",
+        "area": "service",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "white",
+        "location": "indoor",
+        "name": "NRO Urcuit",
+        "operator": "THD64",
+        "ref": "URC",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/embed/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/table/",
+        "start_date": "2021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3572286,
+              43.4874849
+            ],
+            [
+              -1.3572269,
+              43.4874605
+            ],
+            [
+              -1.357146,
+              43.4874635
+            ],
+            [
+              -1.3571477,
+              43.4874878
+            ],
+            [
+              -1.3572286,
+              43.4874849
+            ]
+          ]
+        ]
+      },
+      "id": "way/958117295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/965436456",
         "building": "yes",
         "operator": "Sarthe Numérique",
@@ -6843,6 +7079,1039 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/1195333499",
+        "area": "yes",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "darkgreen",
+        "location": "indoor",
+        "name": "NRO Cambo-les-Bains",
+        "operator": "THD64",
+        "ref": "CAM",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/information/",
+        "start_date": "2019",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.4149188,
+              43.3552115
+            ],
+            [
+              -1.4148601,
+              43.3552338
+            ],
+            [
+              -1.4148753,
+              43.3552551
+            ],
+            [
+              -1.414934,
+              43.3552328
+            ],
+            [
+              -1.4149188,
+              43.3552115
+            ]
+          ]
+        ]
+      },
+      "id": "way/1195333499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1195361372",
+        "area": "yes",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "darkgreen",
+        "location": "indoor",
+        "name": "NRO Saint-Pierre-d'Irube",
+        "operator": "THD64",
+        "ref": "IRU",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/embed/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/table/",
+        "start_date": "2019",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.4534495,
+              43.4748339
+            ],
+            [
+              -1.4534346,
+              43.4748151
+            ],
+            [
+              -1.4533971,
+              43.4748308
+            ],
+            [
+              -1.453412,
+              43.4748496
+            ],
+            [
+              -1.4534495,
+              43.4748339
+            ]
+          ]
+        ]
+      },
+      "id": "way/1195361372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1195361373",
+        "area": "yes",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "darkgreen",
+        "location": "indoor",
+        "name": "NRO Saint-Étienne-de-Baïgorry",
+        "operator": "THD64",
+        "ref": "SET",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/embed/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/table/",
+        "start_date": "2019",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3322504,
+              43.1838544
+            ],
+            [
+              -1.3322224,
+              43.1838616
+            ],
+            [
+              -1.3322435,
+              43.1839052
+            ],
+            [
+              -1.3322715,
+              43.183898
+            ],
+            [
+              -1.3322504,
+              43.1838544
+            ]
+          ]
+        ]
+      },
+      "id": "way/1195361373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1195361374",
+        "area": "yes",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "white",
+        "location": "indoor",
+        "name": "NRO Artix",
+        "operator": "THD64",
+        "ref": "ATX",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/embed/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/table/",
+        "start_date": "2020",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5671581,
+              43.399204
+            ],
+            [
+              -0.5671537,
+              43.3992365
+            ],
+            [
+              -0.5672261,
+              43.3992417
+            ],
+            [
+              -0.5672306,
+              43.3992092
+            ],
+            [
+              -0.5671581,
+              43.399204
+            ]
+          ]
+        ]
+      },
+      "id": "way/1195361374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1195361375",
+        "area": "yes",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "white",
+        "location": "indoor",
+        "name": "NRO Arthez-de-Béarn",
+        "operator": "THD64",
+        "ref": "ARB",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/embed/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/table/",
+        "start_date": "2021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.6166802,
+              43.4607783
+            ],
+            [
+              -0.6166021,
+              43.4607889
+            ],
+            [
+              -0.6166082,
+              43.4608128
+            ],
+            [
+              -0.6166863,
+              43.4608023
+            ],
+            [
+              -0.6166802,
+              43.4607783
+            ]
+          ]
+        ]
+      },
+      "id": "way/1195361375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1195361376",
+        "area": "yes",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "white",
+        "location": "indoor",
+        "name": "NRO Bidarray",
+        "operator": "THD64",
+        "ref": "BDY",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/embed/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/table/",
+        "start_date": "2021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3339244,
+              43.2667939
+            ],
+            [
+              -1.3338511,
+              43.2668097
+            ],
+            [
+              -1.3338636,
+              43.2668404
+            ],
+            [
+              -1.3339369,
+              43.2668246
+            ],
+            [
+              -1.3339244,
+              43.2667939
+            ]
+          ]
+        ]
+      },
+      "id": "way/1195361376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1195361377",
+        "area": "yes",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "white",
+        "location": "indoor",
+        "name": "NRO Artiguelouve",
+        "operator": "THD64",
+        "ref": "AUE",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/embed/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/table/",
+        "start_date": "2020",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.4752878,
+              43.318473
+            ],
+            [
+              -0.4752477,
+              43.3184711
+            ],
+            [
+              -0.4752421,
+              43.3185332
+            ],
+            [
+              -0.4752822,
+              43.3185351
+            ],
+            [
+              -0.4752878,
+              43.318473
+            ]
+          ]
+        ]
+      },
+      "id": "way/1195361377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1195361378",
+        "area": "yes",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "darkgreen",
+        "location": "indoor",
+        "name": "NRO Urdos",
+        "operator": "THD64",
+        "ref": "URD",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/embed/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/table/",
+        "start_date": "2021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5551521,
+              42.8747681
+            ],
+            [
+              -0.5551441,
+              42.874824
+            ],
+            [
+              -0.5551785,
+              42.8748267
+            ],
+            [
+              -0.5551866,
+              42.8747708
+            ],
+            [
+              -0.5551521,
+              42.8747681
+            ]
+          ]
+        ]
+      },
+      "id": "way/1195361378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1195361379",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "darkgreen",
+        "location": "indoor",
+        "name": "NRO Mauléon-Licharre",
+        "operator": "THD64",
+        "ref": "MAU",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/embed/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/table/",
+        "start_date": "2021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.8930704,
+              43.2199588
+            ],
+            [
+              -0.8930739,
+              43.2200172
+            ],
+            [
+              -0.8931057,
+              43.2200162
+            ],
+            [
+              -0.8931021,
+              43.2199577
+            ],
+            [
+              -0.8930704,
+              43.2199588
+            ]
+          ]
+        ]
+      },
+      "id": "way/1195361379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1195658998",
+        "area": "yes",
+        "building": "service",
+        "building:colour": "darkgreen",
+        "building:prefabricated": "yes",
+        "location": "indoor",
+        "name": "NRO Sallespisse",
+        "operator": "THD64",
+        "ref": "SLP",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/information/",
+        "start_date": "2021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.7162542,
+              43.5216784
+            ],
+            [
+              -0.7162583,
+              43.5216998
+            ],
+            [
+              -0.7163345,
+              43.5216922
+            ],
+            [
+              -0.7163304,
+              43.5216708
+            ],
+            [
+              -0.7162542,
+              43.5216784
+            ]
+          ]
+        ]
+      },
+      "id": "way/1195658998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1195658999",
+        "area": "yes",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "white",
+        "location": "indoor",
+        "name": "NRO Herrère",
+        "operator": "THD64",
+        "ref": "HRE",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/information/",
+        "start_date": "2021",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5380336,
+              43.1722116
+            ],
+            [
+              -0.5380076,
+              43.1722331
+            ],
+            [
+              -0.53807,
+              43.1722731
+            ],
+            [
+              -0.5380959,
+              43.1722517
+            ],
+            [
+              -0.5380336,
+              43.1722116
+            ]
+          ]
+        ]
+      },
+      "id": "way/1195658999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1195659000",
+        "area": "yes",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "white",
+        "location": "indoor",
+        "name": "NRO Ostabat-Asme",
+        "operator": "THD64",
+        "ref": "UUS",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/information/",
+        "start_date": "2020",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.086669,
+              43.2381433
+            ],
+            [
+              -1.086608,
+              43.2381797
+            ],
+            [
+              -1.0866292,
+              43.2381985
+            ],
+            [
+              -1.0866902,
+              43.2381621
+            ],
+            [
+              -1.086669,
+              43.2381433
+            ]
+          ]
+        ]
+      },
+      "id": "way/1195659000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1195659001",
+        "area": "yes",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "white",
+        "location": "indoor",
+        "name": "NRO Salies-de-Béarn",
+        "operator": "THD64",
+        "ref": "SAL",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/information/",
+        "start_date": "2020",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9292663,
+              43.4720647
+            ],
+            [
+              -0.9293018,
+              43.4720645
+            ],
+            [
+              -0.929301,
+              43.472009
+            ],
+            [
+              -0.9292655,
+              43.4720092
+            ],
+            [
+              -0.9292663,
+              43.4720647
+            ]
+          ]
+        ]
+      },
+      "id": "way/1195659001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1195659002",
+        "area": "yes",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "darkgreen",
+        "location": "indoor",
+        "name": "NRO Urrugne",
+        "operator": "THD64",
+        "ref": "KEC",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/information/",
+        "start_date": "2020",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.6776732,
+              43.375855
+            ],
+            [
+              -1.6776731,
+              43.3758758
+            ],
+            [
+              -1.6777362,
+              43.3758761
+            ],
+            [
+              -1.6777363,
+              43.3758553
+            ],
+            [
+              -1.6776732,
+              43.375855
+            ]
+          ]
+        ]
+      },
+      "id": "way/1195659002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1195659003",
+        "area": "yes",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "white",
+        "location": "indoor",
+        "name": "NRO Hasparren",
+        "operator": "THD64",
+        "ref": "HAS",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/information/",
+        "start_date": "2019",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3043518,
+              43.3844605
+            ],
+            [
+              -1.304319,
+              43.3844676
+            ],
+            [
+              -1.3043401,
+              43.3845195
+            ],
+            [
+              -1.3043729,
+              43.3845125
+            ],
+            [
+              -1.3043518,
+              43.3844605
+            ]
+          ]
+        ]
+      },
+      "id": "way/1195659003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1195659004",
+        "area": "yes",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "white",
+        "location": "indoor",
+        "name": "NRO Casteide-Candau",
+        "operator": "THD64",
+        "ref": "CTC",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/information/",
+        "start_date": "2019",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.556769,
+              43.5097233
+            ],
+            [
+              -0.5567256,
+              43.5097676
+            ],
+            [
+              -0.5567506,
+              43.5097804
+            ],
+            [
+              -0.5567939,
+              43.5097361
+            ],
+            [
+              -0.556769,
+              43.5097233
+            ]
+          ]
+        ]
+      },
+      "id": "way/1195659004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1195659005",
+        "area": "yes",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "colour": "white",
+        "location": "indoor",
+        "name": "NRO Oloron-Sainte-Marie",
+        "operator": "THD64",
+        "ref": "OLO",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/information/",
+        "start_date": "2019",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.6257052,
+              43.1980399
+            ],
+            [
+              -0.6256768,
+              43.1980555
+            ],
+            [
+              -0.6257175,
+              43.1980948
+            ],
+            [
+              -0.6257458,
+              43.1980791
+            ],
+            [
+              -0.6257052,
+              43.1980399
+            ]
+          ]
+        ]
+      },
+      "id": "way/1195659005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1195667362",
+        "area": "yes",
+        "building": "service",
+        "building:colour": "white",
+        "building:prefabricated": "yes",
+        "location": "indoor",
+        "name": "NRO Jurançon",
+        "operator": "THD64",
+        "ref": "ROU",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/information/",
+        "start_date": "2019",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.3859131,
+              43.283566
+            ],
+            [
+              -0.3858874,
+              43.2835828
+            ],
+            [
+              -0.385935,
+              43.2836214
+            ],
+            [
+              -0.3859607,
+              43.2836046
+            ],
+            [
+              -0.3859131,
+              43.283566
+            ]
+          ]
+        ]
+      },
+      "id": "way/1195667362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1195667363",
+        "area": "yes",
+        "building": "service",
+        "building:colour": "white",
+        "building:prefabricated": "yes",
+        "location": "indoor",
+        "name": "NRO Maslacq",
+        "operator": "THD64",
+        "ref": "MQ6",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/information/",
+        "start_date": "2019",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.694375,
+              43.4390928
+            ],
+            [
+              -0.6943364,
+              43.4391098
+            ],
+            [
+              -0.694377,
+              43.4391586
+            ],
+            [
+              -0.6944156,
+              43.4391416
+            ],
+            [
+              -0.694375,
+              43.4390928
+            ]
+          ]
+        ]
+      },
+      "id": "way/1195667363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1195667364",
+        "area": "yes",
+        "building": "service",
+        "building:colour": "white",
+        "building:prefabricated": "yes",
+        "location": "indoor",
+        "name": "NRO Sévignacq-Meyracq",
+        "operator": "THD64",
+        "ref": "ARU",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/information/",
+        "start_date": "2019",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.4153493,
+              43.1039222
+            ],
+            [
+              -0.4152962,
+              43.1039558
+            ],
+            [
+              -0.4153246,
+              43.1039797
+            ],
+            [
+              -0.4153778,
+              43.1039462
+            ],
+            [
+              -0.4153493,
+              43.1039222
+            ]
+          ]
+        ]
+      },
+      "id": "way/1195667364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1195667365",
+        "area": "yes",
+        "building": "service",
+        "building:colour": "darkgreen",
+        "building:prefabricated": "yes",
+        "location": "indoor",
+        "name": "NRO Guiche",
+        "operator": "THD64",
+        "ref": "GU6",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/information/",
+        "start_date": "2019",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.2049859,
+              43.5119927
+            ],
+            [
+              -1.2049552,
+              43.5119942
+            ],
+            [
+              -1.20496,
+              43.5120449
+            ],
+            [
+              -1.2049907,
+              43.5120433
+            ],
+            [
+              -1.2049859,
+              43.5119927
+            ]
+          ]
+        ]
+      },
+      "id": "way/1195667365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1195667366",
+        "area": "yes",
+        "building": "service",
+        "building:colour": "white",
+        "building:prefabricated": "yes",
+        "location": "indoor",
+        "name": "NRO Iholdy",
+        "operator": "THD64",
+        "ref": "IHO",
+        "ref:FR:PTT": "NC",
+        "source": "https://data.lafibre64.fr/explore/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/information/",
+        "start_date": "2019",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.1812822,
+              43.2816465
+            ],
+            [
+              -1.1812813,
+              43.2816701
+            ],
+            [
+              -1.18135,
+              43.2816716
+            ],
+            [
+              -1.1813509,
+              43.2816479
+            ],
+            [
+              -1.1812822,
+              43.2816465
+            ]
+          ]
+        ]
+      },
+      "id": "way/1195667366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/276884854",
         "name": "NRO FREE BER34",
         "operator": "Free",
@@ -7412,7 +8681,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6275293232",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "74081CLU",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -7813,6 +9084,7 @@
         "@id": "node/7048905407",
         "man_made": "street_cabinet",
         "operator": "SFR",
+        "operator:wikidata": "Q218765",
         "owner": "SFR",
         "ref": "NRO-G2R-1310006814",
         "ref:FR:SFR": "1310006814",
@@ -8192,6 +9464,7 @@
         "@id": "node/7148837920",
         "name": "HRB85",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "85109HRB",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -8200,8 +9473,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.019838,
-          46.8708461
+          -1.0198729,
+          46.8708278
         ]
       },
       "id": "node/7148837920"
@@ -8419,6 +9692,7 @@
         "@id": "node/7149291072",
         "name": "44184BAR",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "44184BAR",
         "telecom": "exchange",
@@ -8498,6 +9772,7 @@
         "@id": "node/7149383540",
         "name": "44184REP",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "44184REP",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -9907,6 +11182,7 @@
         "@id": "node/7151910887",
         "name": "CHA42",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "42044CHA",
         "telecom": "exchange",
@@ -9916,8 +11192,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3027472,
-          45.391718
+          4.3027068,
+          45.3917626
         ]
       },
       "id": "node/7151910887"
@@ -10284,7 +11560,6 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7153548475",
-        "name": "4BE",
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "543954BE",
@@ -11172,6 +12447,7 @@
         "@id": "node/7155769471",
         "name": "GAD13",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "13041GAD",
         "telecom": "exchange",
@@ -11873,10 +13149,11 @@
         "@id": "node/7198830362",
         "man_made": "street_cabinet",
         "operator": "SFR",
+        "operator:wikidata": "Q218765",
         "owner": "SFR",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -14935,8 +16212,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.3821061,
-          43.3681576
+          -0.382085,
+          43.3681543
         ]
       },
       "id": "node/8221552103"
@@ -19909,8 +21186,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.4425056,
-          46.3300684
+          6.4424924,
+          46.3300562
         ]
       },
       "id": "node/8224253406"
@@ -20715,8 +21992,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.4056281,
-          43.5346331
+          -0.4055562,
+          43.5347789
         ]
       },
       "id": "node/8239641354"
@@ -24128,7 +25405,7 @@
         "@id": "node/8728772584",
         "building": "service",
         "name": "NRO",
-        "operator": "Manche fibre",
+        "operator": "Altitude",
         "owner": "Manche fibre",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -24331,7 +25608,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8865162589",
-        "operator": "XPFibre",
+        "operator": "THD64",
         "owner": "THD64",
         "start_date": "24/06/2021",
         "telecom": "exchange",
@@ -24340,8 +25617,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3572062,
-          43.4874681
+          -1.3572066,
+          43.4874732
         ]
       },
       "id": "node/8865162589"
@@ -34940,27 +36217,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/10735820652",
-        "building": "service",
-        "name": "NRO",
-        "operator": "Covage",
-        "operator:wikidata": "Q3001818",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.6139924,
-          45.9261395
-        ]
-      },
-      "id": "node/10735820652"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/10735820653",
         "colour": "brown",
         "height": "3",
@@ -34980,30 +36236,6 @@
         ]
       },
       "id": "node/10735820653"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/10743213906",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "start_date": "2017-09",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.1862714,
-          46.0376223
-        ]
-      },
-      "id": "node/10743213906"
     },
     {
       "type": "Feature",
@@ -35238,6 +36470,111 @@
         ]
       },
       "id": "node/11016878736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11062932140",
+        "colour": "gray",
+        "man_made": "street_cabinet",
+        "manufacturer": "Tetradis",
+        "operator": "Li@in",
+        "ref": "NRO_01238_00005",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8327613,
+          45.9101878
+        ]
+      },
+      "id": "node/11062932140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11110395647",
+        "name": "NRO Orange",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:Orange:NRO": "93055VIL",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4230439,
+          48.895364
+        ]
+      },
+      "id": "node/11110395647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11114983717",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72317_STRV",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2479017,
+          48.3480323
+        ]
+      },
+      "id": "node/11114983717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11128850126",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72220_NOGE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4860308,
+          48.2351321
+        ]
+      },
+      "id": "node/11128850126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11138955841",
+        "man_made": "street_cabinet",
+        "name": "SRO 39-164-172 Larnaud",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "ref:FR:ARCEP": "39-164-172",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4453405,
+          46.7100592
+        ]
+      },
+      "id": "node/11138955841"
     }
   ]
 }
