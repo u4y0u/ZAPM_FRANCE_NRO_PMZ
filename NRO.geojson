@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-08-24T17:01:07Z",
+  "timestamp": "2023-09-14T07:13:00Z",
   "features": [
     {
       "type": "Feature",
@@ -8112,6 +8112,51 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/1206557750",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "location": "indoor",
+        "name": "NRO",
+        "operator": "Deux-Sèvres Numerique",
+        "owner": "Deux-Sèvres Numerique",
+        "ref": "792707C5",
+        "source": "survey; PCRS raster ouvert; aerial imagery",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.2141381,
+              46.4094372
+            ],
+            [
+              -0.2141368,
+              46.4094629
+            ],
+            [
+              -0.2142185,
+              46.4094648
+            ],
+            [
+              -0.2142198,
+              46.4094391
+            ],
+            [
+              -0.2141381,
+              46.4094372
+            ]
+          ]
+        ]
+      },
+      "id": "way/1206557750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/276884854",
         "name": "NRO FREE BER34",
         "operator": "Free",
@@ -9809,7 +9854,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7149976265",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "75109TRU",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -14690,6 +14737,7 @@
         "@id": "node/7831825851",
         "name": "IMM44",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "44184IMM",
         "telecom": "exchange",
@@ -32995,13 +33043,15 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24299_CEMU",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Mussidan.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.3628272,
-          45.0344489
+          0.3627917,
+          45.0344694
         ]
       },
       "id": "node/10293334487"
@@ -33233,13 +33283,15 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24289_CEMI",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Montcaret.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0634484,
-          44.8548285
+          0.0644133,
+          44.8567965
         ]
       },
       "id": "node/10295595569"
@@ -33320,13 +33372,15 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24081_GERI",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Carlux.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.3543354,
-          44.8867436
+          1.3543329,
+          44.8867553
         ]
       },
       "id": "node/10295741244"
@@ -34109,6 +34163,27 @@
         ]
       },
       "id": "node/10681739264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10683438768",
+        "manufacturer": "Grolleau",
+        "operator": "Altitude",
+        "owner": "Doubs-THD",
+        "ref:FR:ARCEP": "PMU-25-031-CW;PMU-25-031-MG",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4409121,
+          47.140086
+        ]
+      },
+      "id": "node/10683438768"
     },
     {
       "type": "Feature",
@@ -36575,6 +36650,26 @@
         ]
       },
       "id": "node/11138955841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11142516999",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72132_FERB",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6520924,
+          48.1889642
+        ]
+      },
+      "id": "node/11142516999"
     }
   ]
 }

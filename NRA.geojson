@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-08-24T17:06:12Z",
+  "timestamp": "2023-09-14T07:16:59Z",
   "features": [
     {
       "type": "Feature",
@@ -27518,7 +27518,9 @@
         "addr:street": "Rue de l'Industrie",
         "building": "service",
         "man_made": "telephone_office",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:PTT": "33243LB3",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
@@ -28426,6 +28428,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
         "telecom": "exchange",
@@ -28498,7 +28501,6 @@
       "properties": {
         "@id": "way/80405437",
         "building": "service",
-        "building:levels": "3",
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
@@ -28562,12 +28564,16 @@
               48.7544393
             ],
             [
-              2.3027529,
-              48.7544272
-            ],
-            [
               2.3028558,
               48.7544049
+            ],
+            [
+              2.3028008,
+              48.7542831
+            ],
+            [
+              2.3027814,
+              48.7542401
             ],
             [
               2.3027711,
@@ -28576,6 +28582,10 @@
             [
               2.3026895,
               48.7542332
+            ],
+            [
+              2.3026586,
+              48.7541646
             ],
             [
               2.3026302,
@@ -28600,6 +28610,14 @@
             [
               2.3028786,
               48.7541199
+            ],
+            [
+              2.3029202,
+              48.754212
+            ],
+            [
+              2.3029395,
+              48.754255
             ],
             [
               2.3030846,
@@ -29738,6 +29756,7 @@
         "building:prefabricated": "no",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref": "MUC19",
         "telecom": "exchange",
@@ -34005,56 +34024,60 @@
         "coordinates": [
           [
             [
-              3.0566205,
-              50.5998633
+              3.0565862,
+              50.599855
             ],
             [
-              3.0566176,
-              50.5998451
+              3.0565825,
+              50.5998361
             ],
             [
-              3.0565695,
-              50.5998481
+              3.0565344,
+              50.59984
             ],
             [
-              3.0565723,
-              50.5998665
+              3.0565375,
+              50.5998582
             ],
             [
-              3.0564147,
-              50.5998763
+              3.0563802,
+              50.5998704
             ],
             [
-              3.0563973,
-              50.5997649
+              3.0563593,
+              50.5997592
             ],
             [
-              3.0565551,
-              50.5997548
+              3.0565165,
+              50.5997472
             ],
             [
-              3.0565562,
-              50.5997619
+              3.0565176,
+              50.5997542
             ],
             [
-              3.0566044,
-              50.5997589
+              3.0565397,
+              50.5997525
             ],
             [
-              3.0566033,
-              50.5997518
+              3.0565661,
+              50.5997504
             ],
             [
-              3.0570106,
-              50.5997264
+              3.0565647,
+              50.5997433
             ],
             [
-              3.0570279,
-              50.5998378
+              3.0569705,
+              50.5997122
             ],
             [
-              3.0566205,
-              50.5998633
+              3.0569918,
+              50.5998223
+            ],
+            [
+              3.0565862,
+              50.599855
             ]
           ]
         ]
@@ -34911,6 +34934,7 @@
         "@id": "way/84997928",
         "building": "service",
         "operator": "Enedis",
+        "operator:wikidata": "Q3587594",
         "power": "substation",
         "ref": "SDO63",
         "ref:FR:PTT": "63336SDO",
@@ -51968,6 +51992,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref": "17BRZ0001",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
@@ -61297,7 +61322,7 @@
         "operator": "Orange",
         "owner": "Orange",
         "ref:FR:PTT": "06015BER",
-        "source": "ANFR Opendata",
+        "source": "ANFR Opendata;cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2023",
         "telecom": "exchange",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -61307,24 +61332,24 @@
         "coordinates": [
           [
             [
-              7.3238198,
-              43.8308462
+              7.3238312,
+              43.8308259
             ],
             [
-              7.3238451,
-              43.8307765
+              7.3238555,
+              43.8307573
             ],
             [
-              7.3239304,
-              43.8307926
+              7.3239384,
+              43.8307731
             ],
             [
-              7.3239051,
-              43.8308623
+              7.3239138,
+              43.8308422
             ],
             [
-              7.3238198,
-              43.8308462
+              7.3238312,
+              43.8308259
             ]
           ]
         ]
@@ -74257,6 +74282,52 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/177722310",
+        "building": "service",
+        "man_made": "telephone_office",
+        "operator": "Orange",
+        "owner": "Orange",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.4570758,
+              48.107329
+            ],
+            [
+              0.4570908,
+              48.107295
+            ],
+            [
+              0.4571628,
+              48.107287
+            ],
+            [
+              0.4571738,
+              48.107307
+            ],
+            [
+              0.4571568,
+              48.107311
+            ],
+            [
+              0.4570758,
+              48.107329
+            ]
+          ]
+        ]
+      },
+      "id": "way/177722310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/177736780",
         "building": "service",
         "operator": "Orange",
@@ -83418,32 +83489,28 @@
         "coordinates": [
           [
             [
-              6.4403286,
-              46.3041878
+              6.4403425,
+              46.304164
             ],
             [
-              6.440341,
-              46.3041659
+              6.4403492,
+              46.304166
             ],
             [
-              6.4404651,
-              46.3041994
+              6.4404655,
+              46.3041995
             ],
             [
-              6.4404333,
-              46.3042557
+              6.4404305,
+              46.3042575
             ],
             [
-              6.4404321,
-              46.3042579
+              6.4403075,
+              46.304222
             ],
             [
-              6.4403079,
-              46.3042244
-            ],
-            [
-              6.4403286,
-              46.3041878
+              6.4403425,
+              46.304164
             ]
           ]
         ]
@@ -87434,6 +87501,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -96156,7 +96224,7 @@
       "properties": {
         "@id": "way/360721651",
         "addr:housenumber": "20",
-        "addr:street": "Chemin Du Coucut",
+        "addr:street": "Chemin du Coucut",
         "building": "service",
         "man_made": "telephone_office",
         "name": "Central téléphonique",
@@ -96804,6 +96872,48 @@
         ]
       },
       "id": "way/380302538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/380385223",
+        "building": "service",
+        "man_made": "telephone_office",
+        "operator": "Orange",
+        "owner": "Orange",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2015",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.5794495,
+              48.1702371
+            ],
+            [
+              0.5793425,
+              48.1701851
+            ],
+            [
+              0.5794065,
+              48.1701591
+            ],
+            [
+              0.5794875,
+              48.1701971
+            ],
+            [
+              0.5794495,
+              48.1702371
+            ]
+          ]
+        ]
+      },
+      "id": "way/380385223"
     },
     {
       "type": "Feature",
@@ -102083,24 +102193,24 @@
         "coordinates": [
           [
             [
-              9.4365981,
-              42.6198712
+              9.4365927,
+              42.6198791
             ],
             [
-              9.4366397,
-              42.6199264
+              9.4366343,
+              42.6199343
             ],
             [
-              9.4365665,
-              42.6199563
+              9.4365611,
+              42.6199642
             ],
             [
-              9.4365249,
-              42.6199011
+              9.4365195,
+              42.619909
             ],
             [
-              9.4365981,
-              42.6198712
+              9.4365927,
+              42.6198791
             ]
           ]
         ]
@@ -106644,7 +106754,6 @@
         "addr:city": "Mios",
         "addr:housenumber": "104",
         "addr:postcode": "33380",
-        "addr:street": "Rue de Testarouch",
         "building": "service",
         "name": "Central de Mios 2000",
         "operator": "Orange",
@@ -107546,6 +107655,7 @@
         "man_made": "telephone_office",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -110216,6 +110326,7 @@
         "@id": "node/2209130682",
         "name": "Central téléphonique",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -123933,7 +124044,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7149976264",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "75109TRU",
         "telecom": "exchange",
         "telecom:medium": "copper"
@@ -128820,15 +128933,15 @@
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref": "GFG 24",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "copper",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRA_MeD_Groléjac_Bourg_GFG_24.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.2917576,
+          1.2917594,
           44.8191917
         ]
       },
@@ -130618,13 +130731,14 @@
         "ref": "CZL 24",
         "telecom": "exchange",
         "telecom:medium": "copper",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRA_Cazoulès_CZL_24.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.4296971,
-          44.8816259
+          1.4296904,
+          44.8816346
         ]
       },
       "id": "node/7566759494"
@@ -132435,6 +132549,7 @@
         "capacity": "350",
         "name": "NRA Monestier",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "MNT 24",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -133354,6 +133469,7 @@
         "capacity": "1600",
         "name": "NRA Lubersac",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "LUB 19",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -133551,6 +133667,7 @@
         "@id": "node/7831831038",
         "name": "IMM44",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "44184IMM",
         "telecom": "exchange",
@@ -136005,6 +136122,7 @@
         "capacity": "1100",
         "name": "NRA Vergt",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "VER 24",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -136091,6 +136209,7 @@
         "capacity": "950",
         "name": "NRA Vézac",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "VEZ 24",
         "telecom": "exchange",
         "telecom:medium": "copper",
@@ -137816,8 +137935,8 @@
         "man_made": "street_cabinet",
         "name": "NRA ZO Uzeste",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "9UZ 33",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "copper",
         "utility": "telecom",
@@ -138834,7 +138953,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9207490259",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "SH962",
         "telecom": "exchange",
         "telecom:medium": "copper"
@@ -140816,7 +140937,6 @@
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref": "VS1 24",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "copper",
         "utility": "telecom",
@@ -141611,7 +141731,6 @@
         "operator:wikidata": "Q1431486",
         "operator:wikipedia": "fr:Orange (entreprise)",
         "ref:FR:Orange": "TF7/KOR",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -145593,11 +145712,13 @@
         "@id": "node/9862686378",
         "description": "NRA MeD Franxault",
         "man_made": "street_cabinet",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "21285FXM",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -146214,10 +146335,11 @@
         "man_made": "street_cabinet",
         "name": "NRA MeD",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:PTT": "215172QU",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
-        "telecom:medium": "copper"
+        "telecom:medium": "copper",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Point",
@@ -148413,10 +148535,10 @@
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref": "AXE 24",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "copper",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRA_MeD_Audrix_la_Plane_AXE_24.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -148755,7 +148877,6 @@
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "ref": "AZ8 24",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "copper",
         "utility": "telecom"
@@ -150244,8 +150365,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.7397169,
-          46.3197134
+          -0.7397142,
+          46.3197023
         ]
       },
       "id": "node/10169475781"
@@ -154190,6 +154311,30 @@
         ]
       },
       "id": "node/11015741707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11180628833",
+        "location": "outdoor",
+        "man_made": "street_cabinet",
+        "name": "NRA MED",
+        "operator": "Orange",
+        "ref:FR:Orange": "QVR/9AZ",
+        "ref:FR:PTT": "9AZ79",
+        "source": "survey",
+        "telecom": "exchange",
+        "telecom:medium": "copper",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2364749,
+          46.4083791
+        ]
+      },
+      "id": "node/11180628833"
     }
   ]
 }
