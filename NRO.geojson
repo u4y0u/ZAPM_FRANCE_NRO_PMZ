@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
-  "generator": "overpass-ide",
+  "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2023-09-14T07:13:00Z",
+  "timestamp": "2023-10-15T07:37:16Z",
   "features": [
     {
       "type": "Feature",
@@ -1540,6 +1540,94 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/488952210",
+        "building": "service",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Altitude Infrastructure",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1633435,
+              45.8354694
+            ],
+            [
+              6.1633869,
+              45.8354083
+            ],
+            [
+              6.1634314,
+              45.8354236
+            ],
+            [
+              6.163388,
+              45.8354847
+            ],
+            [
+              6.1633435,
+              45.8354694
+            ]
+          ]
+        ]
+      },
+      "id": "way/488952210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/488952212",
+        "building": "service",
+        "height": "3",
+        "material": "wood",
+        "name": "NRO",
+        "operator": "Altitude Infrastructure",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:shape": "gabled",
+        "start_date": "2017-03",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1495191,
+              45.8506426
+            ],
+            [
+              6.149516,
+              45.8505726
+            ],
+            [
+              6.1495734,
+              45.8505713
+            ],
+            [
+              6.1495765,
+              45.8506413
+            ],
+            [
+              6.1495191,
+              45.8506426
+            ]
+          ]
+        ]
+      },
+      "id": "way/488952212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/496132805",
         "building": "service",
         "name": "NRO de Vertheuil",
@@ -1578,6 +1666,49 @@
         ]
       },
       "id": "way/496132805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/503270763",
+        "building": "service",
+        "height": "2.5",
+        "operator": "Altitude Infrastructure",
+        "owner": "Syane",
+        "ref": "74MSBE1",
+        "roof:shape": "flat",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.197933,
+              45.8619197
+            ],
+            [
+              6.1978891,
+              45.8618661
+            ],
+            [
+              6.1979229,
+              45.8618509
+            ],
+            [
+              6.1979698,
+              45.8619049
+            ],
+            [
+              6.197933,
+              45.8619197
+            ]
+          ]
+        ]
+      },
+      "id": "way/503270763"
     },
     {
       "type": "Feature",
@@ -1996,6 +2127,53 @@
         ]
       },
       "id": "way/653220328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/660332116",
+        "building": "service",
+        "building:levels": "1",
+        "building:prefabricated": "yes",
+        "colour": "white",
+        "height": "3",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:material": "wood",
+        "roof:orientation": "along",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.2287078,
+              46.1617849
+            ],
+            [
+              6.2287407,
+              46.1617661
+            ],
+            [
+              6.2287983,
+              46.1618162
+            ],
+            [
+              6.2287647,
+              46.1618346
+            ],
+            [
+              6.2287078,
+              46.1617849
+            ]
+          ]
+        ]
+      },
+      "id": "way/660332116"
     },
     {
       "type": "Feature",
@@ -6379,6 +6557,50 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/979712195",
+        "building": "service",
+        "building:levels": "1",
+        "building:prefabricated": "yes",
+        "colour": "white",
+        "name": "NRO",
+        "operator": "Covage",
+        "owner": "Syane",
+        "roof:shape": "flat",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.3188353,
+              46.2694091
+            ],
+            [
+              6.3188742,
+              46.2693852
+            ],
+            [
+              6.3188954,
+              46.2694017
+            ],
+            [
+              6.3188565,
+              46.2694256
+            ],
+            [
+              6.3188353,
+              46.2694091
+            ]
+          ]
+        ]
+      },
+      "id": "way/979712195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/993159385",
         "building": "service",
         "operator": "Sarthe Numérique",
@@ -7088,7 +7310,6 @@
         "name": "NRO Cambo-les-Bains",
         "operator": "THD64",
         "ref": "CAM",
-        "ref:FR:PTT": "NC",
         "source": "https://data.lafibre64.fr/explore/dataset/liste-des-noeuds-de-raccordement-optique-la-fibre-64/information/",
         "start_date": "2019",
         "telecom": "exchange",
@@ -15773,7 +15994,9 @@
         "addr:city": "Mauléon",
         "addr:postcode": "79700",
         "addr:street": "Rue de Lattre",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Deux Sevres Numrique",
         "ref": "NRO Mauléon",
         "source": "https://www.lanouvellerepublique.fr/deux-sevres/commune/mauleon/fibre-optique-mauleon-bientot-a-l-ere-du-tres-haut-debit",
@@ -19952,8 +20175,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.4614934,
-          46.7487703
+          5.4614659,
+          46.7487193
         ]
       },
       "id": "node/8222875487"
@@ -24517,17 +24740,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8342887464",
+        "colour": "white",
+        "man_made": "street_cabinet",
         "name": "Orange",
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
+        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.2169494,
-          49.1200293
+          6.216991,
+          49.1200264
         ]
       },
       "id": "node/8342887464"
@@ -24536,17 +24762,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8342887465",
+        "colour": "white",
+        "man_made": "street_cabinet",
         "name": "Orange",
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
+        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.2169426,
-          49.1200292
+          6.2169775,
+          49.120027
         ]
       },
       "id": "node/8342887465"
@@ -33155,13 +33384,14 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24155_CEZE",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_Douville.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.5943241,
-          44.987427
+          0.5946894,
+          44.9874293
         ]
       },
       "id": "node/10293413631"
@@ -35492,29 +35722,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/10735302267",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.2287506,
-          46.1617984
-        ]
-      },
-      "id": "node/10735302267"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/10735302268",
         "colour": "white",
         "height": "3",
@@ -35986,54 +36193,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/10735447814",
-        "colour": "brown",
-        "height": "3",
-        "material": "wood",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "start_date": "2017-03",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.1495356,
-          45.8506197
-        ]
-      },
-      "id": "node/10735447814"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/10735447815",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:material": "wood",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.1633872,
-          45.8354497
-        ]
-      },
-      "id": "node/10735447815"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/10735447816",
         "name": "NRO",
         "operator": "Covage",
@@ -36148,28 +36307,6 @@
         ]
       },
       "id": "node/10735447821"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/10735447822",
-        "colour": "green",
-        "height": "2.5",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:shape": "flat",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.1979307,
-          45.8618857
-        ]
-      },
-      "id": "node/10735447822"
     },
     {
       "type": "Feature",
@@ -36670,6 +36807,86 @@
         ]
       },
       "id": "node/11142516999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11232623761",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72077_CHNU",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3397354,
+          47.6133044
+        ]
+      },
+      "id": "node/11232623761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11232623806",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72013_AURA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2655834,
+          47.6871067
+        ]
+      },
+      "id": "node/11232623806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11263404239",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72016_AUHA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3518793,
+          47.9015409
+        ]
+      },
+      "id": "node/11263404239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11263404262",
+        "location": "indoor",
+        "operator": "Sarthe Numérique",
+        "owner": "Sarthe Numérique",
+        "ref": "SHL_72336_SOLE",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3124232,
+          47.8476561
+        ]
+      },
+      "id": "node/11263404262"
     }
   ]
 }
