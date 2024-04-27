@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-02-18T14:37:00Z",
+  "timestamp": "2024-04-27T11:52:29Z",
   "features": [
     {
       "type": "Feature",
@@ -246,6 +246,7 @@
         "building": "service",
         "name": "NRO d'Arès",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "33011REW",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
@@ -5615,6 +5616,7 @@
         "@id": "way/917788449",
         "building": "service",
         "building:prefabricated": "yes",
+        "check_date": "2024-04-01",
         "name": "NRO d'Egletons",
         "operator": "NATHD",
         "owner": "Dorsal",
@@ -6272,24 +6274,24 @@
         "coordinates": [
           [
             [
-              2.1609812,
-              45.953052
+              2.1610406,
+              45.9530673
             ],
             [
-              2.1609391,
-              45.9529824
+              2.161003,
+              45.9530052
             ],
             [
-              2.1609824,
-              45.9529697
+              2.1610366,
+              45.9529953
             ],
             [
-              2.1610246,
-              45.9530393
+              2.1610742,
+              45.9530575
             ],
             [
-              2.1609812,
-              45.953052
+              2.1610406,
+              45.9530673
             ]
           ]
         ]
@@ -7854,7 +7856,6 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1195658999",
-        "area": "yes",
         "building": "service",
         "building:prefabricated": "yes",
         "colour": "white",
@@ -8596,6 +8597,46 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/1275412859",
+        "building": "service",
+        "operator": "XP Fibre",
+        "owner": "Savoie Conectée",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.8827616,
+              45.5912495
+            ],
+            [
+              6.8827733,
+              45.5912074
+            ],
+            [
+              6.8828993,
+              45.5912246
+            ],
+            [
+              6.8828876,
+              45.5912666
+            ],
+            [
+              6.8827616,
+              45.5912495
+            ]
+          ]
+        ]
+      },
+      "id": "way/1275412859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/1238010191",
         "manufacturer": "GROLLEAU",
         "ref": "DORSAL SHL_23165_ROYE; DORSAL NA_23165_BUDO",
@@ -8648,6 +8689,30 @@
         ]
       },
       "id": "node/276884854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/885372823",
+        "building": "service",
+        "man_made": "telephone_office",
+        "name": "Central téléphonique",
+        "operator": "Orange",
+        "operator:wikidata": "Q1431486",
+        "owner": "Orange",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2702188,
+          48.0147369
+        ]
+      },
+      "id": "node/885372823"
     },
     {
       "type": "Feature",
@@ -8727,6 +8792,34 @@
         ]
       },
       "id": "node/2579133341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3203889583",
+        "advertising": "billboard",
+        "animated": "no",
+        "brand": "Orange",
+        "brand:wikidata": "Q1431486",
+        "direction": "110",
+        "land_property": "private",
+        "legal_type:FR": "enseigne",
+        "lit": "no",
+        "luminous": "yes",
+        "message": "commercial",
+        "operator": "Orange",
+        "sides": "1",
+        "support": "wall",
+        "visibility": "area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0296806,
+          47.3187008
+        ]
+      },
+      "id": "node/3203889583"
     },
     {
       "type": "Feature",
@@ -12476,8 +12569,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.7136437,
-          48.5928154
+          7.7136338,
+          48.5928168
         ]
       },
       "id": "node/7154005391"
@@ -12659,6 +12752,7 @@
         "@id": "node/7154205836",
         "name": "CBR40",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref": "40065CBR",
         "ref:FR:Orange": "40065CBR",
@@ -13126,27 +13220,6 @@
         ]
       },
       "id": "node/7155885087"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/7155918177",
-        "name": "ARL13",
-        "operator": "Orange",
-        "owner": "Orange",
-        "ref:FR:Orange": "13004ARL",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6292793,
-          43.6746748
-        ]
-      },
-      "id": "node/7155918177"
     },
     {
       "type": "Feature",
@@ -14378,7 +14451,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7530037906",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -14395,7 +14470,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7530095829",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref": "FR:Orange=FI-33273-000A",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -20668,8 +20745,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.4366567,
-          46.5718521
+          5.4367236,
+          46.5718753
         ]
       },
       "id": "node/8222971693"
@@ -21456,9 +21533,6 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8223119078",
-        "addr:city": "Crocq",
-        "addr:postcode": "23260",
-        "addr:street": "Route de la Bourboule",
         "name": "NRO de Crocq",
         "operator": "NATHD",
         "owner": "DORSAL",
@@ -21468,8 +21542,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3675212,
-          45.8616358
+          2.3675286,
+          45.8616241
         ]
       },
       "id": "node/8223119078"
@@ -27577,8 +27651,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.6052817,
-          50.4827519
+          1.605289,
+          50.4826683
         ]
       },
       "id": "node/9375613494"
@@ -33386,7 +33460,6 @@
         "note": "DSL Collect Ethernet",
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
-        "ref:FR:Orange": "PIC-SRTHD1",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -33405,11 +33478,9 @@
       "properties": {
         "@id": "node/10263353676",
         "man_made": "street_cabinet",
-        "name": "Pic-SRTHD2",
         "note": "DSL Collect Ethernet",
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
-        "ref:FR:Orange": "PIC-SRTHD2",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -33592,18 +33663,19 @@
       "properties": {
         "@id": "node/10292187353",
         "addr:city": "Saint Aulaye Puymangou",
-        "name": "NRO de St Aulaye",
+        "name": "NRO de Saint-Aulaye",
         "operator": "NATHD",
         "owner": "Périgord Numérique",
         "ref": "NA_24376_TINO",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_Saint-Aulaye.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.1324614,
-          45.2034305
+          0.1324339,
+          45.2034529
         ]
       },
       "id": "node/10292187353"
@@ -33975,13 +34047,14 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24150_CETE",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_Daglan.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.1925065,
-          44.7512849
+          1.1925266,
+          44.7512696
         ]
       },
       "id": "node/10295741239"
@@ -34251,13 +34324,14 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24035_FERI",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_Belvès.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.0026743,
-          44.7816853
+          1.0027185,
+          44.7816582
         ]
       },
       "id": "node/10308079098"
@@ -34308,19 +34382,20 @@
       "type": "Feature",
       "properties": {
         "@id": "node/10308106213",
-        "addr:city": "Monpazier",
-        "name": "NRO de Monpazier",
+        "addr:city": "Marsalès",
+        "name": "NRO de Marsalès",
         "operator": "NATHD",
         "owner": "Périgord Numérique",
         "ref": "NA_24257_CERU",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_Marsalès.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.8872212,
-          44.6880945
+          0.8872278,
+          44.6881057
         ]
       },
       "id": "node/10308106213"
@@ -37170,19 +37245,19 @@
       "properties": {
         "@id": "node/11138955841",
         "man_made": "street_cabinet",
-        "name": "SRO 39-164-172 Larnaud",
-        "operator": "Orange",
-        "operator:wikidata": "Q1431486",
+        "operator": "Altitude",
+        "owner": "Prisme Fibre",
         "ref:FR:ARCEP": "39-164-172",
         "telecom": "exchange",
         "telecom:medium": "fibre",
-        "utility": "telecom"
+        "utility": "telecom",
+        "wikidata": "Q1431486"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.4453405,
-          46.7100592
+          5.4453541,
+          46.7100363
         ]
       },
       "id": "node/11138955841"
@@ -37919,6 +37994,189 @@
         ]
       },
       "id": "node/11586596971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11684502036",
+        "man_made": "street_cabinet",
+        "name": "NRA",
+        "operator": "Gironde Numérique",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:PMZ FI-33296-0000.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0174857,
+          44.8417997
+        ]
+      },
+      "id": "node/11684502036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11691779058",
+        "man_made": "street_cabinet",
+        "street_cabinet": "telecom",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0180908,
+          47.0621301
+        ]
+      },
+      "id": "node/11691779058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11784696238",
+        "operator": "Orange",
+        "ref:FR:Orange:NRO": "10067BUC",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1095734,
+          48.2350706
+        ]
+      },
+      "id": "node/11784696238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11795591452",
+        "operator": "Altitude",
+        "owner": "Prisme Fibre",
+        "ref:FR:ARCEP": "NRO-39-178",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.454772,
+          46.3943225
+        ]
+      },
+      "id": "node/11795591452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7023518980",
+        "addr:housenumber": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1381001,
+          45.7978916
+        ]
+      },
+      "id": "node/7023518980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6800607181",
+        "addr:city": "Ganges",
+        "addr:postcode": "34190"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7151192,
+          43.9390719
+        ]
+      },
+      "id": "node/6800607181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6800607182",
+        "addr:city": "Ganges",
+        "addr:postcode": "34190"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7151676,
+          43.9390589
+        ]
+      },
+      "id": "node/6800607182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6332063846",
+        "manufacturer": "Grolleau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9693773,
+          49.3050453
+        ]
+      },
+      "id": "node/6332063846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6332063847",
+        "manufacturer": "Grolleau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9693961,
+          49.3050195
+        ]
+      },
+      "id": "node/6332063847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6332063848",
+        "manufacturer": "Grolleau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9693146,
+          49.3049942
+        ]
+      },
+      "id": "node/6332063848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6332063849",
+        "manufacturer": "Grolleau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9692958,
+          49.30502
+        ]
+      },
+      "id": "node/6332063849"
     }
   ]
 }
