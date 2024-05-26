@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-04-27T11:52:29Z",
+  "timestamp": "2024-05-26T10:00:15Z",
   "features": [
     {
       "type": "Feature",
@@ -8637,6 +8637,93 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/1277653818",
+        "building": "service",
+        "building:prefabricated": "yes",
+        "fixme": "Info NRO de Melle à corriger et rajouter références",
+        "location": "indoor",
+        "name": "NRO",
+        "operator": "Deux-Sèvres Numerique",
+        "owner": "Deux-Sèvres Numerique",
+        "source": "survey",
+        "source:geometry": "PCRS raster ouvert (2021)",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.1410813,
+              46.2225664
+            ],
+            [
+              -0.1410528,
+              46.2225537
+            ],
+            [
+              -0.1410225,
+              46.2225863
+            ],
+            [
+              -0.1410516,
+              46.2225983
+            ],
+            [
+              -0.1410813,
+              46.2225664
+            ]
+          ]
+        ]
+      },
+      "id": "way/1277653818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1284395513",
+        "building": "service",
+        "location": "indoor",
+        "operator": "THD 66",
+        "owner": "Conseil Départemental des Pyrénées-Orientales",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.0063631,
+              42.5630039
+            ],
+            [
+              3.006359,
+              42.5629797
+            ],
+            [
+              3.0064388,
+              42.5629725
+            ],
+            [
+              3.0064428,
+              42.5629968
+            ],
+            [
+              3.0063631,
+              42.5630039
+            ]
+          ]
+        ]
+      },
+      "id": "way/1284395513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/1238010191",
         "manufacturer": "GROLLEAU",
         "ref": "DORSAL SHL_23165_ROYE; DORSAL NA_23165_BUDO",
@@ -8792,34 +8879,6 @@
         ]
       },
       "id": "node/2579133341"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/3203889583",
-        "advertising": "billboard",
-        "animated": "no",
-        "brand": "Orange",
-        "brand:wikidata": "Q1431486",
-        "direction": "110",
-        "land_property": "private",
-        "legal_type:FR": "enseigne",
-        "lit": "no",
-        "luminous": "yes",
-        "message": "commercial",
-        "operator": "Orange",
-        "sides": "1",
-        "support": "wall",
-        "visibility": "area"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.0296806,
-          47.3187008
-        ]
-      },
-      "id": "node/3203889583"
     },
     {
       "type": "Feature",
@@ -9204,6 +9263,7 @@
       "properties": {
         "@id": "node/6184518246",
         "operator": "Covage",
+        "operator:wikidata": "Q3001818",
         "owner": "Sem@for77",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -9436,7 +9496,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6457452079",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "45234SOU",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -9456,6 +9518,7 @@
         "@id": "node/6458548716",
         "building": "service",
         "operator": "Free",
+        "operator:wikidata": "Q2467627",
         "ref": "PLA45_001",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -9760,7 +9823,9 @@
         "addr:city": "Saran",
         "addr:postcode": "45770",
         "addr:street": "Rue Louis Chevallier",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "45302SAR",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -9778,7 +9843,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7126528384",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "45234MRC",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -9796,7 +9863,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7126532245",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "45285DOU",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -9839,7 +9908,9 @@
         "addr:postcode": "45000",
         "addr:street": "Rue du Grenier à Sel",
         "mapillary": "289132056185641",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "45234GAS",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -11756,6 +11827,7 @@
         "@id": "node/7151903322",
         "name": "BEL42",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "42218BEL",
         "telecom": "exchange",
@@ -21597,9 +21669,6 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8223135589",
-        "addr:city": "Peyrelevade",
-        "addr:postcode": "19290",
-        "addr:street": "Rue du Champ de Foire",
         "name": "NRO de Peyrelevade",
         "operator": "NATHD",
         "owner": "DORSAL",
@@ -24695,7 +24764,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8333030191",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "17380IPA",
         "ref:FR:Orange:NRO": "COL17",
@@ -34176,13 +34247,14 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24227_TONO",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_Lanouaille.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.1406224,
-          45.3928462
+          1.1406616,
+          45.3928726
         ]
       },
       "id": "node/10295741269"
@@ -34197,13 +34269,14 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24526_CEZA",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_Savignac-Lédrier.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.2098887,
-          45.3966044
+          1.2099469,
+          45.3966413
         ]
       },
       "id": "node/10295741274"
@@ -38074,109 +38147,28 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7023518980",
-        "addr:housenumber": "3"
+        "@id": "node/11898093863",
+        "colour": "gray",
+        "location": "pavement",
+        "man_made": "street_cabinet",
+        "material": "metal",
+        "operator": "Liain01",
+        "owner": "SIEA",
+        "owner:wikidata": "Q27956313",
+        "ref": "NRO_01425_00001",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:Armoire fibre NRO 01425 00001 du SIEA à La Tranclière (mai 2024).JPG"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.1381001,
-          45.7978916
+          5.2610281,
+          46.1111953
         ]
       },
-      "id": "node/7023518980"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/6800607181",
-        "addr:city": "Ganges",
-        "addr:postcode": "34190"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.7151192,
-          43.9390719
-        ]
-      },
-      "id": "node/6800607181"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/6800607182",
-        "addr:city": "Ganges",
-        "addr:postcode": "34190"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.7151676,
-          43.9390589
-        ]
-      },
-      "id": "node/6800607182"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/6332063846",
-        "manufacturer": "Grolleau"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9693773,
-          49.3050453
-        ]
-      },
-      "id": "node/6332063846"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/6332063847",
-        "manufacturer": "Grolleau"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9693961,
-          49.3050195
-        ]
-      },
-      "id": "node/6332063847"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/6332063848",
-        "manufacturer": "Grolleau"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9693146,
-          49.3049942
-        ]
-      },
-      "id": "node/6332063848"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/6332063849",
-        "manufacturer": "Grolleau"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9692958,
-          49.30502
-        ]
-      },
-      "id": "node/6332063849"
+      "id": "node/11898093863"
     }
   ]
 }
