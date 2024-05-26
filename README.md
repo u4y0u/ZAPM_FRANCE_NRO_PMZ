@@ -10,7 +10,7 @@ ZAPM\_FRANCE\_NRO\_PMZ.zip contient le fichier au format QGIS (ou QField sur And
 
 ## Version:
 
-### **du 09/12/2023 et update .geojson du 09/12/2023**
+### **du 04/2023 et update .geojson du 04/2024**
 
 [https://www.data.gouv.fr/fr/datasets/r/cdb4c712-8e2c-490d-9fd3-ba5dfdf2f033] 
 
