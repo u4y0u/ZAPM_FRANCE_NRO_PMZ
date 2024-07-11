@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-05-26T10:00:15Z",
+  "timestamp": "2024-07-11T05:37:15Z",
   "features": [
     {
       "type": "Feature",
@@ -6016,24 +6016,24 @@
         "coordinates": [
           [
             [
-              1.7043967,
-              45.120023
-            ],
-            [
               1.7043974,
-              45.1199989
+              45.1200225
             ],
             [
-              1.7044597,
-              45.119997
+              1.7043967,
+              45.1199984
             ],
             [
               1.7044591,
-              45.1200211
+              45.1199975
             ],
             [
-              1.7043967,
-              45.120023
+              1.7044598,
+              45.1200216
+            ],
+            [
+              1.7043974,
+              45.1200225
             ]
           ]
         ]
@@ -8720,6 +8720,44 @@
         ]
       },
       "id": "way/1284395513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1076677408",
+        "name": "NRO",
+        "operator": "Covage",
+        "operator:wikidata": "Q3001818",
+        "owner": "Syane",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.8398655,
+            46.2673958
+          ],
+          [
+            6.8398183,
+            46.2673873
+          ],
+          [
+            6.839853,
+            46.2672941
+          ],
+          [
+            6.8399003,
+            46.2673026
+          ],
+          [
+            6.8398655,
+            46.2673958
+          ]
+        ]
+      },
+      "id": "way/1076677408"
     },
     {
       "type": "Feature",
@@ -11997,6 +12035,7 @@
         "@id": "node/7153154971",
         "name": "BRE70",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "70550BRE",
         "telecom": "exchange",
@@ -12018,6 +12057,7 @@
         "@id": "node/7153157501",
         "name": "STP25",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "25056STP",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -12100,6 +12140,7 @@
         "@id": "node/7153350197",
         "name": "PLA25",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "25056PLA",
         "telecom": "exchange",
@@ -15012,6 +15053,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7678040027",
+        "manufacturer": "Grolleau",
         "name": "NRO Vigeois",
         "operator": "NATHD",
         "owner": "DORSAL",
@@ -15610,7 +15652,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7994822335",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "14117CAB",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -16197,7 +16241,6 @@
         "addr:city": "Saint Laurent Nouan",
         "addr:housenumber": "14",
         "addr:postcode": "41220",
-        "addr:street": "Rue du Petit Four",
         "building": "service",
         "name": "NRO Saint-Laurent Nouan",
         "operator": "TDF",
@@ -17912,6 +17955,7 @@
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Axione",
+        "operator:wikidata": "Q97187730",
         "owner": "HSN",
         "ref": "HSN_NRO_N070VSX",
         "source": "https://twitter.com/Hades73440/status/1114173424216236033",
@@ -17935,6 +17979,7 @@
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Axione",
+        "operator:wikidata": "Q97187730",
         "owner": "HSN",
         "ref": "HSN_NRO_N070HCT",
         "source": "https://twitter.com/Hades73440/status/1150780250659442688",
@@ -17981,6 +18026,7 @@
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Axione",
+        "operator:wikidata": "Q97187730",
         "owner": "Haute Saône Numérique",
         "ref": "HSN_NRO_N070LUR",
         "source": "https://twitter.com/Hades73440/status/1044523540588957696",
@@ -21326,6 +21372,7 @@
       "properties": {
         "@id": "node/8223058601",
         "operator": "Interoute",
+        "operator:wikidata": "Q1668090",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -22430,7 +22477,9 @@
         "@id": "node/8231257512",
         "addr:city": "Vauvert",
         "addr:postcode": "30600",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "30341VOV",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -22754,8 +22803,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.766792,
-          43.4818576
+          -0.7667432,
+          43.4818477
         ]
       },
       "id": "node/8240093165"
@@ -26502,7 +26551,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9062858266",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "HASF",
         "ref": "HSN_NRO_N070GDV",
         "source": "https://twitter.com/Hades73440/status/1438502551519830021",
@@ -27081,7 +27132,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9264289626",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "HSF",
         "ref": "HSN_NRO_N070NRR",
         "source": "https://twitter.com/Hades73440/status/1461022457301774336",
@@ -27461,7 +27514,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9341649132",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "HASF",
         "ref": "NRO_N070GYY",
         "source": "https://twitter.com/Hades73440/status/1471153559727218699",
@@ -29816,6 +29871,7 @@
         "@id": "node/9532322242",
         "name": "NRO",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "HASF",
         "ref": "N070RAD",
         "start_date": "24/02/2022",
@@ -30037,7 +30093,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9624230735",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "HASF",
         "ref": "N070SLN",
         "source": "https://twitter.com/Hades73440/status/1509180272083935233",
@@ -30110,7 +30168,7 @@
         "owner": "HASF",
         "ref": "N070PLB",
         "source": "https://twitter.com/Hades73440/status/1517109480923836417",
-        "start_date": "21/04/2022",
+        "start_date": "2022-04-21",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -30410,6 +30468,7 @@
         "@id": "node/9698279589",
         "name": "NRO",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "HASF",
         "ref": "N070CFN",
         "source": "https://twitter.com/Hades73440/status/1519345054606938112",
@@ -32157,7 +32216,6 @@
         "@id": "node/10170036984",
         "addr:city": "Montdidier",
         "name": "NRO Montdidier",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -32492,6 +32550,7 @@
         "@id": "node/10207932541",
         "addr:city": "Dampierre-sur-Salon",
         "addr:postcode": "70180",
+        "name": "Orange",
         "operator": "Orange",
         "operator:wikidata": "Q1431486",
         "owner": "HASF",
@@ -34007,13 +34066,14 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24194_CERA",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_Gardonne.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.33161,
-          44.8348418
+          0.331624,
+          44.834856
         ]
       },
       "id": "node/10295595555"
@@ -35277,8 +35337,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.5473592,
-          45.1721761
+          5.5473639,
+          45.1722023
         ]
       },
       "id": "node/10687823569"
@@ -35737,26 +35797,6 @@
         ]
       },
       "id": "node/10734703851"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/10734703852",
-        "location": "indoor",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.8398486,
-          46.2673547
-        ]
-      },
-      "id": "node/10734703852"
     },
     {
       "type": "Feature",
