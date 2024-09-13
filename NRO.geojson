@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-07-11T05:37:15Z",
+  "timestamp": "2024-09-13T16:41:21Z",
   "features": [
     {
       "type": "Feature",
@@ -1802,41 +1802,82 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/528882873",
+        "@id": "way/522488583",
         "building": "service",
-        "colour": "white",
-        "height": "3",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:shape": "flat",
-        "start_date": "2016",
+        "location": "indoor",
+        "name": "NRO-977-002",
+        "start_date": "2023",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              6.0990563,
-              45.9151282
+              -62.836328,
+              17.900706
             ],
             [
-              6.0990346,
-              45.9150744
+              -62.8363428,
+              17.9006261
             ],
             [
-              6.0991522,
-              45.9150515
+              -62.8362874,
+              17.9006168
             ],
             [
-              6.0991738,
-              45.9151052
+              -62.8362726,
+              17.9006967
             ],
             [
-              6.0990563,
-              45.9151282
+              -62.836328,
+              17.900706
+            ]
+          ]
+        ]
+      },
+      "id": "way/522488583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/528882873",
+        "building": "service",
+        "colour": "white",
+        "height": "3",
+        "operator": "Altitude Infra Haute-Savoie",
+        "owner": "Syane",
+        "roof:shape": "flat",
+        "start_date": "2016",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.0990643,
+              45.9151277
+            ],
+            [
+              6.0990426,
+              45.9150739
+            ],
+            [
+              6.0991602,
+              45.915051
+            ],
+            [
+              6.0991818,
+              45.9151047
+            ],
+            [
+              6.0990643,
+              45.9151277
             ]
           ]
         ]
@@ -2132,6 +2173,48 @@
         ]
       },
       "id": "way/653220328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/660332092",
+        "building": "service",
+        "building:levels": "1",
+        "operator": "Altitude Infra Haute-Savoie",
+        "owner": "Syane",
+        "roof:orientation": "along",
+        "roof:shape": "gabled",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.4082676,
+              46.2066184
+            ],
+            [
+              6.4083193,
+              46.206574
+            ],
+            [
+              6.4083553,
+              46.2065941
+            ],
+            [
+              6.4083036,
+              46.2066385
+            ],
+            [
+              6.4082676,
+              46.2066184
+            ]
+          ]
+        ]
+      },
+      "id": "way/660332092"
     },
     {
       "type": "Feature",
@@ -7178,6 +7261,47 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/1078133118",
+        "building": "service",
+        "location": "indoor",
+        "name": "NRO-977-003",
+        "start_date": "2020",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62.8245376,
+              17.9055536
+            ],
+            [
+              -62.8245941,
+              17.9054931
+            ],
+            [
+              -62.8245467,
+              17.9054546
+            ],
+            [
+              -62.8244883,
+              17.9055168
+            ],
+            [
+              -62.8245376,
+              17.9055536
+            ]
+          ]
+        ]
+      },
+      "id": "way/1078133118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/1091732538",
         "building": "service",
         "location": "indoor",
@@ -7257,6 +7381,49 @@
         ]
       },
       "id": "way/1095209881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1115581720",
+        "addr:city": "Patay",
+        "building": "yes",
+        "colour": "green",
+        "name": "NRO Patay",
+        "operator": "Loiret Fibre",
+        "start_date": "2021-02-25",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.7036131,
+              48.0504867
+            ],
+            [
+              1.7037072,
+              48.0504072
+            ],
+            [
+              1.7037455,
+              48.0504274
+            ],
+            [
+              1.7036514,
+              48.050507
+            ],
+            [
+              1.7036131,
+              48.0504867
+            ]
+          ]
+        ]
+      },
+      "id": "way/1115581720"
     },
     {
       "type": "Feature",
@@ -8724,6 +8891,47 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/1314138910",
+        "building": "service",
+        "location": "indoor",
+        "name": "NRO-977-001",
+        "start_date": "2023",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62.8514466,
+              17.8950936
+            ],
+            [
+              -62.8513602,
+              17.8949911
+            ],
+            [
+              -62.8512962,
+              17.8950399
+            ],
+            [
+              -62.8513826,
+              17.8951425
+            ],
+            [
+              -62.8514466,
+              17.8950936
+            ]
+          ]
+        ]
+      },
+      "id": "way/1314138910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/1076677408",
         "name": "NRO",
         "operator": "Covage",
@@ -9564,8 +9772,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.902028,
-          47.914858
+          1.902956,
+          47.9147394
         ]
       },
       "id": "node/6458548716"
@@ -10104,6 +10312,7 @@
         "@id": "node/7148788933",
         "name": "SAB85",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "85194SAB",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -10112,8 +10321,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7848303,
-          46.4991332
+          -1.784788,
+          46.499128
         ]
       },
       "id": "node/7148788933"
@@ -10146,6 +10355,7 @@
         "@id": "node/7148803817",
         "name": "CHA85",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "85047CHA",
         "telecom": "exchange",
@@ -10741,7 +10951,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7150919325",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Free": "TOU37",
         "ref:FR:Orange": "37261BR1",
         "telecom": "exchange",
@@ -12629,6 +12841,7 @@
         "@id": "node/7153967704",
         "name": "KOE67",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "67482KOE",
         "telecom": "exchange",
@@ -12781,6 +12994,7 @@
         "@id": "node/7154110143",
         "name": "B0017",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "17300B00",
         "telecom": "exchange",
@@ -14284,7 +14498,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7464881207",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Megalis",
         "ref:FR:Megalis": "LES",
         "telecom": "exchange",
@@ -14812,27 +15028,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7598250038",
-        "man_made": "street_cabinet",
-        "operator": "SFR",
-        "owner": "SFR",
-        "street_cabinet": "telecom",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9182299,
-          47.8740466
-        ]
-      },
-      "id": "node/7598250038"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/7598250039",
         "man_made": "street_cabinet",
         "operator": "SFR",
@@ -15094,7 +15289,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7712024350",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange:NRO": "69382GAI",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -15879,7 +16076,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8077723277",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "09122FOI",
         "telecom": "exchange",
@@ -18906,6 +19105,7 @@
       "properties": {
         "@id": "node/8221827479",
         "operator": "Zayo",
+        "operator:wikidata": "Q8067574",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -19014,6 +19214,7 @@
       "properties": {
         "@id": "node/8221847424",
         "operator": "SFR",
+        "operator:wikidata": "Q218765",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -20394,8 +20595,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.3530736,
-          47.4819074
+          6.3530419,
+          47.4818891
         ]
       },
       "id": "node/8222778430"
@@ -21162,6 +21363,7 @@
       "properties": {
         "@id": "node/8223031388",
         "operator": "Interoute",
+        "operator:wikidata": "Q1668090",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -21355,6 +21557,7 @@
       "properties": {
         "@id": "node/8223054853",
         "operator": "Interoute",
+        "operator:wikidata": "Q1668090",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -21479,9 +21682,6 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8223089205",
-        "addr:city": "Saint-Cernin-de-Larche",
-        "addr:postcode": "19600",
-        "addr:street": "D19",
         "name": "NRO de Saint Cernin de Larche",
         "operator": "NATHD",
         "owner": "DORSAL",
@@ -21493,8 +21693,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.4172176,
-          45.1085142
+          1.4171653,
+          45.1085909
         ]
       },
       "id": "node/8223089205"
@@ -29123,6 +29323,7 @@
       "properties": {
         "@id": "node/9520751067",
         "operator": "SFR",
+        "operator:wikidata": "Q218765",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -29818,6 +30019,7 @@
       "properties": {
         "@id": "node/9530848914",
         "operator": "SFR",
+        "operator:wikidata": "Q218765",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -32300,29 +32502,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/10202599353",
-        "addr:city": "Patay",
-        "colour": "green",
-        "name": "NRO Patay",
-        "operator": "Loiret Fibre",
-        "start_date": "2021-02-25",
-        "street_cabinet": "telecom",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.7036755,
-          48.0504562
-        ]
-      },
-      "id": "node/10202599353"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/10202642606",
         "addr:city": "Beaune-la-Rolande",
         "colour": "yellow",
@@ -32580,7 +32759,6 @@
         "operator": "Val de Loire Fibre",
         "ref": "VDLF-CHREN",
         "start_date": "2018-08-21",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -33186,7 +33364,6 @@
         "name": "NRO Cormenon",
         "operator": "Val de Loire Fibre",
         "start_date": "2019-04-21",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -34265,13 +34442,14 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24269_CEZU",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_Mialet.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.9063645,
-          45.5508289
+          0.9062838,
+          45.5508536
         ]
       },
       "id": "node/10295741259"
@@ -34286,13 +34464,14 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24481_MONU",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_Saint-Paul-la-Roche.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.0040379,
-          45.4753266
+          1.0039365,
+          45.4753131
         ]
       },
       "id": "node/10295741264"
@@ -35764,6 +35943,7 @@
         "location": "indoor",
         "name": "NRO",
         "operator": "Covage",
+        "operator:wikidata": "Q3001818",
         "owner": "Syane",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -35956,6 +36136,7 @@
         "location": "indoor",
         "name": "NRO",
         "operator": "Covage",
+        "operator:wikidata": "Q3001818",
         "owner": "Syane",
         "roof:material": "wood",
         "roof:shape": "gabled",
@@ -35977,6 +36158,7 @@
         "@id": "node/10735262588",
         "name": "NRO",
         "operator": "Covage",
+        "operator:wikidata": "Q3001818",
         "owner": "Syane",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -36015,32 +36197,12 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/10735262590",
-        "name": "NRO",
-        "operator": "Covage",
-        "owner": "Syane",
-        "roof:orientation": "along",
-        "roof:shape": "gabled",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.4083115,
-          46.2066062
-        ]
-      },
-      "id": "node/10735262590"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/10735262591",
         "colour": "white",
         "height": "3",
         "name": "NRO Taninges",
         "operator": "Covage",
+        "operator:wikidata": "Q3001818",
         "owner": "Syane",
         "roof:material": "wood",
         "roof:shape": "gabled",
@@ -36065,6 +36227,7 @@
         "height": "3",
         "name": "NRO",
         "operator": "Covage",
+        "operator:wikidata": "Q3001818",
         "owner": "Syane",
         "roof:material": "wood",
         "roof:shape": "gabled",
@@ -36155,7 +36318,8 @@
       "properties": {
         "@id": "node/10735262596",
         "name": "NRO Mieussy",
-        "operator": "COVAGE",
+        "operator": "Covage",
+        "operator:wikidata": "Q3001818",
         "owner": "Syane",
         "source": "https://twitter.com/CovageSUD_EST/status/1333777962127273984/photo/1",
         "telecom": "exchange",
@@ -36176,6 +36340,7 @@
         "@id": "node/10735262597",
         "name": "NRO",
         "operator": "Covage",
+        "operator:wikidata": "Q3001818",
         "owner": "Syane",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -38075,7 +38240,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/11552571717",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "09225PAM",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -38209,6 +38376,44 @@
         ]
       },
       "id": "node/11898093863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12094103382",
+        "operator": "Orange",
+        "ref:FR:Orange:NRO": "65388SLA",
+        "telecom": "exchange",
+        "telecom:medium": "fibre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3229125,
+          42.8215314
+        ]
+      },
+      "id": "node/12094103382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12136061558",
+        "operator": "Orange",
+        "owner": "Megalis",
+        "ref": "35068CBG",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4037428,
+          48.1090999
+        ]
+      },
+      "id": "node/12136061558"
     }
   ]
 }
