@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2024-09-13T16:41:21Z",
+  "timestamp": "2024-12-29T09:13:13Z",
   "features": [
     {
       "type": "Feature",
@@ -1120,6 +1120,46 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/220430425",
+        "building": "service",
+        "communication": "yes",
+        "operator": "TDF",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -56.181902,
+              46.7853125
+            ],
+            [
+              -56.1818947,
+              46.7852079
+            ],
+            [
+              -56.1816186,
+              46.7852208
+            ],
+            [
+              -56.1816232,
+              46.7853199
+            ],
+            [
+              -56.181902,
+              46.7853125
+            ]
+          ]
+        ]
+      },
+      "id": "way/220430425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/221194004",
         "building": "service",
         "description": "NRO Eureka",
@@ -1804,8 +1844,9 @@
       "properties": {
         "@id": "way/522488583",
         "building": "service",
+        "height": "3.8",
         "location": "indoor",
-        "name": "NRO-977-002",
+        "ref": "NRO-977-002",
         "start_date": "2023",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -1839,6 +1880,62 @@
         ]
       },
       "id": "way/522488583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/527323293",
+        "building": "service",
+        "communication": "yes",
+        "operator": "TDF",
+        "telecom": "exchange",
+        "telecom:medium": "fibre",
+        "utility": "telecom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -56.1572991,
+              46.7978622
+            ],
+            [
+              -56.1573321,
+              46.7978382
+            ],
+            [
+              -56.1572979,
+              46.7978162
+            ],
+            [
+              -56.1573071,
+              46.7978096
+            ],
+            [
+              -56.1572815,
+              46.7977931
+            ],
+            [
+              -56.1572752,
+              46.7977977
+            ],
+            [
+              -56.1572418,
+              46.7977761
+            ],
+            [
+              -56.1572059,
+              46.7978022
+            ],
+            [
+              -56.1572991,
+              46.7978622
+            ]
+          ]
+        ]
+      },
+      "id": "way/527323293"
     },
     {
       "type": "Feature",
@@ -5619,7 +5716,8 @@
         "operator": "Altitude",
         "owner": "Corai FIBRE",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "communication"
       },
       "geometry": {
         "type": "Polygon",
@@ -6380,49 +6478,6 @@
         ]
       },
       "id": "way/942158811"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/942160620",
-        "building": "service",
-        "building:levels": "1",
-        "building:prefabricated": "yes",
-        "name": "NRO de Végennes",
-        "operator": "Axione",
-        "owner": "DORSAL",
-        "telecom": "exchange",
-        "telecom:medium": "fibre",
-        "utility": "telecom"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              1.7458285,
-              44.9817655
-            ],
-            [
-              1.7458405,
-              44.9817416
-            ],
-            [
-              1.7458959,
-              44.9817555
-            ],
-            [
-              1.7458839,
-              44.9817793
-            ],
-            [
-              1.7458285,
-              44.9817655
-            ]
-          ]
-        ]
-      },
-      "id": "way/942160620"
     },
     {
       "type": "Feature",
@@ -10546,6 +10601,7 @@
         "@id": "node/7149250797",
         "name": "LGP44",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "44109LGP",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -10604,6 +10660,7 @@
         "@id": "node/7149269829",
         "name": "CRB44",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "44109CRB",
         "telecom": "exchange",
@@ -11472,6 +11529,7 @@
         "@id": "node/7151392038",
         "name": "VOL21",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "21231VOL",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -11731,6 +11789,7 @@
         "@id": "node/7151564685",
         "name": "VIC03",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "03310VIC",
         "telecom": "exchange",
@@ -11932,6 +11991,7 @@
         "@id": "node/7151828422",
         "name": "TOU86",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "ref:FR:Orange": "86194TOU",
         "telecom": "exchange",
         "telecom:medium": "fibre",
@@ -12226,6 +12286,7 @@
         "@id": "node/7153152045",
         "name": "GAY70",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "70279GAY",
         "telecom": "exchange",
@@ -13207,6 +13268,7 @@
         "@id": "node/7154505144",
         "name": "TRO83",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "83137TRO",
         "telecom": "exchange",
@@ -13228,6 +13290,7 @@
         "@id": "node/7154509619",
         "name": "TSM83",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "Orange",
         "ref:FR:Orange": "83137TSM",
         "telecom": "exchange",
@@ -13453,15 +13516,15 @@
       "properties": {
         "@id": "node/7155823994",
         "operator": "Orange",
-        "ref:FR:Orange": "13203NAP",
+        "ref:FR:Orange:NRO": "13203NAP",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.3819851,
-          43.3059889
+          5.3818523,
+          43.3061968
         ]
       },
       "id": "node/7155823994"
@@ -16129,8 +16192,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.8571233,
-          45.0889261
+          0.857117,
+          45.0889199
         ]
       },
       "id": "node/8155530327"
@@ -17645,6 +17708,7 @@
         "building:prefabricated": "yes",
         "name": "NRO",
         "operator": "Axione",
+        "operator:wikidata": "Q97187730",
         "owner": "HSN",
         "ref": "HSN_NRO_N070GAY",
         "source": "https://twitter.com/Hades73440/status/1088018993590517763",
@@ -18340,14 +18404,15 @@
       "properties": {
         "@id": "node/8221748793",
         "operator": "Zayo",
+        "operator:wikidata": "Q8067574",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5364863,
-          43.2048268
+          2.5364845,
+          43.2048385
         ]
       },
       "id": "node/8221748793"
@@ -20543,7 +20608,6 @@
         "@id": "node/8222773102",
         "description": "Noeud de Raccordement Optique",
         "man_made": "telephone_office",
-        "name": "NRO",
         "network": "SMIX Doubs Très Haut Débit",
         "operator": "Altitude",
         "owner": "Doubs-THD",
@@ -20976,6 +21040,7 @@
       "properties": {
         "@id": "node/8222959806",
         "operator": "Interoute",
+        "operator:wikidata": "Q1668090",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
@@ -21624,8 +21689,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.1602709,
-          45.0076905
+          0.1602668,
+          45.0076828
         ]
       },
       "id": "node/8223069702"
@@ -21969,8 +22034,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.9377539,
-          45.2240362
+          0.9377384,
+          45.2240444
         ]
       },
       "id": "node/8223144382"
@@ -21994,8 +22059,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.294357,
-          45.1339579
+          1.2943539,
+          45.1339624
         ]
       },
       "id": "node/8223145724"
@@ -22197,8 +22262,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.7877395,
-          45.1828309
+          0.7877313,
+          45.1828305
         ]
       },
       "id": "node/8225544704"
@@ -22219,8 +22284,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.7541576,
-          45.2949562
+          0.754093,
+          45.2949596
         ]
       },
       "id": "node/8225551315"
@@ -22241,8 +22306,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.5652215,
-          45.2230595
+          0.5652659,
+          45.2230445
         ]
       },
       "id": "node/8225602462"
@@ -22263,8 +22328,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.2124243,
-          44.8838167
+          1.2124299,
+          44.8838539
         ]
       },
       "id": "node/8225677670"
@@ -22285,8 +22350,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.1669754,
-          45.06211
+          1.1669572,
+          45.0621423
         ]
       },
       "id": "node/8225720122"
@@ -22307,8 +22372,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.0790594,
-          44.9398783
+          1.0790613,
+          44.939871
         ]
       },
       "id": "node/8225726214"
@@ -24618,8 +24683,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0451662,
-          47.3857512
+          0.0451243,
+          47.3857367
         ]
       },
       "id": "node/8298039572"
@@ -26300,13 +26365,14 @@
         "ref": "NA_24144_JIBY",
         "telecom": "exchange",
         "telecom:medium": "fibre",
+        "utility": "telecom",
         "wikimedia_commons": "File:NRO_Lisle.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.5424632,
-          45.2839241
+          0.5424651,
+          45.2839204
         ]
       },
       "id": "node/8617767573"
@@ -26973,24 +27039,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/9199219958",
-        "name": "NRO",
-        "ref": "NRO-40-010",
-        "telecom": "exchange",
-        "telecom:medium": "fibre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0704823,
-          44.0598063
-        ]
-      },
-      "id": "node/9199219958"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/9199220522",
         "name": "NRO",
         "ref": "NRO-40-006",
@@ -27181,8 +27229,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.6139912,
-          44.85084
+          0.6139941,
+          44.8508436
         ]
       },
       "id": "node/9214662762"
@@ -27834,8 +27882,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.1211243,
-          45.2696786
+          1.1211453,
+          45.2697013
         ]
       },
       "id": "node/9355423889"
@@ -27856,8 +27904,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.045645,
-          45.3362721
+          1.0456392,
+          45.3362234
         ]
       },
       "id": "node/9355423898"
@@ -27878,8 +27926,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.9222758,
-          45.4183195
+          0.9222897,
+          45.4183228
         ]
       },
       "id": "node/9355423908"
@@ -28260,7 +28308,6 @@
       "properties": {
         "@id": "node/9404395557",
         "name": "CHY85",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -28283,7 +28330,6 @@
         "operator:wikidata": "Q1431486",
         "operator:wikipedia": "fr:Orange (entreprise)",
         "ref:FR:Orange": "MFT/SPT/000",
-        "street_cabinet": "telecom",
         "telecom": "exchange",
         "telecom:medium": "fibre",
         "utility": "telecom"
@@ -28443,8 +28489,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.4486158,
-          45.3653746
+          0.4486177,
+          45.3653782
         ]
       },
       "id": "node/9461080309"
@@ -28465,8 +28511,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.6513636,
-          45.3607534
+          0.651366,
+          45.3607536
         ]
       },
       "id": "node/9461091220"
@@ -29221,14 +29267,15 @@
       "properties": {
         "@id": "node/9520739515",
         "operator": "Sipartech",
+        "operator:wikidata": "Q113840947",
         "telecom": "exchange",
         "telecom:medium": "fibre"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5362107,
-          43.2049237
+          2.5362316,
+          43.2049299
         ]
       },
       "id": "node/9520739515"
@@ -30144,8 +30191,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.6651434,
-          45.5319482
+          0.6651469,
+          45.5319579
         ]
       },
       "id": "node/9551839435"
@@ -30912,8 +30959,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0070686,
-          45.1504205
+          0.0070774,
+          45.1504274
         ]
       },
       "id": "node/9775356313"
@@ -31291,7 +31338,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9915104836",
+        "name": "Orange",
         "operator": "Orange",
+        "operator:wikidata": "Q1431486",
         "owner": "HASF",
         "ref": "N070VVL",
         "source": "https://twitter.com/Hades73440/status/1552295163346796546",
@@ -31845,8 +31894,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.3168113,
-          45.14658
+          0.316805,
+          45.146578
         ]
       },
       "id": "node/10076706886"
@@ -32363,8 +32412,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.0367023,
-          44.8688477
+          1.0367735,
+          44.8688684
         ]
       },
       "id": "node/10126544662"
@@ -32447,8 +32496,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.0705027,
-          45.1428712
+          1.0704829,
+          45.1428761
         ]
       },
       "id": "node/10176031745"
@@ -33954,13 +34003,14 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24109_TENE",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_La_Chapelle-Grésignac.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.3257603,
-          45.3940617
+          0.3257653,
+          45.3940382
         ]
       },
       "id": "node/10292186180"
@@ -33981,8 +34031,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.1324339,
-          45.2034529
+          0.1324452,
+          45.2034364
         ]
       },
       "id": "node/10292187353"
@@ -34004,8 +34054,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.7779236,
-          45.4662676
+          0.77793,
+          45.4662808
         ]
       },
       "id": "node/10292808997"
@@ -34026,8 +34076,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.6944522,
-          45.391096
+          0.6944718,
+          45.3911046
         ]
       },
       "id": "node/10292808998"
@@ -34094,8 +34144,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.7662832,
-          44.764229
+          0.7662754,
+          44.7642318
         ]
       },
       "id": "node/10293390474"
@@ -34117,8 +34167,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.9009393,
-          44.8488651
+          0.9009271,
+          44.8488573
         ]
       },
       "id": "node/10293390479"
@@ -34139,8 +34189,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.7423254,
-          44.8400138
+          0.7423322,
+          44.840035
         ]
       },
       "id": "node/10293390484"
@@ -34161,8 +34211,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.5946894,
-          44.9874293
+          0.5946728,
+          44.9874243
         ]
       },
       "id": "node/10293413631"
@@ -34184,8 +34234,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.5068366,
-          45.1125371
+          0.5068342,
+          45.1125245
         ]
       },
       "id": "node/10293429820"
@@ -34206,8 +34256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.4490643,
-          45.4494028
+          0.4490835,
+          45.4493963
         ]
       },
       "id": "node/10293446607"
@@ -34249,8 +34299,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.331624,
-          44.834856
+          0.3316273,
+          44.8348454
         ]
       },
       "id": "node/10295595555"
@@ -34271,8 +34321,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.2057099,
-          44.8395738
+          0.2057248,
+          44.8395776
         ]
       },
       "id": "node/10295595560"
@@ -34294,8 +34344,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0644133,
-          44.8567965
+          0.0644079,
+          44.8568228
         ]
       },
       "id": "node/10295595569"
@@ -34317,8 +34367,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0639798,
-          44.9462061
+          0.0640057,
+          44.9462051
         ]
       },
       "id": "node/10295595574"
@@ -34339,8 +34389,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.9250849,
-          44.9228967
+          0.9251003,
+          44.9228886
         ]
       },
       "id": "node/10295741234"
@@ -34361,8 +34411,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.1925266,
-          44.7512696
+          1.1925288,
+          44.7512787
         ]
       },
       "id": "node/10295741239"
@@ -34384,8 +34434,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.3543329,
-          44.8867553
+          1.3543348,
+          44.8867759
         ]
       },
       "id": "node/10295741244"
@@ -34400,13 +34450,14 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24021_DIFO",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_Badefols-d'Ans.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.2031536,
-          45.2242984
+          1.2030588,
+          45.2242921
         ]
       },
       "id": "node/10295741249"
@@ -34421,13 +34472,14 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24328_FEDI",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_Piégut-Pluviers.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.6879445,
-          45.6245561
+          0.6879569,
+          45.6245771
         ]
       },
       "id": "node/10295741254"
@@ -34470,8 +34522,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.0039365,
-          45.4753131
+          1.003921,
+          45.4753179
         ]
       },
       "id": "node/10295741264"
@@ -34492,8 +34544,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.1406616,
-          45.3928726
+          1.1406665,
+          45.3928833
         ]
       },
       "id": "node/10295741269"
@@ -34514,8 +34566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.2099469,
-          45.3966413
+          1.2099404,
+          45.3966503
         ]
       },
       "id": "node/10295741274"
@@ -34578,8 +34630,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.7179146,
-          45.0303486
+          0.717903,
+          45.0303503
         ]
       },
       "id": "node/10308079083"
@@ -34642,8 +34694,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.0027185,
-          44.7816582
+          1.0027275,
+          44.7816767
         ]
       },
       "id": "node/10308079098"
@@ -34658,13 +34710,15 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24585_CESI",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "utility": "telecom",
+        "wikimedia_commons": "File:NRO_Villefranche-du-Périgord.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.0785556,
-          44.6321959
+          1.0783653,
+          44.6321447
         ]
       },
       "id": "node/10308079103"
@@ -34679,13 +34733,14 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24516_CETO",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_Salignac-Eyvigues.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.3204259,
-          44.9727763
+          1.3204291,
+          44.9726044
         ]
       },
       "id": "node/10308079108"
@@ -34706,8 +34761,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.8872278,
-          44.6881057
+          0.8872427,
+          44.6881092
         ]
       },
       "id": "node/10308106213"
@@ -34722,13 +34777,14 @@
         "owner": "Périgord Numérique",
         "ref": "NA_24197_CETI",
         "telecom": "exchange",
-        "telecom:medium": "fibre"
+        "telecom:medium": "fibre",
+        "wikimedia_commons": "File:NRO_Ginestet.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.4303401,
-          44.9115179
+          0.4271763,
+          44.908292
         ]
       },
       "id": "node/10308307543"
@@ -35802,8 +35858,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.5572467,
-          46.393181
+          6.5572436,
+          46.393183
         ]
       },
       "id": "node/10734703843"
@@ -35903,6 +35959,7 @@
         "@id": "node/10734703848",
         "name": "NRO",
         "operator": "Covage",
+        "operator:wikidata": "Q3001818",
         "owner": "Syane",
         "telecom": "exchange",
         "telecom:medium": "fibre"
@@ -35922,6 +35979,7 @@
         "@id": "node/10734703849",
         "name": "NRO",
         "operator": "Covage",
+        "operator:wikidata": "Q3001818",
         "owner": "Syane",
         "source": "BD Ortho IGN",
         "telecom": "exchange",
@@ -36540,6 +36598,7 @@
         "height": "3",
         "name": "NRO",
         "operator": "Covage",
+        "operator:wikidata": "Q3001818",
         "owner": "Syane",
         "roof:material": "wood",
         "roof:shape": "gabled",
@@ -36797,6 +36856,7 @@
         "height": "2.5",
         "name": "NRO",
         "operator": "Covage",
+        "operator:wikidata": "Q3001818",
         "owner": "Syane",
         "roof:shape": "flat",
         "telecom": "exchange",
@@ -38059,7 +38119,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/11528430205",
-        "Fixme": "A identifier/Valider",
+        "fixme": "A identifier/Valider",
         "operator": "XpFibre",
         "owner": "Nievre",
         "telecom": "exchange",
